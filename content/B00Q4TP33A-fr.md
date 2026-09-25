@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Anti-plis - Couleur blanche unie permettant de facilement le coordonner à dautres éléments
-- Drap-housse avec bonnet élastique pour un ajustement optimal sur des matelas dune épaisseur allant jusquà 30 cm
 - Facile d’entretien - Laver en machine à chaud avec des couleurs similaires (jusqu’à 40 °C), uniquement avec un agent de blanchiment sans chlore si nécessaire, séchage à basse température
-- 100 % microfibre polyester 85 g/m² pour une douceur et une résistance optimales
 - Inclut 1 drap-housse de 180 x 200 x 30 cm
+- 100 % microfibre polyester 85 g/m² pour une douceur et une résistance optimales
+- Drap-housse avec bonnet élastique pour un ajustement optimal sur des matelas dune épaisseur allant jusquà 30 cm
+- Anti-plis - Couleur blanche unie permettant de facilement le coordonner à dautres éléments
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00Q4TP33A{{</world>}}

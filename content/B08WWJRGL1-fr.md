@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GROHE Zero conduit deau isolé - sans plomb ni nickel - GROHE EcoJoy mousseur 5 l/min
-- Monotrou sur plage - Levier de commande métallique - Hauteur sous bec : 246 mm
 - avec limiteur de température - GROHE StarLight Chrome éclatant et durable
-- Flexibles de raccordement souples, sertis d’usine
 - Système de montage rapide - Corps lisse avec bonde clic clac plastique
+- GROHE Zero conduit deau isolé - sans plomb ni nickel - GROHE EcoJoy mousseur 5 l/min
+- Flexibles de raccordement souples, sertis d’usine
 - Version rehaussée - GROHE Longlife cartouche en céramique 28 mm
+- Monotrou sur plage - Levier de commande métallique - Hauteur sous bec : 246 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08WWJRGL1{{</world>}}

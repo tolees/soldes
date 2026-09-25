@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les GTL de toutes marques
-- Idéal pour appartement de type T1 ou T2
-- NF
-- Résistance thermique jusquà 650°C
 - Installation des composants par serrage classique à vis.
+- Résistance thermique jusquà 650°C
+- Compatible avec les GTL de toutes marques
+- NF
+- Idéal pour appartement de type T1 ou T2
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07YXPZ59T{{</world>}}

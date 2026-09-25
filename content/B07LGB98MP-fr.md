@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire légère et flexible absorbant les chocs
 - Dessus en maille plate douce avec lacets élastiques sur le devant
+- Semelle intermédiaire légère et flexible absorbant les chocs
 - Semelle extérieure en caoutchouc souple
 - Baskets sportives à enfiler
 

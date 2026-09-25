@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - INTERAGIS AVEC LUI : ton Baby Panda réagit au toucher. Il rit et bouge ses pattes quand tu chatouilles son ventre !
-- IL A FAIT CACA : retire ChuChu du pot et regarde au fond. Il a fait caca !
-- " IL BOUGE SES PATTES SUR LE POT : ChuChu agite les pattes lorsquil doit aller aux toilettes. Place-le alors sur le pot et regarde-le faire une petite danse trop mignonne. "
 - NOURRIS-LE À LAIDE DU BAMBOU : ChuChu adore mâchouiller son bambou en faisant de petits sons trop mignons.
+- " IL BOUGE SES PATTES SUR LE POT : ChuChu agite les pattes lorsquil doit aller aux toilettes. Place-le alors sur le pot et regarde-le faire une petite danse trop mignonne. "
+- IL A FAIT CACA : retire ChuChu du pot et regarde au fond. Il a fait caca !
 - IL RÉAGIT COMME UN VRAI PETIT PANDA : ChuChu est un bébé panda trop mignon qui adore manger et faire caca !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un ballon de foot joliment illustré pour faire ses premières découvertes
 - Bébé découvre les premiers chiffres et les couleurs
-- Version française
-- Le capteur de mouvement déclenche des sons rigolos (3 mélodies et 15 chansons)
 - Pratiquemodule électronique détachable pour laver le ballon
+- Le capteur de mouvement déclenche des sons rigolos (3 mélodies et 15 chansons)
+- Un ballon de foot joliment illustré pour faire ses premières découvertes
 - Les différentes matières du ballon éveillent la curiosité de bébé
+- Version française
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07MF9MY75{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connexion facile au support : doté dune douille inférieure de 16 mm de diamètre et dun bouton de fixation latéral, le bras de support de réflecteur peut être monté sur la plupart des pieds déclairage et trépieds avec un goujon supérieur de 14,7 cm.
-- Construction en alliage daluminium : ce bras réflecteur robuste est fabriqué en alliage daluminium de qualité supérieure, avec une capacité de charge fiable de 2 kg
 - Rotation à 360 degrés : avec un joint au milieu pour maintenir le bras, le support de réflecteur peut pivoter à 360 degrés et facilite le réglage de langle
-- Bras télescopique avec longueur réglable : le bras de perche dispose dun design télescopique et sa longueur varie de 0,71 m à 1,2 m. Facile à assembler et à plier
+- Construction en alliage daluminium : ce bras réflecteur robuste est fabriqué en alliage daluminium de qualité supérieure, avec une capacité de charge fiable de 2 kg
 - Support de réflecteur pratique : conçu pour contenir des réflecteurs de différentes tailles, le bras de support extensible dispose de deux clips de support aux deux extrémités pour fixer fermement votre réflecteur, un must have pour les studios photo et les prises de vue en plein air
+- Bras télescopique avec longueur réglable : le bras de perche dispose dun design télescopique et sa longueur varie de 0,71 m à 1,2 m. Facile à assembler et à plier
+- Connexion facile au support : doté dune douille inférieure de 16 mm de diamètre et dun bouton de fixation latéral, le bras de support de réflecteur peut être monté sur la plupart des pieds déclairage et trépieds avec un goujon supérieur de 14,7 cm.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BB7LQLZM{{</world>}}

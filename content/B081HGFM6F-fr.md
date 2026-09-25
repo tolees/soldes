@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Molette de réglage dès 0.5 mm : pour une coupe facile des cheveux à la longueur souhaitée, ajustez la hauteur de coupe à intervalle de 0.5 mm grâce à la molette centrale
 - Cette tondeuse cheveux a une tête entièrement lavable pour un entretien en toute simplicité.
 - Deux accessoires de peigne (1-10mm) et (11-20mm)
-- Molette de réglage dès 0.5 mm : pour une coupe facile des cheveux à la longueur souhaitée, ajustez la hauteur de coupe à intervalle de 0.5 mm grâce à la molette centrale
 - Ajustement précis de la longueur : avec ses 40 hauteurs de coupe de 0.5 à 20 mm, la tondeuse ER-GC63 vous garantit une coupe précise et raffinée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Doublure : Synthétique
 - Dessus : Synthétique
-- Matériau de semelle : Caoutchouc
 - Fermeture : Scratch
+- Matériau de semelle : Caoutchouc
 - Largeur de la chaussure : Schmal
 - Semelle intérieure : Synthétique
 

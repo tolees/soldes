@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étanche jusquà 10 m
 - BOÎTIER EN ACIER INOXYDABLE : le boîtier en acier inoxydable est robuste et donne à la montre un éclat argenté élégant.
 - 43 mm x 12,2 mm
+- Étanche jusquà 10 m
 - Bracelet en métal : le bracelet en métal de qualité supérieure assure un confort maximal au poignet grâce à sa boucle déployante plate avec barre de sécurité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

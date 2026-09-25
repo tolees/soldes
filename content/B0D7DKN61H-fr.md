@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes les sources de chaleur, y compris linduction, Finitions intérieures en émail résistant à lusure
-- Fabriqué en France, Entretien facile grâce à son intérieur en émail de haute qualité, Passe au lave-vaisselle, Garantie à vie
-- Contenu : 1x Cocotte Signature en Fonte Émaillée avec Couvercle, Ø 20 cm, Ronde, 2.4 L, Dimensions avec poignées et couvercle : 27.3 x 21.5 x 14.1x cm, Poids : 3.092 kg, Couleur : Chambray, 21177204344441
 - Cocotte ronde en fonte idéale pour la préparation de délicieux plats mijotés, Couvercle en fonte émaillée avec bouton en inox résistant à la chaleur
+- Contenu : 1x Cocotte Signature en Fonte Émaillée avec Couvercle, Ø 20 cm, Ronde, 2.4 L, Dimensions avec poignées et couvercle : 27.3 x 21.5 x 14.1x cm, Poids : 3.092 kg, Couleur : Chambray, 21177204344441
+- Fabriqué en France, Entretien facile grâce à son intérieur en émail de haute qualité, Passe au lave-vaisselle, Garantie à vie
+- Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes les sources de chaleur, y compris linduction, Finitions intérieures en émail résistant à lusure
 - Poignées dassistance pour une manipulation et un transport faciles, même avec des gants de cuisine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

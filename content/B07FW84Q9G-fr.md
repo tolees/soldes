@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Finition hydrofuge durable et non toxique sans PFC
 - Tissu imperméable, respirant, ripstop, 2 couches, coutures thermosoudées et doublure en mesh évacuant rapidement lhumidité pour le confort
-- Ventilation zippée sous les bras
 - Poches poitrine et arrière zippées
 - Rabat tempête interne sous zip intégral avant
-- Finition hydrofuge durable et non toxique sans PFC
+- Ventilation zippée sous les bras
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FW84Q9G{{</world>}}

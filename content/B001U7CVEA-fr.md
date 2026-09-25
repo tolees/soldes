@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur :blanc
 - Dimension L x l x H : 18.0086 x21.0058 x5.3086 centimeters
 - Matériel : Plastique
-- Couleur :blanc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001U7CVEA{{</world>}}

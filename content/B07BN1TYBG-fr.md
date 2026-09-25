@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure gaufrée originale
-- Construction vulcanisée
-- Vans Marque Sidestripe
 - Style de plateforme
+- Vans Marque Sidestripe
+- Construction vulcanisée
 - Dessus à double couture pour plus de durabilité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

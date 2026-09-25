@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Scie en forme darc pour un sciage spécial grande capacité (troncs darbres etc.)
-- Système simple de remplacement de lame
 - Avec 1 lame pour le bois vert et 1 lame de scie à métaux
+- Système simple de remplacement de lame
+- Scie en forme darc pour un sciage spécial grande capacité (troncs darbres etc.)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001TN4DS2{{</world>}}

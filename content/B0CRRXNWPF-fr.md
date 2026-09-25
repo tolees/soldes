@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Après-shampoing enrichi de biotine et eau de rose
 - Testé par le Swisse Vitamin Institute
-- Utilisez-le avec le shampoing Lift & Volume pour une routine de soins des cheveux complète
+- Après-shampoing enrichi de biotine et eau de rose
 - Bouteille XL de 1 litre. Tirez sur la pompe pour activer le distributeur
+- Utilisez-le avec le shampoing Lift & Volume pour une routine de soins des cheveux complète
 - Après-shampoing épaississant sans silicones qui procure un volume instantané et une épaisseur visible. Renforce les cheveux fins contre les agressions liées au coiffage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

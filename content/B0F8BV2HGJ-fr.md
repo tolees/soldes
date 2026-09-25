@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussure de route adaptée pour des transitions en douceur
 - Protection imperméable et respirante
+- Chaussure de route adaptée pour des transitions en douceur
 - Amorti doux et traction parfaite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

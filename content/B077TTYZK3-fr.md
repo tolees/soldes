@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lâche
-- 87% Acrylique, 13% Laine
-- No Closure
 - Lavage en machine
+- 87% Acrylique, 13% Laine
+- Lâche
+- No Closure
 - Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

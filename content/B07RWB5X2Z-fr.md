@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pigment intense et irisé nuancé
-- Sutilise comme fard à paupières et topper
-- Appliquez sur les zones du visage que vous voulez mettre en valeur ou amplifier
 - Appliquez lapplicateur-doe-foot directement sur lœil, en estompant au besoin
 - Résiste à tout et tenue longue
+- Sutilise comme fard à paupières et topper
+- Pigment intense et irisé nuancé
+- Appliquez sur les zones du visage que vous voulez mettre en valeur ou amplifier
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07RWB5X2Z{{</world>}}

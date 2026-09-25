@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Care Label:
 - Regular Fit
 - Sweat-shirt
-- Manches longues
 - materialFabricComposition: 100% Polyester
+- Manches longues
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N6TVO2S{{</world>}}

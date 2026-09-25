@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : synthétique
-- Forme du talon : talon bloc
 - Matériau intérieur : sans doublure
 - Matériau extérieur : cuir
+- Fermeture : synthétique
+- Forme du talon : talon bloc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VWXLWYS{{</world>}}

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Lavable en machine
 - BIO-DRI
-- MF refroidi par air
 - Mousse à mémoire de forme
+- MF refroidi par air
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08L3QSNPQ{{</world>}}

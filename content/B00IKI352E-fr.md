@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Autonomie 25 % plus élevée que pour la batterie de 4,0 Ah
-- Livré avec : batterie GBA 18V 5.0Ah
 - Compatibilité totale depuis 2008 : Au sein d’une catégorie de voltage, toutes nos batteries sont compatibles avec tous les anciens et nouveaux outils Bosch Professional
+- Livré avec : batterie GBA 18V 5.0Ah
+- Autonomie 25 % plus élevée que pour la batterie de 4,0 Ah
 - La technologie COOLPACK accroît jusqu’à 100 % la longévité (par rapport à une batterie sans technologie COOLPACK)
 - AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 

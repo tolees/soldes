@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage de larticle: 19.8 L x 27.8 H x 20.0 W (centimeters)
 - Couleur: Bianco
+- Poids du colis: 1.54 kilograms
+- Matériel: Autres
 - Corps en acier laqué blanc et détails en acier brillant
 - La bouilloire par design série Kenwood kMix, très innovant
 - Poignée thermo-isolante et la forme ergonomique pour faciliter la prise
-- Poids du colis: 1.54 kilograms
-- Matériel: Autres
+- Dimensions de lemballage de larticle: 19.8 L x 27.8 H x 20.0 W (centimeters)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B073MCR91K{{</world>}}

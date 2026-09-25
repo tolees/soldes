@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vibrations apaisantes, 7 mélodies, commande du volume et arrêt automatique
+- Jeu de lumière scintillante sur la barre d’activités à baldaquin
 - Le coussin réducteur pour nouveau-né réversible s’utilise des deux côtés et peut de retirer du siège pour tenir compagnie à bébé
 - 2 positions d’inclinaison
-- Jeu de lumière scintillante sur la barre d’activités à baldaquin
 - Appuie-tête et coussin réducteur pour nouveau-né en forme d’adorable lapin
 
 [🛒 Achète-le!!]({{< param buyurl >}})

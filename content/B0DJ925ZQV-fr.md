@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc à zones
 - Fermeture à lacets
+- Semelle extérieure en caoutchouc à zones
 - Tige en textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Figurine parfaite pour une collection ou à offrir en cadeau.
-- Figurine réalisée à la main.
 - Conçue par un artiste. Article mondialement reconnu pour sa qualité.
+- Figurine réalisée à la main.
 - Enesco gift-manufacturing est un chef de file dans le domaine de la décoration intérieure depuis plus de 50 ans.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

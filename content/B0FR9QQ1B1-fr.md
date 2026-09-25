@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TOUT UN UNIVERS DE SETS LEGO ǀ MARVEL – Invitez les enfants à vivre des aventures pleines d’imagination mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel
-- RECRÉEZ L’ACTION DU FILM – Profitez dun jeu interactif grâce à cette figurine entièrement articulée, des pieds jusqu’au bout des doigts, et revivez vos scènes de films préférées
-- DÉCORATION POUR CHAMBRE DENFANT – Les jeunes constructeurs.trices peuvent varier les poses dynamiques de lhomme araignée et de sa minifigurine, puis lexposer sur une étagère ou un bureau
 - CADEAU MARVEL POUR ENFANT – Faites plaisir à un.e proche de 12 ans ou plus, fan de Spider-Man : Brand New Day, en lui offrant ce cadeau amusant pour un anniversaire, les fêtes de fin dannée ou une autre occasion spéciale
-- FIGURINE LEGO COLLECTOR EN BRIQUES – Recréez l’apparence du lanceur de toile, tel qu’il apparait dans le film Spider-Man : Brand New Day
+- RECRÉEZ L’ACTION DU FILM – Profitez dun jeu interactif grâce à cette figurine entièrement articulée, des pieds jusqu’au bout des doigts, et revivez vos scènes de films préférées
+- TOUT UN UNIVERS DE SETS LEGO ǀ MARVEL – Invitez les enfants à vivre des aventures pleines d’imagination mettant en scène les personnages culte et les scènes débordantes d’action des films Marvel
 - JEU DE CONSTRUCTION POUR ADO GARÇON OU FILLE DÈS 12 ANS AVEC SUPER-HÉROS – Donnez une nouvelle dimension à l’action avec le set Spider-Man, la figurine de héros LEGO ǀ Marvel entièrement articulé, mesurant plus de 36 cm de haut
+- DÉCORATION POUR CHAMBRE DENFANT – Les jeunes constructeurs.trices peuvent varier les poses dynamiques de lhomme araignée et de sa minifigurine, puis lexposer sur une étagère ou un bureau
+- FIGURINE LEGO COLLECTOR EN BRIQUES – Recréez l’apparence du lanceur de toile, tel qu’il apparait dans le film Spider-Man : Brand New Day
 - UNE FAÇON AMUSANTE DE CRÉER – L’application LEGO Builder guide les jeunes constructeurs.trices dans le processus de création intuitive ; ils/elles peuvent y sauvegarder leurs sets, suivre leur progression, zoomer et faire pivoter leurs modèles en 3D
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande polyvalence : 3 réglages vitesse/couple pour changer des roues, desserrer des boulons et serrer de grandes vis
-- Conception robuste : Carré mâle 1/2" permettant de fixer les accessoires de façon sûre et rapide
 - Livré avec : UniversalImpactDrive 18V-350, 1 adaptateur six pans
 - Performances élevées : Couple de 350 Nm et 3 400 impacts/min pour des applications exigeantes
+- Conception robuste : Carré mâle 1/2" permettant de fixer les accessoires de façon sûre et rapide
 - POWER FOR ALL ALLIANCE: 1 BATTERIE, ​10+ MARQUES, ​150+ OUTILS
+- Grande polyvalence : 3 réglages vitesse/couple pour changer des roues, desserrer des boulons et serrer de grandes vis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DR328MD3{{</world>}}

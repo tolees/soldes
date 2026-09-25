@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- produit 1: Oscillation (osc/min) : 10,000 - 20,000
-- produit 2: 1 lame plongeante 28 mm bois
-- produit 1: Type de batterie : Li-ion
 - produit 2: 1 triangle carbure matériaux pour ciment, mortier, epoxy
+- produit 1: Type de batterie : Li-ion
+- produit 1: Oscillation (osc/min) : 10,000 - 20,000
 - produit 1: Tension (V) : 18
-- produit 2: Le lot se compose de 5 lames
 - produit 1: Angle doscillation : 3,2°
+- produit 2: 1 lame plongeante 28 mm bois
+- produit 2: Le lot se compose de 5 lames
 - produit 2: 1 spatule-grattoir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

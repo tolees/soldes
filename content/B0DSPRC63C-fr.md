@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dos de matière teinté en fil (Solution Dyed) pour une production plus durable avec consommation d’eau fortement réduite
 - Manches préformées avec fermeture velcro
 - Face avant et arrière en polyester 100 % recyclé
-- Matière GORE-TEX 3 couches avec membrane ePE sans PFC
 - Ourlet réglable par cordon de serrage
-- Dos de matière teinté en fil (Solution Dyed) pour une production plus durable avec consommation d’eau fortement réduite
+- Matière GORE-TEX 3 couches avec membrane ePE sans PFC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSPRC63C{{</world>}}

@@ -32,8 +32,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Catégorie : baskets de trekking Rieker
 - Taille : taille normalement, commander en taille normale
 - Hauteur du talon : 1 cm
-- Fabrication : Rieker
 - Forme du talon : plat
+- Fabrication : Rieker
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B078NDKNGX{{</world>}}

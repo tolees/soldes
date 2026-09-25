@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mesures: Taille standard
 - Un véritable attrape-loeil pour chez vous!
+- Funko Pop! présentant les caractéristiques suivantes:
 - Figurine de collection || Marchandises fun et de fans || Motif: Uni
 - Merchandising Pop Culture, Sport
-- Funko Pop! présentant les caractéristiques suivantes:
-- Mesures: Taille standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLFDK3WP{{</world>}}

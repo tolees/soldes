@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine
-- Type de col: Français
 - Manche mi-longue
-- Fermeture: Enfiler
+- Type de col: Français
 - 80 Pour cent coton, 20 Pour cent polyester
+- Fermeture: Enfiler
+- Lavage en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD8FF8H{{</world>}}

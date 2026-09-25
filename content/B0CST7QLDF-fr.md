@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ce style a été produit de manière durable
 - Confortable à porter
-- il sagit dun produit authentique et original HUGO
 - il assure un ajustement optimal
+- il sagit dun produit authentique et original HUGO
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CST7QLDF{{</world>}}

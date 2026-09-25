@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Total Cover : Protection optimale contre les rayonnements du soleil en conditions extrêmes.
-- Branches galbées : Profil ergonomique pour une bonne tenue des lunettes sur le visage et la tête.
 - Coques amovibles : Protections latérales contre les rayonnements lumineux.
+- Branches galbées : Profil ergonomique pour une bonne tenue des lunettes sur le visage et la tête.
+- Total Cover : Protection optimale contre les rayonnements du soleil en conditions extrêmes.
 - Grip Nose : Insert souple antichoc et adhérent au niveau du nez.
 - Branches Grip Tech : Matériau soft exclusif sur les branches, anti-adhérent aux cheveux assurant maintien et confort absolu.
 

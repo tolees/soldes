@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lextérieur résistant à leau protège contre les éléments
+- Assurez la protection de votre objectif RF 200-800mm f6.3-9 is usm avec cet étui pour objectif Canon
 - Absoroption améliorée des chocs avec des berceaux intérieurs rembourrés
 - Accès rapide grâce à une conception à double fermeture éclair
 - Une bandoulière amovible et une dragonne robuste facilitent le transport
-- Lextérieur résistant à leau protège contre les éléments
-- Assurez la protection de votre objectif RF 200-800mm f6.3-9 is usm avec cet étui pour objectif Canon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CN7C7CD8{{</world>}}

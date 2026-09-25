@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 Milliliters
 - UREADIN 20% CREAM 100 ML
+- 100 Milliliters
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GY1YUI2{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- TAUX DE RAFRAÎCHISSEMENT DE 100 HZ : réagit plus rapidement aux changements et offre ainsi une expérience utilisateur plus fluide
+- ERGONOMIE ET RÉGLAGE EN HAUTEUR : les options dinclinaison, de pivotement, de rotation et de réglage en hauteur offrent à lutilisateur toute la flexibilité nécessaire à son confort
 - MODES DE COULEUR : le mode de codage et le mode ePaper garantissent une lisibilité et un confort oculaire optimaux en cas de lecture prolongée
 - LOW BLUE LIGHT PLUS : filtre le rayonnement bleu-violet dont la longueur donde est plus courte, à plus haute énergie et nocive pour les yeux, tout en préservant la qualité des couleurs
-- ERGONOMIE ET RÉGLAGE EN HAUTEUR : les options dinclinaison, de pivotement, de rotation et de réglage en hauteur offrent à lutilisateur toute la flexibilité nécessaire à son confort
-- TAUX DE RAFRAÎCHISSEMENT DE 100 HZ : réagit plus rapidement aux changements et offre ainsi une expérience utilisateur plus fluide
 - TECHNOLOGIE BRIGHTNESS INTELLIGENCE : ajuste automatiquement la luminosité en fonction du contenu affiché à lécran et de l’éclairage ambiant, tandis que B.I.Gen2 permet de bénéficier dune grande souplesse de personnalisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

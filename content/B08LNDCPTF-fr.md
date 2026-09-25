@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il possède un réservoir d’eau avec 1,4 L de capacité. Lorsque le réservoir soit vide ou par dessous de la marque établie, le four vous préviendra et arrêtera son fonctionnement jusqu’à ce que vous le remplissez.
-- Inclus : une rôtissoire giratoire et une poignée pour rôtir du poulet avec de la chaleur à 360 ºC.
 - Porte de double verre très résistant (Low-E) qui aide à maintenir la température à l’intérieur du four. Température réglable entre 30 et 230 ºC. Il peut même déshydrater les aliments en atteignant la température optimale pour cette fonction.
+- Inclus : une rôtissoire giratoire et une poignée pour rôtir du poulet avec de la chaleur à 360 ºC.
+- Il possède un réservoir d’eau avec 1,4 L de capacité. Lorsque le réservoir soit vide ou par dessous de la marque établie, le four vous préviendra et arrêtera son fonctionnement jusqu’à ce que vous le remplissez.
 - 7 fonctions pour cuisiner les aliments de différentes façons : four, vapeur, four vapeur, friteuse à air, décongeler, fermenter et 31 menus préconfigurés. Fonction d’auto-nettoyage avec 2 modes : un de 25 minutes à 100 ºC pour nettoyer l’intérieur ou désinfecter les accessoires, et autre de 50 minutes qui doit être utilisé seulement au cas où il soit nécessaire nettoyer le générateur de vapeur interne.
 - Four vapeur 3 en 1 : vapeur, convection et friteuse à air. Avec 40 L de capacité, 7 fonctions de cuisson, une fonction auto-nettoyage et 2400 W de puissance.
 

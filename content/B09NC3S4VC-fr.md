@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure interchangeable
 - Rembourrage souple en mousse souple
+- Semelle intérieure interchangeable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NC3S4VC{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coutures à 360° pour une meilleure durabilité
-- Semelle intérieure : OrthoLite pour un meilleur amorti
-- Couleur : noir
 - Tige : Cuir de vachette
+- Couleur : noir
+- Semelle intérieure : OrthoLite pour un meilleur amorti
 - Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

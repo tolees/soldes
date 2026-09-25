@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : Synthétique
-- Type de talon : Plat
-- Matériau extérieur : Cuir
-- Matériau unique : Caoutchouc
 - Type de fermeture : Lacet
+- Matériau unique : Caoutchouc
+- Matériau intérieur : Synthétique
+- Matériau extérieur : Cuir
+- Type de talon : Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C77XWDGY{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Item Package Dimensions: (38.3 x 2.4 x 32.2) centimeters
 - Brand : NUCLEAR BLAST / ADA
 - Product Type : ABIS_MUSIC
-- Item Package Dimensions: (38.3 x 2.4 x 32.2) centimeters
 - Item Package Weight: 0.399 kilograms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

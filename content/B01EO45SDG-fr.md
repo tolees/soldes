@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le verrouillage du coulissement de la tête de scie permet de réaliser des coupes classiques et de transporter la machine en toute sécurité
 - Avec son moteur de 1400W, la scie DEWALT vous assure une grande capacité de coupe quel que soit le matériau
-- Le système XPS projette l’ombre de la lame sur la pièce à découper pour une vision optimale du trait de coupe sans risque de déréglage
 - La table et le guide arrière ont été usinés afin d’offrir la précision requise par la plupart des applications
+- Le système XPS projette l’ombre de la lame sur la pièce à découper pour une vision optimale du trait de coupe sans risque de déréglage
 - Une buse d’extraction des poussières permet un travail propre et un confort dutilisation optimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

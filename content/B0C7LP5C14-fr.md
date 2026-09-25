@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux couches : housse de rechange 140 x 55 cm à deux couches
 - Fabriqué en Italie
 - Clip de fermeture : la housse est équipée dun clip de fermeture qui permet dêtre ajustée et fixée de manière précise autour du plan de la planche à repasser.
+- Deux couches : housse de rechange 140 x 55 cm à deux couches
 - Taille XL : la taille 140 x 55 cm sadapte parfaitement aux planches à repasser avec une taille maximale de 130 x 45 cm
 - Coton biologique : tissu fabriqué en 100 % coton biologique couplé à 250 g/m² de molleton doux.
 

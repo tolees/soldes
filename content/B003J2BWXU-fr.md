@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec gaufrage dor
-- Album de mémo pour mettre avec une couverture de cuir artificial de haute qualité
 - équipé avec espace pour écrire
+- Album de mémo pour mettre avec une couverture de cuir artificial de haute qualité
 - pour 300 photos en format 10 x 15 cm
+- avec gaufrage dor
 - un compartiment additionnel pour CDs et négatifs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

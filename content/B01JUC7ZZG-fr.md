@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de la verseuse : 8 à 12 tasses soit 0,9 L de café chaud
-- Cafetière à filtre Subito pour déguster un bon café, encore chaud jusqu’à 4h après sa préparation grâce à sa verseuse en inox isotherme
-- Fonction programmable 24 h pour pouvoir déguster votre café dès le réveil
-- Arrêt automatique : votre cafetière séteint automatiquement à la fin du cycle
 - Pratique et facile d’utilisation avec son porte-filtre pivotant et amovible et son niveau d’eau visible
+- Fonction programmable 24 h pour pouvoir déguster votre café dès le réveil
+- Capacité de la verseuse : 8 à 12 tasses soit 0,9 L de café chaud
 - Système stop-goutte pour servir le café, même lorsque la cafetière est en cours de fonctionnement, en toute propreté
+- Cafetière à filtre Subito pour déguster un bon café, encore chaud jusqu’à 4h après sa préparation grâce à sa verseuse en inox isotherme
+- Arrêt automatique : votre cafetière séteint automatiquement à la fin du cycle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01JUC7ZZG{{</world>}}

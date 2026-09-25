@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quantité de colis darticles : 1
 - Pochettes souples classiques de format japonais Ultimate Guard (Transparent)
 - Dimensions de lemballage de larticle ( L x L x H) en cm : 2 x 7.6 x 12
+- Quantité de colis darticles : 1
 - Matériau : Plastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

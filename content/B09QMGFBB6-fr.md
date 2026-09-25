@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 modes : Perceuse visseuse à percussion compacte, idéale pour percer dans le bois ou le métal, le vissage, ou pour percer dans les matériaux creux grâce à la fonction percussion
 - 2 vitesses mécaniques pour s’adapter à tous types de travaux
 - Percez jusquà 440 trous de 10 x 50 mm dans le bois à laide dune batterie 2,0 Ah.
 - Mandrin 10 mm autoserrant pour un changement facile daccessoires
+- 3 modes : Perceuse visseuse à percussion compacte, idéale pour percer dans le bois ou le métal, le vissage, ou pour percer dans les matériaux creux grâce à la fonction percussion
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09QMGFBB6{{</world>}}

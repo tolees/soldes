@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
 - Tige : Cuir de vachette / Tissu technique
-- Lacets 74% PET recyclé - 26% Latex
+- Semelle extérieure / Caracteristiques : Semelle extérieure en caoutchouc cousue pour plus de durabilité et dadhérence
 - Couleur : bleu foncé
+- Lacets 74% PET recyclé - 26% Latex
 - Fermeture Velcro pour un bon ajustement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AIDE À DÉSOBSTRUER LES PORES : Contenant de lacide salicylique, cette formule aide à éliminer sébum, impuretés et résidus pour affiner le grain de peau.
-- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
-- GOMMAGE VISAGE POUR PEAUX GRASSES : Un exfoliant visage qui lisse et exfolie les peaux les plus grasses. Il laisse la peau fraîche et douce. Non-gras.
 - SE RINCE FACILEMENT : Sa formule soin nettoyant est facile à rincer.
+- FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum.
+- GOMMAGE VISAGE POUR PEAUX GRASSES : Un exfoliant visage qui lisse et exfolie les peaux les plus grasses. Il laisse la peau fraîche et douce. Non-gras.
+- AIDE À DÉSOBSTRUER LES PORES : Contenant de lacide salicylique, cette formule aide à éliminer sébum, impuretés et résidus pour affiner le grain de peau.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000ALBLIE{{</world>}}

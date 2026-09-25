@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cello 32" LED Monitor
-- Résolution Full HD 1920 x 1080 pixels
 - 16,7 millions de couleurs daffichage, offrant une plus grande profondeur
+- Résolution Full HD 1920 x 1080 pixels
+- Cello 32" LED Monitor
 - Écran sans scintillement pour réduire la fatigue oculaire
 - Faible lumière bleue pour protéger vos yeux
 

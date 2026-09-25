@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protégez le cuir de la saleté et de lhumidité à laide de notre spray de protection et dentretien.
 - Nettoyez et hydratez le cuir à laide de notre lotion nettoyante et de soin.
 - Enlevez dabord la saleté et la poussière avec un chiffon doux.
+- Protégez le cuir de la saleté et de lhumidité à laide de notre spray de protection et dentretien.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09ZVL66HR{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige résistante avec renforts
 - Semelle intermédiaire dotée de la technologie AMPLIFOAM pour une meilleure stabilité
 - Semelle extérieure à crampons pour une meilleure adhérence sur les chemins de terre
+- Tige résistante avec renforts
 - Idéal pour les sentiers faciles et la randonnée
 - Amorti GEL au talon pour plus de confort
 

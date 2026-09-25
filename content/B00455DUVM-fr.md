@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille 64/9/130
 - T5C BLACKCRYSTAL BLACKWHITEBLUE
+- Taille 64/9/130
 - 2 ans de Garantie Internationale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

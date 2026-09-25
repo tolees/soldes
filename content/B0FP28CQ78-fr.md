@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respirant
 - Ajustement de la voûte
+- Respirant
 - Slip-Ins
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur : 7,6-12,7/81,2 cm ; largeur : 63,5/81,2 cm
-- Lot de 12
-- Finition en nickel brossé
-- Ressort en acier
 - Inclut le matériel de fixation et les instructions de montage
+- Ressort en acier
+- Longueur : 7,6-12,7/81,2 cm ; largeur : 63,5/81,2 cm
+- Finition en nickel brossé
 - Embout de protection en caoutchouc
+- Lot de 12
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PFFFFMT{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- ADAPTATEUR POLYVALENT : vous permet de monter vos jumelles (prisme de Porro ou de toit) sur un trépied pour plus de stabilité et de commodité
 - PRIX ABORDABLE ET DURABLE : métal pour la robustesse
 - MEILLEURE STABILITɠ: élimine la fatigue des bras et améliore considérablement la stabilité sans les tremblements de mains ou autres vibrations pouvant gêner l’observation
-- ADAPTATEUR POLYVALENT : vous permet de monter vos jumelles (prisme de Porro ou de toit) sur un trépied pour plus de stabilité et de commodité
 - FACILE À INSTALLER : doté d’un filetage 1/4"-20 avec poignée longue pour l’installation sans outils de vos jumelles
 - TRÉPIED : comporte une monture 1/4"-20 pour le trépied
 

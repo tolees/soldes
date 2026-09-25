@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec un stick analogique court à huit directions pour une précision maximale et une vitesse dexécution accrue, une disposition à 6 boutons micro-switch, un pavé coulissant analogique, des boutons arrière programmables et des gâchettes à interrupteurs tactiles.
-- Veuillez visiter le site HORI et télécharger l’application dédiée afin de mettre à jour le micrologiciel de la manette si vous rencontrez quelconques difficultés
 - Sous licence officielle Sony.
 - Le D-pad interchangeable avec trois options disponibles.
+- Veuillez visiter le site HORI et télécharger l’application dédiée afin de mettre à jour le micrologiciel de la manette si vous rencontrez quelconques difficultés
 - Le câble USB-C inclus a une fonction de verrouillage pour éviter toutes déconnections.
+- Avec un stick analogique court à huit directions pour une précision maximale et une vitesse dexécution accrue, une disposition à 6 boutons micro-switch, un pavé coulissant analogique, des boutons arrière programmables et des gâchettes à interrupteurs tactiles.
 - Fighting Commander OCTA sans fil pour PlayStation5, PlayStation4 et Windows 11/10
 
 [🛒 Achète-le!!]({{< param buyurl >}})

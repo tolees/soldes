@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande et réglable : De dimensions 24 x 60 x 178,5 cm, cette étagère dispose de 6 compartiments ouverts et offre un grand espace de rangement. Certaines étagères ajustables offrent 3 hauteurs différentes, adaptées à tous les objets
 - Montage facile : Grâce à ses pièces numérotées et à ses instructions illustrées, cette bibliothèque se monte en un rien de temps
 - Robuste, stable et sûr : Fabriqué en panneau d’aggloméré E1 de 15 mm dépaisseur, ce meuble est robuste et supporte jusquà 10 kg par compartiment. Le kit anti-basculement assure une stabilité et une sécurité renforcées
+- Grande et réglable : De dimensions 24 x 60 x 178,5 cm, cette étagère dispose de 6 compartiments ouverts et offre un grand espace de rangement. Certaines étagères ajustables offrent 3 hauteurs différentes, adaptées à tous les objets
 - Rangements ouverts : Cette bibliothèque présente des compartiments ouverts et un style minimaliste. Elle s’adapte à de nombreuses pièces de la maison et permet de ranger les objets en les gardant accessibles
 - Polyvalente : Cette étagère peut être utilisée dans salon, salle à manger ou bureau. Elle est idéale pour mettre en valeur des plantes, ranger des livres ou exposer vos précieux souvenirs
 

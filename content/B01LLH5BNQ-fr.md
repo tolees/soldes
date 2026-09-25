@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bord surélevé pour éviter que la pâte ne coule et pour faciliter lobtention dune finition parfaite
-- Surface antiadhésive d’un diamètre de 30 cm qui empêche les aliments de coller à la surface avec un niveau de température réglable pour que vous puissiez choisir celui qui convient le mieux à vos besoins
 - Comprend un écarteur de pâte pour faire des crêpes fines et une spatule en bois
+- Surface antiadhésive d’un diamètre de 30 cm qui empêche les aliments de coller à la surface avec un niveau de température réglable pour que vous puissiez choisir celui qui convient le mieux à vos besoins
 - Pieds antidérapants en silicone qui maintiennent lappareil en place, garantissant ainsi une meilleure stabilité. Facile à nettoyer et à ranger grâce au range-câbles inférieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

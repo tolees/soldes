@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baguette ou lance darrosage de 560 mm (22 pouces) et tuyau de 1,3 m (51 pouces) pour une utilisation dans des endroits difficiles ou inaccessibles
-- Lauréats des prix Grow your own British Growing 2022
-- Pulvérisateur à pression à pompe de 8 litres (2,1 gallons) avec soupape de décharge et bandoulière
 - Bouteille graduée translucide en litres et en onces liquides pour une précision lors du remplissage ou du mélange dans la bouteille
-- À utiliser avec de leau et des produits solubles ou à base deau non visqueux, notamment des pesticides, des herbicides, des insecticides, des fongicides, des engrais
-- Buse entièrement réglable, du spray au brouillard, mécanisme de déclenchement verrouillable et régulateur de débit deau
+- Pulvérisateur à pression à pompe de 8 litres (2,1 gallons) avec soupape de décharge et bandoulière
+- Lauréats des prix Grow your own British Growing 2022
 - Lorsque vous nutilisez pas deau, utilisez des liquides dont le pH ne doit pas être inférieur ou supérieur à 5 à 9
+- À utiliser avec de leau et des produits solubles ou à base deau non visqueux, notamment des pesticides, des herbicides, des insecticides, des fongicides, des engrais
+- Baguette ou lance darrosage de 560 mm (22 pouces) et tuyau de 1,3 m (51 pouces) pour une utilisation dans des endroits difficiles ou inaccessibles
+- Buse entièrement réglable, du spray au brouillard, mécanisme de déclenchement verrouillable et régulateur de débit deau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01CI55GWG{{</world>}}

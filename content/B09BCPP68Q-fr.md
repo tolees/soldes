@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 ans de Garantie Internationale
 - Noir
+- 2 ans de Garantie Internationale
 - Taille taille unique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Argile minérale au fini mat.
-- Avec un parfum stimulant de bergamote et poivre rose pour une fraîcheur intense.
 - Pour de la tenue et une texture longue durée.
+- Avec un parfum stimulant de bergamote et poivre rose pour une fraîcheur intense.
+- Argile minérale au fini mat.
 - Frotter dans la paume des mains, travailler sur les cheveux secs pour donner du mouvement, séparer et sculpter.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

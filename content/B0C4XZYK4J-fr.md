@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En accord avec vos valeurs, la matière principale est composée à 85 % de polyamide recyclé afin de réduire les déchets et la consommation d’énergie
 - Couleur: Bleu (Aqua Foam); Casquette plate unisexe; Taille FR (EUR): L/XL
-- Casquette trucker respirante et audacieuse, qui intègre des fibres recyclées
+- En accord avec vos valeurs, la matière principale est composée à 85 % de polyamide recyclé afin de réduire les déchets et la consommation d’énergie
 - Facile à porter au quotidien pour vous protéger du soleil, de la bruine ou simplement pour afficher votre style avec différents coloris et logos disponibles
+- Casquette trucker respirante et audacieuse, qui intègre des fibres recyclées
 - La construction souple en mesh ouvert, très confortable, laisse circuler l’air
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

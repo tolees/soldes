@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonctionnement : 12 V-220 V.
 - Compatibilité voiture et caravane.
+- Plage de température 7-65º.
 - Capacité de 6 litres.
 - Fonction de refroidissement. Fonction chauffage.
-- Plage de température 7-65º.
+- Fonctionnement : 12 V-220 V.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPZG1VYG{{</world>}}

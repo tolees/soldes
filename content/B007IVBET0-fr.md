@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Convient pour des couteaux européens et asiatiques style
 - Diamant pour roues de fraise sans bord
 - Convient pour droite et bord dentelé couteaux
-- Convient pour des couteaux européens et asiatiques style
 - 3 étapes processus daiguisage
 - Poignée criss crosssharpening technologie
 

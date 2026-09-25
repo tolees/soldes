@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussures faciles à enfiler
 - Lacets et fermeture éclair
+- Chaussures faciles à enfiler
 - Baskets basses légères et respirantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

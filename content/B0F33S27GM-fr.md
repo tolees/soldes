@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle cupsole en caoutchouc.
-- Tige en matière synthétique avec empiècements en suède.
-- Doublure en mesh.
 - Fermeture à lacets.
+- Tige en matière synthétique avec empiècements en suède.
+- Semelle cupsole en caoutchouc.
+- Doublure en mesh.
 - Chaussant standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

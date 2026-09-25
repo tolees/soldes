@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Travaillez en déplacement avec la connexion sans fil fiable de la souris Dell WM126
 - La souris est équipée de trois boutons cliquables (gauche, droite et centre), ainsi que d’une molette de défilement pour faciliter l’utilisation
+- Travaillez en déplacement avec la connexion sans fil fiable de la souris Dell WM126
+- Compatibilité: Windows 7/8/8.1/10/Server, Linux, Android, Chrome
 - Vous pouvez également connecter jusqu’à six périphériques compatibles avec un seul récepteur, ce qui vous permet de connecter vos claviers et souris sans fil à la maison, au bureau ou en déplacement
 - Faites disparaître les câbles avec la souris sans fil Dell WM126 offrant les fonctionnalités dont vous avez besoin, sans les inconvénients
-- Compatibilité: Windows 7/8/8.1/10/Server, Linux, Android, Chrome
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01ALB3BW6{{</world>}}

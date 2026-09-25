@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Taille élastique à cordon de serrage.
 - Coupe standard et taille mi-haute.
 - Toile 100 % polyester recyclé.
-- Taille élastique à cordon de serrage.
 - AEROREADY.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

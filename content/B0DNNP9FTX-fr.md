@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec détails distinctifs de la marque
 - Pull moderne pour homme de la marque Leviss
 - Style : col en V
+- Avec détails distinctifs de la marque
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNNP9FTX{{</world>}}

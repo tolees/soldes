@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Particularité: Broderie du logo de léquipe sur le devant, étiquette de léquipe sur la fermeture au dos
-- Casquette élégante de léquipe Milwaukee Brewers par New Era de la collection MLB The League
 - Modèle 9Forty: visière courbée, fermeture en velcro
+- Casquette élégante de léquipe Milwaukee Brewers par New Era de la collection MLB The League
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08JPKK4HC{{</world>}}

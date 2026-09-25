@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- doublure en textile
 - semelle intermédiaire en EVA découpée
+- doublure en textile
 - Dessus en cuir
 - semelle extérieure en caoutchouc
 

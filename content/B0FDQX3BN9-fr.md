@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce tissu à la fois doux et résistant conserve sa couleur et sa qualité au fil du temps, ce qui en fait un choix fiable pour les tenues décontractées comme pour les tenues chic et décontractées.
 - Disponible dans une gamme de coloris polyvalents qui saccordent facilement avec des pantalons chino, des jeans ou des shorts pour un look soigné et moderne.
 - Orné du logo HH brodé emblématique, qui rend subtilement hommage à lADN stylistique de la marque, inspiré de la voile.
 - Un design intemporel et épuré, revisité avec une coupe classique et moderne, idéal pour un usage quotidien polyvalent.
+- Ce tissu à la fois doux et résistant conserve sa couleur et sa qualité au fil du temps, ce qui en fait un choix fiable pour les tenues décontractées comme pour les tenues chic et décontractées.
 - Le piqué de coton haut de gamme offre un confort respirant et une coupe structurée qui conserve sa forme tout au long de la journée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

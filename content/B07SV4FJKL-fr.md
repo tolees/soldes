@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Scratch
 - Cuir
+- Scratch
 - Plat
 - Moyen
 

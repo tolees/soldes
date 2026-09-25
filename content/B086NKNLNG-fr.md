@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Non étanche
 - Bracelet en cuir rouge foncé avec fermeture à boucle
 - Cadran champagne clair avec aiguilles et marqueurs dorés
 - Verre incurvé en cristal minéral
-- Non étanche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B086NKNLNG{{</world>}}

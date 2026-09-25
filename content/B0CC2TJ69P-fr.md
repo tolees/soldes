@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibles
 - Aspecto y tacto clásicos
-- Piel transpirable
 - Alta calidad
 - Cojín suave
+- Piel transpirable
+- Flexibles
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CC2TJ69P{{</world>}}

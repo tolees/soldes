@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Longueur 20cm
-- Lame robuste de 20 cm et chaîne avec lubrification automatique pour un résultat de coupe optimal et une durée de vie plus longue
 - Longueur 20cm
+- Lame robuste de 20 cm et chaîne avec lubrification automatique pour un résultat de coupe optimal et une durée de vie plus longue
 - Perche extensible jusquà 267 cm en 3 parties pour différentes hauteurs de travail. Grande portée, même au-dessus de la tête
 
 [🛒 Achète-le!!]({{< param buyurl >}})

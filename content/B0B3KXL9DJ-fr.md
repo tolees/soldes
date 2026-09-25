@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige perforée en durabuck synthétique lisse
 - Semelle extérieure en caoutchouc souple
 - Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie par
+- Tige perforée en durabuck synthétique lisse
 - Coupe compensée avec talon caché de 2,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

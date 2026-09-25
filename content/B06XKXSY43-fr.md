@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau de semelle : Caoutchouc
-- Taille : Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Dessus : Cuir
-- Semelle intérieure : Synthétique
 - Doublure : Maille
+- Semelle intérieure : Synthétique
+- Taille : Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Matériau de semelle : Caoutchouc
+- Dessus : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XKXSY43{{</world>}}

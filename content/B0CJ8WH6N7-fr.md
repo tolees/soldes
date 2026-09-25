@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lappareil doit être protégé de la lumière directe du soleil et du contact avec leau. Il est recommandé de linstaller à proximité de la source deau et du siphon de sol
 - Gagnez du temps : Cette solution conviviale remplit automatiquement leau propre et évacue leau sale. Comme vous ne devez pas remplir et vider leau vous-même, vous avez plus de temps à consacrer à votre famille
-- Modèle de robot nettoyeur de sols adapté : L20 Ultra, L20 Ultra Complete. Le robot nest pas inclus dans la livraison
+- Lappareil doit être protégé de la lumière directe du soleil et du contact avec leau. Il est recommandé de linstaller à proximité de la source deau et du siphon de sol
 - Fonction : Remplissage et vidange automatiques de leau. Nettoyage sans effort manuel
+- Modèle de robot nettoyeur de sols adapté : L20 Ultra, L20 Ultra Complete. Le robot nest pas inclus dans la livraison
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJ8WH6N7{{</world>}}

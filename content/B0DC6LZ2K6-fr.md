@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ⭐ Café de Spécialité - Tous les cafés en grains du coffret sont de haute qualité, avec plus de 80 points SCA (Specialty Coffee Association)
+- 💚 Coffret des cafés les plus vendus dIncapto. Cafés de Colombie, Brésil et Éthiopie. Coffret comprenant 3 sachets de café de 500 grammes chacun
 - 🌱 Ingrédients - Café en Grains, 100% Arabica
 - 🌎 Origine unique - Tous les grains de café proviennent de fermes dorigines uniques de chaque pays
-- 💚 Coffret des cafés les plus vendus dIncapto. Cafés de Colombie, Brésil et Éthiopie. Coffret comprenant 3 sachets de café de 500 grammes chacun
+- ⭐ Café de Spécialité - Tous les cafés en grains du coffret sont de haute qualité, avec plus de 80 points SCA (Specialty Coffee Association)
 - 🌿 Torréfaction Artisanale - La torréfaction est lun des éléments qui influencent le plus la qualité et le goût du café. Nos experts torréfacteurs torréfient chaque jour pour garantir la fraîcheur du café
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: Nike
 - Logo Nike sur le devant
+- Marque: Nike
 - Tissu doux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

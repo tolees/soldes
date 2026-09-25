@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bracelet de cuir, couleur noir, avec fermeture ardillon.
+- Cadran round en couleur vert en verre minéral.
 - Boîtier round de titane, couleur gris.
 - Montre heures et minutes quartz pour homme.
-- Cadran round en couleur vert en verre minéral.
 - Résistance à leau: 10 atm.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

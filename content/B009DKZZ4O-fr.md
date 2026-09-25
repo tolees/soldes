@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Luster Paper
-- Papier Lustré
-- Taille des feuilles : A3+
-- Compatibles avec les imprimantes jet dencre Canon et non-Canon
 - Nombre de feuilles : 20
+- Compatibles avec les imprimantes jet dencre Canon et non-Canon
+- Papier Lustré
 - Luster Paper
+- Taille des feuilles : A3+
 - LU-101 A3+ 20 sheets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

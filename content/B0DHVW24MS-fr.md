@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti Adiprene+
-- Doublure textile
 - Semelle extérieure en caoutchouc
+- Doublure textile
+- Amorti Adiprene+
 - Fermeture à lacets
 - Chaussant standard
 - Tige en suède et textile

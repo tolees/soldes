@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Décorations mix & match
-- Matériau : fruits et assiettes creuses en porcelaine décorée ; assiettes creuses en céramique
-- Service de table de 18 pièces ; idéal pour 6 personnes
 - Composition : 6 Assiettes Plates d. 27 cm – 6 assiettes creuses D. 20, 5 ; 6 assiettes à fruits D. 20, 5 cm
+- Service de table de 18 pièces ; idéal pour 6 personnes
+- Décorations mix & match
 - Passe au lave-vaisselle et utilisables au micro-ondes
+- Matériau : fruits et assiettes creuses en porcelaine décorée ; assiettes creuses en céramique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HNB32T3{{</world>}}

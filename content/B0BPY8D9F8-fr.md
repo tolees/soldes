@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur tuyau : 6,5 m avec bague de serrage / système anti torsion
-- Compatibilité taille piscine : Jusquà 4,88 x 1,22m (ronde) / et 6,10 x 3,05m (rectangulaire)
 - Principe de mouvement : Une turbine à eau et des engrenages entrainent les 4 roues et les 2 brosses de nettoyage
 - Connexion filtration : Se connecte sur la buse de refoulement du bassin
+- Longueur tuyau : 6,5 m avec bague de serrage / système anti torsion
+- Compatibilité taille piscine : Jusquà 4,88 x 1,22m (ronde) / et 6,10 x 3,05m (rectangulaire)
 - Débit de filtration requis : minimum 6 m³/h - Maximum 13 m³/h
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

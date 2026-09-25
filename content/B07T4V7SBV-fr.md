@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pattern: graphique
-- Sechage rapide
 - Logo Nike sur le devant
-- Tissu doux
 - Ajustement régulier
+- Sechage rapide
+- Tissu doux
+- Pattern: graphique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07T4V7SBV{{</world>}}

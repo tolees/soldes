@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage : 20 x 20 x 11 cm
-- Équipé de quatre ports SFP+ 10 GbE (avec deux ports combo SFP+/RJ45 10 GbE) et de huit ports Gigabit
 - Fabriqué en Chine
+- Équipé de quatre ports SFP+ 10 GbE (avec deux ports combo SFP+/RJ45 10 GbE) et de huit ports Gigabit
+- Dimensions de lemballage : 20 x 20 x 11 cm
 - Fournit des fonctionnalités de gestion de couche 2, telles que LACP, VLAN, ACL et LLDP
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Interrupteur marche/arrêt des diodes.
 - Montage universel. Piles et accessoires de montage fournis.
+- Interrupteur marche/arrêt des diodes.
 - Pommeau boule lumineux bleu. Aluminium brossé et base brillante.
 - La lumière diffuse au travers du nom WRC découpé dans le dôme. 6 diodes permettent 3 types déclairage : permanent, alterné, tournant.
 

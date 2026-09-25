@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
 - IBILI
+- Durable
 - Coupe-légumes professionnel
 - Country of origine: Espagne
 

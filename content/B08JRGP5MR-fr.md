@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 0
 - Produktart: ABIS MUSIC
 - Artikelname: Coffret Albums Studio Warner
+- 0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JRGP5MR{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Enfiler
 - Plat
-- Cuir
 - Synthetic
+- Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NMFLTK4{{</world>}}

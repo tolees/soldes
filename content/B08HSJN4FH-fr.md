@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Wella Professionals
 - Lustrant
+- Wella Professionals
 - 150 ml
 - Hydratant
 

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couvert par une garantie limitée Amazon Basics de 1 an
 - Contenu : 1 câble de 180 cm, 15 W, USB-C 3.1 Génération 1 vers USB-A, câble de charge et d’alimentation pour appareils, transfert de données, photos et musique. Compatible avec USB 3.0 et 2.0
 - Certifié USB-IF, connecte tout port USB-C à tout appareil autorisé USB-A standard. Pour le transfert/la charge de smartphone, les stations de recharge, les chargeurs secteurs/de voiture et les appareils à faible puissance. Convient au transfert de données entre smartphones, tablettes, ordinateurs portables, disques durs et plus encore. Note : retirez la coque pour charger votre iPhone 15/iPhone 15 Pro/iPhone 15 Pro Max/iPhone 15 Plus.
+- Couvert par une garantie limitée Amazon Basics de 1 an
 - Charge et transfert de données rapides : Compatible avec la charge rapide jusqu’à 15 W (5 V/3 A) et les vitesses de transfert de données jusqu’à 5Gbps. Ne pas dépasser les valeurs électriques recommandées (15 W, 5 V/3 A). Vitesse de charge limitée pour les appareils PD autorisés
 - Durabilité améliorée : Testé pour être plié à 95 degrés 2000 fois. Nylon double tressé pour plus de résistance, flexibilité, effilochage réduit, et durabilité améliorée
 

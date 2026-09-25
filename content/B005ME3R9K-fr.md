@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sortie de chauffe-eau domestique
+- Température maxi: 90°C - Pression maxi : 10bars
+- Entrée de salle de bain, cuisine et douche (collectivités)
 - Ce produit se positionne sur lentrée et la sortie du chauffe-eau. Il isole le chauffe-eau des courants vagabonds et évite le phènomène délectrolyse.
 - Si leau chaude est produite à une température supérieure à 60°C, un dispositif abaisseur de température doit être interposé. Ce dispositif doit être placé le plus près possible de lappareil de production deau chaude et dans le même local.
-- Sortie de chauffe-eau domestique
-- Entrée de salle de bain, cuisine et douche (collectivités)
-- Température maxi: 90°C - Pression maxi : 10bars
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005ME3R9K{{</world>}}

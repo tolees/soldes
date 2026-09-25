@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Casual look
 - il assure un ajustement optimal
 - Confortable à porter
 - Ce style a été produit de manière durable
 - il sagit dun produit authentique et original FLY LONDON
-- Casual look
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DBLWC2W7{{</world>}}

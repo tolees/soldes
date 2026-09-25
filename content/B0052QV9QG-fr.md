@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 24 mois de garantie Eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
-- Ellipse ECO 1600 VA / 1000 watts
 - 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement
-- 24 mois de garantie Eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
 - Protection téléphone/fax/modem/réseau 10/100 (RJ45) - UPS avec afficheur et interface USB (cable USB inclus)
 - Fonction économie dénergie jusquà 25% - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
-- 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement
 - Ellipse ECO 1600 VA / 1000 watts
-- Protection téléphone/fax/modem/réseau 10/100 (RJ45) - UPS avec afficheur et interface USB (cable USB inclus)
+- 24 mois de garantie Eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
 - Fonction économie dénergie jusquà 25% - Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
+- Ellipse ECO 1600 VA / 1000 watts
+- 24 mois de garantie Eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
+- Protection téléphone/fax/modem/réseau 10/100 (RJ45) - UPS avec afficheur et interface USB (cable USB inclus)
+- 8 prises sorties FR : 4 prises protection parafoudre + batterie de secours - 4 prises protection parafoudre uniquement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0052QV9QG{{</world>}}

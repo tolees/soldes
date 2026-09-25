@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Classique
 - Doublure: Textile
+- Classique
 - Fermeture: fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})

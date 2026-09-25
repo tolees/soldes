@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- MAQUETTE NINTENDO À COLLECTIONNER – Ce set LEGO à construire et à exposer fait partie d’une vaste collection de sets LEGO conçus pour les adultes qui aiment les activités manuelles créatives propices à la détente
-- PERSONNALISEZ VOTRE ÉCRAN – Inclut les cartouches Game Boy en briques interchangeables des jeux The Legend of Zelda & Super Mario Land avec des écrans lenticulaires affichant des images différentes en fonction de langle de vue
-- CARTOUCHES DE JEUX VIDÉO EN BRIQUES – Inclut les cartouches Game Boy de The Legend of Zelda: Links Awakening & Super Mario Land (uniquement pour la décoration - ne possèdent pas les fonctionnalités des jeux Game Boy)
 - UNE CONSTRUCTION AMUSANTE – Ce kit propose une activité créative immersive aux constructeurs LEGO expérimentés et inclut des instructions étape par étape permettant aux débutants fans de Game Boy d’apprécier ce défi
-- CADEAU LEGO NINTENDO POUR LES PASSIONNÉ.E.S DE JEUX VIDÉO – Faites-vous plaisir ou offrez ce set de construction LEGO fascinant aux gamers adultes, fans de Super Mario ou de The Legend of Zelda
+- PERSONNALISEZ VOTRE ÉCRAN – Inclut les cartouches Game Boy en briques interchangeables des jeux The Legend of Zelda & Super Mario Land avec des écrans lenticulaires affichant des images différentes en fonction de langle de vue
 - SET DE CONSTRUCTION LEGO SUPER MARIO POUR ADULTE – Éveillez des souvenirs denfance avec cette maquette quasi grandeur nature de la console de jeu Game Boy de Nintendo
 - DES DÉTAILS AUTHENTIQUES – Recréez la croix directionnelle, les boutons A et B, SELECT et START, le contrôle du contraste et la molette de volume, ainsi que le port pour cartouche
+- CARTOUCHES DE JEUX VIDÉO EN BRIQUES – Inclut les cartouches Game Boy de The Legend of Zelda: Links Awakening & Super Mario Land (uniquement pour la décoration - ne possèdent pas les fonctionnalités des jeux Game Boy)
+- MAQUETTE NINTENDO À COLLECTIONNER – Ce set LEGO à construire et à exposer fait partie d’une vaste collection de sets LEGO conçus pour les adultes qui aiment les activités manuelles créatives propices à la détente
+- CADEAU LEGO NINTENDO POUR LES PASSIONNÉ.E.S DE JEUX VIDÉO – Faites-vous plaisir ou offrez ce set de construction LEGO fascinant aux gamers adultes, fans de Super Mario ou de The Legend of Zelda
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DWDGVHM6{{</world>}}

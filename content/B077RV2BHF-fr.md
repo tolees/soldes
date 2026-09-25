@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bornier sans vis avec connexion automatique
 - Cette gamme est destinée aux petits Établissements Recevant des Travailleurs ou du Public (ERP et ERT) et au remplacement des anciens blocs de marque LUMINOX type STD et UNILED.
+- Blocs 100% LEDs, maintenance réduite, aucun relampage, basse consommation
 - Cette opération permet de bénéficier d’un bloc au design revisité, des avantages de la LED, de la technologie SATI et du label NF Environnement à moindre coût.
 - Livré avec 3 étiquettes de balisage autocollantes.
-- Bornier sans vis avec connexion automatique
-- Blocs 100% LEDs, maintenance réduite, aucun relampage, basse consommation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B077RV2BHF{{</world>}}

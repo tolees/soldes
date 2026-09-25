@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Dri-FIT
 - Respirant
+- Technologie Dri-FIT
 - Taille élastiquée
 - Les poches latérales peuvent contenir vos affaires
 

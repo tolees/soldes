@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sécurité – La fonction anti-rebond protège efficacement des blessures en cas de blocage. Elle peut être désactivée en appuyant sur un bouton.
-- Mandrin métallique – Le mandrin monodouille autoserrant de 13 mm en métal haute qualité permet un changement d’outil facile et rapide.
-- Fonctions – Avec 3 fonctions (vissage, perçage, perçage à percussion), 20 niveaux de couple et 50 Nm, la perceuse-visseuse sans fil peut s’utiliser de manière flexible pour de nombreuses applications.
-- Power X-Change – La perceuse-visseuse à percussion sans fil Einhell Professional TP-CD 18/50-C Li-i BL-Solo fait partie de la gamme de batteries et appareils combinables Power X-Change.
 - Design compact – Comparée à d’autres modèles de puissance analogue, cette perceuse-visseuse à percussion sans fil Professional est plus compacte pour une polyvalence accrue.
-- Moteur sans charbon – Le moteur sans charbon à faible entretien performant délivre une puissance maximale pour une durée de fonctionnement prolongée. Le moteur est garanti 10 ans après enregistrement.
+- Power X-Change – La perceuse-visseuse à percussion sans fil Einhell Professional TP-CD 18/50-C Li-i BL-Solo fait partie de la gamme de batteries et appareils combinables Power X-Change.
+- Sécurité – La fonction anti-rebond protège efficacement des blessures en cas de blocage. Elle peut être désactivée en appuyant sur un bouton.
 - Batterie non incluse – La perceuse-visseuse à percussion sans fil TP-CD 18/50-C Li-i BL-Solo est vendue sans batterie Power X-Change ni chargeur. Ces accessoires sont disponibles séparément.
+- Moteur sans charbon – Le moteur sans charbon à faible entretien performant délivre une puissance maximale pour une durée de fonctionnement prolongée. Le moteur est garanti 10 ans après enregistrement.
+- Fonctions – Avec 3 fonctions (vissage, perçage, perçage à percussion), 20 niveaux de couple et 50 Nm, la perceuse-visseuse sans fil peut s’utiliser de manière flexible pour de nombreuses applications.
+- Mandrin métallique – Le mandrin monodouille autoserrant de 13 mm en métal haute qualité permet un changement d’outil facile et rapide.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GS3792XJ{{</world>}}

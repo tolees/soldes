@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Schott
-- Blouson Teddy homme Schott Ref 58527 Marine Beige - M
 - Livraison à domicile contre signature
-- 0.00
+- Schott
 - Racine > Accueil > Textile Homme > Blouson - veste textile homme
+- 0.00
+- Blouson Teddy homme Schott Ref 58527 Marine Beige - M
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008OFJGYY{{</world>}}

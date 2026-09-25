@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 - MjAMjAM - Tout simplement parce que cest bon
-- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
 - Composition : Viande et abats 53.5 % (poulet : viande, cœur, foie, gésier), insectes 45.5 %, coquilles dœuf 0.5 %, minéraux 0.5 %
+- Nous y renonçons : céréales ni gluten, sucre, conservateur artificiel, lactose
+- Pour nos repas, nous utilisons principalement des ingrédients issus des fermes de la région
 - Alimentation humide pour chat - Protéine dinsectes - Vitamines et minéraux essentiels - Sans céréales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

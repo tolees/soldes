@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lieferumfang: 1 lame de scie sauteuse T 111 C, Basic for Wood (disponible séparément par pack de 3 : 2 608 630 808);1 buse aspirante (2 605 730 055);1 capot de protection (1 619 P17 944);Dispositif pare-éclats (réf. pièce de rechange 2 601 016 065)
-- Molette de sélection et gâchette de vitesse permettant d’adapter facilement la cadence de coupe en fonction du matériau
-- Design compact et grande légèreté pour des coupes rapides et fluides dans différentes positions, avec mouvement pendulaire réglable dans 4 positions pour un maximum de maîtrise et de flexibilité
 - La scie sauteuse avec un rapport compacité/performances optimisé
 - Puissante scie sauteuse filaire conçue pour des coupes faciles dans le bois massif, le métal et d’autres matériaux grâce à un moteur sans charbon
+- Molette de sélection et gâchette de vitesse permettant d’adapter facilement la cadence de coupe en fonction du matériau
+- Design compact et grande légèreté pour des coupes rapides et fluides dans différentes positions, avec mouvement pendulaire réglable dans 4 positions pour un maximum de maîtrise et de flexibilité
+- Lieferumfang: 1 lame de scie sauteuse T 111 C, Basic for Wood (disponible séparément par pack de 3 : 2 608 630 808);1 buse aspirante (2 605 730 055);1 capot de protection (1 619 P17 944);Dispositif pare-éclats (réf. pièce de rechange 2 601 016 065)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQV6T1WZ{{</world>}}

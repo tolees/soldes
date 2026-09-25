@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Spot de plafond avec 3 douilles E27, pour ampoules de 60 watts maximum. Nous recommandons des ampoules à filament clair ou Edison pour compléter laspect vintage
 - Les trois tiges métalliques à douille sont de longueurs différentes. Ils ont les longueurs suivantes : 14,5 cm, 21,5 cm et 28,5 cm
 - Le rétro-éclairage vous est livré avec tout le matériel de montage nécessaire: support de montage, 2 vis et 2 chevilles, ainsi que des instructions. Lauvent couvre votre sortie de plafond jusquà 19 cm. Les trous de fixation sont espacés de 15 cm
-- Trois tiges métalliques allongées et robustes, dun diamètre de 1 cm chacune et dune base de 4 cm chacune, apportent une touche visuelle et font de ce spot de plafond vintage un élément qui attire lattention dans votre maison
 - Ce plafonnier rétro pour 3 ampoules au look rétro noir mat attire tous les regards dans votre couloir, votre salon ou votre chambre à coucher
+- Spot de plafond avec 3 douilles E27, pour ampoules de 60 watts maximum. Nous recommandons des ampoules à filament clair ou Edison pour compléter laspect vintage
+- Trois tiges métalliques allongées et robustes, dun diamètre de 1 cm chacune et dune base de 4 cm chacune, apportent une touche visuelle et font de ce spot de plafond vintage un élément qui attire lattention dans votre maison
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08R68YVSW{{</world>}}

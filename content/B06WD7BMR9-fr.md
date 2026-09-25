@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec ressort et limiteur douverture pour plus de confort, dergonomie et defficacité grâce à louverture automatique et à la largeur confortable des poignées
-- Pointes parfaitement usinées permettant également la coupe de fils contigus à partir de Ø 0,2 mm
 - Knipex Electronic Super Knips XL brunie, avec gaines bi-matière 140 mm 78 61 140
+- Avec ressort et limiteur douverture pour plus de confort, dergonomie et defficacité grâce à louverture automatique et à la largeur confortable des poignées
 - Mouvement extrêmement facile pour un travail sans fatigue grâce à une articulation précise avec rivet en acier inoxydable
+- Pointes parfaitement usinées permettant également la coupe de fils contigus à partir de Ø 0,2 mm
 - Autre modèle plus long de 15 mm : meilleure stabilité et performance de coupe supérieure
 - Tranchants très affûtés dépourvus de biseau, pour une coupe affleurante précise des fils les plus fins (ex. : électronique / mécanique de précision)
 

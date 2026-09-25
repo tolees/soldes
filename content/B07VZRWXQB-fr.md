@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussures dentraînement sportives à enfiler avec laçage élastique
 - Dessus presque une pièce en maille tricotée douce et fonctionnelle
+- Chaussures dentraînement sportives à enfiler avec laçage élastique
 - Détails tissés sur les orteils, les côtés et le talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})

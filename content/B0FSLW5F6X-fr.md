@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - ANGLES DU CLAVIER RÉGLABLES - Profitez dun confort durable grâce à un clavier conçu pour durer. Le GK110 est équipé de solides pieds à hauteur réglable pour un angle de frappe personnalisé permettant de réduire la fatigue.
 - RÉTROÉCLAIRAGE LED RVB - Égayez lambiance en jouant avec des effets prédéfinis pour créer latmosphère souhaitée.
-- TOUCHES DE RACCOURCI POUR UN CONTRÔLE FACILE - Le GK110 dispose de touches de raccourci permettant de régler les effets lumineux, le volume, de changer de média et daccéder instantanément aux applications Windows de base.
 - FRAPPE FLUIDE ET RÉACTIVE - Profitez dune frappe silencieuse et réactive, idéale pour une productivité quotidienne et de longues sessions de jeu.
+- TOUCHES DE RACCOURCI POUR UN CONTRÔLE FACILE - Le GK110 dispose de touches de raccourci permettant de régler les effets lumineux, le volume, de changer de média et daccéder instantanément aux applications Windows de base.
 - MOLETTE DE VOLUME - Réglez le volume à la volée grâce à une molette fluide et réactive. Aucune distraction, juste un contrôle rapide et précis.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

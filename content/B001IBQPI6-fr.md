@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour tous les marteaux perforateurs sds-plus
-- Pays dorigine : allemagne
 - Convient pour la maçonnerie, le béton et le béton armé
+- Pays dorigine : allemagne
+- Pour tous les marteaux perforateurs sds-plus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001IBQPI6{{</world>}}

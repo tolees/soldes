@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longue Doudoune Zippee Soudee Schott
 - La qualité Schott depuis 1913
+- Longue Doudoune Zippee Soudee Schott
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV763GCN{{</world>}}

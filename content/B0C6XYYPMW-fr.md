@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 8 boutons d’action avec contacts à lamelle microswitch (leaf switch) : plus souples, plus silencieux et très sensibles
-- Compatible avec tous les jeux PS4, Xbox Serie X/S, Xbox One, Pc et PS3 (Street Fighter 6, Tekken 7 et 8, Mortal Kombat, Guilty gear…) grâce à sa fonction de programmation
-- Fonction COMBO : programmez puis lancez des coups et des mouvements spéciaux à l’aide d’un seul bouton
-- Revêtement « Soft Touch » et repose poignet caoutchouté
 - Câble de 3mètres
-- Fonction AUTO : déclenchez des coups répétitifs très rapides
+- Fonction COMBO : programmez puis lancez des coups et des mouvements spéciaux à l’aide d’un seul bouton
 - Joystick en acier très résistant avec avec boutons à contacts microswitch : précis et robuste
+- Fonction AUTO : déclenchez des coups répétitifs très rapides
+- Compatible avec tous les jeux PS4, Xbox Serie X/S, Xbox One, Pc et PS3 (Street Fighter 6, Tekken 7 et 8, Mortal Kombat, Guilty gear…) grâce à sa fonction de programmation
+- 8 boutons d’action avec contacts à lamelle microswitch (leaf switch) : plus souples, plus silencieux et très sensibles
+- Revêtement « Soft Touch » et repose poignet caoutchouté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C6XYYPMW{{</world>}}

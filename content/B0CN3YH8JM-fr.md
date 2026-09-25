@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Optimal pour les mois dhiver rigoureux grâce au tissu résistant au vent et à leau
 - Contents: 1x Columbia Gate Racer II, Veste Softshell pour Homme, Colour: Noir (Black), Size: XXL, Article: 2090404
 - Coupe idéale grâce au tissu extensible confortable
 - Isolante pour une chaleur supplémentaire
-- Optimal pour les mois dhiver rigoureux grâce au tissu résistant au vent et à leau
 - Capuche fixe ajustable, Poches poitrine et poches chauffe-mains zippées, Poignets ajustables, Ourlet réglable par cordon de serrage, Capuche doublée taffetas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

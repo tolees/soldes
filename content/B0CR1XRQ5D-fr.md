@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appliquez sur peau nue pour un effet bonne mine, ou par-dessus votre fond de teint pour réveiller votre maquillage.
-- Vous rayonnez en toute confiance ! Ce combo améliore votre routine de maquillage et vous apporte un éclat naturel.
 - Blush crème + bronzeur en un seul produit pour une peau éclatante. À base de sérum de soin solide comprenant de l’Acide Hyaluronique (hydratant et repulpant), des Peptides (anti-rides) et de la Vitamine E (antioxydant hydratant).
+- Vous rayonnez en toute confiance ! Ce combo améliore votre routine de maquillage et vous apporte un éclat naturel.
+- Appliquez sur peau nue pour un effet bonne mine, ou par-dessus votre fond de teint pour réveiller votre maquillage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CR1XRQ5D{{</world>}}

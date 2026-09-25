@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design compact et léger (2,8 kg avec batterie) pour une maniabilité accrue. Tendeur de chaîne latéral sans outil. Double frein de chaîne pour la sécurité.
 - Contenu : 1 Tronçonneuse, 1 guide 20 cm, 1 chaîne, 1 fourreau. Sert à couper du bois léger et élaguer.
 - Livrée avec 1 batterie 18V 2,5 Ah. Autonomie pour environ 33 coupes de 10 cm de diamètre.
+- Design compact et léger (2,8 kg avec batterie) pour une maniabilité accrue. Tendeur de chaîne latéral sans outil. Double frein de chaîne pour la sécurité.
 - Idéale pour couper des branches de taille moyenne, l’ébranchage, le petit élagage ou couper du bois de chauffage (bûches jusquà 15cm). Parfaite pour le camping.
 - Lubrification manuelle : Système simplifié permettant dappliquer lhuile directement sur la chaîne pour un entretien facile.
 

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passe au micro-ondes, four et congélateur ainsi quau lave-vaisselle
 - Les assiettes peuvent supporter une température maximale de 300° C et minimale de -15° C
-- Inclus : 4 grandes assiettes 26,7 cm, 4 assiettes à dessert 19,1 cm, 4 bols 14 x 7 cm et 4 tasses hautes de 10 cm
+- Passe au micro-ondes, four et congélateur ainsi quau lave-vaisselle
 - Service de table rond 16 pièces pour 4 personnes
 - Porcelaine de qualité AB, sans BPA, ultra légère et durable
+- Inclus : 4 grandes assiettes 26,7 cm, 4 assiettes à dessert 19,1 cm, 4 bols 14 x 7 cm et 4 tasses hautes de 10 cm
 - Passe au micro-ondes, au four et empilable. Passe au lave-vaisselle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

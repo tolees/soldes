@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- La batterie externe est dotée de deux ports USB-A (12 W) et dun port USB-C (15 W) pour recharger lappareil connecté et la batterie externe. Un câble USB-A vers USB-C est inclus.
-- Lemballage de ce produit est dépourvu de matériau plastique et contient au minimum 72 % de matières recyclées post-consommation
-- Le voyant LED vous indique lorsque la batterie externe a besoin dêtre rechargée.
-- Profitez de 40 heures* dautonomie supplémentaire sur votre smartphone. Enchaînez les films, passez des appels vidéo et gardez vos applis de navigation ouvertes tout au long de votre trajet.
-- Belkin, marque leader du marché des accessoires offrant des solutions de haute qualité et innovantes depuis plus de 40 ans
 - Rechargez simultanément jusquà trois appareils avec ses deux ports USB-A (12 W) et son port USB-C (15 W). La recharge totale de 15 W est partagée entre les 3 ports lorsque utilisés en même temps
+- La batterie externe est dotée de deux ports USB-A (12 W) et dun port USB-C (15 W) pour recharger lappareil connecté et la batterie externe. Un câble USB-A vers USB-C est inclus.
+- Les informations ci-dessous sappliquent à chaque unité du pack
+- Le voyant LED vous indique lorsque la batterie externe a besoin dêtre rechargée.
+- Lemballage de ce produit est dépourvu de matériau plastique et contient au minimum 72 % de matières recyclées post-consommation
+- Belkin, marque leader du marché des accessoires offrant des solutions de haute qualité et innovantes depuis plus de 40 ans
+- Profitez de 40 heures* dautonomie supplémentaire sur votre smartphone. Enchaînez les films, passez des appels vidéo et gardez vos applis de navigation ouvertes tout au long de votre trajet.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNS3HVHL{{</world>}}

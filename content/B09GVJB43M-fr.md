@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bronze
 - Beau cadeau pour votre femme, homme, grand-mère et grand-père, la meilleure amie, le meilleur ami pour différentes occasions telles que un anniversaire, un mariage, un anniversaire, Noël, la fête des mères ou la fête des pères.
+- Sculpture "Deux mains"
 - Mains bronze sur base grise
 - Poly
-- Sculpture "Deux mains"
-- Bronze
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09GVJB43M{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Deux options de montage : cet adaptateur polyvalent se fixe aux cages de caméra et aux plates-formes vidéo via la base de la griffe froide (amovible), ou aux pieds déclairage et aux bras magiques en utilisant le filetage de 6,35 mm
 - Compatibilité universelle : cet adaptateur de griffe pour cage dappareil photo est compatible avec DJI Mic / Mic 2 ; compatible avec RODE Wireless GO II ; compatible avec Saramonic Blink 900 B / 900 B2+ ; compatible avec NEEWER CM28 / CM31 et dautres systèmes de microphone sans fil. Idéal comme accessoire indispensable pour les créateurs de contenu
 - Design décalé de griffe : la conception de la griffe anti-interférences évite de toucher les contacts du flash, ce qui la rend sûre à utiliser avec des flashs avec contacts électriques, tels que NEEWER Z2, Z2 PRO, NW760, Z880, NW700, TT560, etc
 - Léger et robuste : fabriqué en alliage daluminium de qualité aéronautique, ce support est résistant à la rouille et aux rayures. Compact et portable avec seulement 27 x 27 x 25 mm et 25 g, il est parfait pour les voyages et les photos en plein air
 - Verrouillage sécurisé anti-chute : conçu spécifiquement pour les récepteurs de microphone sans fil, le support de griffe dispose dun mécanisme de verrouillage unidirectionnel qui maintient votre récepteur en place et empêche les chutes accidentelles
-- Deux options de montage : cet adaptateur polyvalent se fixe aux cages de caméra et aux plates-formes vidéo via la base de la griffe froide (amovible), ou aux pieds déclairage et aux bras magiques en utilisant le filetage de 6,35 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FB8XXLL1{{</world>}}

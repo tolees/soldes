@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RÉPARATION DES LÈVRES : Avec leur finition mate et leur texture de baume hydratant, ces baumes à lèvres à lèvres laissent vos lèvres douces, lisses, saines et souples
-- INGRÉDIENTS NOURRISSANTS ET EFFICACES : Enrichi en ingrédients puissants dorigine 100 % naturelle, notamment de la cire dabeille, de lhuile de noix de coco et du beurre de karité provenant de sources responsables pour nourrir et revitaliser les lèvres en profondeur
 - LOT MULTIPLE DE BAUMES À LÈVRES : Hydratez les lèvres sèches et faites des économies grâce à cet ensemble de baumes à lèvres Burts Bees comprenant quatre arômes naturellement nourrissants : cire dabeille, fraise, noix de coco, poire et vanille
-- BURTS BEES LIP CARE : Le meilleur baume à lèvres pour lèvres sèches depuis 1991
 - HYDRATATION TOUT AU LONG DE LA JOURNÉE : Hydratez et nourrissez les lèvres sèches tout au long de la journée et empêchez le dessèchement des lèvres avec les baumes à lèvres Burts Bees
+- INGRÉDIENTS NOURRISSANTS ET EFFICACES : Enrichi en ingrédients puissants dorigine 100 % naturelle, notamment de la cire dabeille, de lhuile de noix de coco et du beurre de karité provenant de sources responsables pour nourrir et revitaliser les lèvres en profondeur
+- RÉPARATION DES LÈVRES : Avec leur finition mate et leur texture de baume hydratant, ces baumes à lèvres à lèvres laissent vos lèvres douces, lisses, saines et souples
+- BURTS BEES LIP CARE : Le meilleur baume à lèvres pour lèvres sèches depuis 1991
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XWDGDRN{{</world>}}

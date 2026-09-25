@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accroche multi-supports : bois, métal, supports poreux
-- Convient pour toutes les pièces
 - Recouvrable dès 2H pour un chantier express
+- Convient pour toutes les pièces
+- Accroche multi-supports : bois, métal, supports poreux
 - Fort pouvoir opacifiant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

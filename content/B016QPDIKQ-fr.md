@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Inclut une maille de ventilation
 - Tente intérieure devant la fenêtre
+- Inclut une maille de ventilation
 - Fait de polyester qui respire et tapis de sol étanche en PE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Collection : printemps-été 19
-- Talon plat
 - Fermeture : éthylène-acétate de vinyle
-- Cuir : textile
 - 11.0629921147 pouces
+- Talon plat
+- Cuir : textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Y7PS7XC{{</world>}}

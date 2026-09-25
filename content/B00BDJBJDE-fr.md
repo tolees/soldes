@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - faite à partir dingrédients purement végétaux (végétaliens) et NON testée sur les animaux.
-- Le résultat de la coloration varie en fonction de la structure des cheveux et de la tonalité de la couleur.
 - Plus la couleur initiale des cheveux est claire, plus le résultat est intense.
 - Senlève graduellement des cheveux (lavable).
 - Le numéro 1 de la coloration de cheveux alternative aux USA (N.Y.C.).-
+- Le résultat de la coloration varie en fonction de la structure des cheveux et de la tonalité de la couleur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BDJBJDE{{</world>}}

@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Produit officiel Roland Premium
 - Finition noire satinée
-- Une assise rembourrée recouverte de tissu velours
 - Un banc en bois robuste
+- Une assise rembourrée recouverte de tissu velours
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07BF9W8SR{{</world>}}

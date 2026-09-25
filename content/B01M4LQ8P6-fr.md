@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pivote à 360 degrés : équipé de 3 boutons de réglage, vous pouvez régler votre appareil photo à différents angles
 - Avec réglage fin pour protéger votre appareil contre les chutes soudaines, tout en tirant à angle polyvalent
-- La base avec le marquage de lindex pour indiquer le contrôle plus précis. Remarque : tête de trépied uniquement, lappareil photo et le trépied ne sont pas inclus
 - Livré avec vis de montage 3/8" ; vous pouvez le fixer à votre trépied, monopode ou curseur de caméra pour ajouter plus de flexibilité au changement dangle
 - Plateau rapide 1/4", facile à installer en quelques secondes, il dispose à la fois dun niveau à bulle horizontal et vertical pour améliorer la perception de la position
+- La base avec le marquage de lindex pour indiquer le contrôle plus précis. Remarque : tête de trépied uniquement, lappareil photo et le trépied ne sont pas inclus
+- Pivote à 360 degrés : équipé de 3 boutons de réglage, vous pouvez régler votre appareil photo à différents angles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01M4LQ8P6{{</world>}}

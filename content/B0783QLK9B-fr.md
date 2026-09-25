@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Bleu marine
-- Matière : Suède
 - Taille : 45 EU
-- Saison : Printemps Été
+- Matière : Suède
 - Fermeture : Lacets
+- Saison : Printemps Été
+- Couleur : Bleu marine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0783QLK9B{{</world>}}

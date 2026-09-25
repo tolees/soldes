@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Outil vendu seul. Livrée avec 3 abrasifs et un sac collecteur de poussières.
 - Oscillation de 2,5 mm. Vitesse 20 000 osc/min. Patin 125 mm.
-- Batterie Non Incluse. Avec une batterie 5,0 Ah, environ 60 minutes de ponçage.
 - Mouvement orbital et rotatif pour un fini sans traces. Système dextraction de poussière intégré et fixation auto-agrippante des abrasifs.
 - Polyvalente pour le dégrossissage moyen à fin et la finition de surfaces en bois ou métal.
+- Batterie Non Incluse. Avec une batterie 5,0 Ah, environ 60 minutes de ponçage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VTG7H5G{{</world>}}

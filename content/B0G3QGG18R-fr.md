@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ultra-durable, cette souris légère est construite avec un boîtier à paroi mince de 0,7 mm et des patins glissants en UHMWPE extra-larges pour un mouvement sans effort
-- Clics 30 ms plus rapides pour des performances optimales dans chaque match d’esports et personnalisation approfondie avec 10 niveaux de points d’actionnement et 5 niveaux de réinitialisation
-- Avec des pros pour gagner :conçue aux côtés des meilleurs athlètes d’esports au monde,la souris gaming sans fil Logitech G PRO X2 SUPERSTRIKE offre des clics ultra-rapides entièrement personnalisables
-- (1) Les fonctionnalités avancées nécessitent le logiciel G HUB, disponible en téléchargement sur le site Web; performances de sondage testées sur le tapis de souris G640; (2)POWERPLAY vendu séparément
-- La PRO X2 SUPERSTRIKE est compatible avec PC et Mac; elle prend en charge POWERPLAY 2 pour jouer sans fil à l’infini, sans interruptions ni soucis de chargement
-- Avec une autonomie de 60 à 90 heures et la technologie sans fil LIGHTSPEED, cette souris gaming rechargeable (avec câble USB-A vers USB-C inclus) offre un taux d’interrogation sans latence de 8 kHz
-- Retour haptique: cette souris gaming à retour haptique révolutionnaire avec système de déclenchement haptique inductif (HITS) offre un feedback en temps réel pour une expérience immersive inégalée
 - Le capteur HERO 2 de cette souris gaming pour PC offre un suivi de plus de 888 IPS, une accélération de 88 G, et jusqu’à 44 000 DPI, assurant la précision dont les champions ont besoin à chaque partie
+- La PRO X2 SUPERSTRIKE est compatible avec PC et Mac; elle prend en charge POWERPLAY 2 pour jouer sans fil à l’infini, sans interruptions ni soucis de chargement
+- Retour haptique: cette souris gaming à retour haptique révolutionnaire avec système de déclenchement haptique inductif (HITS) offre un feedback en temps réel pour une expérience immersive inégalée
+- (1) Les fonctionnalités avancées nécessitent le logiciel G HUB, disponible en téléchargement sur le site Web; performances de sondage testées sur le tapis de souris G640; (2)POWERPLAY vendu séparément
+- Avec des pros pour gagner :conçue aux côtés des meilleurs athlètes d’esports au monde,la souris gaming sans fil Logitech G PRO X2 SUPERSTRIKE offre des clics ultra-rapides entièrement personnalisables
+- Avec une autonomie de 60 à 90 heures et la technologie sans fil LIGHTSPEED, cette souris gaming rechargeable (avec câble USB-A vers USB-C inclus) offre un taux d’interrogation sans latence de 8 kHz
+- Clics 30 ms plus rapides pour des performances optimales dans chaque match d’esports et personnalisation approfondie avec 10 niveaux de points d’actionnement et 5 niveaux de réinitialisation
+- Ultra-durable, cette souris légère est construite avec un boîtier à paroi mince de 0,7 mm et des patins glissants en UHMWPE extra-larges pour un mouvement sans effort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0G3QGG18R{{</world>}}

@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réponse en fréquence: 60 Hz - 20 kHz
-- Bluetooth 5.0 : Stockwell II est équipée de la technologie Bluetooth 5.0 qui permet de jouer de la musique sans fil
 - Recharge rapide : 20 minutes de recharge vous permettent de profiter de 6 heures de lecture
-- Son multidirectionnel : Blumlein Stereo Sound pour une expérience multidirectionnelle qui vous immerge dans la musique
 - IPX4 : Stockwell II est classée IPX4 pour la résistance à l’eau, ce qui signifie qu’elle est capable de supporter des éclaboussures accidentelles
+- Bluetooth 5.0 : Stockwell II est équipée de la technologie Bluetooth 5.0 qui permet de jouer de la musique sans fil
 - 20 Heures : Stockwell II offre plus de 20 heures de son sans recharger la batterie
 - Couleur exclusive pour Amazon
+- Son multidirectionnel : Blumlein Stereo Sound pour une expérience multidirectionnelle qui vous immerge dans la musique
+- Réponse en fréquence: 60 Hz - 20 kHz
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B088KRKFJ3{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : synthétique
-- Matériau de la semelle : caoutchouc
 - Fermeture : lacets
+- Matériau de la semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DP3TPPL{{</world>}}

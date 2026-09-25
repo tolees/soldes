@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Approuvé pour une utilisation au sein des boîtes de vitesses industrielles répondant à la norme TES 389 et au sein d une large gamme de boîtes de vitesses automatiques industrielles en Europe.
-- Conçu pour une utilisation avec les boîtes de vitesses automatiques GM antérieures à 2005 et les boîtes de vitesses automatiques Ford commercialisées entre 1983 et 1996 répondant à la spécification Dexron (II ou III) ou Mercon
-- Castrol Transmax ATF DX III Multivehicle doté de la technologie Smooth Drive Technology.
-- SPÉCIFICATIONS ET HOMOLOGATIONS - Allison C4, TES 389 ; MAN 339 Type Z1, V1, L1 ; Approbation MB 236.9 ; Voith H55.6335.xx ; Huile pour boîte de vitesses Volvo 97341 ; ZF TE-ML 04D, 14A
-- Conforme Mercon, Dexron IIIH, huile pour boîte de vitesses Volvo 97340.
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Conforme Mercon, Dexron IIIH, huile pour boîte de vitesses Volvo 97340.
+- Castrol Transmax ATF DX III Multivehicle doté de la technologie Smooth Drive Technology.
+- Conçu pour une utilisation avec les boîtes de vitesses automatiques GM antérieures à 2005 et les boîtes de vitesses automatiques Ford commercialisées entre 1983 et 1996 répondant à la spécification Dexron (II ou III) ou Mercon
+- SPÉCIFICATIONS ET HOMOLOGATIONS - Allison C4, TES 389 ; MAN 339 Type Z1, V1, L1 ; Approbation MB 236.9 ; Voith H55.6335.xx ; Huile pour boîte de vitesses Volvo 97341 ; ZF TE-ML 04D, 14A
+- Approuvé pour une utilisation au sein des boîtes de vitesses industrielles répondant à la norme TES 389 et au sein d une large gamme de boîtes de vitesses automatiques industrielles en Europe.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0G5346PXL{{</world>}}

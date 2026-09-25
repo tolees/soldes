@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Appuyez sur le joyau de la selle pour entendre des chansons inspirées de la série !
-- Toilettez et coiffez le cheval avec le peigne et les adorables barrettes, extensions et joyaux.
-- Les enfants (à partir de 3 ans) peuvent laisser libre cours à leur imagination avec ce cheval de compétition Barbie !
 - Les accessoires supplémentaires incluent un trophée et de la nourriture pour stimuler l’imagination des enfants !
-- Inspiré de la série Barbie Mysteries : The Great Horse Chase, ce cheval interactif émet plus de 20 sons et offre de nombreuses façons de jouer !
-- Témoignez-lui de l’affection en lui caressant la tête, il fermera les yeux et hennira.
 - Aidez le cheval à faire une courbette pour susciter des encouragements !
 - Tirez sur les pampilles pour faire danser le cheval !
+- Inspiré de la série Barbie Mysteries : The Great Horse Chase, ce cheval interactif émet plus de 20 sons et offre de nombreuses façons de jouer !
+- Les enfants (à partir de 3 ans) peuvent laisser libre cours à leur imagination avec ce cheval de compétition Barbie !
+- Témoignez-lui de l’affection en lui caressant la tête, il fermera les yeux et hennira.
+- Toilettez et coiffez le cheval avec le peigne et les adorables barrettes, extensions et joyaux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CMGDL9LT{{</world>}}

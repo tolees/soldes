@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Réglage du volume sonore. Dès la naissance
 - Se déclenche automatiquement quand Bébé pleure ou grâce à la minuterie réglable
+- 7 histoires, 12 sons de la nature, 60 mélodies et 3 berceuses
+- Veilleuse toute douce avec projection détoiles lumineuses et variations de couleur pour apaiser Bébé et illuminer ses rêves
 - Version française
 - Remarque-Changer les piles et sortir du mode démo
-- Réglage du volume sonore. Dès la naissance
-- Veilleuse toute douce avec projection détoiles lumineuses et variations de couleur pour apaiser Bébé et illuminer ses rêves
-- 7 histoires, 12 sons de la nature, 60 mélodies et 3 berceuses
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00VFKBSZK{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Surface de cuisson : 38,5 x 28,5 cm
 - Toutes les pièces sont faciles à démonter et passent au lave-vaisselle.
 - 4 x piles AA, non inclus dans la livraison
 - Gril de table Carlo se distingue par sa force et confort.
-- Surface de cuisson : 38,5 x 28,5 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01N7DCKPA{{</world>}}

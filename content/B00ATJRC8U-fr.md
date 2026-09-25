@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En acier rigide
 - 400 mm
+- En acier rigide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00ATJRC8U{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Délicieux repas pour votre chéri
 - Aliment complet, très haute teneur en viande, monoprotéine, vitamines et minéraux importants, sans céréales
 - Pour nos repas, nous utilisons principalement des ingrédients provenant de fermes régionales. Élevés ou cultivés avec beaucoup damour, ils sont soumis aux contrôles de qualité les plus stricts.
 - Fournit à votre chéri toutes les vitamines et minéraux importants
-- Délicieux repas pour votre chéri
 - Composition : viande de poulet, foie, cœur, gésier (56%), bouillon de viande (28,5%), crevettes (14,5%), minéraux (1%)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

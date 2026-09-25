@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Eau de Cologne, Naturelle Classique
+- Produit inflammable
 - Dimensions: 5 x 22,5 x 8,9 cm
 - Les informations ci-dessous sappliquent à chaque unité du pack
 - Contenu du packaging: Flacon 250 ml
-- Produit inflammable
+- Die folgenden Informationen gelten für jede Einheit pro Packung
 - Haute Tradition
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

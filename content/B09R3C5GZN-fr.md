@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fabriqué en France
-- Version en langue française
 - Edition officielle française
+- Version en langue française
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09R3C5GZN{{</world>}}

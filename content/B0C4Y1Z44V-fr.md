@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Piles auditives VARTA POWER on Demand, 10/PR70 1,45V en blisters contenant 60 piles. Dimension de la cellule : 5.8mm de diamètre/ 3,6mm de hauteur
-- Jusquà 25 heures dautonomie supplémentaire pour votre appareil auditif par rapport à la norme IEC 60086-2 Ed. 14.0 test standard MAD pour appareils auditifs. La performance peut varier selon l’utilisation.
-- Conditionné dans un emballage pratique refermable avec une carte blister sécurisée à double couche pour plus de sécurité.
 - Pile auditive compacte et puissante pour une utilisation quotidienne avec une durée de stockage garantie de 4 ans
+- Jusquà 25 heures dautonomie supplémentaire pour votre appareil auditif par rapport à la norme IEC 60086-2 Ed. 14.0 test standard MAD pour appareils auditifs. La performance peut varier selon l’utilisation.
+- Piles auditives VARTA POWER on Demand, 10/PR70 1,45V en blisters contenant 60 piles. Dimension de la cellule : 5.8mm de diamètre/ 3,6mm de hauteur
+- Conditionné dans un emballage pratique refermable avec une carte blister sécurisée à double couche pour plus de sécurité.
 - Les experts en batteries VARTA depuis 1887 garantissent des performances et une qualité de haut niveau "Made in Germany".
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

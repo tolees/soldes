@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mouton double face
-- 2 poches latérales fourrées laine
 - 2 boucles de resserrage au col et à la taille
+- 2 poches latérales fourrées laine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV7R1FY3{{</world>}}

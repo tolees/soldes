@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LES CARTONS à dessin Exacompta ont des plats dune grande rigidité et sont sans acide afin de transporter et archiver vos ouvrages sans les abimer ou les altérer
+- COULEUR : Annonay - papier marbré - fabriqué en France - certifié FSC
+- DOS TOILÉ renforcé permettant une capacité jusquà 3 cm dépaisseur
 - FERMETURE par 2 élastiques pour un excellent maintien des documents lors de larchivage ou du transport
 - INTERIEUR : garde blanche - dimensions : 37 x 52 cm ; format à classer B3 1/2 Raisin (353 x 500 mm)
-- DOS TOILÉ renforcé permettant une capacité jusquà 3 cm dépaisseur
-- COULEUR : Annonay - papier marbré - fabriqué en France - certifié FSC
+- LES CARTONS à dessin Exacompta ont des plats dune grande rigidité et sont sans acide afin de transporter et archiver vos ouvrages sans les abimer ou les altérer
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004LS4W4W{{</world>}}

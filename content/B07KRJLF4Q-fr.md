@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur: Weiss
 - Matériel: Aluminium
 - Number of items: 1.0
-- Couleur: Weiss
 - LED de qualité supérieure.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

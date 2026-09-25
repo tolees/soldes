@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Baskets de tennis basiques vulcanisées à coupe basse
 - Œillet et renard personnalisés
-- Col et talon de couleur contrastée
 - Logo classique sur le côté
+- Col et talon de couleur contrastée
+- Baskets de tennis basiques vulcanisées à coupe basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BS448HH7{{</world>}}

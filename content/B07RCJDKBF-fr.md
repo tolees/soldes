@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : GBH 18V-26 F, poignée supplémentaire, butée de profondeur, chiffon, mandrin interchangeable SDS plus, L-BOXX
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 - Le perforateur sans-fil GBH 18V-26 F Professional à mandrin automatique est un modèle universel de la gamme SDS plus
 - Travail sûr et maîtrise optimale grâce au système KickBack Control : arrêt automatique de l’outil en cas de danger
+- Livré avec : GBH 18V-26 F, poignée supplémentaire, butée de profondeur, chiffon, mandrin interchangeable SDS plus, L-BOXX
 - Perçage et burinage rapides grâce à l’énergie de frappe de 2,6 J
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RCJDKBF{{</world>}}

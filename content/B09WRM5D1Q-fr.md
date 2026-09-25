@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce gel hydratant ultra-matifiant pour les hommes ayant une peau normale à grasse est infusé de sels marins français purifiants pour absorber lexcès de sébum et la brillance tout en apportant une hydratation profonde.
-- Le gel T-Pur hydrate les peaux normales à grasses sans les rendre grasses et favorise une peau claire en contrôlant lexcès de sébum et la brillance. La peau est mate et hydratée pendant 8 heures, même dans des conditions extrêmes.
 - Utilisez le gel T-Pur tous les matins et tous les soirs sur une peau nettoyée. Versez une dose de gel dans la paume de la main. Appliquez sur le visage en partant du centre et en évitant le contour des yeux avec vos 2 mains. Terminez par le cou.
+- Le gel T-Pur hydrate les peaux normales à grasses sans les rendre grasses et favorise une peau claire en contrôlant lexcès de sébum et la brillance. La peau est mate et hydratée pendant 8 heures, même dans des conditions extrêmes.
+- Ce gel hydratant ultra-matifiant pour les hommes ayant une peau normale à grasse est infusé de sels marins français purifiants pour absorber lexcès de sébum et la brillance tout en apportant une hydratation profonde.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09WRM5D1Q{{</world>}}

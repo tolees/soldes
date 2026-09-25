@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture Éclair
-- Capuche fixe à cordon de serrage avec stoppeurs
 - Deux poches à bouton-pression à lavant
+- Capuche fixe à cordon de serrage avec stoppeurs
 - Col montant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

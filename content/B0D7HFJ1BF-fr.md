@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Panneau arrière en maille rembourré confortable avec canal et couche pour la colonne vertébrale
-- Ceinture amovible
 - NF00CF9C4GZ
+- Ceinture amovible
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7HFJ1BF{{</world>}}

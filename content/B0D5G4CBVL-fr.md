@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadre interne qui offre un support
 - Tige en textile léger
+- Cadre interne qui offre un support
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D5G4CBVL{{</world>}}

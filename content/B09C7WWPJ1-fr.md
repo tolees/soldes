@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique e
 - Facile à brancher : il suffit de configurer votre produit connecté WiZ via Wi-Fi et de contrôler la lumière via lapplication WiZ, votre interrupteur lumineux ou via la commande vocale
-- Contrôle facile via la voix : fonctionne avec Apple HomeKit / Google Assistant / Amazon Alexa
 - Contrôle indépendant de localisation : utilisez votre produit connecté WiZ de différentes façons pour créer latmosphère parfaite pour votre maison
+- Contrôle facile via la voix : fonctionne avec Apple HomeKit / Google Assistant / Amazon Alexa
 - WiZ Lapplication enregistre la consommation dénergie de vos lampes et lumières WIZ : regardez le rapport hebdomadaire ou quotidien et planifiez votre éclairage pour une consommation dénergie optimisée à la maison
+- Ce produit est un produit contenant. Les produits contenants sont luminaires qui peuvent être démontés afin de vérifier séparément la ou les sources lumineuses contenues. Ce produit contient une source lumineuse de classe defficacité énergétique e
 - Nuances de blancs et modes déclairage dynamiques : Faites varier la lumière du blanc chaud au blanc froid pour avoir la bonne lumière pour vos activités quotidiennes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

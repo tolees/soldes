@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Marqueur peinture permanent
-- Peinture noire indélébile, couvrante et brillante
 - Sutilise sur beaucoup de supports: verre, métal, plastique, caoutchouc, cuir..
 - Idéal pour le bricolage, lindustrie et la décoration
+- Peinture noire indélébile, couvrante et brillante
 - Pointe conique moyenne 4 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Design optimal, compact et léger
 - Objectif 35 mm au format DX à grande ouverture (équivalent 24x36 : 52,5 mm)
 - Formule optique avancée pour une netteté absolue, du centre à la périphérie
-- Design optimal, compact et léger
-- Deux modes de mise au point : M/A (autofocus à priorité manuelle) et M (mise au point manuelle)
 - Grande ouverture maximale f/1,8
 - Moteur SWM (Silent Wave Motor) pour un autofocus silencieux et rapide
+- Deux modes de mise au point : M/A (autofocus à priorité manuelle) et M (mise au point manuelle)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001S2PPT0{{</world>}}

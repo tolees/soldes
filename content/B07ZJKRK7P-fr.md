@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Doux et confortable
 - Poignets côtelés
-- 100 % coton
 - Taille élastique
 - Coupe : standard
+- 100 % coton
 - Logo imprimé sur la poche latérale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

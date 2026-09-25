@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
 - Batterie longue durée avec charge rapide : restez connecté toute la journée sans attendre
-- Design résistant et étanche : conçu pour durer, même dans des conditions extrêmes
 - Écran immersif 6,72’’ FHD+ 120Hz pour une fluidité et une expérience visuelle exceptionnelle
+- Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
+- Design résistant et étanche : conçu pour durer, même dans des conditions extrêmes
 - Double capteur photo 50MP pour des clichés nets et détaillés en toute situation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

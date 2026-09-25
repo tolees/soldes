@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- La qualité Schott NYC depuis 1913
 - Décontracté
 - Manche Longue
 - Fermeture éclair
-- La qualité Schott NYC depuis 1913
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00P5TW9FK{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Android
-- Mémoire 128. GB
 - G991B
+- Mémoire 128. GB
 - Type de produit Tà Là PHONE CELLULAIRE
+- Android
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08YRR97QQ{{</world>}}

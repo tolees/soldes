@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglable en hauteur : buste réglable en continu - Travailler assis ou debout
-- Mannequin couture réaliste T36/38 - hanches env. 88 cm, taille env. 65 cm, buste env. 86 cm
 - Couture : mannequin champagne pour couture - draper, épingler, mesurer les vêtements
+- Réglable en hauteur : buste réglable en continu - Travailler assis ou debout
 - Buste de couture en fibre de verre, revêtu de velours doux — pied en bois pour un maintien sûr
+- Mannequin couture réaliste T36/38 - hanches env. 88 cm, taille env. 65 cm, buste env. 86 cm
 - Décoration : mannequin de couture pour maison et boutiques - exposer tenues et vêtements
 
 [🛒 Achète-le!!]({{< param buyurl >}})

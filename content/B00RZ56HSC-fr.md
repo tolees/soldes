@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids de larticle: 19,21 kg
 - Technologie de la batterie: batterie humide
+- Modèle no. 580406074
+- Poids de larticle: 19,21 kg
 - Tension: 12 V
 - Capacité (Ah): 80 Ah
-- Modèle no. 580406074
 - Courant dessai à froid: 740 A
 - Dimensions (L x P x H): 315 x 175 x 175 mm
 

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglage sur 2 positions pour une assise relax
 - Balancelle automatique tout confort
-- Rires et diversion assurés !
 - 2 jouets en peluche à emporter partout avec vous
+- Rires et diversion assurés !
+- Réglage sur 2 positions pour une assise relax
 - Bébé fait virevolter ses adorables petits amis
 
 [🛒 Achète-le!!]({{< param buyurl >}})

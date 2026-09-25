@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SOLIDITÉ : liner triple épaisseur pour une résistance unique face aux dommages extérieurs
 - ENTRETIEN : facile à entretenir avec son épurateur à cartouche inclus
+- SOLIDITÉ : liner triple épaisseur pour une résistance unique face aux dommages extérieurs
 - SIMPLICITÉ : installation rapide et facile en 30 minutes
 - DIMENSIONS : (l)4,50 x (l)2,20 x (h)0,84m
 

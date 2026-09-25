@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 - Lumière blanche et froide
 - Ampoule LED longue durée de vie
 - Meilleur pour votre portefeuille et pour la planète
-- Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
-- Éclairage instantané, dès lallumage
 - Ampoule LED longue durée de vie
 - Lumière blanche et froide
+- Éclairage instantané, dès lallumage
 - Indice de rendu des couleurs élevé (IRC>80), pour des couleurs éclatantes
 - Meilleur pour votre portefeuille et pour la planète
 - Éclairage instantané, dès lallumage

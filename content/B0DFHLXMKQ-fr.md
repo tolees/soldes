@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ALIMENTATION DUAL POWER : Pour un maximum de flexibilité, il est possible d’utiliser soit une batterie Lithium-Ion de 3,7V soit des piles AA avec l’adaptateur piles
-- DEUX LIGNES LASER : le laser lignes GLL 20-22 G permet d’effectuer facilement des alignements. Grâce à la fenêtre en forme de U, la ligne laser horizontale peut être projetée encore plus loin.
-- DES RÉSULTATS PRÉCIS : Réalise des mesures extrêmement fiables avec une précision de ± 0,3 mm/m *
 - GRANDE ROBUSTESSE : Boîtier solide avec renfort en caoutchouc résistant à l’eau et à la poussière avec son indice de protection IP65
 - LIVRÉ AVEC : laser lignes GLL 20-22 G, support de fixation LB 10, cible laser, housse de protection, 2 piles 1,5 V LR6
+- DES RÉSULTATS PRÉCIS : Réalise des mesures extrêmement fiables avec une précision de ± 0,3 mm/m *
+- DEUX LIGNES LASER : le laser lignes GLL 20-22 G permet d’effectuer facilement des alignements. Grâce à la fenêtre en forme de U, la ligne laser horizontale peut être projetée encore plus loin.
+- ALIMENTATION DUAL POWER : Pour un maximum de flexibilité, il est possible d’utiliser soit une batterie Lithium-Ion de 3,7V soit des piles AA avec l’adaptateur piles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DFHLXMKQ{{</world>}}

@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lavage en machine
-- Manche courte
 - Slim
 - Type de col: Club
-- Fermeture: Enfiler
 - 100% Polyester
+- Fermeture: Enfiler
+- Manche courte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07W82QMKN{{</world>}}

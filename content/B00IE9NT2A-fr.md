@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Saillie (en mm) : 166
-- Montage mural apparent
 - GROHE StarLight Chrome éclatant et durable
 - Inverseur automatique pour 2 sorties
+- Saillie (en mm) : 166
 - Levier de commande métallique
+- Montage mural apparent
 - GROHE Longlife cartouche en céramique 46 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

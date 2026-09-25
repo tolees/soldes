@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GROHE StarLight Chrome éclatant et durable
 - Flexibles de raccordement souples
 - Tirette et garniture de vidage 1-1/4"
-- GROHE EcoJoy mousseur 5 litres/min
 - GROHE FastFixation – installation rapide, fluide et flexible
-- GROHE SilkMove Cartouche en céramique 35 mm
 - Limiteur de débit ajustable
 - Garantie fabricant : 5 ans
+- GROHE StarLight Chrome éclatant et durable
+- GROHE SilkMove Cartouche en céramique 35 mm
+- GROHE EcoJoy mousseur 5 litres/min
 - Robinet monotrou sur plage et levier de commande métallique
 - GROHE SilkMove ES Cartouche en céramique 28 mm avec économie d’énergie ouverture eau froide au centre
 

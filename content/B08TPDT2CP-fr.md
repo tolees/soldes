@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 1 triple brûleur.
 - Réglage mécanique.
+- Plan de travail au gaz avec 3 zones.
 - Brûleurs à gaz sur plaque en verre.
 - Grilles en fonte.
-- Plan de travail au gaz avec 3 zones.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08TPDT2CP{{</world>}}

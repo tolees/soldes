@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester, lavable à 30°
-- Produit bénéficiant de la Garantie Doudou. Grace à son numéro unique, doudou perdu est vite retrouvé! Plus de renseignements sur doudouetcompagnie.com
 - Dès la naissance
 - Présenté dans un sac de protection individuel
+- 100% Polyester, lavable à 30°
+- Produit bénéficiant de la Garantie Doudou. Grace à son numéro unique, doudou perdu est vite retrouvé! Plus de renseignements sur doudouetcompagnie.com
 - A la fois ludique et esthétique, ce doudou marionnette Ours Petit Chou permet des moments de complicité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

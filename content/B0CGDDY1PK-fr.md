@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour la première fois, un doublage en Français
-- Le plus large choix de personnages jamais vu dans un jeu Naruto
 - Revivez la rivalité entre Naruto et Sasuke dans un seul jeu
+- Pour la première fois, un doublage en Français
 - Profitez d’un mode histoire spécial développé exclusivement pour le jeu
+- Le plus large choix de personnages jamais vu dans un jeu Naruto
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CGDDY1PK{{</world>}}

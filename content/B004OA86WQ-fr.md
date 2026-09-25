@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tailles disponibles : 1, 3, 6 tasses
 - Designer: Alessandro Mendini
 - Taille et capacité : diamètre 10,4 cm, hauteur 20,6 cm, capacité 30 cl
-- Matériau : aluminium moulé avec poignée et bouton en résine thermoplastique noire
 - La cafetière moka dAlessi a une forme arrondie qui exprime sa parenté avec la moka traditionnelle, véritable éloge du rituel quotidien de la préparation du café
-- Tailles disponibles : 1, 3, 6 tasses
+- Matériau : aluminium moulé avec poignée et bouton en résine thermoplastique noire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004OA86WQ{{</world>}}

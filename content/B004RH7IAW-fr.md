@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amplificateurs de précision classe 1/B avec protection active des circuits : 100 W pour les fréquences basses et 50 W pour les fréquences hautes
+- Woofer 8" longue portée avec cône anti-déformation en Kevlar pour une réponse de basse ultime
 - Caractéristiques de dispersion exceptionnelles et un « sweet spot » étendu grâce à la technologie advanced wave guide
 - Tweeter 1" à dôme en soie ultra haute résolution pour une reproduction sonore ultime
 - Enceinte de studio actif à large réponse en fréquence linéaire
-- Woofer 8" longue portée avec cône anti-déformation en Kevlar pour une réponse de basse ultime
+- Amplificateurs de précision classe 1/B avec protection active des circuits : 100 W pour les fréquences basses et 50 W pour les fréquences hautes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004RH7IAW{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Slip-Ins
 - Mousse viscoélastique
+- Slip-Ins
 - Slip Ins intégrés
 - Produit végétalien
 

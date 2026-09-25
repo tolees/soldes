@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accepte tous les accessoires ayant un diamètre de 0,8mm à 3,2mm
-- Produit pour servir de colonne de perçage pour percer des trous parfaits, comme porte-outil pour avoir les mains libres ou comme support d’outil pour travailler avec grande précision avec l’adaptation arbre flexible.
-- Transformer votre outil multifonctions Dremel en perceuse à colonne (accessoires de perçage non fournis)
-- L’outil fixé au support est inclinable jusqu’à 90 degrés par incréments de 15 degrés pour répondre aux besoins de chaque projet
 - Contenu: 1x mandrin universel Dremel
+- Accepte tous les accessoires ayant un diamètre de 0,8mm à 3,2mm
+- L’outil fixé au support est inclinable jusqu’à 90 degrés par incréments de 15 degrés pour répondre aux besoins de chaque projet
 - Indispensable pour lutilisation des forets de perçage Dremel 628
-- Les marquages en pouces et en centimètres sur l’embase assurent des mesures précises et des réglages cohérents (pince de serrage non fournie)
+- Transformer votre outil multifonctions Dremel en perceuse à colonne (accessoires de perçage non fournis)
 - Pour un changement rapide et facile daccessoire sans clé ni pince
+- Les marquages en pouces et en centimètres sur l’embase assurent des mesures précises et des réglages cohérents (pince de serrage non fournie)
+- Produit pour servir de colonne de perçage pour percer des trous parfaits, comme porte-outil pour avoir les mains libres ou comme support d’outil pour travailler avec grande précision avec l’adaptation arbre flexible.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M8LGU71{{</world>}}

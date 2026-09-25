@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Détails réfléchissants à 360° pour une visibilité nocturne
 - Idéal pour les séances dentraînement du soir ou du matin
-- PureGEL pour un amorti tout en douceur
 - Tige respirante et moderne
+- PureGEL pour un amorti tout en douceur
 - FF BLAST+ Eco pour une réactivité accrue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

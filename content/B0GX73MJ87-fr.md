@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CONNECTEZ-VOUS AUX VISITEURS : voyez, entendez et parlez en temps réel avec la vidéo en direct et le système audio bidirectionnel.
 - Ce pack inclut 1 Echo Dot (nouvelle génération) et 1 sonnette vidéo Ring sans fil (Battery Video Doorbell, nouvelle génération) : tout ce dont vous avez besoin pour démarrer votre maison connectée.
-- UN SON PUISSANT : expérience audio améliorée, avec des voix plus claires et des basses plus profondes, pour une expérience Echo Dot immersive.
-- CAPTUREZ CHAQUE DÉTAIL AVEC LA VIDÉO RETINAL 2K : des plans larges aux plus rapprochés, observez votre domicile ou votre entreprise avec une vidéo dune netteté remarquable.
-- SIMPLIFIEZ-VOUS LA VIE : contrôlez les appareils connectés compatibles avec votre voix ou programmez des routines relatives à la température.
 - MUSIQUE ET PODCASTS : écoutez de la musique, des livres audio et des podcasts depuis Amazon Music, Audible, Apple Music, Spotify, Deezer et bien plus, via Wi-Fi ou Bluetooth.
+- UN SON PUISSANT : expérience audio améliorée, avec des voix plus claires et des basses plus profondes, pour une expérience Echo Dot immersive.
+- SIMPLIFIEZ-VOUS LA VIE : contrôlez les appareils connectés compatibles avec votre voix ou programmez des routines relatives à la température.
+- CAPTUREZ CHAQUE DÉTAIL AVEC LA VIDÉO RETINAL 2K : des plans larges aux plus rapprochés, observez votre domicile ou votre entreprise avec une vidéo dune netteté remarquable.
+- CONNECTEZ-VOUS AUX VISITEURS : voyez, entendez et parlez en temps réel avec la vidéo en direct et le système audio bidirectionnel.
 - ZOOMEZ JUSQU’À 6x : repérez des détails à distance, inspectez les visages et plus encore grâce au zoom amélioré jusqu’à 6x.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

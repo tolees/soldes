@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col polo
 - Ajustée
 - Patte à trois boutons
+- Col polo
 - Drapeau tommy hilfiger brodé sur la poitrine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

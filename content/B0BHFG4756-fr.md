@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cette poupée articulée est vendue dans un emballage à collectionner, aux couleurs du film Barbie. Découvrez toute la collection pour encore plus d’idées de cadeaux extraordinaires ! Articles vendus séparément. Certains produits peuvent ne pas être commercialisés.
-- Ses longs cheveux blonds sont coiffés en demi-queue de cheval et noués avec un ruban rose, pour mettre en valeur ses boucles d’oreilles en forme de marguerites.
 - Replongez dans l’univers du film Barbie avec cette poupée Barbie de collection ! Dans sa robe vichy rose, elle est prête à vivre une journée inoubliable à Barbie Land.
 - Elle porte aussi un collier de marguerites pour une ressemblance totale avec son personnage à l’écran ! Un adorable bracelet rose et des escarpins ornés de cœurs apportent la touche finale à son look.
+- Ses longs cheveux blonds sont coiffés en demi-queue de cheval et noués avec un ruban rose, pour mettre en valeur ses boucles d’oreilles en forme de marguerites.
 - La poupée Barbie reprend un look vintage : une robe à carreaux roses et blancs, avec une ceinture assortie et une jupe plissée évasée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

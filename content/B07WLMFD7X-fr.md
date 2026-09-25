@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe régulière
 - Department: Garçon
 - 100% polyester
+- Coupe régulière
 - Pattern: Uni
 
 [🛒 Achète-le!!]({{< param buyurl >}})

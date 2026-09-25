@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système vidéo auto
 - Pioneer AVH-Z5200DAB
+- Système vidéo auto
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07NLB2L8B{{</world>}}

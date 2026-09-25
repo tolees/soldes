@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réduit et prévient la perte de poils, matifie, clarifie
 - Rincez soigneusement à leau chaude. Utilisez les ventouses 2-3 fois par semaine pour obtenir les meilleurs résultats.
+- Réduit et prévient la perte de poils, matifie, clarifie
 - Convient pour : visage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti confortable
-- Tige en matière synthétique
 - Chaussant standard
+- Tige en matière synthétique
 - Doublure textile
 - Semelle de propreté en EVA
 - Fermeture à lacets
+- Amorti confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NL3TLDB{{</world>}}

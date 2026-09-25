@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Régulier
 - Lavage en machine
+- Régulier
 - 100% Coton
 - Fermeture éclair
 

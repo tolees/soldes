@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Au campement comme dans les voies, ce sweat à capuche MILLET pour homme apporte le confort thermique de sa matière épaisse à l’intérieur gratté très doux
 - Coupe régulière ; Matière en coton organic et polyester ; Poches repose-mains ; Graphisme exclusif Millet ; Poignets et bas de vêtement finition bord-côtes ; Sweat molleton à capuche; Capuche attenante avec serrage par cordon ; Capuche doublée en jersey
 - Fabriqué en Europe, ce sweat d’escalade contient 84% de coton biologique pour une résistance durable
 - Sa coupe un peu large et ses finitions de manches en bord-côtes lui donnent un look très actuel
-- Au campement comme dans les voies, ce sweat à capuche MILLET pour homme apporte le confort thermique de sa matière épaisse à l’intérieur gratté très doux
 - Doté d’une coupe un peu ample au style actuel, il est relevé d’un logo sur la poitrine et complété d’une poche kangourou
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grille pain : Fonction « Lift and Look » pour surveiller la cuisson du pain - 6 niveaux de cuisson
-- Bouilloire : Bouilloire 2400W - Illumination bleue pendant l’ébullition
-- Set petit-déjeuner incluant 1 bouilloire 1,7L et 1 grille pain Inspire
 - Bouilloire : Bec verseur designé pour un écoulement parfait
+- Set petit-déjeuner incluant 1 bouilloire 1,7L et 1 grille pain Inspire
+- Bouilloire : Bouilloire 2400W - Illumination bleue pendant l’ébullition
 - Grille pain : Grille pain 1050W - Fentes XL pour tous types de pain
 
 [🛒 Achète-le!!]({{< param buyurl >}})

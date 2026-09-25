@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus synthétique texturé en cuir lisse et propre
-- Coutures apparentes
 - Baskets tendance à lacets
+- Coutures apparentes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DZK66WMD{{</world>}}

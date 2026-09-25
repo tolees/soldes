@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Revêtement de surface résistant aux rayures et durable, bords résistants aux chocs et aux chocs, table ergonomique avec réglage électrique de la hauteur, choix de différentes couleurs possible, écologique, emballé sans polystyrène
-- Tous les meubles Germania sont développés et fabriqués en Allemagne.
 - Dimensions assemblées env. 160 x 119 x 80 cm (LxHxP)
-- Bureau réglable en hauteur électriquement (monomoteur) avec deux pieds en T ; hauteur réglable de 71 à 119 cm
 - Plateau en aggloméré recouvert de résine mélaminée ; structure en métal thermolaqué
+- Tous les meubles Germania sont développés et fabriqués en Allemagne.
+- Bureau réglable en hauteur électriquement (monomoteur) avec deux pieds en T ; hauteur réglable de 71 à 119 cm
+- Revêtement de surface résistant aux rayures et durable, bords résistants aux chocs et aux chocs, table ergonomique avec réglage électrique de la hauteur, choix de différentes couleurs possible, écologique, emballé sans polystyrène
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F3XWJ741{{</world>}}

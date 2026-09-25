@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vitesse en écriture jusquà 550 Mo/s
-- Nous recommandons l’installation par un professionnel
-- Basse consommation pour une durée de vie supérieure de la batterie
-- Améliorez les performances de votre PC et lancez vos applications plus rapidement
 - SSD interne 2,5" SATA III 7 mm
 - Haute fiabilité avec contrôleur flash de qualité supérieure
+- Vitesse en écriture jusquà 550 Mo/s
+- Améliorez les performances de votre PC et lancez vos applications plus rapidement
+- Nous recommandons l’installation par un professionnel
+- Basse consommation pour une durée de vie supérieure de la batterie
 - SSD idéal pour la mise à niveau de votre ordinateur portable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

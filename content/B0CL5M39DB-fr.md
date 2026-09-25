@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pu Outsole
-- Textile Lining
 - Textile Laces
+- Pu Outsole
 - Pebble Full Grain Leather
 - Designed For Comfort And Fit
+- Textile Lining
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CL5M39DB{{</world>}}

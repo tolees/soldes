@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu - 300 ml
-- Un produit de beauté et santé original et etxclusif.
 - Marque - Garnier
+- Un produit de beauté et santé original et etxclusif.
+- Contenu - 300 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00X9UAQES{{</world>}}

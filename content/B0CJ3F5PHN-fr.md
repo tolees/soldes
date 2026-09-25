@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : Tissu
 - Type de Talon : Plat
 - Type de fermeture : Lacet
+- Matériau extérieur : Tissu
 - Matériau unique : 100% EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

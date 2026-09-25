@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Système de laçage rapide
-- Tige en ripstop et bout moulé
 - Une chaussure de randonnée imperméable, conçue en partie à base de matières recyclées
+- Tige en ripstop et bout moulé
+- Système de laçage rapide
 - Chaussant standard
 - Membrane GORE-TEX
 

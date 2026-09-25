@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de modèle : résine
 - Les produits internationaux ont des conditions distinctes, sont vendus depuis létranger et peuvent différer des produits locaux, notamment en ce qui concerne lajustement, la classification par âge et la langue du produit, létiquetage ou les instructions.
-- Les informations ci-dessous sappliquent à chaque unité du pack
+- Type de modèle : résine
 - Aileron de radiateur : oui
+- Les informations ci-dessous sappliquent à chaque unité du pack
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZNL9RBY{{</world>}}

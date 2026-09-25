@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche antidérapant souple
-- Fabrication sans BPA
 - La glace se détache facilement par simple pression du manche ergonomique confortable
 - Polypropylène et acier inoxydable
+- Manche antidérapant souple
+- Fabrication sans BPA
 - Servez des délices glacés en un tour de main grâce à notre cuillère à glace à gâchette OXO
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : PAO 18V, 1 clip de pompe à air pour valve de pneu, 1 valve française (Presta), 1 aiguille à ballon, 1 adaptateur de débit
-- Contrôle intelligent: Après présélection de la pression souhaitée, la fonction arrêt automatique se charge d’interrompre le gonflage quand la pression est atteinte
-- Performances élevées : Délivre jusqu’à 10,3 bar pour les tâches de gonflage sous pression exigeantes
 - Débit d’air élevé: Gonflage/dégonflage rapide avec un impressionnant débit d’air de 400 l/min.
+- Performances élevées : Délivre jusqu’à 10,3 bar pour les tâches de gonflage sous pression exigeantes
+- Contrôle intelligent: Après présélection de la pression souhaitée, la fonction arrêt automatique se charge d’interrompre le gonflage quand la pression est atteinte
+- Livré avec : PAO 18V, 1 clip de pompe à air pour valve de pneu, 1 valve française (Presta), 1 aiguille à ballon, 1 adaptateur de débit
 - POWER FOR ALL ALLIANCE: 1 BATTERIE, ​10+ MARQUES, ​150+ OUTILS
 
 [🛒 Achète-le!!]({{< param buyurl >}})

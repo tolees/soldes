@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pulp Fiction
 - Type de produit : PHYSICAL_MOVIE
+- Pulp Fiction
 - Marque : Paramount Pictures
 
 [🛒 Achète-le!!]({{< param buyurl >}})

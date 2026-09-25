@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Offre une Bonne stabilité
-- Convient pour une utilisation sur des sols solides ou artificiels
 - Puma Détails de la marque
+- Convient pour une utilisation sur des sols solides ou artificiels
 - Tige en maille légère enrichie en cuir
 - Coupe basse à enfiler
 - Coupe droite à étroite

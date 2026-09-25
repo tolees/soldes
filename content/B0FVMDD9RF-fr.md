@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille basse
-- Coupe décontractée
 - Poches pratiques multiples
+- Coupe décontractée
 - Coutures renforcées pour plus de durabilité
 - Fermeture par bouton et zip
+- Taille basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FVMDD9RF{{</world>}}

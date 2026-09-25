@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les câbles USB-C ne sont pas inclus
-- La gestion des câbles réduit lencombrement des câbles et garantit un lieu de travail bien rangé
-- Réglable en hauteur pour un meilleur confort ergonomique
-- Bouton bascule du menu EasySelect pour un accès rapide au menu à lécran
-- Mode EasyRead pour une expérience de lecture semblable à celle du papier
 - Mode LowBlue et visualisation sans scintillement et respectueuse des yeux
+- Bouton bascule du menu EasySelect pour un accès rapide au menu à lécran
+- La gestion des câbles réduit lencombrement des câbles et garantit un lieu de travail bien rangé
+- Mode EasyRead pour une expérience de lecture semblable à celle du papier
+- Réglable en hauteur pour un meilleur confort ergonomique
+- Les câbles USB-C ne sont pas inclus
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D5CSP9FZ{{</world>}}

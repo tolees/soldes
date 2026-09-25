@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle extérieure gaufrée originale
 - Style de plateforme
 - Dessus à double couture pour plus de durabilité
-- Semelle extérieure gaufrée originale
 - Vans Marque Sidestripe
 - Construction vulcanisée
 

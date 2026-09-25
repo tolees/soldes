@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intérieure Ortholite pour le rembourrage et la respirabilité
-- Semelle extérieure en EVA pour un poids léger
 - Certificat du groupe Leather Working Group
+- Semelle extérieure en EVA pour un poids léger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BQB6ST1Z{{</world>}}

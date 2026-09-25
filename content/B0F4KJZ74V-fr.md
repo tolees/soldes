@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pur coton peigné
 - Ruban emblématique à lintérieur du cou
 - Col, poignets et ourlet côtelés
+- Pur coton peigné
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4KJZ74V{{</world>}}

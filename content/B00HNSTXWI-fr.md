@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couvercle et touche de déclenchement
 - Blanc ASA
 - Simple touche AP128
-- Couvercle et touche de déclenchement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HNSTXWI{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DE LESPRESSO AU CAFÉ ALLONGÉ : Les meilleurs arômes de vos grains fraîchement moulus révélés à chaque tasse grace au contrôle du broyage et de la température de Krups.
 - NETTOYAGE 100% AUTOMATIQUE, 0% DEFFORT : Une pastille 3x/an environ, sans rien à démonter dans la machine. Rinçage interne après chaque café.
-- UNE DES MACHINES À CAFÉ GRAINS AUTOMATIQUES LES PLUS COMPACTES DU MARCHÉ (L 24,5 X P 33 X H 36,5 CM) : Réservoir d’eau 1,7 L, bac à grains 260 g.
-- BUSE VAPEUR INTÉGRÉE : Réalisez chez vous des cappuccinos onctueux avec une mousse parfaite. Facile à utiliser et à nettoyer.
 - INTERFACE INTUITIVE : Commandes par boutons avec LED lumineuses pour un usage fluide, simple et rapide au quotidien.
+- UNE DES MACHINES À CAFÉ GRAINS AUTOMATIQUES LES PLUS COMPACTES DU MARCHÉ (L 24,5 X P 33 X H 36,5 CM) : Réservoir d’eau 1,7 L, bac à grains 260 g.
+- DE LESPRESSO AU CAFÉ ALLONGÉ : Les meilleurs arômes de vos grains fraîchement moulus révélés à chaque tasse grace au contrôle du broyage et de la température de Krups.
 - RÉPARABILITÉ 15 ANS AU JUSTE PRIX : Produit réparable dans notre réseau de 6200 réparateurs dans le monde pour prolonger sa durée de vie.
+- BUSE VAPEUR INTÉGRÉE : Réalisez chez vous des cappuccinos onctueux avec une mousse parfaite. Facile à utiliser et à nettoyer.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00I96M2GW{{</world>}}

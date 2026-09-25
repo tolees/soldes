@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Facile à utiliser grâce aux boutons de verrouillage】 Trois boutons de verrouillage assurent une installation sans effort et une sécurité fiable. Desserrez les boutons pour régler librement les angles de la tête sphérique, faire pivoter en douceur lappareil photo pour les prises de vue panoramiques, et libérer la plaque à dégagement rapide. Serrez-les pour tout fixer fermement en place.
+- 【360° de rotation et 90° dinclinaison】 Faites pivoter la rotule 36 mm à 360° ou inclinez-la à 90° dans lencoche en U pour un positionnement flexible de lappareil photo. La base panoramique avec une échelle de 360° permet une photographie panoramique précise et fluide. Et un niveau à bulle vous aide à garder facilement lhorizon droit.
 - 【Plaque QR compatible avec Arca Swiss】 La plaque à dégagement rapide de type Arca de 38 mm assure un montage sûr et rapide de lappareil photo, et la vis de montage de 1/4" est compatible avec une large gamme dappareils photo reflex numériques, dappareils photo sans miroir et de caméscopes. Les coussinets en caoutchouc protègent votre appareil coûteux contre les rayures.
+- 【Facile à utiliser grâce aux boutons de verrouillage】 Trois boutons de verrouillage assurent une installation sans effort et une sécurité fiable. Desserrez les boutons pour régler librement les angles de la tête sphérique, faire pivoter en douceur lappareil photo pour les prises de vue panoramiques, et libérer la plaque à dégagement rapide. Serrez-les pour tout fixer fermement en place.
 - 【Tête de balle à profil bas】 Dotée dun centre de gravité plus bas, cette tête de caméra est plus stable et capable de supporter une charge jusquà 33lb (15kg). Le filetage inférieur de 3/8" avec ladaptateur de vis de 3/8" à 1/4" sadapte à la plupart des trépieds, Monopodes, Slider, etc.
 - 【Alliage daluminium usiné par CNC】 Conçue avec un alliage daluminium usiné CNC de qualité supérieure, la tête de trépied garantit une durabilité et des performances élevées dans différentes circonstances, en intérieur comme en extérieur. Pesant seulement 10,9 oz (310 g), elle offre une portabilité pratique pour les photographes en déplacement.
-- 【360° de rotation et 90° dinclinaison】 Faites pivoter la rotule 36 mm à 360° ou inclinez-la à 90° dans lencoche en U pour un positionnement flexible de lappareil photo. La base panoramique avec une échelle de 360° permet une photographie panoramique précise et fluide. Et un niveau à bulle vous aide à garder facilement lhorizon droit.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8CKD3TN{{</world>}}

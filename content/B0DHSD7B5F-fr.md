@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Minecraft devient réel – Les sets LEGO Minecraft proposent aux fans une nouvelle façon d’apprécier le célèbre jeu vidéo en donnant vie à des créatures, des lieux et des fonctions bien connus grâce à l’univers créatif des briques LEGO
+- Jouet interactif avec accessoires Minecraft – Enfants & adolescents peuvent utiliser les armes, les potions et les poignées amovibles pour positionner les personnages et recréer des combats du jeu vidéo
+- Manoir Minecraft à construire – Le jeu de construction inclut un ring de combat fonctionnel avec des marqueurs de points, devant une façade de manoir qui contient un coffre amovible & un porte-armes
 - Minifigurines Minecraft – Ce set LEGO met également en scène des personnages du film : Steve, Garrett, Henry, un bébé zombie, une poule chevauchée & un Grand Pourceau articulé
 - Cadeau Minecraft pour gamer, garçon ou fille, dès 10 ans – Offrez aux joueurs de Minecraft et aux fans du film, ce jouet à construire inspiré du jeu vidéo, afin quils puissent vivre des aventures avec les minifigurines LEGO Minecraft
 - Instructions en 3D – Téléchargez l’application LEGO Builder pour une expérience de construction immersive, avec des outils numériques pour zoomer et faire pivoter les modèles en 3D, enregistrer les sets et suivre la progression
-- Jouet interactif avec accessoires Minecraft – Enfants & adolescents peuvent utiliser les armes, les potions et les poignées amovibles pour positionner les personnages et recréer des combats du jeu vidéo
-- Manoir Minecraft à construire – Le jeu de construction inclut un ring de combat fonctionnel avec des marqueurs de points, devant une façade de manoir qui contient un coffre amovible & un porte-armes
+- Minecraft devient réel – Les sets LEGO Minecraft proposent aux fans une nouvelle façon d’apprécier le célèbre jeu vidéo en donnant vie à des créatures, des lieux et des fonctions bien connus grâce à l’univers créatif des briques LEGO
 - Jeu de construction LEGO Minecraft pour garçon ou fille dès 10 ans – Les enfants et adolescents qui aiment les jeux vidéo et Minecraft : Le Film peuvent donner vie à des scènes de combat
 
 [🛒 Achète-le!!]({{< param buyurl >}})

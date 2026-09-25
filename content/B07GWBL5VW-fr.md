@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- vinyl album/LP (12" size)
-- Genre: Jazz
 - released 2018 in Europe by Columbia (19075883491)
+- Genre: Jazz
+- vinyl album/LP (12" size)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GWBL5VW{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notre nouveau fluide de protection quotidienne solaire SPF 50+ à la niacinamide, pour vous aider à réduire les timperfections
 - protège des UVA, UVB & UVA longs
+- Notre nouveau fluide de protection quotidienne solaire SPF 50+ à la niacinamide, pour vous aider à réduire les timperfections
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CPFXGX57{{</world>}}

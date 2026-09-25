@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
-- COMPACT ET ERGONOMIQUE : Compact, léger et ergonomique, cet outil dispose d’un centre de gravité facilitant le maniement et réduisant la fatigue.
-- TRAVAIL PLUS PROPRE : Grâce au dispositif d’aspiration GDE 18V-12 Professional spécialement conçu pour faciliter les travaux en hauteur
-- FONCTIONS DE PROTECTION INTELLIGENTES : Maîtrise parfaite grâce au KickBack Control et moins de vibrations dans les bras et les mains grâce au Vibration Control
 - Livré avec : GBH 18V-22, calage L-BOXX pleine largeur, L-BOXX
+- FONCTIONS DE PROTECTION INTELLIGENTES : Maîtrise parfaite grâce au KickBack Control et moins de vibrations dans les bras et les mains grâce au Vibration Control
+- AMPShare : Les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
+- TRAVAIL PLUS PROPRE : Grâce au dispositif d’aspiration GDE 18V-12 Professional spécialement conçu pour faciliter les travaux en hauteur
+- COMPACT ET ERGONOMIQUE : Compact, léger et ergonomique, cet outil dispose d’un centre de gravité facilitant le maniement et réduisant la fatigue.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CGX955C4{{</world>}}

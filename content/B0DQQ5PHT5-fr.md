@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Texture fraîche et ultra sensorielle
 - Disponible dans 6 teintes modulables pour toutes les carnations.
+- Texture fraîche et ultra sensorielle
 - Formule composée à 98 % dingrédients naturels
 - Formulée avec un mélange de vitamines E et B5 pour offrir jusquà 24 heures dhydratation
 - Glow* effet peau nue (*éclat)

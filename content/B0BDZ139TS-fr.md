@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- UNE VILLE DYNAMIQUE ET IMMERSIVE
 - CONTENU ADDITIONNEL : L’édition Deluxe dAssassins Creed Mirage comprend le contenu numérique sous forme de code dans la boîte : Une tenue inspirée par Prince of Persia, des apparences daigle et de monture, des armes et bien plus ! Contenu bonus: un artbook numérique et la bande originale numérique.
-- L’ASSASSIN ULTIME
+- Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
 - UN HOMMAGE À L’OPUS ORIGINAL
 - UN PUISSANT RÉCIT INITIATIQUE
-- UNE VILLE DYNAMIQUE ET IMMERSIVE
-- Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
+- L’ASSASSIN ULTIME
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BDZ139TS{{</world>}}

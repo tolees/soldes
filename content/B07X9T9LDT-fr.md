@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coton et élasthanne
 - Col polo avec patte à deux boutons
 - En achetant des produits en coton chez PUMA, vous soutenez une culture du coton plus durable. En savoir plus sur PUMA.COM/FOREVERBETTER
-- Coton et élasthanne
 - Logo PUMA Cat sur le côté droit de la poitrine
 
 [🛒 Achète-le!!]({{< param buyurl >}})

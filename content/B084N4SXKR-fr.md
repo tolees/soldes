@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Polyester
-- Classique
 - Retirer la bordure de capuche avant le lavage
+- Classique
+- 100% Polyester
 - Manche longue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

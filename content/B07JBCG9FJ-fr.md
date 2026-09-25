@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception de qualité, bords découpés avec précision pour une taille uniforme
-- Lignées d’un côté pour une prise de notes facile
 - Lot de 200 cartes d’index fluo, avec 4 couleurs fluo assorties
+- Conception de qualité, bords découpés avec précision pour une taille uniforme
 - Dimensions : 5.67*4.12 inch
+- Lignées d’un côté pour une prise de notes facile
 - Idéales pour les projets avec code couleur, pour faire des fiches de révision, pour étudier, pour faire des listes, et bien plus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

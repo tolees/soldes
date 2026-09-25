@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - VOTRE ROUTINE NIOXIN : Pour un résultat optimal, intégrez le Sérum Antichute à l’un de nos Kits de soins des cheveux NIOXIN et complétez avec Night Density Rescue, notre sérum de nuit sans rinçage
 - SERUM CHEVEUX VOLUMATEUR : Sa formule enrichie à base de SANDALORE, de caféine, dacide laurique et de niacinamide rend vos cheveux visiblement plus épais dès la 1ère utilisation
-- CONSEILS D’UTILISATION : Appliquez 12 à 15 pressions du sérum sur cheveux secs ou humides, Massez uniformément votre cuir chevelu, Ne pas rincer - Sans sulfates, sans colorants ni parabènes
 - SERUM POUSSE CHEVEUX : Sérum antichute sans rinçage pour des cheveux plus denses, plus épais et plus résistants en seulement 8 semaines dutilisation,
+- CONSEILS D’UTILISATION : Appliquez 12 à 15 pressions du sérum sur cheveux secs ou humides, Massez uniformément votre cuir chevelu, Ne pas rincer - Sans sulfates, sans colorants ni parabènes
 - RÉDUIT LA PERTE DE CHEVEUX : Vos cheveux sont naturellement plus denses, plus résistants et plus fortifiés à la racine - 93% des consommateurs ont constaté une baisse significative de cheveux sur leur brosse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

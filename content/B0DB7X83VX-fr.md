@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TWISTRUSS pour des mouvements fluides et stables
 - Idéal pour le volley-ball de compétition
 - Tige respirante et renforcée
+- TWISTRUSS pour des mouvements fluides et stables
 - Semelle intérieure à adhérence maximale
 - Amorti FLYTEFOAM pour un amorti léger et réactif
 

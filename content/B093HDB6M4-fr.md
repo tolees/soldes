@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Matérial de la Boîtier: Titane
-- Mouvement
-- - Verre: Verre Saphir
 - Boîtier
 - - Couleur de la Boîte: Gris
+- Mouvement
+- - Matérial de la Boîtier: Titane
+- - Verre: Verre Saphir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B093HDB6M4{{</world>}}

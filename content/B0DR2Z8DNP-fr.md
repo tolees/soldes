@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle intérieure confortable moulée qui soutient chaque pas
 - Dessus en cuir combiné de qualité supérieure
 - Détails passepoilés résistants
-- Semelle intérieure confortable moulée qui soutient chaque pas
 - Lacets et fermeture éclair latérale se combinent pour un enfilage facile et un pied sûr
 - Semelle en caoutchouc durable offrant une excellente adhérence
 

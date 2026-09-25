@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longueur : 18 cm
-- Système bipolaire auto-alimentée jetable stérile pour la cauterizzazione de petits pots
 - Pile alcaline interne à longue durée de vie (environ 60 minutes)
+- Longueur : 18 cm
 - Température sur la pointe de 800 °c
 - Poids : 65 g
+- Système bipolaire auto-alimentée jetable stérile pour la cauterizzazione de petits pots
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01EFYURMW{{</world>}}

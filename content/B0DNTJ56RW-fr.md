@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu éponge en pur coton
-- Épaules tombantes
+- Poignets et ourlet côtelés
 - Standard
 - Poche kangourou
+- Épaules tombantes
+- Tissu éponge en pur coton
 - Encolure à capuche avec cordon de serrage
-- Poignets et ourlet côtelés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DNTJ56RW{{</world>}}

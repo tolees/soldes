@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Etui rigide Noir
 - Manche gomme Noir
+- Etui rigide Noir
 - Lame 6 cm inox
 - Poignard MORA ELDRISS
 

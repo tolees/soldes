@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sécurisé par une fermeture rapide à crochet et boucle
-- Poignée de transport rembourrée
-- Extérieur robuste en nylon 600 deniers
-- Disponible en violet
 - Comprend une bandoulière rembourrée et une étiquette didentification
+- Disponible en violet
+- Extérieur robuste en nylon 600 deniers
+- Poignée de transport rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009IDTQZU{{</world>}}

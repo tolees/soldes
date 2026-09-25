@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- coupe ajustée
-- 100% coton
-- Pantalon Army Ceinture Schott nyc
 - Entretien: lavage machine
+- Pantalon Army Ceinture Schott nyc
+- 100% coton
+- coupe ajustée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09C8TKBXQ{{</world>}}

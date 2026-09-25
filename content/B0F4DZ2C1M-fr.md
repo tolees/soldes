@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - ACTIVE AIR COOLING 3.0 :Réduit les temps d’arrêt en refroidissant la batterie avant, pendant et après la charge.
 - COMPATIBILITÉ BITENSION :Fonctionne avec les batteries 12V et 18V Bosch Professional et AMPShare.
 - CHARGE RAPIDE :Charge d’une batterie 18V 5,5Ah en 46 minutes et 12V 4,0Ah en 37 minutes.
-- CONTENU : GAL 12V/18V-80
 - DESIGN COMPACT :Solution avec deux baies pour une utilisation pratique et un montage mural simple.
+- CONTENU : GAL 12V/18V-80
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4DZ2C1M{{</world>}}

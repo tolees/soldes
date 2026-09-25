@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3.Plat
 - Synthétique
+- 3.Plat
 - 3 sangles
 - Arche moyenne
 

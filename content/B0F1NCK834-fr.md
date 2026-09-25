@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Assistant personnel Moto AI – Une intelligence artificielle à votre service au quotidien.
-- Contenu de la boite: Coque de protection, Câble USB type-C
-- Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
 - Résistance à l’eau (IP68/IP69) – Conçu pour durer, même face aux éclaboussures et à la poussière.
+- Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
 - Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
+- Contenu de la boite: Coque de protection, Câble USB type-C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1NCK834{{</world>}}

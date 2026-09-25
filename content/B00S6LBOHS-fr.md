@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Parfait pour une utilisation dans la maison, la cuisine, lhôtel ou le restaurant.
-- Tension : 220-240 V / 50-60 Hz.
 - Fabriqué à partir de matériaux de haute qualité.
+- Tension : 220-240 V / 50-60 Hz.
 - Fabriqué en Espagne.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

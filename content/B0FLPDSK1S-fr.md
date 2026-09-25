@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design compact et portable de 12,5 cm et un poids de seulement 625 g
 - Premier objectif zoom 16,6x tout-en-un au monde pour appareils photo sans miroir APS-C
+- Design compact et portable de 12,5 cm et un poids de seulement 625 g
 - Mise au point automatique extrêmement rapide et précise fournie par le mécanisme de mise au point linéaire du moteur VXD
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À capuche
-- Grande longueur
 - Lavage en machine
-- 100% Polyester
 - Fermeture éclair
-- Classique
+- Grande longueur
 - Uni
+- 100% Polyester
+- Classique
 - polyester
+- À capuche
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VTHMG7F{{</world>}}

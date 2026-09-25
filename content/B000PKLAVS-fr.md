@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Multiples options de cuisson : le réchaud gaz est équipé de support pour casseroles et dune grille à revêtement anti-adhésif
 - Caractéristiques réchaud à gaz Party Grill : dimensions Ø 32,5 x 27 cm (sur pied) ; consommation de gaz 99 g/h ; temps débullition 5 min 40 sec ; poids 2,3 kg
 - Cuisine réinventée : la fête commence avec le Party Grill - le compagnon indispensable du camping et festival ; cuisinez tous vos plats préférés sur un appareil polyvalent
-- Nettoyage et transport facile : bac à eau pour récupérer la graisse ; facile à porter, pour faciliter le transport, les pieds peuvent être retirés et rangés à lintérieur du réchaud
+- Multiples options de cuisson : le réchaud gaz est équipé de support pour casseroles et dune grille à revêtement anti-adhésif
 - Puissant : le BBQ portatile et réchaud camping 1350 W entièrement réglable fonctionne sur les bouteilles de gaz rechargeables Campingaz CV Plus 470 (autonomie : 4 h, 30 min) ; allumage Piezo
+- Nettoyage et transport facile : bac à eau pour récupérer la graisse ; facile à porter, pour faciliter le transport, les pieds peuvent être retirés et rangés à lintérieur du réchaud
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000PKLAVS{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Utilisation polyvalente comme échelle simple, échelle coulissante et échelle-chevalet
 - Solides éléments de guidage avec patins plastique
 - 3 x 12 échelons
 - Échelle transformable 3 plans
-- Utilisation polyvalente comme échelle simple, échelle coulissante et échelle-chevalet
 - Réglage par pédale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Spray 200ml
-- Nettoie, dépoussière et protège les écrans tactiles.
 - Efficacité garantie, à utiliser avec une lingette microfibre
+- Nettoie, dépoussière et protège les écrans tactiles.
 - Elimine les traces de doigts.
 - included_components: 1 spray 200ml
 

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- CONSTITUEZ VOTRE ÉQUIPE PARFAITE : Créez et personnalisez votre équipe
+- COOPÉRATION SUR LE TERRAIN : Jouez avec vos amis et votre famille pour des parties à 4 joueurs amusantes
 - JEU DE PANIER AMUSANT ET FACILE : Tirez, dunkez et bloquez à tout âge ou niveau
 - ENTRAÎNEZ VOS MOUVEMENTS : Entraînez-vous, affrontez ou faites la fête – choisissez vos modes de jeu
 - CHAOS DE MASCOTTES : Plongez dans la folie avec la mascotte de votre équipe préférée
-- COOPÉRATION SUR LE TERRAIN : Jouez avec vos amis et votre famille pour des parties à 4 joueurs amusantes
-- CONSTITUEZ VOTRE ÉQUIPE PARFAITE : Créez et personnalisez votre équipe
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FB45WMGS{{</world>}}

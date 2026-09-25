@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec CT-Api et EMV 4.2 : CT-Api pour la saisie directe des cartes dassurance maladie
-- Saisie sécurisée du code PIN (lecteur de classe 2) : Ce lecteur peut être utilisé de manière pratique pour les signatures électroniques ou la banque en ligne. Le clavier PIN à 16 touches permet la saisie directe du code PIN
 - Lecteur de cartes à puce USB de haute qualité : Il lit les cartes de santé électroniques et les cartes dassurance maladie pour les applications en dehors de linfrastructure télématique
 - Terminal de carte à puce compatible CCID (Chip Card Interface Device) : Protocole de communication permettant de connecter des lecteurs de cartes à puce à un système informatique via USB (Universal Serial Bus)
 - Construction solide et de haute qualité : Utilisation dune seule main grâce à son poids important et à son support stable. Cet outil polyvalent séduit également par son point de pression et son toucher agréables
+- Saisie sécurisée du code PIN (lecteur de classe 2) : Ce lecteur peut être utilisé de manière pratique pour les signatures électroniques ou la banque en ligne. Le clavier PIN à 16 touches permet la saisie directe du code PIN
+- Compatible avec CT-Api et EMV 4.2 : CT-Api pour la saisie directe des cartes dassurance maladie
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07WLPH8SF{{</world>}}

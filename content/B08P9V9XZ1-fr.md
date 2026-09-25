@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matière de la structure: Verre
-- Dimensions = L. 14.50 x P.8.50 x H. 12.50 cm | Capacité = 0.65 litres | Poids = 0.385 kg |
 - Format: Rond
+- Dimensions = L. 14.50 x P.8.50 x H. 12.50 cm | Capacité = 0.65 litres | Poids = 0.385 kg |
 - Matière du couvercle: Pin
 
 [🛒 Achète-le!!]({{< param buyurl >}})

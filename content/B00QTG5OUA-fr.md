@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Housse pour table à repasser réglable grâce à son système Easy Clip. Housse Universelle pour table à repasser
 - Repassage parfait et rapide ; avec Rayen, le repassage de vos vêtements et de tout votre linge est super facile
+- Dimensions: 126x40 cm; Gris clair
 - Housse matelassée 100 % coton, revêtement en aluminium ; molleton et mousse ; qualité maximale
 - Gamme Premium de Rayen
-- Dimensions: 126x40 cm; Gris clair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00QTG5OUA{{</world>}}

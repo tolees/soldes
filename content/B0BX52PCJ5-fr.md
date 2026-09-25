@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Plug N Play, Câble HyperFlex 2 super-flexible
 - Conception ultra-légère de 53 g3
-- Bande d’adhérence personnalisée incluse, Personnalisable avec le logiciel HyperX NGENUITY
 - Commutateurs HyperX personnalisés, Patins en PTFE d’excellente qualité
+- Bande d’adhérence personnalisée incluse, Personnalisable avec le logiciel HyperX NGENUITY
 - Capteur HyperX 26K de précision, Taux de transfert de 8 000 Hz2
 
 [🛒 Achète-le!!]({{< param buyurl >}})

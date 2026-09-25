@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style bouffant à capuche de poids moyen
 - Doublure de marque sur le corps et polaire sur les poches
 - Garnissage 100 % recyclé
+- Style bouffant à capuche de poids moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSP3PJCC{{</world>}}

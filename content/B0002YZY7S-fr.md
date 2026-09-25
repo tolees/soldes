@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - Pressol Pompe à graisse
+- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0002YZY7S{{</world>}}

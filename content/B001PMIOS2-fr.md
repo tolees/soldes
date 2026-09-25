@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré avec : GSB 16 RE, poignée auxiliaire, butée de profondeur 210 mm, mandrin automatique 13 mm, coffret de transport
 - Conception compacte pour une maniabilité parfaite
+- Livré avec : GSB 16 RE, poignée auxiliaire, butée de profondeur 210 mm, mandrin automatique 13 mm, coffret de transport
 - La plus rapide de sa catégorie
 - Puissance de 750 W pour une progression de travail rapide
 - Carter en métal robuste pour une grande longévité

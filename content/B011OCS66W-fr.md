@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 2 + 1 roulement
 - Récupération de la ligne : 28 pouces 711 mm
 - Résistance maximale : 15 livres / 6,8 kg
-- Rapport de transmission : 3,9:1
 - Capacité de la ligne : 370 yds/90 kg
-- 2 + 1 roulement
+- Rapport de transmission : 3,9:1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B011OCS66W{{</world>}}

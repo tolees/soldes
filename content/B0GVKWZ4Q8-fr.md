@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Batterie PowerShare compatible avec tous les outils Worx 20V, 40V et 80V MAX (non incluse)
 - Grâce à son moteur brushless, elle délivre jusqu’à 600 Nm de couple en mode serrage et jusquà 800 Nm en mode desserrage, suffisamment puissant pour la majorité des applications, du changement de roues aux travaux d’entretien plus exigeants
-- Construction robuste pensée pour les usages intensifs en atelier ou en entretien automobile
-- Poids de seulement 2 kg offrant un design léger qui réduit la fatigue lors des longues sessions
-- Poignée surmoulée en caoutchouc limitant les vibrations et améliorant le confort de prise en main
-- Trois modes de puissance permettant d’ajuster le couple selon les besoins, des travaux courants aux applications exigeantes
 - Rotation gauche/droite pour un contrôle simple et rapide des opérations de serrage et desserrage
-- Set d’accessoires complet inclus pour une utilisation immédiate sans achats supplémentaires
+- Construction robuste pensée pour les usages intensifs en atelier ou en entretien automobile
 - Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
+- Trois modes de puissance permettant d’ajuster le couple selon les besoins, des travaux courants aux applications exigeantes
+- Poids de seulement 2 kg offrant un design léger qui réduit la fatigue lors des longues sessions
+- Batterie PowerShare compatible avec tous les outils Worx 20V, 40V et 80V MAX (non incluse)
+- Poignée surmoulée en caoutchouc limitant les vibrations et améliorant le confort de prise en main
+- Set d’accessoires complet inclus pour une utilisation immédiate sans achats supplémentaires
 - Éclairage LED triple anneau assurant une illumination homogène sans ombres dans les zones sombres ou étroites
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

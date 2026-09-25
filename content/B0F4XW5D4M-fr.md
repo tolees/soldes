@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PILES : Nécessite 3 piles LR03 (non incluses).
-- ÉDITION KANTO : Replonge dans cet univers légendaire avec ton nouveau jeu de société et redécouvre la première génération de Pokémon, la plus emblématique de toutes.
-- LUDIQUE ET IMMERSIF : Ton détecteur sillumine et te parle ! Chaque fois que tu captures un Pokémon, il se transforme en Pokédex intéractif et tapprends plein de faits amusants sur lui !
-- POKÉMON DRESSEUR MISSION : Un jeu intéractif pour attraper les Pokémon en bougeant ! Suis les instructions vocales de ton détecteur et explore ton environnement : lève les bras pour trouver des Pokémon volants, fouille le sol pour les rampants… Ta mission : tous les attraper !
-- INCLUS : Un poster Pokémon à afficher dans ta maison !
-- DEVIENS EXPERT : Complète ta collection électronique et mets à jour ta carte de dresseur après chaque mission pour suivre ta progression.
 - NOMBRE DE JOUEURS : 1 joueur.
+- INCLUS : Un poster Pokémon à afficher dans ta maison !
+- POKÉMON DRESSEUR MISSION : Un jeu intéractif pour attraper les Pokémon en bougeant ! Suis les instructions vocales de ton détecteur et explore ton environnement : lève les bras pour trouver des Pokémon volants, fouille le sol pour les rampants… Ta mission : tous les attraper !
+- LUDIQUE ET IMMERSIF : Ton détecteur sillumine et te parle ! Chaque fois que tu captures un Pokémon, il se transforme en Pokédex intéractif et tapprends plein de faits amusants sur lui !
+- ÉDITION KANTO : Replonge dans cet univers légendaire avec ton nouveau jeu de société et redécouvre la première génération de Pokémon, la plus emblématique de toutes.
+- DEVIENS EXPERT : Complète ta collection électronique et mets à jour ta carte de dresseur après chaque mission pour suivre ta progression.
+- PILES : Nécessite 3 piles LR03 (non incluses).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4XW5D4M{{</world>}}

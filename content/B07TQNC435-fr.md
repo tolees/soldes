@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Levis Sculpt with Hypersoft, très doux, vous apporte un confort supérieur et un stretch optimal
 - Ceci est un authentique produit Levi’s
 - Ourlet arrière arrondi
 - Chemise Western Shirt traditionnelle en denim et à manches longues
-- Levis Sculpt with Hypersoft, très doux, vous apporte un confort supérieur et un stretch optimal
 - Détails Western originaux
 - Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 

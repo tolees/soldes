@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vivez un mélange palpitant de stratégie, d’aventure et de gestion : Retrouvez le meilleur des jeux de stratégie, d’aventure et de gestion réunis dans une intrigue cohérente et un univers virtuel complet, désormais enrichi de nouvelles mécaniques de jeu et de contenus inédits
 - Déchaînez la terreur sur Gravenville : Explorez 11 lieux vastes et uniques, dont l’asile psychiatrique de la ville, la base militaire, les maisons de fraternités et de sororités, ainsi que le commissariat de police, désormais enrichis de nouveaux environnements et de textures détaillées
-- Version physique avec 4 DLC : Comprend quatre contenus additionnels pour prolonger le plaisir de jeu: DLC 1 – Until Dawn, DLC 2 – Ghosts Adrift, DLC 3 – Ghostly Defence, DLC 4 – Ashes & Abyss
+- Vivez un mélange palpitant de stratégie, d’aventure et de gestion : Retrouvez le meilleur des jeux de stratégie, d’aventure et de gestion réunis dans une intrigue cohérente et un univers virtuel complet, désormais enrichi de nouvelles mécaniques de jeu et de contenus inédits
 - Commandez une armée de spectres : Maniez le pouvoir d’invoquer et de contrôler une variété de sombres spectres, de banshees hurlantes et de malicieux gremlins, chacun doté de ses propres capacités et forces, désormais avec des graphismes améliorés et une intelligence artificielle perfectionnée
 - Résolvez des énigmes et percez des mystères : Plongez dans un monde de mystère et d’intrigue, où la réflexion et la planification stratégique sont essentielles pour triompher dans des aventures uniques et palpitantes aux scénarios à embranchements multiples, désormais agrémentées de nouveaux défis et de secrets cachés
+- Version physique avec 4 DLC : Comprend quatre contenus additionnels pour prolonger le plaisir de jeu: DLC 1 – Until Dawn, DLC 2 – Ghosts Adrift, DLC 3 – Ghostly Defence, DLC 4 – Ashes & Abyss
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G2DZGDH5{{</world>}}

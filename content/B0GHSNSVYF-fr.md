@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- COMPREND : PowerPod de 1 700 W avec prise UE, 2 récipients en verre CleanCrisp (1,4 l et 3,8 l), 2 plaques de cuisson antiadhésives, adaptateur PowerPod, 2 couvercles de rangement, sac CRISPi, garantie gratuite de 2 ans après enregistrement avec Ninja
 - UN APPAREIL, DES POSSIBILITÉS ILLIMITÉES : pour une cuisine toujours ordonnée, cet appareil de cuisson ou air fryer compact polyvalent est conçu pour gagner de la place.
 - CUISINEZ EN TOUTE TRANSPARENCE : air fryer en verre CleanCrisp pour une cuisine et une conservation saines.
 - PRÊT À L’EMPLOI : léger et facile à transporter, le CRISPi vous suit partout. La friteuse sans huile est idéal pour les petites cuisines, au travail ou pendant vos escapades du weekend.
 - SURFACE NON-POREUSE, AIR FRYER FACILE À NETTOYER : les contenants en verre CleanCrisp sont lavables au lave-vaisselle et faciles à nettoyer pour gagner du temps.
-- COMPREND : PowerPod de 1 700 W avec prise UE, 2 récipients en verre CleanCrisp (1,4 l et 3,8 l), 2 plaques de cuisson antiadhésives, adaptateur PowerPod, 2 couvercles de rangement, sac CRISPi, garantie gratuite de 2 ans après enregistrement avec Ninja
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GHSNSVYF{{</world>}}

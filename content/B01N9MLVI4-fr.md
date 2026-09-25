@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Jaune.
 - Formule prête à l’emploi
+- Couleur : Jaune.
 - Produit de qualité.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

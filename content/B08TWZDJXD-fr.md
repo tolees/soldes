@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Table de chevet ULOS.
-- 1 niche et 1 tiroir de rangement.
 - Revêtement en papier décor blanc.
-- Dimensions : L40 x P39,5 x H50cm
 - 4 pieds en bois massif de pin.
+- Dimensions : L40 x P39,5 x H50cm
+- 1 niche et 1 tiroir de rangement.
+- Table de chevet ULOS.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08TWZDJXD{{</world>}}

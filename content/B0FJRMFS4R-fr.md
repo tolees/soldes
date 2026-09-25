@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Style chino classique
 - Fermeture par bouton et zip
 - Taille mi-haute
-- Style chino classique
 - Poches dos passepoilées avec fermeture à bouton
 - Modèle plissé sur le devant
 

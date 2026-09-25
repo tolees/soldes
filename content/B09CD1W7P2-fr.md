@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 16 pouces WUXGA 1920 x 1200 pixels, 144 Hz, 300 nits
+- Processeur Intel Core 7 240H (10C/DecaCore 5,2 GHz, 24 Mo)
+- Carte Graphique NVIDIA GeForce RTX 5050 8 Go GDDR7
 - Mémoire : SSD 512 Go M.2 NVMe PCIe
 - Sans système dexploitation
 - 16 Go SO-DIMM DDR5 RAM
-- 16 pouces WUXGA 1920 x 1200 pixels, 144 Hz, 300 nits
-- Carte Graphique NVIDIA GeForce RTX 5050 8 Go GDDR7
-- Processeur Intel Core 7 240H (10C/DecaCore 5,2 GHz, 24 Mo)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09CD1W7P2{{</world>}}

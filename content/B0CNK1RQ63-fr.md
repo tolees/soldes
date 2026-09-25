@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Type dajustement:Droite
 - Composition de matériau:99% Coton, 1% Élasthannene
-- Instructions dentretien:Lavage en machine
 - Type de fermeture:Bouton
+- Instructions dentretien:Lavage en machine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNK1RQ63{{</world>}}

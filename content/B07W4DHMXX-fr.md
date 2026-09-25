@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Technologie de qualité PRO: contrôle du mode Jeu, disposition standard compatibilité 3P, commandes multimédia et molette de volume, éclairage RVB avec LIGHTSYNC, options LIGHTSPEED, Bluetooth et USB
-- Vitesse et fiabilité avec la technologie LIGHTSPEED sans fil: connectez une souris compatible et le clavier mécanique sans fil PRO X TKL à l’adaptateur LIGHTSPEED pour une connexion puissante
 - Conçu avec des pros pour gagner: le clavier de jeu PRO X TKL est la nouvelle génération de claviers PRO éprouvés sans pavé numérique, revu et corrigé pour vous permettre de gagner
+- Vitesse et fiabilité avec la technologie LIGHTSPEED sans fil: connectez une souris compatible et le clavier mécanique sans fil PRO X TKL à l’adaptateur LIGHTSPEED pour une connexion puissante
 - Switchs de clavier mécanique: avec switchs GX Brown Tactile et touches en PBT double couche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

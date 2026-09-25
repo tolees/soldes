@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Scratch
-- Cuir
-- Medium
 - Plat
+- Cuir
+- Scratch
+- Medium
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09DPWCZFT{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Entretenir le cuir avec notre cirage pour chaussures, appliquer en fine couche et laisser sécher quelques minutes
-- Polissez le cuir avec un chiffon. Si vous prenez bien soin de vos chaussures, vous pouvez aller très loin avec vous
 - Pour une protection supplémentaire, appliquez notre spray imperméabilisant Nanopro. Ce produit est vendu exclusivement dans nos magasins
+- Polissez le cuir avec un chiffon. Si vous prenez bien soin de vos chaussures, vous pouvez aller très loin avec vous
 - Imperméabilisez le cuir contre la saleté et lhumidité avec notre spray Protect et Care
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle intérieure : Synthetic
+- Dessus : Cuir
 - Hauteur du talon : 3,5 cm / 1,4"
 - Matériau de semelle : Synthétique
 - Doublure : Textile
-- Dessus : Cuir
 - Enfilage facile grâce à la fermeture éclair
-- Semelle intérieure : Synthetic
 - Faciles à porter pour un confort unique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

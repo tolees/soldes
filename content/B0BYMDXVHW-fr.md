@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions = L. 39,5 x P. 29,5 x H. 0,7 cm | Poids = 0.350 kg |
 - Compatibilité: Four traditionnel
 - Matière de la structure: Aluminium
-- Dimensions = L. 39,5 x P. 29,5 x H. 0,7 cm | Poids = 0.350 kg |
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BYMDXVHW{{</world>}}

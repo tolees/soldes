@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 26,5" UHD – Panneau OLED Quantum Dot avec 1,07 milliard de couleurs (10 bits, 99 % DCI-P3) et précision des couleurs Delta E ≤ 2. Certification VESA DisplayHDR True Black 400, contraste natif 1 500 000:1 et luminosité HDR de crête jusquà 1000 nits.
-- QD-OLED Tandem avec technologie EL Gen 3 : réduit la consommation dénergie tout en conservant une luminosité HDR de crête de 1000 nits. Les technologies combinées augmentent lefficacité lumineuse jusquà 30 %, assurant des images plus lumineuses et des performances élevées
-- Options de rapport daspect : prend en charge plusieurs rapports daspect, permettant un passage fluide entre les modes daffichage équivalents à 24,5". Choisissez facilement votre taille préférée et amenez lexpérience de jeu au plus haut niveau.
-- Super Low Motion Blur (SLMB) : réduit le ghosting et le flou de mouvement en insérant des images noires entre les images, contrastant la persistance visuelle et améliorant la netteté dans les mouvements rapides pour un contenu dynamique.
 - Luminance uniforme : la personnalisation de la courbe HDR réduit leffet ABL, assurant des transitions fluides entre la lumière et lobscurité et évitant les changements brusques de luminosité dans les jeux et les films HDR
+- QD-OLED Tandem avec technologie EL Gen 3 : réduit la consommation dénergie tout en conservant une luminosité HDR de crête de 1000 nits. Les technologies combinées augmentent lefficacité lumineuse jusquà 30 %, assurant des images plus lumineuses et des performances élevées
+- Super Low Motion Blur (SLMB) : réduit le ghosting et le flou de mouvement en insérant des images noires entre les images, contrastant la persistance visuelle et améliorant la netteté dans les mouvements rapides pour un contenu dynamique.
+- 26,5" UHD – Panneau OLED Quantum Dot avec 1,07 milliard de couleurs (10 bits, 99 % DCI-P3) et précision des couleurs Delta E ≤ 2. Certification VESA DisplayHDR True Black 400, contraste natif 1 500 000:1 et luminosité HDR de crête jusquà 1000 nits.
+- Options de rapport daspect : prend en charge plusieurs rapports daspect, permettant un passage fluide entre les modes daffichage équivalents à 24,5". Choisissez facilement votre taille préférée et amenez lexpérience de jeu au plus haut niveau.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GWZ5X5S1{{</world>}}

@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure : la semelle extérieure Adapt Trax offre une traction exceptionnelle dans des conditions humides et sèches.
-- Semelle intérieure : la semelle intérieure OrthoLite Eco est compromise de 17 % de la teneur écologique totale, offrant une meilleure respirabilité et un amorti léger à long terme.
-- Dessus : les lacets ne sont pas étanches.
-- Tige : le système Navic Fit offre un maintien naturel du milieu du pied. Construction imperméable et respirante. La maille sans couture offre un ajustement et un soutien exceptionnels. Limpression 3D offre une stabilité légère
-- Semelle intermédiaire : la semelle intermédiaire Techlite + en mousse à densité unique offre une expérience damortissement réactive sous le pied tout en offrant un confort et une stabilité supérieurs sur les sentiers.
 - Semelle extérieure : traction spécifique à la randonnée avec hauteurs dentre-corne de 5 mm
+- Semelle intermédiaire : la semelle intermédiaire Techlite + en mousse à densité unique offre une expérience damortissement réactive sous le pied tout en offrant un confort et une stabilité supérieurs sur les sentiers.
+- Semelle intérieure : la semelle intérieure OrthoLite Eco est compromise de 17 % de la teneur écologique totale, offrant une meilleure respirabilité et un amorti léger à long terme.
+- Tige : le système Navic Fit offre un maintien naturel du milieu du pied. Construction imperméable et respirante. La maille sans couture offre un ajustement et un soutien exceptionnels. Limpression 3D offre une stabilité légère
 - Profil : un style de randonnée technique conçu avec des technologies innovantes vous permettant de partir à laventure avec une liberté et une joie illimitées.
+- Dessus : les lacets ne sont pas étanches.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F9ZHG3LW{{</world>}}

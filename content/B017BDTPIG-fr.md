@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ensemble de marquage de terrain de speed badminton
-- Deux lignes rouges en forme de carré (5,5 mx 5,5 m)
 - Oeillets métalliques dans tous les coins
+- Deux lignes rouges en forme de carré (5,5 mx 5,5 m)
 - 8 broches pour lancrage au sol
 - Assemblage rapide et facile
+- Ensemble de marquage de terrain de speed badminton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B017BDTPIG{{</world>}}

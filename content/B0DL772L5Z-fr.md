@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussant standard
-- Fermeture à lacets
 - Tige synthétique
 - Doublure textile
+- Fermeture à lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DL772L5Z{{</world>}}

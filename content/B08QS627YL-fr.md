@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SH 6055-HALTER : montage sans outils sur la roue grâce à des bandes de serrage pratiques - lantivol peut être retiré frontalement du support
-- SERRURE À CHIFFRES : code numérique à 4 chiffres, réglable individuellement - permet louverture sans clé de la serrure pliante
-- PROTECTION CONTRE LES GRATUITS : la construction en acier spécial est recouverte dun revêtement en plastique - pour protéger la peinture des rayures sur le vélo par exemple
 - PLIABLE & COMPACT : les rivets spéciaux permettent de plier le cadenas de manière flexible en une taille pratique/compacte - idéal pour les sportifs
+- SH 6055-HALTER : montage sans outils sur la roue grâce à des bandes de serrage pratiques - lantivol peut être retiré frontalement du support
+- PROTECTION CONTRE LES GRATUITS : la construction en acier spécial est recouverte dun revêtement en plastique - pour protéger la peinture des rayures sur le vélo par exemple
+- SERRURE À CHIFFRES : code numérique à 4 chiffres, réglable individuellement - permet louverture sans clé de la serrure pliante
 - LÉGER & STABLE : Antivol de vélo de dimensions agréables à transporter - avec des barres en matériaux légers et en alliage dacier
 - DÉTAILS DE PRODUITS : Bordo Lite 6055C/85 - longueur 85 cm, poids 514 g, niveau de sécurité ABUS 7, couleur noire
 

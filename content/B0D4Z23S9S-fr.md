@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Dessus synthétique et maille
 - Lacets et languette à soufflet 100 % recyclés pour empêcher les débris dentrer
-- Merrell Semelle extérieure en caoutchouc collant avec traction durable qui adhère quand et où vous en avez besoin
-- Semelle intérieure amovible en mousse EVA
 - Semelle intermédiaire légère en mousse EVA pour plus de stabilité et de confort avec rainures flexibles bidirectionnelles FLEXconnect dans la semelle intermédiaire pour une meilleure connexion au sol
+- Semelle intérieure amovible en mousse EVA
+- Merrell Semelle extérieure en caoutchouc collant avec traction durable qui adhère quand et où vous en avez besoin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D4Z23S9S{{</world>}}

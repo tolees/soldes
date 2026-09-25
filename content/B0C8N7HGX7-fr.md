@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une histoire originale avec des saynètes travaillées
-- Des niveaux tout beaux tout neufs, depuis Lutèce… jusqu’au bout du monde !
-- Des coups spéciaux pour nos 2 héros gaulois.
-- Un mode 2 joueurs en Coop’ locale.
 - Astérix, Obélix et les villageois sont interrompus dans leurs occupations par larrivée précipitée de Goudurix, qui vient chercher de laide. Il révèle que son père, Océanonix, a été emprisonné pour un vol quil na pas commis
+- Un mode 2 joueurs en Coop’ locale.
+- Des niveaux tout beaux tout neufs, depuis Lutèce… jusqu’au bout du monde !
+- Une histoire originale avec des saynètes travaillées
+- Des coups spéciaux pour nos 2 héros gaulois.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C8N7HGX7{{</world>}}

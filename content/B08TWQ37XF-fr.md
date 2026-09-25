@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Formulé pour le lavage quotidien des cheveux
-- Principalement au niveau des racines des cheveux
-- Pour tous types de cheveux
-- Le shampooing répare les cheveux et les protège des dommages, des pointes fourchues et des frisottis en réunissant les structures capillaires cassées.
 - Sans sulfate, sans paraben, végétalien, sans gluten, sans noix et grand teint
+- Principalement au niveau des racines des cheveux
+- Le shampooing répare les cheveux et les protège des dommages, des pointes fourchues et des frisottis en réunissant les structures capillaires cassées.
+- Pour tous types de cheveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TWQ37XF{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité professionnelle
+- Clé de 6 à 15 mm
 - Clé en os
 - Pour 10 tailles de vis différentes
-- Clé de 6 à 15 mm
+- Qualité professionnelle
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01LYBH3ES{{</world>}}

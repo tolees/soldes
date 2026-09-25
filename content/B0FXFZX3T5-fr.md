@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coupe standard
 - 100 % polyester (recyclé)
 - CLIMACOOL
-- Coupe standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FXFZX3T5{{</world>}}

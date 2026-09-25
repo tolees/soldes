@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [Conception élégante] Les pieds arrondis ajoutent une touche d’élégance à ce bureau par ailleurs fonctionnel.
 - [Matériau de qualité] Ce bureau offre une conception de qualité commerciale grâce à un plateau en aggloméré massif de 25 mm d’épaisseur et à des pieds durables.
-- [Style moderne] Comprend 2 passe-câbles intégrés de 80 mm pour un contrôle efficace des câbles.
 - Antes éramos Movian, ahora somos Amazon Basics
+- [Style moderne] Comprend 2 passe-câbles intégrés de 80 mm pour un contrôle efficace des câbles.
+- [Conception élégante] Les pieds arrondis ajoutent une touche d’élégance à ce bureau par ailleurs fonctionnel.
 - [Dimensions] 120 x 60 x 73,6 cm (L x l x H).
 - [Peu encombrant] Simple, pratique et parfait pour la maison ou le bureau.
 

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Explore a reimagined Wasteland, full of Disneys timeless characters and stories
+- Enjoy advanced gameplay with new abilities and enhanced visuals in a classic setting
 - Mickey has new moves such as dash, ground pound and sprinting
 - Meet Oswald the Lucky Rabbit, Disneys original star, in a rich, narrative-driven world
-- Enjoy advanced gameplay with new abilities and enhanced visuals in a classic setting
 - Wield the magic brush: Paint to create, thinner to alter. Every choice shapes your story
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

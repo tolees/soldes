@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 100 étiquettes au total, 200 x 60 mm, 25 feuilles par paquet, 4 étiquettes par feuille, bloquantes, laser couleur, copieur, jet dencre, laser, pour : classement et organisation, marquage et identification, FSC, permanent, coins arrondis sur feuille A4, fonctionne mieux avec : classeurs à levier, dossiers larges
-- 200 x 60 mm
-- Pour : classement et organisation, marquage et identification
 - Couleur : blanc
+- 200 x 60 mm
+- Lot de 100 étiquettes au total, 200 x 60 mm, 25 feuilles par paquet, 4 étiquettes par feuille, bloquantes, laser couleur, copieur, jet dencre, laser, pour : classement et organisation, marquage et identification, FSC, permanent, coins arrondis sur feuille A4, fonctionne mieux avec : classeurs à levier, dossiers larges
+- Pour : classement et organisation, marquage et identification
 - Laser couleur, copieur, jet dencre, laser
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

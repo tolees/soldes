@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bout : Arrondi
-- Fermeture : À lacets
-- Largeur : Régulière
-- Doublure : Textile
-- Semelle extérieure : Caoutchouc
 - Talon : Plat
+- Doublure : Textile
+- Largeur : Régulière
+- Bout : Arrondi
+- Semelle extérieure : Caoutchouc
+- Fermeture : À lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJ9K86WQ{{</world>}}

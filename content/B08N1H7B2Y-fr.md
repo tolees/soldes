@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - matelassé
-- Veste
 - Capuche
+- Veste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08N1H7B2Y{{</world>}}

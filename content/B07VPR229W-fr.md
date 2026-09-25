@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- XL extra léger pour plus de légèreté et dabsorption des chocs
 - Couleur : blanc
 - Dessus : cuir (cuir de veau)
 - Coutures à 360° pour plus de durabilité
+- XL extra léger pour plus de légèreté et dabsorption des chocs
 - Semelle extérieure/caractéristiques : EVA pour la légèreté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - POP Porte-clés de Funko
-- Collectez les tous
 - Chaque porte-clés mesure environ 5 cm de haut et est emballé dans une boîte de vitrine
 - Funko POP est le jouet populaire de lannée 2018
+- Collectez les tous
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08RZCDQS8{{</world>}}

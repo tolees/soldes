@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Régulier
 - Type de col: col une pièce
-- Fermeture: enfiler
+- Régulier
 - 100% polyester
+- Fermeture: enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09XMWMYMT{{</world>}}
