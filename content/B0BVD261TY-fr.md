@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Léger et compact pliable
 - Centre de gravité bas
 - Spécialement conçu pour le transport de charges et les charges encombrantes
 - Le connecteur Flex permet de retirer le vélo accouplé
+- Léger et compact pliable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BVD261TY{{</world>}}

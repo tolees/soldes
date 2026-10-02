@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle parental
-- Dolby AC4 et HDR10
 - Regardez les chaînes gratuites de la TNT en Ultra Haute Définition (UHD) 4K.
+- Dolby AC4 et HDR10
+- Contrôle parental
 - Enregistrez la TNT en HD directement sur disque externe ou clé USB
 - Contrôle du direct
 

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Langues : français, italien et espagnol
 - Philips Téléphone fixe sans fil série 4000 M4502B/34, design noir de 1,6 po
+- Langues : français, italien et espagnol
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C25BZZ3M{{</world>}}

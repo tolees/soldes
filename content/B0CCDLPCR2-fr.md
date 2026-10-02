@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 60 minutes dautonomie, 2 heures de charge avec 5 minutes de charge rapide
 - Pochette de rangement
 - Un appareil polyvalent et tout-en-un avec des accessoires de coiffage puissants et complets, qui toffre tout ce dont tu as besoin pour tes différentes routines de soin, sans faire de compromis sur la performance
+- 60 minutes dautonomie, 2 heures de charge avec 5 minutes de charge rapide
 - 100purcent étanche, fonction de charge USB-C
 - Set 10 en 1 de la tête aux pieds avec : 3 accessoires pleine taille (rasoir à grille, lame en T 38 mm, tondeuse rotative nez et oreilles), 7 peignes (1 peigne réglable 1.5-5 mm, 6 peignes fixes pour la tête et le corps 1.5-15 mm)
 

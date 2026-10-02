@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonction Power Control à 2 positions empêchant un serrage excessif des petites vis pour plus de précision
+- Utilisation possible pour toutes les applications dévolues aux visseuses à chocs sans fil conventionnelles grâce au couple élevé de 110 Nm
 - Bonne maniabilité même en hauteur et dans les espaces difficiles d’accès grâce au design compact
 - Livré avec : GDR 12V-110, boîte carton
 - Professional 12V System. Puissance compacte. Liberté totale. Toutes les batteries sont compatibles avec les outils Bosch Professional nouveaux et existants dans la même classe de tension.
-- Utilisation possible pour toutes les applications dévolues aux visseuses à chocs sans fil conventionnelles grâce au couple élevé de 110 Nm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SJ94BPO{{</world>}}

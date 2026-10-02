@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- <li>Matériau : En alliage acier de qualité supérieure
+- Ajustable Mol. Central 24" Cro
+- <ul>
 - <li>Angle de la tête 22,5°</li>
 - <li>Avec vis pivotante vers la droite</li>
-- <li>Matériau : En alliage acier de qualité supérieure
-- <ul>
-- Ajustable Mol. Central 24" Cro
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0001IX8SM{{</world>}}

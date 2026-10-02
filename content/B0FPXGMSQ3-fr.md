@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Duplo Peppa Pig La Maison familiale 10467'
-date: 2026-09-28 22:32:34
+date: 2026-09-30 02:19:13
 image: 'https://m.media-amazon.com/images/I/51BiJcT21cL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGMSQ3/?tag=tolees0d-21'
 descuento: '36.01'
-average: '45.09243902439'
+average: '45.0852380952379'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

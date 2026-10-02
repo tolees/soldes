@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ensemble daccessoires pour bien démarrer
 - Adaptateur Smartphone pour photo
+- Ensemble daccessoires pour bien démarrer
 - Microscope dinitiation avec éclairage LED
 - Grossissements : 40x - 640x
 

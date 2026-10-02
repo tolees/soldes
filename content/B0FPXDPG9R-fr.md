@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le Speeder Bike du Mandalorien et Grogu 75436'
-date: 2026-09-28 23:48:11
+date: 2026-09-30 02:16:30
 image: 'https://m.media-amazon.com/images/I/513cRLX4mnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

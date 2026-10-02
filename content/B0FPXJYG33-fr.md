@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Le Dragon de l Ender 21595'
-date: 2026-09-28 22:39:57
+date: 2026-09-30 02:10:29
 image: 'https://m.media-amazon.com/images/I/414gA9Ozp2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXJYG33/?tag=tolees0d-21'
 descuento: '35.34'
-average: '38.9503703703703'
+average: '38.9446428571428'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

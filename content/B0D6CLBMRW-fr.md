@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Économisez électricité et eau en utilisant le programme cycle court de votre machine.
-- Cette lessive liquide nettoie, protège les fibres et élimine les mauvaises odeurs, tout en laissant votre linge frais et parfumé.
-- La lessive liquide SKIP Mon Cycle Court Parfait Efficacité Express 37 Lavages est la première lessive spécialement conçue pour les cycles courts. Efficacité optimale, même dès 15 minutes.
 - Pour un résultat optimal en cycle court, même dès 15 minutes, le dosage recommandé est de 40 ml pour moins de 2 kg de linge (eau douce ou moyennement dure). Ajouter 10 ml si leau est dure.
+- Économisez électricité et eau en utilisant le programme cycle court de votre machine.
+- La lessive liquide SKIP Mon Cycle Court Parfait Efficacité Express 37 Lavages est la première lessive spécialement conçue pour les cycles courts. Efficacité optimale, même dès 15 minutes.
+- Cette lessive liquide nettoie, protège les fibres et élimine les mauvaises odeurs, tout en laissant votre linge frais et parfumé.
 - Parfum extraordinaire aux notes fraîches et élégantes, inspirées de la parfumerie fine.
 - La lessive Skip Mon Cycle Court Parfait offre une dissolution et une action rapides grâce à sa Technologie Pro-S.
 

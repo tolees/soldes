@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : synthétique
 - Largeur de la chaussure : moyenne
 - Matériau intérieur : textile
+- Matériau extérieur : synthétique
 - Doublure : doublure froide
 - Forme du talon : plat
 

@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- The definitive slim jeans
-- Hommes, Jeans, Denim, Slim Fit, Fitted, Stretch, Levis, Mode, Décontracté
-- COUPE: (If you want the style, but not the feeling, this is a great alternative.) With a streamlined fit that’s narrow through the assise et cuisse, our 511 Slim is perfectly calibrated to look good with everything—without looking like you’re trying too hard.
-- Fabriqué avec Levi’s Flex Eco: our advanced stretch technology engineered for maximum flex and comfort
-- Narrow through the assise et cuisse, but still roomy
-- Hold the H2O: This garment is made using recycled water, which helps us to reduce our impact on this finite resource
-- Finitions avec our iconic arcuate stitching
-- Designed to fit like they’ve been tailored just for you
 - DESIGN CLASSIQUE LEVIS: Think of this modern slim as not-so-skinny skinny jeans.
+- COUPE: (If you want the style, but not the feeling, this is a great alternative.) With a streamlined fit that’s narrow through the assise et cuisse, our 511 Slim is perfectly calibrated to look good with everything—without looking like you’re trying too hard.
+- Narrow through the assise et cuisse, but still roomy
+- Fabriqué avec Levi’s Flex Eco: our advanced stretch technology engineered for maximum flex and comfort
+- The definitive slim jeans
 - Conçu avec TENCEL Lyocell, a soft fiber sourced from wood. TENCEL is a trademark of Lenzing AG.
+- Finitions avec our iconic arcuate stitching
+- Hommes, Jeans, Denim, Slim Fit, Fitted, Stretch, Levis, Mode, Décontracté
+- Designed to fit like they’ve been tailored just for you
+- Hold the H2O: This garment is made using recycled water, which helps us to reduce our impact on this finite resource
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DPJ287LK{{</world>}}

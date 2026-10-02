@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Montre chronographe quartz pour homme.
 - Boîtier round de acier inoxydable, couleur gris.
-- Résistance à leau: 3 atm.
 - Bracelet de acier inoxydable, couleur gris, avec fermeture double bouton poussoir.
+- Résistance à leau: 3 atm.
 - Cadran round en couleur blanc en verre minéral.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

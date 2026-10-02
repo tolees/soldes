@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longue durée de vie et coupes précises : la table en acier dune épaisseur de 35 mm et une planéité de 1,001 µm fournit un aspect professionnel, une stabilité et permet des coupes précises.
 - Surface de coupe large : même hauteur et excellente maniabilité. Lextension de la table de 265 mm permet un excellent soutien du matériau.
+- Longue durée de vie et coupes précises : la table en acier dune épaisseur de 35 mm et une planéité de 1,001 µm fournit un aspect professionnel, une stabilité et permet des coupes précises.
 - Excellente option pour les professionnels.
 - Contenu de la livraison : GTS 254, emballage en carton.
 - Conçu pour les applications exigeantes : le couple élevé du moteur et lexcellente résistance à la surcharge permettent de couper des matériaux difficiles.

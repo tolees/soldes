@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Taille taille unique
-- Noir
 - 2 ans de Garantie Internationale
+- Noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WDD3YW9{{</world>}}

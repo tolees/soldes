@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Renfort en cuir à la paume
 - Paumes en cuir de chèvre souple et déperlant pour une excellente sensibilité
-- Matériau GORE-TEX WINDSTOPPER coupe-vent et respirant
 - Loop pour faciliter lenfilage
+- Matériau GORE-TEX WINDSTOPPER coupe-vent et respirant
+- Renfort en cuir à la paume
 - Manchette en néoprène extensible avec velcro pour un ajustement individuel et maintien optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

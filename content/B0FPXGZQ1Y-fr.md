@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Le Robot de Miles Morales Contre Spider-Man 2099-76337'
-date: 2026-09-28 22:34:20
+date: 2026-09-30 02:09:37
 image: 'https://m.media-amazon.com/images/I/51QCSC720YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGZQ1Y/?tag=tolees0d-21'
 descuento: '33.96'
-average: '9.93027777777776'
+average: '9.92945945945944'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

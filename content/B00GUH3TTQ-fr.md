@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b> Garantie </b>: 2 an(s)
 - <b> Matière </b>: Plastique
+- <b> Garantie </b>: 2 an(s)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00GUH3TTQ{{</world>}}

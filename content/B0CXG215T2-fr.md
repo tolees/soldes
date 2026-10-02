@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Silhouette élégante à deux sangles
 - Rouler révolutionnaire
+- Silhouette élégante à deux sangles
 - Fond de teint léger en croslite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

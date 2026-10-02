@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Blanc
-- Taille : XS | S | M | L | XL
 - Matière : Plastique
-- Que ce soit pour l’alimentation, jouet, toilettage, habitat, hygiène, gamelle, nous sélectionnons ce qu’il se fait de mieux.
 - Chez La Ferme Des Animaux, nous aimons tous les animaux : chien, chat, rongeur, oiseau, reptile…
+- Taille : XS | S | M | L | XL
+- Couleur : Blanc
+- Que ce soit pour l’alimentation, jouet, toilettage, habitat, hygiène, gamelle, nous sélectionnons ce qu’il se fait de mieux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0055QZFOU{{</world>}}

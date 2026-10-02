@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Normale
-- Manche longue
 - Fermeture: Fermeture éclair
+- Manche longue
 - Lavage en machine
+- Normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TBXNM25{{</world>}}

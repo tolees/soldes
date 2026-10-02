@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec un sac à bandoulière et un panier intégré
-- Poussette pour poupée convient aux poupons jusquà 46 cm
 - Facilement transformable en poussette canne pour poupée
+- Poussette pour poupée convient aux poupons jusquà 46 cm
 - Landau pour poupée avec guidon réglable (58 - 71 cm) et poignée réversible
+- Avec un sac à bandoulière et un panier intégré
 - Avec des roues avant orientables pour conduire facilement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

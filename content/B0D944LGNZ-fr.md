@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La tige en mesh est légère et aérée.
 - Semelle intermédiaire en mousse double densité pour une conduite confortable.
+- La tige en mesh est légère et aérée.
 - Les accents en plastique translucide font référence au classique Nike Vomero 5.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

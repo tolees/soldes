@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Textile upper
-- Semelle de propreté en textile
 - Lacets
+- Textile upper
 - Semelle intermédiaire DREAMSTRIKE+
 - Chaussant standard
+- Semelle de propreté en textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2GGGWXP{{</world>}}

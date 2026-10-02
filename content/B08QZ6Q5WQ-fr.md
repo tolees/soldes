@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Zip entier
 - La capuche avec cordon de serrage vous permet dajuster votre couverture.
-- Poignets et ourlet côtelés pour maintenir le sweat à capuche en place
-- Poche avant
+- Zip entier
 - Coupe standard pour une sensation détendue et facile
+- Poche avant
+- Poignets et ourlet côtelés pour maintenir le sweat à capuche en place
 - Poche kangourou sur le devant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

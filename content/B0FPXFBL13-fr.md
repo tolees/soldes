@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Best of 43011'
-date: 2026-09-28 23:55:34
+date: 2026-09-30 02:17:39
 image: 'https://m.media-amazon.com/images/I/51d0gR8xHqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

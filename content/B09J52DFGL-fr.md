@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Huile de coco.
-- Composition simplifiée.
 - Amélioration de la qualité de la peau.
+- Huile de coco.
 - Crème teintée
-- Embellisseur.
 - Texture fluide.
 - Vitamines C et E.
+- Embellisseur.
+- Composition simplifiée.
 - Embout précision.
 - Teint unifié et lumineux.
 - Hydratation 24H en profondeur.

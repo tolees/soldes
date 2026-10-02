@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encolure ras-du-cou.
 - Coupe standard.
+- Encolure ras-du-cou.
 - 100 % coton.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

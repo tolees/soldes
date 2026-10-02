@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu recyclé : confectionné avec un minimum de 20 % de matériaux recyclés, ce qui constitue une étape vers un avenir meilleur
 - SOFTFOAM+ : première de propreté confortable conçue pour offrir un amorti doux grâce au talon ultra-épais
+- Contenu recyclé : confectionné avec un minimum de 20 % de matériaux recyclés, ce qui constitue une étape vers un avenir meilleur
 - Tige en cuir avec perforations sur la claque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

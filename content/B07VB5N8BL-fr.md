@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Doublure textile pour plus de douceur et de respirabilité
+- Confectionnée en cuir pleine fleur produit dans nos propres tanneries ou en nubuck
+- Semelle intérieure amovible vêtue de textile pour davantage de confort et un ajustement sur mesure
 - Les lacets en tissu s’ajustent facilement pour un maintien parfait
 - Des détails perforés apportent de la texture à ce modèle décontracté
-- Confectionnée en cuir pleine fleur produit dans nos propres tanneries ou en nubuck
-- Doublure textile pour plus de douceur et de respirabilité
-- Semelle intérieure amovible vêtue de textile pour davantage de confort et un ajustement sur mesure
 - La semelle légère offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

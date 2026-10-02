@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft La Ferme à Poulet 21585'
-date: 2026-09-28 22:54:48
+date: 2026-09-30 02:15:54
 image: 'https://m.media-amazon.com/images/I/41YxzZjpSIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDBPSZ/?tag=tolees0d-21'
 descuento: '35.02'
-average: '13.127920792079'
+average: '13.1265686274507'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

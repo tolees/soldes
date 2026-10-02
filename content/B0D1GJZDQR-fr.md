@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Collection Parfum Prestige : déodorant au parfum gourmand et frais de vanille, dorange et de bois de santal, élaboré par des maîtres parfumeurs reconnus dans le monde entier.
-- Avec la Collection Parfum Prestige de AXE, sens aussi bon qu’un grand parfum.
-- Découvre le déodorant homme spray 72h AXE Black Vanilla issu de notre gamme Collection Parfum Prestige, au format 150 ml.
-- Un déodorant homme avec 2 x plus d’actifs anti-odeur au zinc que dans nos déodorants AXE bodyspray 48h pour garantir une efficacité 72h.
 - Lemballage de ce déodorant pour homme AXE contient au moins 25 % daluminium recyclé et est majoritairement recyclable. Dépose-moi dans le bac de tri !
+- Un déodorant homme avec 2 x plus d’actifs anti-odeur au zinc que dans nos déodorants AXE bodyspray 48h pour garantir une efficacité 72h.
 - Tu aimes le parfum de ce déodorant ? AXE Black Vanilla existe aussi en gel douche pour encore plus de fraîcheur.
+- Découvre le déodorant homme spray 72h AXE Black Vanilla issu de notre gamme Collection Parfum Prestige, au format 150 ml.
+- Avec la Collection Parfum Prestige de AXE, sens aussi bon qu’un grand parfum.
+- Collection Parfum Prestige : déodorant au parfum gourmand et frais de vanille, dorange et de bois de santal, élaboré par des maîtres parfumeurs reconnus dans le monde entier.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1GJZDQR{{</world>}}

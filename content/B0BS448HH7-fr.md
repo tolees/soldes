@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo classique sur le côté
 - Œillet et renard personnalisés
+- Logo classique sur le côté
 - Col et talon de couleur contrastée
 - Baskets de tennis basiques vulcanisées à coupe basse
 

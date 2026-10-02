@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - look militaire élégant
 - dans un style vintage
 - matériau très robuste
-- haute qualité
 - Ceinture et bas de jambe avec cordon de serrage extra large
+- haute qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0051FJNZC{{</world>}}

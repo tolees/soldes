@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FIRST
 - Le plaisir de la course à la maison
-- Carrera First
 - Pour petits et grands
+- Carrera First
+- FIRST
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PQGP8B7{{</world>}}

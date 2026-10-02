@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- TRAITEMENT DIELECTRIQUE - Appliqué aux prismes, il garantit une parfaite reproduction des couleurs vives et permet une transmission de la lumière de 92%.
 - VERRE FLUORITE ED - Les verres Bushnell de haute qualité offrent un excellent rendu des couleurs, un contraste et une résolution élevés, même dans des conditions de faible luminosité.
 - TRAITEMENT PC-3 À CORRECTION DE PHASE - Appliqué au prisme pour améliorer la résolution et le contraste pour des images lumineuses et nettes.
 - JUMELLES MULTI-USAGES - Des jumelles intemporelles qui peuvent être utilisées pour toutes sortes dactivités.
-- TRAITEMENT DIELECTRIQUE - Appliqué aux prismes, il garantit une parfaite reproduction des couleurs vives et permet une transmission de la lumière de 92%.
 - TRAITEMENT EXO BARRIER - Le meilleur et plus récent traitement de protection de lentilles de Bushnell est figé sur le verre grce à des molécules. Il protège de leau, lhuile, la buée, la poussière et les débris et protège contre les rayures.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poignées anti-pincement
+- Plaque décorée
 - Large plateau anti-dérapant
 - Roues PVC
-- Plaque décorée
-- Poignées anti-pincement
 - Ajustable en hauteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

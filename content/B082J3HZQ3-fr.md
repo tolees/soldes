@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✔️ Lot de 50 pochettes coin transparentes A4, pour archivage, classement et présentation de vos documents
-- ✔️ Sachet de 50 pochettes
 - ✔️ Capacité : 30 feuilles
+- ✔️ Sachet de 50 pochettes
 - ✔️ Avec encoche pour faciliter l’ouverture
 - ✔️ En polypropylène épais lisse antistatique, 12/100e (120 microns)
 

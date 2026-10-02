@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Le Combat légendaire Entre Hulkbuster et Hulk 76343'
-date: 2026-09-29 00:02:41
+date: 2026-09-30 02:18:29
 image: 'https://m.media-amazon.com/images/I/51qq+sNGAPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

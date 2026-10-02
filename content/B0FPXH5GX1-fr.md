@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Princess Le Pique-Nique d’Olaf et Bruni 43287'
-date: 2026-09-27 09:05:36
+date: 2026-09-30 02:09:56
 image: 'https://m.media-amazon.com/images/I/51HoO0HKfpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXH5GX1/?tag=tolees0d-21'
 descuento: '35.01'
-average: '32.4513636363638'
+average: '32.4545833333335'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

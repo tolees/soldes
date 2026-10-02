@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : la Cantina de Mos Eisley - Jouet de Construction pour Enfant - Set Compatible - 3 Smart Tags & 5 Minifigurines Cadeau Garçon Fille dès 8 Ans ou Fan Adulte 75425'
-date: 2026-09-28 22:41:49
+date: 2026-09-30 02:10:43
 image: 'https://m.media-amazon.com/images/I/51NfuyZkDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXS67NL/?tag=tolees0d-21'
 descuento: '43.76'
-average: '45.4445454545452'
+average: '45.431176470588'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

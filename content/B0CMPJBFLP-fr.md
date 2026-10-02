@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col chemise
-- Manches courtes
 - Patte de boutonnage 1/4
+- Manches courtes
+- Col chemise
 - Composition : 100 % coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hauteur : 17,5 cm, largeur : 26 cm, profondeur : 10 cm
-- Fabrication 100 % nylon
 - Dans notre coloris Black
-- Crochet de suspension intégré
+- Fabrication 100 % nylon
+- Hauteur : 17,5 cm, largeur : 26 cm, profondeur : 10 cm
 - Deux compartiments spacieux avec poches intérieures
+- Crochet de suspension intégré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07X3X9ZCD{{</world>}}

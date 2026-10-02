@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Van LEGO 60500'
-date: 2026-09-28 22:37:09
+date: 2026-09-30 02:10:03
 image: 'https://m.media-amazon.com/images/I/51IgyzRdUFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHJ3C2/?tag=tolees0d-21'
 descuento: '36.41'
-average: '19.4250000000001'
+average: '19.4148571428573'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

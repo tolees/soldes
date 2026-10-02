@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Department : Homme
-- Fabriqué en tissu doux, respirant
+- Ras du cou
 - Conduite un maximum de confort pendant lentraînement ou la compétition
+- Fabriqué en tissu doux, respirant
+- Department : Homme
+- Age range description : Adulte
 - Matériel : 57% coton - 43% polyester
 - 57 % coton, 43 % polyester
-- Age range description : Adulte
-- Ras du cou
 - Sport type : Football américain
 
 [🛒 Achète-le!!]({{< param buyurl >}})

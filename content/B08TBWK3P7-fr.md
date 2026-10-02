@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche longue
 - 100% Polyester
 - Fermeture: Fermeture éclair
-- Normale
 - Lavage à la main seulement
+- Normale
+- Manche longue
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08TBWK3P7{{</world>}}

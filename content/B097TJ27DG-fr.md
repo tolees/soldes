@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette ultra rembourrée
-- Inserts perforés sur la pointe
-- Enfiler
 - Plat
+- Enfiler
 - Semelle intercalaire surélevée en mousse
 - Nike Court Vision Alta Womens Shoes
+- Inserts perforés sur la pointe
+- Languette ultra rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097TJ27DG{{</world>}}

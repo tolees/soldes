@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Se replie à plat pour faciliter le rangement et le transport
-- Feuilles à froisser et tissu coloré pour stimuler bébé
-- Voyez vous-même le bonheur… de bébé qui se découvre !
-- Faites des grimaces avec bébé dans le grand miroir
 - Parfait pour jouer sur le ventre ou assis
+- Feuilles à froisser et tissu coloré pour stimuler bébé
+- Se replie à plat pour faciliter le rangement et le transport
+- Faites des grimaces avec bébé dans le grand miroir
+- Voyez vous-même le bonheur… de bébé qui se découvre !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00KTYXK7W{{</world>}}

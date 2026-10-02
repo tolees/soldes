@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patte arrière réglable.
-- Visière préformée.
 - 100 % polyester (recyclé).
+- Visière préformée.
+- Patte arrière réglable.
 - Logo Mercedes - AMG Petronas Formula One Team.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

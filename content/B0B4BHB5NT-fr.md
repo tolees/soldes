@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Swiss Made Watch - 3 Years International Guarantee - Saphyre Cristal
 - Etanche 5ATM / 50 m / 165 ft
 - Cadran blanc, avec chiffres romains
 - Mouvement Suisse quartz
-- Swiss Made Watch - 3 Years International Guarantee - Saphyre Cristal
 - Bracelet acier inoxydable avec revêtement PVD or jaune
 
 [🛒 Achète-le!!]({{< param buyurl >}})

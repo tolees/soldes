@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Utilisez linterface tactile pour sélectionner et verrouiller plus de 400 hauteurs de coupe
-- La batterie lithium-ion offre jusquà 120 minutes dautonomie pour 1 heure de charge
 - Linterface utilisateur tactile vous indique précisément la hauteur de coupe sélectionnée
+- La batterie lithium-ion offre jusquà 120 minutes dautonomie pour 1 heure de charge
+- Utilisez linterface tactile pour sélectionner et verrouiller plus de 400 hauteurs de coupe
 - 3 sabots cheveux réglables : assurent une coupe de 1 à 7 mm, de 7 à 24 mm et de 24 à 42 mm
 - Contenu du coffret : 1 tondeuse à cheveux Séries 9000, 3 sabots, 1 trousse, 1 socle de charge et 1 mode demploi
 

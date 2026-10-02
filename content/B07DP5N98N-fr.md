@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1385
 - Chambre à vide amovible
+- 1385
 - Indicateur de progrès pratique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de fermeture : Lacet
 - Type de talon : Plat
-- Matériau unique : Caoutchouc synthétique
 - Matériau intérieur : Synthétique
+- Matériau unique : Caoutchouc synthétique
+- Type de fermeture : Lacet
 - Matériau extérieur :Simili cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

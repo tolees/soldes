@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Feutres de coloriage pointe moyenne
-- Capuchon ventilé anti-étouffement
-- Encre ultra-lavable à base d’eau
-- Grip ergonomique triangulaire pour une prise en main facile
 - Norme CE
+- Grip ergonomique triangulaire pour une prise en main facile
+- Encre ultra-lavable à base d’eau
+- Capuchon ventilé anti-étouffement
 - Couleurs vives et lumineuses
 - Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
 

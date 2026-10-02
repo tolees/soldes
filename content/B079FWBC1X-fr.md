@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Indication de la date
-- Verre minéral
 - Classe détanchéité (10 bars)
-- Neobrite
 - Fond de boîtier vissé
+- Verre minéral
+- Neobrite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B079FWBC1X{{</world>}}

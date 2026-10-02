@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
-- Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
 - Résistance à l’eau (IP68/IP69) – Conçu pour durer, même face aux éclaboussures et à la poussière.
-- Contenu de la boite: Coque de protection, Câble USB type-C
 - Assistant personnel Moto AI – Une intelligence artificielle à votre service au quotidien.
+- Triple capteur 50MP avec IA – Capturez des photos ultra-détaillées et optimisées automatiquement.
+- Contenu de la boite: Coque de protection, Câble USB type-C
+- Écran incurvé OLED 6,67’’ Super HD 120Hz – Profitez d’une expérience visuelle fluide et immersive.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1NCK834{{</world>}}

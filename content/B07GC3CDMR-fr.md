@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cuir lisse
+- Couleur : marron foncé
+- Semelle extérieure en caoutchouc : bonne adhérence
 - Doublure : 42 % textile (60 % polyuréthane, 40 % polyester), 33 % coton, 25 % textile (60 % nylon, 40 % polyuréthane)
 - Semelle intérieure recouverte de cuir : port plus confortable
-- Couleur : marron foncé
-- Cuir lisse
-- Semelle extérieure en caoutchouc : bonne adhérence
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GC3CDMR{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les rollers sont livrés dans les couleurs tendance bleu et noir.
+- Contenu de la livraison : 1 paire de rollers Street Rider
 - Matériaux : aluminium, plastique
 - Le patin à roulettes confortable assure beaucoup de plaisir lors du patinage.
-- Contenu de la livraison : 1 paire de rollers Street Rider
-- Les rollers sont livrés dans les couleurs tendance bleu et noir.
 - Les rollers sont réglables en taille et sadaptent parfaitement aux pieds de votre enfant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

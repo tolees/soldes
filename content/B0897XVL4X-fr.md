@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le t-shirt essentiel et élégant
 - C’est pourquoi nous avons misé sur la simplicité avec un jersey 100 % coton, une coupe intemporelle et un logo discret
-- Fabriqué en utilisant nos techniques écologiques Water&ItLess
-- Le t-shirt classique est l’un de ces modèles
-- Ceci est un authentique produit Levi’s
 - Certaines choses sont ideales telles qu’elles sont
+- Le t-shirt classique est l’un de ces modèles
 - Logo discret sur la poitrine
+- Ceci est un authentique produit Levi’s
+- Fabriqué en utilisant nos techniques écologiques Water&ItLess
+- Le t-shirt essentiel et élégant
 - Modèle en jersey doux
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

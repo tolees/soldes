@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PUMA Formstrip sur les côtés intérieur et extérieur
 - Logo PUMA Cat au talon
 - Dessus recyclé, semelle intermédiaire en caoutchouc, semelle extérieure en caoutchouc, bande PUMA sur les côtés latéraux et médiaux, logo PUMA Cat sur le talon
-- PUMA Formstrip sur les côtés intérieur et extérieur
 - Tige recyclée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

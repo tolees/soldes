@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Occupez-vous de votre train et préparez-le pour le prochain voyage
-- Assurez-vous que vos passagers vivent le meilleur des voyages
 - Servez vos passagers et assurez-vous qu’ils vivent un voyage confortable
+- Assurez-vous que vos passagers vivent le meilleur des voyages
 - Invitez des passagers à embarquer à bord de votre train et aidez-les à atteindre leur destination!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

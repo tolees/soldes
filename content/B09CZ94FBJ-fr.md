@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Centrale vapeur
 - Tefal GV 9820 Pro Express Vision
+- Centrale vapeur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09CZ94FBJ{{</world>}}

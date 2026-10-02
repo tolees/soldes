@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure synthétique.
-- Tige en matière synthétique.
 - La tige contient 50 % minimum de matières recyclées.
+- Tige en matière synthétique.
+- Doublure synthétique.
 - Chaussant standard.
-- Fermeture à lacets.
 - Semelle extérieure en caoutchouc.
+- Fermeture à lacets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CDQCCD6K{{</world>}}

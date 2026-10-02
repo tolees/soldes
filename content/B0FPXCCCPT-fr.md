@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft La Bataille du Wither 21590'
-date: 2026-09-28 22:47:20
+date: 2026-09-30 02:14:55
 image: 'https://m.media-amazon.com/images/I/51Vk4YYNCuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCCCPT/?tag=tolees0d-21'
 descuento: '35.39'
-average: '41.6495774647885'
+average: '41.6589041095888'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

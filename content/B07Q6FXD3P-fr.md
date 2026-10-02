@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le revêtement antiadhésif rend l’ajout dhuile ou de beurre inutile et le gril est facile à nettoyer
 - Le couvercle en acier inoxydable donne au gril Tristar un aspect luxueux.
 - La charnière flottante permet de faire cuire de façon uniforme et rend le gril parfait pour tous les types d’aliments
-- Le revêtement antiadhésif rend l’ajout dhuile ou de beurre inutile et le gril est facile à nettoyer
 - Vous pouvez ranger le gril à la fois horizontalement et verticalement grâce à la fonction de verrouillage et l’espace de rangement du cordon
 - Le gril chauffe rapidement avec ses 1 000 W et est adapté pour une utilisation au camping
 

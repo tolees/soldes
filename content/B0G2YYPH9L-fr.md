@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Assistance sur les sentiers longs et ultra-longs
-- Idéal pour les coureurs dendurance
 - Coussinet DNA LOFT v3 plus épais
 - Tige technique respirante et légère
+- Idéal pour les coureurs dendurance
 - Semelle extérieure TrailTack renforcée pour une adhérence accrue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

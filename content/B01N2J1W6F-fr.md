@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une plage de gain très étendue
 - Une sensation extrêmement réactive et expressive
 - Un Overdrive transparent avec effet à lampe pour guitares électriques
 - Châssis en métal ultra robuste
 - True Bypass pour une intégrité de signal ultime
+- Une plage de gain très étendue
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N2J1W6F{{</world>}}

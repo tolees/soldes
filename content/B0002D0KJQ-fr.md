@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabricant Français - Grande Qualité
+- Anches pour Saxophone Alto
 - Force : 3
 - Pack de 10
-- Anches pour Saxophone Alto
+- Fabricant Français - Grande Qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0002D0KJQ{{</world>}}

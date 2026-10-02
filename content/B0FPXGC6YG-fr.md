@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Pikachu et Poké Ball 72152'
-date: 2026-09-29 00:07:10
+date: 2026-09-30 02:18:54
 image: 'https://m.media-amazon.com/images/I/51Abu6QA+YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGC6YG/?tag=tolees0d-21'
 descuento: '38.10'
-average: '130.957647058823'
+average: '130.559444444444'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

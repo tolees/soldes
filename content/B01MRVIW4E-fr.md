@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Coupe basse
 - Logo encadré tiré des archives Reebok
-- Semelle intérieure moulée confortable
 - Tige en cuir souple
+- Semelle intérieure moulée confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MRVIW4E{{</world>}}

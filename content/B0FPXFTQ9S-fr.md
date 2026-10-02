@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le Razor Crest 75447'
-date: 2026-09-28 23:59:54
+date: 2026-09-30 02:18:17
 image: 'https://m.media-amazon.com/images/I/51F7m+dGLLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFTQ9S/?tag=tolees0d-21'
 descuento: '33.34'
-average: '100.933333333331'
+average: '100.902903225804'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

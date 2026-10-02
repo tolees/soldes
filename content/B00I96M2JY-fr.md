@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réservoir deau amovible de 0,7L
-- Mode économiseur dénergie: la machine bascule automatiquement en veille au bout de 3 minutes dinutilisation et se met hors tension après 9 minutes de non utilisation
-- Bac dégouttage et bac à capsules usagées (pour 9-11 capsules) séparés pour une meilleure hygiène
 - Inissia, modèle compact de la gamme des machines Nespresso, avec la même technologie lui permettant de révéler la qualité exceptionnelle des Grands Crus Nespresso
 - Pré-chauffage rapide : 25 secondes
-- 19 bars de pression : la garantie d un espresso de qualité professionnelle
+- Réservoir deau amovible de 0,7L
+- Bac dégouttage et bac à capsules usagées (pour 9-11 capsules) séparés pour une meilleure hygiène
 - 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml) et longueur de tasse personnalisable
+- 19 bars de pression : la garantie d un espresso de qualité professionnelle
+- Mode économiseur dénergie: la machine bascule automatiquement en veille au bout de 3 minutes dinutilisation et se met hors tension après 9 minutes de non utilisation
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00I96M2JY{{</world>}}

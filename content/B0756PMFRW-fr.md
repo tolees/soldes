@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Premium
 - Tour de grande qualité
+- Premium
 - Excellente finition
 - Fabriqué en:- Taïwan
 

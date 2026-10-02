@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand sac à main avec sangles détachables
-- 100% Polyamide
-- Hydrofuge
 - 27 Hauteur x 44 Largeur x 20 Profondeur cm
+- Hydrofuge
 - 0.55kg Poids x 21L Volume
+- 100% Polyamide
+- Grand sac à main avec sangles détachables
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077TZJ3C5{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Redonnez de la couleur à vos sols en bitume !
+- POLYVALENT : Le Sikagard 216 Rénovateur Sol bitume est un imprégnation colorée idéal pour la rénovation des sols bitumineux et des bétons neufs ou anciens: parking, allée, trottoir, piste cyclable, aire de jeu, terrain de sports.
 - RAPIDITE : Ce produit permet un séchage rapide de la zon traitée en maximum 24 heures (trafic piétonnier)
 - CONSOMMATION : Lapplication se fera au rouleau sans primaire : 20 Litres pour 120 à 160m² sur enrobé, 200 à 240 m² sur béton. Dans certains cas et selon la porosité des supports, une deuxième couche peut être nécessaire. Utilisé les articles traités avec précaution.
-- POLYVALENT : Le Sikagard 216 Rénovateur Sol bitume est un imprégnation colorée idéal pour la rénovation des sols bitumineux et des bétons neufs ou anciens: parking, allée, trottoir, piste cyclable, aire de jeu, terrain de sports.
 - PUISSANT : Cette résine peut recouvrir et masquer danciennes signalisations de sols. Elle permet de redonner un aspect neuf et résistera à labrasion dun traffic léger et/ou moyen.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

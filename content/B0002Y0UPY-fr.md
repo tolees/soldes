@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient également pour la restauration: verre de haute qualité lavable au lave-vaisselle pour un brillant durable
 - Contenu: 1x Villeroy & Boch Boston Coloured Verre (330 ml), Matière: Verre, Couleur: Transparent/Rouge
+- Convient également pour la restauration: verre de haute qualité lavable au lave-vaisselle pour un brillant durable
 - Combinable avec dautres collections de Villeroy & Boch, Cadeau de mariage ou de crémaillère original
 - Idéal pour servir de leau, des jus ou des desserts, Couleur rouge et motif diamanté accrocheurs
 - Charmant verre rouge et au format pratique, pour accompagner élégamment vos petits déjeuner, repas et dîners entre amis

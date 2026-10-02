@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Des coups spéciaux pour nos 2 héros gaulois.
 - Une histoire originale avec des saynètes travaillées
 - Des niveaux tout beaux tout neufs, depuis Lutèce… jusqu’au bout du monde !
-- Des coups spéciaux pour nos 2 héros gaulois.
 - Astérix, Obélix et les villageois sont interrompus dans leurs occupations par larrivée précipitée de Goudurix, qui vient chercher de laide. Il révèle que son père, Océanonix, a été emprisonné pour un vol quil na pas commis
 - Un mode 2 joueurs en Coop’ locale.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago La cabane et Les véhicules des Ninjas 71857'
-date: 2026-09-28 22:45:40
+date: 2026-09-30 02:11:25
 image: 'https://m.media-amazon.com/images/I/517lKqbNH3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPVT6L4X/?tag=tolees0d-21'
 descuento: '35.25'
-average: '51.6872727272725'
+average: '51.6931428571426'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

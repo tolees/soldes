@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends La remorque du Cheval et du Poulain 42695'
-date: 2026-09-28 22:49:00
+date: 2026-09-30 02:15:01
 image: 'https://m.media-amazon.com/images/I/51RPWe6NrpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

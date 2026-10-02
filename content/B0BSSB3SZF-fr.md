@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poudre compacte anti-fatigue Formule clean
-- Eponge intégrés
 - Fondante Poudre matifiante longue tenue Miroir
 - Vegan Prolonge le maquillage Poudre matifiante pour un teint éclatant
+- Eponge intégrés
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSSB3SZF{{</world>}}

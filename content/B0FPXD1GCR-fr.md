@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Évoli 72151'
-date: 2026-09-28 22:50:35
+date: 2026-09-30 02:15:15
 image: 'https://m.media-amazon.com/images/I/4196F5dXrdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD1GCR/?tag=tolees0d-21'
 descuento: '40.01'
-average: '40.59'
+average: '39.8233333333334'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

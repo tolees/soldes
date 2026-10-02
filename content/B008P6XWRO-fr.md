@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Arrêt automatique
-- Puissance 2400 W
-- 2 niveaux deau visibles
 - Capacité 1.2 L
+- Puissance 2400 W
 - Filtre anti-tartre
+- 2 niveaux deau visibles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008P6XWRO{{</world>}}

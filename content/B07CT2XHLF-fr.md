@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour une application sans efforts pour acrylique, silicone, colle en cartouches jusquà 310 ml
-- La fonction stop-goutte automatique empêche le matériau de continuer à couler
 - Changement de cartouche facile
+- La fonction stop-goutte automatique empêche le matériau de continuer à couler
+- Pour une application sans efforts pour acrylique, silicone, colle en cartouches jusquà 310 ml
 - Poignée pivotante à 360 ° pour une application confortable en fonction de langle de travail
 - La position de la poignée peut être ajustée à la taille de la main
 

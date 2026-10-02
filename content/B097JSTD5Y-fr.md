@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les serviettes sont sans parfum
-- Une serviette fine pour plus confort optimal
 - Always Serviettes protection fiable avec un voile supérieur 100% coton biologique
+- Une serviette fine pour plus confort optimal
+- Les serviettes sont sans parfum
 - Avec ailettes pour que la serviette reste en place
 - Un cœur ultra absorbant qui transforme le liquide en gel pour empêcher les fuites
 

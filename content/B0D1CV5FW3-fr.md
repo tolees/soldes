@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Présiste aux intempéries: protection IPX4
+- Pneus 10" tubeless: absobent les chocs pour une conduite confortable
+- Vitesse max 25km/h: conduite performante
 - Puissance de 300W: surmonte les pentes jusquà 15%
 - Autonomie jusquà 25 KM: couvre aisément les courtes distances
-- Vitesse max 25km/h: conduite performante
-- Pneus 10" tubeless: absobent les chocs pour une conduite confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1CV5FW3{{</world>}}

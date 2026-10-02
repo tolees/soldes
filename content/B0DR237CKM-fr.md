@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couteau Santoku en acier japonais à haute teneur en carbone 10Cr15Mov avec HRC62
 - Manche ergonomique antidérapant en bois de pakka pour les mains européennes
-- Couteau de cuisine professionnel 18 cm, forgé à la main, tranchant ultra-tranchant à 12°
 - Lame mate anti-traces de doigts, finition anti-rayures et anti-taches. Idéal pour la découpe de rôtis du dimanche et les tâches quotidiennes en cuisine
+- Couteau Santoku en acier japonais à haute teneur en carbone 10Cr15Mov avec HRC62
+- Couteau de cuisine professionnel 18 cm, forgé à la main, tranchant ultra-tranchant à 12°
 - Lame laminée 5 couches résistante à la rouille et à lécaillage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox Homme U Deiven A Basket Marron Clair 44 EU'
-date: 2026-08-27 18:39:05
+date: 2026-09-30 01:21:40
 image: 'https://m.media-amazon.com/images/I/31-GugdOhwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,6 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respirant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FB3Y3G4L{{</world>}}

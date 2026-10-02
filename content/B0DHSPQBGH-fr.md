@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
 - Doublure textile.
-- Semelle extérieure pour terrain synthétique 2G et 3G.
 - Tige en Fiberskin avec imprimé Sprintgrid.
+- Fermeture à lacets.
+- Semelle extérieure pour terrain synthétique 2G et 3G.
 - Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

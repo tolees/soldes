@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Transporteur de Motos 60491'
-date: 2026-09-28 22:51:25
+date: 2026-09-30 02:15:25
 image: 'https://m.media-amazon.com/images/I/51ykMgb5-KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD23ST/?tag=tolees0d-21'
 descuento: '40.02'
-average: '13.6236363636364'
+average: '13.4875'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

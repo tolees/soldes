@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure AHAR+ résistante
 - Idéal pour lentraînement quotidien et les distances moyennes
-- Tige respirante et légère
+- Semelle extérieure AHAR+ résistante
 - PureGEL évolué pour un confort supérieur
+- Tige respirante et légère
 - FF BLAST pour un meilleur retour dénergie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - OKBABY, une entreprise 100% Made in Italy spécialisée dans la fabrication de produits pour bébés: garantie, innovation, qualité et normes.
-- En option, kit barres de support réglable.
 - Avec 3 points dappui, 2 sur les côtés et un au centre.
 - Design ergonomique qui permet de placer lenfant dans les 2 positions afin quil est une posture correctte de lenfant durant sa croissance (0 - 6 mois et 6 - 12 mois).
 - Thermomètre digital à cristaux liquides.
+- En option, kit barres de support réglable.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00T9L11YA{{</world>}}

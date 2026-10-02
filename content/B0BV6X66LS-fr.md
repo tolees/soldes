@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pepe Jeans Logo sur la cinquième poche
 - Braguette zippée
-- Jean fuselé, taille normale, jambe fuselée
-- Style à cinq poches
+- Pepe Jeans Logo sur la cinquième poche
 - Coutures sur les poches arrière
+- Style à cinq poches
+- Jean fuselé, taille normale, jambe fuselée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BV6X66LS{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capuche avec cordon de serrage
+- Coupe standard
+- Police et logo de style universitaire
+- Molleton : 70 % coton, 30 % polyester (100 % recyclé)
 - Poche kangourou
 - Zip sur toute la longueur à l’avant
-- Coupe standard
-- Molleton : 70 % coton, 30 % polyester (100 % recyclé)
-- Police et logo de style universitaire
+- Capuche avec cordon de serrage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4RJCBX2{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 Tableau Floral 31390'
-date: 2026-09-29 00:06:20
+date: 2026-09-30 02:18:50
 image: 'https://m.media-amazon.com/images/I/41wwTEP0RhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG94YQ/?tag=tolees0d-21'
 descuento: '34.01'
-average: '19.9316666666667'
+average: '19.9207692307692'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

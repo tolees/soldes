@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hat with turned-up brim
 - Beanie with Logo
+- Hat with turned-up brim
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00XX66NSG{{</world>}}

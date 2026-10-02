@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Partie supérieure chromée
 - Cloche traditionnelle
 - Argentée
-- Partie supérieure chromée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B06XX8MNMV{{</world>}}

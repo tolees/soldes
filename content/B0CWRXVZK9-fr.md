@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 👤 Age : A partir de 10 ans
-- ⚔️ Dans ce JEU DE STRATEGIE ⚔️ vous incarnez des Vikings ! ⚔️
-- 🌳 A la vue de vos drakkars, les habitants ont fui et vous allez vous emparer de nombreuses ressources 🌳🐑 ⚔️ et bâtiments laissés sans défense pour construire votre propre Fjord.
-- 🏰 Ses points forts : Une grande rejouabilité grâce à ses plateaux modulables et recto verso , son riche matériel et son accessibilité à y jouer !
 - 👤 De 2 à 4 joueurs
+- ⚔️ Dans ce JEU DE STRATEGIE ⚔️ vous incarnez des Vikings ! ⚔️
+- 🏰 Ses points forts : Une grande rejouabilité grâce à ses plateaux modulables et recto verso , son riche matériel et son accessibilité à y jouer !
+- 👤 Age : A partir de 10 ans
 - 🐑 Un jeu addictif, aux multiples manières de marquer des points 🐑
+- 🌳 A la vue de vos drakkars, les habitants ont fui et vous allez vous emparer de nombreuses ressources 🌳🐑 ⚔️ et bâtiments laissés sans défense pour construire votre propre Fjord.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWRXVZK9{{</world>}}

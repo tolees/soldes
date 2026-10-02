@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimension du produit: 0.8x2.1x 11
 - Dimensions : 190x60x30 mm
 - Matériau du produit: plastique
 - Dimensions : 190x60x30 mm
-- Dimension du produit: 0.8x2.1x 11
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0017RHFQW{{</world>}}

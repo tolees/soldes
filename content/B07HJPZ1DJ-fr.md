@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- bouilloire,automate,électrique,rapide,structure
-- eau chaude,litre,théière,anticalcaire,dispensateur deau chaude
 - eau chaude,appareil à eau chaude,thé,thermoplongeur
 - rayé,design,bouilloire design,Inspire,Noir,24361-70
+- bouilloire,automate,électrique,rapide,structure
+- eau chaude,litre,théière,anticalcaire,dispensateur deau chaude
 - bouilloire,eau,chauffe-eau,chauffe-eau,théière
 
 [🛒 Achète-le!!]({{< param buyurl >}})

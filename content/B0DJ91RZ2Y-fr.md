@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc à zones
 - Fermeture à lacets
+- Semelle extérieure en caoutchouc à zones
 - Tige en textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

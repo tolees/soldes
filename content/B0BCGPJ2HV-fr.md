@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Protection contre la pénétration de poussière et déclaboussures deau selon IP65 et est testée pour la résistance aux chocs selon IK07
-- Jusquà 4,5 heures de temps de fonctionnement
 - Peut être étendu jusquà une longueur de 1,80 m
+- Jusquà 4,5 heures de temps de fonctionnement
 - Rechargeable via le port USB-C : environ 3h de temps de charge
 - Deux niveaux déclairage : jusquà 1200 lumens (élevé), jusquà 600 lumens (faible)
 

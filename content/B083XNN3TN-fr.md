@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Composition du lot : 1 table de chevet
-- Dimensions : L40 x P33 x H49cm
 - Pieds en bois massif
 - décor blanc et chêne avec motifs
+- Dimensions : L40 x P33 x H49cm
 - 1 tiroir de rangement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

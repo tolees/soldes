@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Ravitaillement 77080'
-date: 2026-09-28 23:52:33
+date: 2026-09-30 02:16:59
 image: 'https://m.media-amazon.com/images/I/51w6njpn8BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF3G9L/?tag=tolees0d-21'
 descuento: '33.01'
-average: '27.2099999999999'
+average: '27.1718181818181'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

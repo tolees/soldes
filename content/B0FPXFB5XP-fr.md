@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 La Console de Jeu rétro 31380'
-date: 2026-09-28 23:55:01
+date: 2026-09-30 02:17:27
 image: 'https://m.media-amazon.com/images/I/51GpfgxDrwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFB5XP/?tag=tolees0d-21'
 descuento: '40.02'
-average: '12.7103370786514'
+average: '12.6945054945052'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 1 x HDMI 2.1 ; 2 x ports USB4 compatibles avec les sorties daffichage USB Type-C
-- DDR5 Dual Channel
-- Processeur AMD Ryzen séries 9000 & 8000 & 7000
 - Socket AM5
+- DDR5 Dual Channel
 - 1 x PCIe 5.0 x16 + 1 x PCIe 4.0 x16 (max. x4)
+- Processeur AMD Ryzen séries 9000 & 8000 & 7000
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DDZSP2BG{{</world>}}

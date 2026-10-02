@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Doublure textile
+- Chaussant standard
 - Tige en suède
+- Semelle Cupsole en caoutchouc
+- Contient au moins 20 % de matériaux recyclés.
 - Doublure textile
 - Fermeture à lacets
-- Contient au moins 20 % de matériaux recyclés.
-- Chaussant standard
-- Semelle Cupsole en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK4Z1QNB{{</world>}}

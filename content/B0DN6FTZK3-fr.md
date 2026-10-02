@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design urbain et élégant
 - Confort et douceur
+- Design urbain et élégant
 - Entretien facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

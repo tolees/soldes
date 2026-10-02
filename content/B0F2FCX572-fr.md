@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard.
 - Doublure: Textile
-- Lacets.
 - Tige: Textile / Autres Fibres
+- Lacets.
 - Semelle: Autres Fibres
+- Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2FCX572{{</world>}}

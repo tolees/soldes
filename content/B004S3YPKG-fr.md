@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Meilleure précision, 0,5mm/mètre
+- Structure tubulaire en aluminium renforcé pour plus de robustesse.
 - Gamme FATMAX : encore plus robuste et ergonomique, pour les usages intensifs
 - Grande fiole centrale MaxEdge pour plus de visibilité
-- Structure tubulaire en aluminium renforcé pour plus de robustesse.
 - Embouts de protection renforcés haute résistance aux chocs fixés à chaque extrémité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sobre et simple.
-- Doté d’un cordon de serrage pour un ajustement adéquat.
 - Matière : 76 % coton, 15 % polyester, 9 % viscose.
+- Doté d’un cordon de serrage pour un ajustement adéquat.
+- Sobre et simple.
 - Sweat à capuche pour homme en grande taille.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

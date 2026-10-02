@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure: Textile
 - Lacets
-- Upper: Other Materials
 - Chaussant standard
+- Upper: Other Materials
 - Semelle: Autres Fibres
+- Doublure: Textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F1XCJ2BT{{</world>}}

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ambre Solaire Protection Lotion High SPF30 - Ecran solaire de la marque Garnier
-- Ambre Solaire Protection Lotion High SPF30 - Ecran solaire pour Femme
 - Un produit exclusif de la marque Garnier
+- Ambre Solaire Protection Lotion High SPF30 - Ecran solaire pour Femme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000T1THP4{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Marguerites 11508'
-date: 2026-09-28 23:51:19
+date: 2026-09-30 02:16:47
 image: 'https://m.media-amazon.com/images/I/51K5FR0PjqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDY3X2/?tag=tolees0d-21'
 descuento: '36.42'
-average: '9.72124999999997'
+average: '9.70999999999998'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

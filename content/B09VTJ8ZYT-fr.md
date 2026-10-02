@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Polyamides recyclé
+- Lavage en machine
 - Fermeture éclair
 - Nous vous recommandons de commander une taille au-dessus de votre taille habituelle
-- Lavage en machine
-- Polyamides recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VTJ8ZYT{{</world>}}

@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Un artbook exclusif présentant des illustrations inédites
 - Le jeu en version physique
 - Une boîte de collection avec fourreau contenant l’intégralité du contenu
-- Une bande-son sur CD comprenant la poignante bande originale (OST) composée par Christos Antoniou (du groupe de metal grec Septicflesh) et principalement interprétée par le FILMharmonic Orchestra de Prague !
 - Un poster recto-verso
+- Une bande-son sur CD comprenant la poignante bande originale (OST) composée par Christos Antoniou (du groupe de metal grec Septicflesh) et principalement interprétée par le FILMharmonic Orchestra de Prague !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F8VXWV5S{{</world>}}

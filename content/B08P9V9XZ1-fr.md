@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format: Rond
 - Matière de la structure: Verre
-- Matière du couvercle: Pin
 - Dimensions = L. 14.50 x P.8.50 x H. 12.50 cm | Capacité = 0.65 litres | Poids = 0.385 kg |
+- Format: Rond
+- Matière du couvercle: Pin
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08P9V9XZ1{{</world>}}

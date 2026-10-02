@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592'
-date: 2026-09-28 22:54:02
+date: 2026-09-30 02:15:47
 image: 'https://m.media-amazon.com/images/I/41p1l7+2JLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

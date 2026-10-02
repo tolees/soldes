@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verre incurvé en cristal minéral
 - Cadran champagne clair avec aiguilles et marqueurs dorés
 - Non étanche
+- Verre incurvé en cristal minéral
 - Bracelet en cuir rouge foncé avec fermeture à boucle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

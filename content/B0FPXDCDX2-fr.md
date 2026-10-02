@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Kylian Mbappé – Best of 43013'
-date: 2026-09-28 23:44:32
+date: 2026-09-30 02:16:08
 image: 'https://m.media-amazon.com/images/I/410bPOmGCQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

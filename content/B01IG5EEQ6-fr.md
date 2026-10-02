@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients extra durables
 - Flexible
+- Ingrédients extra durables
 - Légères
 - Facile à installer
 - Bonne prise en main

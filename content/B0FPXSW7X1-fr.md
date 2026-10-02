@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : Le X-Wing Red Five de Luke - Jouet Interactif - Set Tout-en-Un - Réagit à Votre Façon de Bouger et de Jouer avec Une Smart Brique - Cadeau Garçon ou Fille dès 6 Ans 75423'
-date: 2026-09-28 22:42:44
+date: 2026-09-30 02:10:54
 image: 'https://m.media-amazon.com/images/I/51caR7oS3OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

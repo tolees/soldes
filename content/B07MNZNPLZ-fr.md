@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatibilité WPA3 pour une sécurité réseau accrue
-- Sécurité réseau sans abonnement avec AiProtection Pro de Trend Micro
-- Connectivité filaire flexible avec deux ports 10 Gbps et quatre ports 2.5 Gbps, ouvrant la voie aux jeux les plus gourmands en bande passante
-- Fonctionnalités VPN complètes comprenant un VPN avancé de site à site et lapplication mobile Instant Guard pour une connexion sécurisée sur les réseaux Wi-Fi publics
 - Antennes externes à double alimentation augmentant la couverture en offrant une grande efficacité et une force de signal largement améliorée
+- Sécurité réseau sans abonnement avec AiProtection Pro de Trend Micro
+- Fonctionnalités VPN complètes comprenant un VPN avancé de site à site et lapplication mobile Instant Guard pour une connexion sécurisée sur les réseaux Wi-Fi publics
+- Connectivité filaire flexible avec deux ports 10 Gbps et quatre ports 2.5 Gbps, ouvrant la voie aux jeux les plus gourmands en bande passante
+- Compatibilité WPA3 pour une sécurité réseau accrue
 - W-iFi 7 (802.11be) avec nouveaux canaux de 320 MHz dans la bande de 6 GHz et 4096-QAM pour augmenter considérablement la capacité et le débit du réseau, avec des vitesses pouvant atteindre 25 Gbit/s
 - Fonctionnement multi-liens avec plusieurs bandes en même temps pour garantir des connexions internet stables et des transferts de données efficaces
 

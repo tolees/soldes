@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle en caoutchouc vulcanisé
-- Ecusson avec létoile
 - Pointe du pied en caoutchouc renforcé
 - Œillets En Métal Brossé
+- Semelle en caoutchouc vulcanisé
+- Ecusson avec létoile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002VSMKZC{{</world>}}

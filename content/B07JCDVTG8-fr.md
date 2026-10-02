@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 2 ans pièces et main doeuvre
-- Température réglable de 50 à 100°C par paliers de 5°C
 - Double paroi : possibilité de toucher la bouilloire sans se brûler et eau maintenue au chaud sans consommation électrique
-- 100 % des pièces en contact avec leau sont en inox
+- Température réglable de 50 à 100°C par paliers de 5°C
 - Ecran digital pour visualiser lévolution de la température, affichage de la température de leau dès 30°C, signal sonore température prête
+- 100 % des pièces en contact avec leau sont en inox
 - Maintien au chaud automatique de 30 minutes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

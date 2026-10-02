@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 L’Adorable Hamster et la Fleur 31376'
-date: 2026-09-28 22:52:12
+date: 2026-09-30 02:15:36
 image: 'https://m.media-amazon.com/images/I/51rcQkSX3tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD4D4B/?tag=tolees0d-21'
 descuento: '36.04'
-average: '6.45666666666666'
+average: '6.44714285714286'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assise et dossier gonflables amovibles et ajustables
 - 3 chambres à air indépendantes
-- Vinyle renforcé très résistant
+- Assise et dossier gonflables amovibles et ajustables
 - Zone de stockage: petite sacoche hermétique
+- Vinyle renforcé très résistant
 - Usage eau douce + lac
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

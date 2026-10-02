@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour les joueurs expérimentés
-- Semelle en terre battue spécialement conçue pour les courts en terre battue
 - Tige MONO-SOCK pour un maintien sûr
+- Semelle en terre battue spécialement conçue pour les courts en terre battue
 - Amorti FLYTEFOAM avec GEL
 - Technologie TWISTRUSS pour des mouvements rapides
 

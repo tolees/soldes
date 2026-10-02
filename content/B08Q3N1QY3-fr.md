@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Avec Peach sur le bâton et la pierre
 - NOUVEAU mt 3 2 V 700 mAh LiFePo4 batterie
-- 19 5 cm de long
 - Carrera RC Quad
 - Carrera RC Quad - Peach
+- 19 5 cm de long
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q3N1QY3{{</world>}}

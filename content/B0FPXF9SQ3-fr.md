@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Vinicius Jr. – Best of 43027'
-date: 2026-09-28 23:54:28
+date: 2026-09-30 02:17:20
 image: 'https://m.media-amazon.com/images/I/51BhKGskiUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

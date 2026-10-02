@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends Le Bateau d’Aventures Axolotl 42681'
-date: 2026-09-28 23:45:21
+date: 2026-09-30 02:16:12
 image: 'https://m.media-amazon.com/images/I/517e5hV1xBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDDHKQ/?tag=tolees0d-21'
 descuento: '35.04'
-average: '6.74'
+average: '6.70428571428571'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

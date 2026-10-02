@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Perfectionnez vos compétences grâce au nouveau mode Entraînement !
 - Le célèbre shoot em up fait son retour en haute définition !
 - Une nouvelle bande-son par Chris Hülsbeck, Masahiko Ishida et léquipe sonore USP !
-- Perfectionnez vos compétences grâce au nouveau mode Entraînement !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FT34Z7RY{{</world>}}

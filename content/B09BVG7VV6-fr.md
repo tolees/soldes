@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boîtier externe
 - RaidSonic ICY BOX IB-DK2252AC DisplayLink Notebook Docking
+- Boîtier externe
 - SUPPORT PRATIQUE : Grâce à son support extrêmement robuste, la station daccueil peut être installée verticalement et reste stable même lorsque toutes les interfaces sont connectées par des câbles. Le positionnement vertical libère de lespace sur votre bureau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

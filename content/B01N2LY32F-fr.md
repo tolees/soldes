@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo darchivage et boîte à fenêtre
 - Dessus en cuir souple
+- Logo darchivage et boîte à fenêtre
 - Coupe basse
 - Semelle intérieure moulée confortable
 

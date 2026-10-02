@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coquille : 100% coton biologique
-- Polo ras du cou en coton biologique, frais et à séchage rapide.
 - Articles livrés 1x Helly Hansen Homme Polo Crew,XL,Blanc
+- Polo ras du cou en coton biologique, frais et à séchage rapide.
+- Coquille : 100% coton biologique
 - Nous avons utilisé un tricot de coton biologique avec une texture piquée subtile pour notre emblématique Polo Crew. Le résultat est un tissu doux, à séchage rapide, qui a fière allure et reste frais et sec quelle que soit lactivité pratiquée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

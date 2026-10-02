@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu respirant
 - Pinocchio à vélo
+- Tissu respirant
 - Design moderne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

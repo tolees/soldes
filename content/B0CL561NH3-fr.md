@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Genre : Masculin
-- Age : Adulte
 - Fermeture : Lacets
-- Matière : Textile, Synthétique
+- Age : Adulte
 - Pointure : 44 EU
+- Genre : Masculin
+- Matière : Textile, Synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CL561NH3{{</world>}}

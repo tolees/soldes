@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le croiseur d’assaut de Classe Venator 75441'
-date: 2026-09-28 22:46:36
+date: 2026-09-30 02:11:32
 image: 'https://m.media-amazon.com/images/I/51oyKifHgCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXBMXFN/?tag=tolees0d-21'
 descuento: '35.63'
-average: '51.1669736842105'
+average: '51.1752564102564'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

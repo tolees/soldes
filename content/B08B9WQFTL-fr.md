@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Connexions sans fil â€“ communications sans fil avec les appareils en Bluetooth
 - Format mini â€“ Un clé toute petite à emporter partout
-- Ã‰conomie dâ€énergie â€“ technologie Bluetooth Low Energy réduisant la consommation énergétique des connexions sans fil
 - Bande de fréquence: 24022480 MHz
 - Bluetooth 5.0 â€“ transferts de données jusquâ€à 2x plus rapides quâ€avant et portée multipliée par 4 en Bluetooth Low Energy (BLE)
+- Ã‰conomie dâ€énergie â€“ technologie Bluetooth Low Energy réduisant la consommation énergétique des connexions sans fil
 - Compatibilité optimale â€“ rétrocompatible avec le Bluetooth2.13.x4.x
 
 [🛒 Achète-le!!]({{< param buyurl >}})

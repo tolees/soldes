@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- <b> Garantie </b>: 2 an(s)
 - <b>Description du produit</b>: Coupe Légumes Ondule
+- <b> Garantie </b>: 2 an(s)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CPPWYYS{{</world>}}

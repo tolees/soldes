@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Requis : une interface audio XLR, un câble XLR, un support ou perche pour micro (Vendu séparément).
-- Courbe de directivité cardioïde : angle dacceptation large et indulgent pour la prise de parole hors axe.
 - Capsule dynamique haut de gamme, Optimisé pour les voix parlées : capte des détails et une précision exceptionnels, pour des caractéristiques sonores chaleureuses et réalistes.
-- Rotule de fixation mono : Support 5/8" avec adaptateurs de filetage 3/8" et 1/4" inclus. Ajuste la position du micro sans coincer votre câble, se fixe à nimporte quel support de micro.
 - Élimination des bruits ambiants : réduit les bruits de fond indésirables.
+- Rotule de fixation mono : Support 5/8" avec adaptateurs de filetage 3/8" et 1/4" inclus. Ajuste la position du micro sans coincer votre câble, se fixe à nimporte quel support de micro.
+- Courbe de directivité cardioïde : angle dacceptation large et indulgent pour la prise de parole hors axe.
 - Fonctionne avec une interface audio XLR : aucun booster de signal requis.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

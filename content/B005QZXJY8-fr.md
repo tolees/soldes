@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUR DES LÈVRES LISSES ET PULPEUSES : Glisse en douceur pour des lèvres dapparence plus lisses et pulpeuses.
-- LARGE CHOIX DE TEINTES : Découvrez un large choix de teintes emblématiques aux finis crème et perle.
-- COUVRANCE : Sa formule confortable et pigmentée glisse parfaitement sur les lèvres pour y déposer la couleur choisie.
 - COULEUR LUXURIEUSE : Fabriqué avec des pigments microfins pour des teintes de rouge à lèvres intenses et légères au toucher.
+- POUR DES LÈVRES LISSES ET PULPEUSES : Glisse en douceur pour des lèvres dapparence plus lisses et pulpeuses.
+- COUVRANCE : Sa formule confortable et pigmentée glisse parfaitement sur les lèvres pour y déposer la couleur choisie.
+- LARGE CHOIX DE TEINTES : Découvrez un large choix de teintes emblématiques aux finis crème et perle.
 - CONFORT OPTIMAL : Formulé avec 80 % dingrédients revitalisants.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

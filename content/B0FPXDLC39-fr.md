@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago La Voiture Transformable de Jay 71856'
-date: 2026-09-27 09:14:21
+date: 2026-09-30 02:16:24
 image: 'https://m.media-amazon.com/images/I/51hwiApRAaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDLC39/?tag=tolees0d-21'
 descuento: '36.01'
-average: '32.1026470588237'
+average: '32.096388888889'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

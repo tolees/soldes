@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 La Grande Roue légendaire 31389'
-date: 2026-09-28 22:53:12
+date: 2026-09-30 02:15:42
 image: 'https://m.media-amazon.com/images/I/51Mn3xnNqvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD6FNL/?tag=tolees0d-21'
 descuento: '34.45'
-average: '59.3676923076922'
+average: '59.3407142857142'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

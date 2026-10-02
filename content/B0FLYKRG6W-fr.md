@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une expérience horrifique trompeusement mignonne mais profondément dérangeante.
-- : Profitez d’interactions spéciales avec les Chompettes !
 - Un mélange d’horreur inquiétante et d’humour grinçant.
 - Faites des choix qui influenceront vos relations avec les autres personnages.
+- Une expérience horrifique trompeusement mignonne mais profondément dérangeante.
+- : Profitez d’interactions spéciales avec les Chompettes !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FLYKRG6W{{</world>}}

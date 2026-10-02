@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rapport de transmission : 3,9:1
-- 2 + 1 roulement
-- Récupération de la ligne : 28 pouces 711 mm
 - Capacité de la ligne : 370 yds/90 kg
+- Récupération de la ligne : 28 pouces 711 mm
+- 2 + 1 roulement
 - Résistance maximale : 15 livres / 6,8 kg
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Le VideoMic Me est livré avec un clip pour micro pour assurer la sécurité du micro et un pare-brise adapté pour filmer dans des conditions extérieures et défavorables.
+- Fonctionne parfaitement avec lapplication RØDE Reporter, la caméra et dautres applications denregistrement
 - Garantie de 2 ans
 - Sortie casque 3,5 mm pour la surveillance audio et la lecture
 - Microphone de haute qualité pour appareils mobiles avec entrée 3,5 mm
-- Le VideoMic Me est livré avec un clip pour micro pour assurer la sécurité du micro et un pare-brise adapté pour filmer dans des conditions extérieures et défavorables.
-- Fonctionne parfaitement avec lapplication RØDE Reporter, la caméra et dautres applications denregistrement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B018KIJGU8{{</world>}}

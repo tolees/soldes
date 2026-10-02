@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONCTION SOUFFLEUR : Choisissez entre laspirateur et le souffleur grâce à la fonction double air
-- PORTABLE ET LÉGÈRE : Facile à transporter sur le chantier ou pour passer laspirateur dans la voiture
-- HUMIDE ET SEC : Aspire à la fois leau et la poussière, sans sac
 - ACCESSOIRES : Filtre à cartouche et filtre en mousse, 3 embouts, rallonges et tuyau inclus
-- PUISSANT : Aspiration haute performance de 42,5 L/S
-- SILENCIEUX : Avec un faible niveau sonore de 80db
-- FIABLE : Garantie limitée de 2 ans incluse
 - DÉCOUPAGE DÉNERGIE : Activation automatique à partir de loutil électrique, plus besoin dallumer et déteindre laspirateur en permanence
+- FONCTION SOUFFLEUR : Choisissez entre laspirateur et le souffleur grâce à la fonction double air
+- PUISSANT : Aspiration haute performance de 42,5 L/S
+- HUMIDE ET SEC : Aspire à la fois leau et la poussière, sans sac
+- FIABLE : Garantie limitée de 2 ans incluse
+- SILENCIEUX : Avec un faible niveau sonore de 80db
+- PORTABLE ET LÉGÈRE : Facile à transporter sur le chantier ou pour passer laspirateur dans la voiture
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B092W3SQF5{{</world>}}

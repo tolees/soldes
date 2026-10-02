@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie Comfort Pillar
-- Matériau extérieur : synthétique
 - Fermeture : lacets
 - Matériau intérieur : synthétique
+- Matériau extérieur : synthétique
+- Technologie Comfort Pillar
 - Semelle : caoutchouc
 - Lavable en machine
 

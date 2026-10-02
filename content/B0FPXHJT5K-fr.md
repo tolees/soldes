@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 Sac Fashion avec Rangement 31391'
-date: 2026-09-28 22:38:28
+date: 2026-09-30 02:10:17
 image: 'https://m.media-amazon.com/images/I/41ssXfLHfaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHJT5K/?tag=tolees0d-21'
 descuento: '34.01'
-average: '20.0823076923079'
+average: '20.0614285714288'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

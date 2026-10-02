@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Doublure : 100 % PET recyclé
 - Matériau extérieur : 100 % PET recyclé
-- Couleur : violet
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
 - Better Linings, Better Outsoles, synthétique recyclé
+- Couleur : violet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRC7KDJB{{</world>}}

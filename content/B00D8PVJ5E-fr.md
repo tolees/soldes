@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Contenu : 50 ml
 - Gamme : Happy
+- Designer - Fabricant : Clinique.
 - Type de produit : Eau de parfum (EDP)
 - Sexe : pour elle / pour homme / pour femme.
-- Designer - Fabricant : Clinique.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00D8PVJ5E{{</world>}}

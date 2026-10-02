@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Les couleurs foncées doivent être lavées séparément
-- Manteau pour femme de la marque danoise VERO MODA
-- Manches : manches longues
 - Ne pas repasser
+- Manches : manches longues
+- Manteau pour femme de la marque danoise VERO MODA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BMGMCCCT{{</world>}}

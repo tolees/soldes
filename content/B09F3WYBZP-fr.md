@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Technologie de montage exclusive pour un excellent maintien du verre dans sa bague même en cas de choc
-- Traitement oléophobe et hydrophobe supérieurs pour un nettoyage facile
-- Traitement optique 32 couches double -face ultra-résistant Nano
 - Bague ultra-fine avec filetage avant pour monter un bouchon ou dautres filtres
+- Technologie de montage exclusive pour un excellent maintien du verre dans sa bague même en cas de choc
+- Traitement optique 32 couches double -face ultra-résistant Nano
+- Traitement oléophobe et hydrophobe supérieurs pour un nettoyage facile
 - Verre optique chimiquement renforcé par procédé thermique exclusif
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PROTECTION DE LUTILISATEUR : Fonction Stop Control pour détecter automatiquement la fin de la coupe ; KickBack Control ; adaptateur Click & Clean intégré pour collecteur la poussière ; éclairage LED pour un éclairage et un guidage optimaux
-- FACILE À UTILISER : Réglage de la profondeur à une main et levier à distance pour ouvrir facilement le capot de protection inférieur à une main.
-- PRÉCISION DE COUPE : Compatible avec le rail de guidage transversal et le système de guidage, se transforme en scie à onglet avec FSN X, design compact pour les coupes rapprochées, et coupe jusquà 57 mm avec un biseau de 50°.
-- Plus grande autonomie pour les outils 18 V avec la batterie GBA 18V 4.0Ah
-- Livré avec : 1x batterie GBA 18V 4.0Ah, chargeur rapide GAL 18V-40, boîte carton
 - Avec le chargeur GAL 18V-40, 48 minutes suffisent pour recharger à 80 % la batterie GBA 18V 4.0Ah
+- FACILE À UTILISER : Réglage de la profondeur à une main et levier à distance pour ouvrir facilement le capot de protection inférieur à une main.
 - IHM : Fonction : tr/min, fonction Stop Control marche/arrêt et mode éco. État : Contrôle de la surchauffe et KickBack Control
 - Compatibilité totale depuis 2008 : toutes nos batteries sont compatibles avec tous les anciens et nouveaux outils Bosch Professional de la même catégorie de tension.
+- PRÉCISION DE COUPE : Compatible avec le rail de guidage transversal et le système de guidage, se transforme en scie à onglet avec FSN X, design compact pour les coupes rapprochées, et coupe jusquà 57 mm avec un biseau de 50°.
+- Livré avec : 1x batterie GBA 18V 4.0Ah, chargeur rapide GAL 18V-40, boîte carton
+- PROTECTION DE LUTILISATEUR : Fonction Stop Control pour détecter automatiquement la fin de la coupe ; KickBack Control ; adaptateur Click & Clean intégré pour collecteur la poussière ; éclairage LED pour un éclairage et un guidage optimaux
 - CONTENU: GKS 18V-57-2 GX, L-BOXX
+- Plus grande autonomie pour les outils 18 V avec la batterie GBA 18V 4.0Ah
 - AMPShare : les batteries et chargeurs sont entièrement compatibles avec le Professional 18V System Bosch et avec de nombreux autres outils de l’Alliance multi-marques AMPShare.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

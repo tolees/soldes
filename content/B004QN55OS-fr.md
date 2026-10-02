@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Idéal pour les joints à tenon, les moulures, les goujons, les corniches, les architraves et les plinthes
 - Une scie à découper fine à utiliser le long du grain et à travers le grain
+- 10 pouces x 15 points par pouce
+- Dos en laiton massif pour une rigidité maximale
 - Poignée en bois confortable incorporant 3 rivets bifurqués
 - Coupe fine - action de coupe lisse et nette
-- Dos en laiton massif pour une rigidité maximale
-- 10 pouces x 15 points par pouce
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004QN55OS{{</world>}}

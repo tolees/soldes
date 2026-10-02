@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Cadran Sunray noir
 - Épaisseur du boîtier 10,25mm, Diamètre du boîtier 43.5 mm
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Bracelet en cuir noir façon croco
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Mouvement multifonction à quartz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

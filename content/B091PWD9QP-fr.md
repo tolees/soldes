@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE EFFICACE : à base d’amidon de riz dont la poudre absorbe l’excès de sébum. Pas de panique, ce produit est garanti sans sulfates ni silicones !
-- Batiste N°1 mondial du shampooing sec
 - 4 ETAPES ULTRA SIMPLES : Bien secouer avant chaque utilisation. Vaporiser à 30 cm vers les racines puis masser du bout des doigts et brosser, coiffer pour rafraichir les cheveux
+- FORMULE EFFICACE : à base d’amidon de riz dont la poudre absorbe l’excès de sébum. Pas de panique, ce produit est garanti sans sulfates ni silicones !
 - DOUBLE BENEFICE - FRAICHEUR ET VOLUME : cheveux raplapla? Batiste est votre sauveur ! Entre deux shampooings, en petites retouches dans la journée ou avant une soirée, Batiste redonne fraîcheur et volume à votre chevelure pour des cheveux toujours au top !
+- Batiste N°1 mondial du shampooing sec
 - SHAMPOOING SEC BATISTE ORIGINAL : shampooing sec au parfum léger qui rafraîchit vos cheveux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alimentation : 8 piles AAA/LR03 (non fournies).
-- Un set daventurier complet pour partir en exploration! Jouez comme dans Spidey et ses amis extrordinaires.
-- A partir de 3 ans. Garantie : 2 ans.
-- Une paire de Talkie-Walkie avec une portée de 120m !
 - Clip ceinture: attache ton talkie-walkie à ta ceinture et pars pour de superbes aventures !
-- Une boussole pour retrouver son chemin.
-- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
+- A partir de 3 ans. Garantie : 2 ans.
 - Des jumelles pour voir au loin.
+- Une boussole pour retrouver son chemin.
+- Un set daventurier complet pour partir en exploration! Jouez comme dans Spidey et ses amis extrordinaires.
+- Alimentation : 8 piles AAA/LR03 (non fournies).
+- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
+- Une paire de Talkie-Walkie avec une portée de 120m !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BTCNJG8R{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Flash McQueen 77255'
-date: 2026-09-28 22:49:49
+date: 2026-09-30 02:15:08
 image: 'https://m.media-amazon.com/images/I/51A8smnZb0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCYXHM/?tag=tolees0d-21'
 descuento: '35.12'
-average: '18.7894366197183'
+average: '18.7721917808219'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

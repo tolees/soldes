@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends La Grande Roue ornée de Bonbons et Cupcakes 42700'
-date: 2026-09-28 22:39:07
+date: 2026-09-30 02:10:24
 image: 'https://m.media-amazon.com/images/I/51uspkPqZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHK8Q2/?tag=tolees0d-21'
 descuento: '33.67'
-average: '39.9603703703703'
+average: '39.9542857142857'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

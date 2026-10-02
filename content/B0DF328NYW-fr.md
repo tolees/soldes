@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pas de sacs à acheter et pas de perte d’aspiration.
-- Avec un filtre lavable permanent.
-- Aspiration puissante sur tous types de sols.
-- Ball Technologie für leichtes Manövrieren.
-- La technologie Ball permet de diriger facilement l’appareil.
-- Kraftvolle Staub- und Schmutzaufnahme auf allen Bodenarten.
-- Kein Beutelkauf und kein Saugkraftverlust.
 - Le système de filtration avancé sur l’ensemble de l’appareil capture 99,97 % des poussières fines aussi petites que 0,3 micron.¹
+- La technologie Ball permet de diriger facilement l’appareil.
+- Avec un filtre lavable permanent.
+- Ball Technologie für leichtes Manövrieren.
+- Kein Beutelkauf und kein Saugkraftverlust.
+- Kraftvolle Staub- und Schmutzaufnahme auf allen Bodenarten.
+- Pas de sacs à acheter et pas de perte d’aspiration.
+- Aspiration puissante sur tous types de sols.
 - Mit einem waschbaren, langlebigen Filter.
 - Das hocheffiziente Filtersystem schließt 99,97 % der bis zu 0,3 Mikron kleinen Staubpartikel ein.¹
 

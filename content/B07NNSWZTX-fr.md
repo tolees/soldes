@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavable en machine à 40°C
 - Taille et largeur de l’assise entièrement réglables
+- Lavable en machine à 40°C
 - Physiologique, doux et confortable
 - Portage de 0 à 3 ans
 - Fonctionnalités améliorées et nouveau design

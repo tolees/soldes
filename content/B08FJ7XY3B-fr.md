@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée, boutons, gchettes, sticks analogiques et d-pad (croix directionnelle) plus larges
-- Sous licence officielle Nintendo
 - Design couleur noir unie
+- Sous licence officielle Nintendo
+- Poignée, boutons, gchettes, sticks analogiques et d-pad (croix directionnelle) plus larges
 - Gchettes arrière assignables, fonctionnalité turbo, et plus
 - Expérience dune manette grandeur nature en mode portable
 

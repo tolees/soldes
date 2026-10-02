@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Baskets classiques Camper Beetle
-- Sportowe Sneakersy Kempingowe, Baskets classiques Camper Beetle
 - Baskets Camper sportives, baskets classiques Camper Beetle
-- Baskets sportives Camper
+- Sportowe Sneakersy Kempingowe, Baskets classiques Camper Beetle
 - Baskets sportives Camper Klasyczne Sneakersy Camper Beetle
+- Baskets sportives Camper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01IG5EHIQ{{</world>}}

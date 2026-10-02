@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Atteint plus de 315 °C – pour des marques de grillage nettes et un arôme intense
-- Modes de cuisson variés – griller, cuire à la vapeur, fumer, maintenir au chaud ou décongeler avec accessoires (vendus séparément)
 - Design compact – gain de place, parfait pour balcon ou jardin
+- Modes de cuisson variés – griller, cuire à la vapeur, fumer, maintenir au chaud ou décongeler avec accessoires (vendus séparément)
+- Atteint plus de 315 °C – pour des marques de grillage nettes et un arôme intense
 - Bac à graisse frontal – facilite le nettoyage après utilisation
 - Grilles en fonte émaillée – excellente rétention de chaleur, compatibles lave-vaisselle
 

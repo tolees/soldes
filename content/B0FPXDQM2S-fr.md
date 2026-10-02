@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions McLaren W1-77257'
-date: 2026-09-28 23:48:57
+date: 2026-09-30 02:16:36
 image: 'https://m.media-amazon.com/images/I/51FzaYmc7TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDQM2S/?tag=tolees0d-21'
 descuento: '35.12'
-average: '18.3475000000002'
+average: '18.3418181818184'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

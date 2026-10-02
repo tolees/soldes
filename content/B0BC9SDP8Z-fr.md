@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle de lhumidité à une touche
 - Émet jusquà 350 ml de brume par heure
+- Contrôle de lhumidité à une touche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BC9SDP8Z{{</world>}}

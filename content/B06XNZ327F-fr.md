@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure amovible: false
-- Semelle intérieure: Synthétique
 - Doublure: Maille
 - Dessus: Cuir
 - Matériau de semelle: Caoutchouc
-- Type de talons: Plat
+- Semelle intérieure: Synthétique
+- Semelle intérieure amovible: false
 - Taille: Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Type de talons: Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B06XNZ327F{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Jet Contre la Voiture 60489'
-date: 2026-09-28 22:34:56
+date: 2026-09-30 02:09:44
 image: 'https://m.media-amazon.com/images/I/51xUCmbQAOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXH4F66/?tag=tolees0d-21'
 descuento: '33.34'
-average: '19.9364864864864'
+average: '19.9371999999999'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

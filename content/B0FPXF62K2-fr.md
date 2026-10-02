@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Marvel Groot en Tenue de Ravageur 76341'
-date: 2026-09-28 23:53:16
+date: 2026-09-30 02:17:06
 image: 'https://m.media-amazon.com/images/I/51pqc4TD-dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF62K2/?tag=tolees0d-21'
 descuento: '38.67'
-average: '38.7282857142856'
+average: '38.6744444444443'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

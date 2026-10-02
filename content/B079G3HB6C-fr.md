@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur : noir
-- Semelle extérieure/caractéristiques : EVA pour la légèreté
 - Dessus : cuir (cuir de veau)
 - Semelle intérieure : OrthoLite pour amortir
 - XL extra léger pour plus de légèreté et dabsorption des chocs
+- Semelle extérieure/caractéristiques : EVA pour la légèreté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B079G3HB6C{{</world>}}

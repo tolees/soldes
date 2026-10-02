@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Flexibilité optimale
+- Facile à porter pour un confort optimal
 - Ajustement facile et réglable avec sangle unique et fermeture avec cordon élastique
 - Les systèmes brevetés Geox assurent la respirabilité de la semelle et le bien-être du pied
-- Facile à porter pour un confort optimal
-- Flexibilité optimale
 - Chaussure avec semelle anti-signe
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les batteries Philips ZnC contiennent 0 % de métaux lourds nocifs
+- Pile(2x) R20 D
+- Sélection de couleurs malheureusement pas possible
 - Le chlorure de zinc de haute qualité garantit une longue durée de vie
 - Les batteries restent opérationnelles pendant au moins 3 ans
-- Les batteries Philips ZnC contiennent 0 % de métaux lourds nocifs
-- Sélection de couleurs malheureusement pas possible
-- Pile(2x) R20 D
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003XQIK6Y{{</world>}}

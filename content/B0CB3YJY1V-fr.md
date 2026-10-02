@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bout fermé
 - Non étanche
 - Style décontracté
-- Bout fermé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB3YJY1V{{</world>}}

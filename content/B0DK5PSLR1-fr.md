@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Neva est un jeu daction-aventure riche en émotions, créé par léquipe visionnaire de GRIS.
-- Un magnifique artbook broché de 88 pages présentant des concepts et des illustrations du jeu.
-- Une copie de la bande originale du jeu par Berlinist, sur CD et en téléchargement numérique.
-- Neva : Devolver Deluxe inclura les objets exclusifs suivants, en plus du jeu physique :
 - Une boîte de collection qui contient tous les éléments
+- Une copie de la bande originale du jeu par Berlinist, sur CD et en téléchargement numérique.
+- Un magnifique artbook broché de 88 pages présentant des concepts et des illustrations du jeu.
+- Neva : Devolver Deluxe inclura les objets exclusifs suivants, en plus du jeu physique :
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK5PSLR1{{</world>}}

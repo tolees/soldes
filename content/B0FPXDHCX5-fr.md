@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Fourgon pénitentiaire 60479'
-date: 2026-09-28 23:46:27
+date: 2026-09-30 02:16:18
 image: 'https://m.media-amazon.com/images/I/51XPWctpjWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDHCX5/?tag=tolees0d-21'
 descuento: '35.02'
-average: '12.60376'
+average: '12.609842519685'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle intérieure amovible aide à sadapter à votre pied pour réduire les chocs et augmenter la dispersion du poids
 - Tige en cuir synthétique à lacets avec empiècements protecteurs thermofusibles, semelle extérieure en TPU à adhérence durable et sans crampons
+- La semelle intérieure amovible aide à sadapter à votre pied pour réduire les chocs et augmenter la dispersion du poids
 - Amorti ULTRA FLIGHT ultra-léger et réactif
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

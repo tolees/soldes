@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nike Court Vision Alta Womens Shoes
 - Inserts perforés sur la pointe
-- Semelle intercalaire surélevée en mousse
 - Languette ultra rembourrée
 - Plat
+- Nike Court Vision Alta Womens Shoes
+- Semelle intercalaire surélevée en mousse
 - Enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

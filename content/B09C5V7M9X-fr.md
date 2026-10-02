@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Éclairage RVB dynamique Faites ressortir votre installation avec un éclairage RVB dynamique créé par six LED RGB réglables individuellement intégrées dans une barre lumineuse panoramique ;
 - Compatibilité : Intel série 300, série Intel 400, série Intel 500, série Intel 600, série AMD 300, série AMD 400, série AMD 500 ;
 - Cliquez-ici pour vous assurer de la compatibilité de ce produit avec votre modèle
+- Éclairage RVB dynamique Faites ressortir votre installation avec un éclairage RVB dynamique créé par six LED RGB réglables individuellement intégrées dans une barre lumineuse panoramique ;
 - Créez et personnalisez Choisissez parmi des dizaines de profils déclairage prédéfinis ou créez-les selon votre style à laide du logiciel CORSAIR ICUE ;
 
 [🛒 Achète-le!!]({{< param buyurl >}})

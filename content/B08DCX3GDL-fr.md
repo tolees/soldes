@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - double la portée des objectifs Z compatibles (2,0 X)
-- sont conçus pour empêcher la poussière et lhumidité dentrer
-- sert à transformer un zoom téléobjectif en super téléobjectif ou étendre la portée dun objectif à focale fixe, le tout sans affecter la qualité dimage.
-- fabriqué en aluminium anodisé robuste et texturisé
 - la distance minimale de mise au point de lobjectif reste inchangée
+- sont conçus pour empêcher la poussière et lhumidité dentrer
+- fabriqué en aluminium anodisé robuste et texturisé
+- sert à transformer un zoom téléobjectif en super téléobjectif ou étendre la portée dun objectif à focale fixe, le tout sans affecter la qualité dimage.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08DCX3GDL{{</world>}}

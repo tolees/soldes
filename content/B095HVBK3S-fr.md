@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
-- Excellent rapport qualité/prix
 - Bonne qualité
+- Excellent rapport qualité/prix
+- Durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095HVBK3S{{</world>}}

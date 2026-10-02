@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie fabricant de 5 ans, produits répondant aux plus hauts critères de qualité
+- hansgrohe depuis 1901 – fabriquant de choix pour produits cuisine et salle de bain
 - Réglage en hauteur
 - Pour barres de douche de diamètre 22 mm
-- hansgrohe depuis 1901 – fabriquant de choix pour produits cuisine et salle de bain
-- Orientable
 - Dimensions (l x l x h) : 3 x 12 x 12 cm
+- Orientable
 - Avec matériel de montage
+- Garantie fabricant de 5 ans, produits répondant aux plus hauts critères de qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B002LXFR1G{{</world>}}

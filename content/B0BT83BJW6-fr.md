@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie 10 ans contre la corrosion
 - Fabriqué en France
+- Garantie 10 ans contre la corrosion
 - adapté aux boîtes aux lettres NF BURG-WÄCHTER , taille standard
-- Facile à poser
 - en acier galvanisé, pour grillage ou mur de 6 à 30 mm dépaisseur
 - acier galvanisé pré-laqué et gabarits de pose
+- Facile à poser
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BT83BJW6{{</world>}}

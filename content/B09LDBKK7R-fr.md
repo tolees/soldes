@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gomme protectrice pour les terrains rocheux
 - La construction WaterProof de Mammut garantit imperméabilité, respirabilité et longévité. Les pieds restent ainsi au sec et dans un confort thermique idéal. Toutes les coutures sont étanchées au niveau de la membrane intérieure.
 - Aluminia Thermal Insulation
+- Gomme protectrice pour les terrains rocheux
 - Doublure intérieure avec feuille d’aluminium isolante
 - Montage collé
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions McLaren MasterCard F1 Team Casque de Lando Norris 43023'
-date: 2026-09-28 23:59:12
+date: 2026-09-30 02:18:06
 image: 'https://m.media-amazon.com/images/I/51wHGWXpwDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFT73X/?tag=tolees0d-21'
 descuento: '40.00'
-average: '57.8233333333334'
+average: '57.2757142857143'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

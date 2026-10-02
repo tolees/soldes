@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Ninjago 15e Anniversaire : Le Robot Titan de Lloyd 71860'
-date: 2026-09-28 23:49:47
+date: 2026-09-30 02:16:42
 image: 'https://m.media-amazon.com/images/I/51GtChobCjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDV2NK/?tag=tolees0d-21'
 descuento: '34.62'
-average: '85.3108823529413'
+average: '85.3017142857144'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

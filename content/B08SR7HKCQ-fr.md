@@ -30,10 +30,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - COCHE TELEDIRIGIDO ANFIBIO: sin miedo al agua, el coche batman todoterreno 4x4 tiene un diseño resistente al agua y neumáticos de rendimiento superior, por lo que se desenvuelve sobre el agua con la misma facilidad que sobre la tierra
 - INCLUYE: 1 coche RC 4x4 Batmóvil, 1 mando, 1 guía de instrucciones
-- COCHE TELEDIRIGIDO BATMAN IMBATIBLE EN CUALQUIER TERRENO: el coche radiocontrol 4x4 Batmobile en escala 1:15 con control remoto persigue a los supervillanos sobre cualquier tipo de terreno. Agua, nieve, barro, piedras, césped... Pertenece a la gama de coches teledirigidos para niños que nada puede detener
-- COMPATIBLE CON LAS FIGURAS DE BATMAN DE 10 CM: este icónico batmóvil teledirigido es compatible con cualquier figura Batman 10 cm de la Liga de la Justicia y del universo DC Comics (se venden por separado)
 - COCHE TELEDIRIGIDO NIÑOS 4 AÑOS CON MÁXIMO RENDIMIENTO: con el control de dos palancas de 2,4 GHz, podrás llevarlo por donde quieras. Maneja hasta 6 coches teledirigidos para niños a la vez y controla el coche RC desde una gran distancia
+- COCHE TELEDIRIGIDO BATMAN IMBATIBLE EN CUALQUIER TERRENO: el coche radiocontrol 4x4 Batmobile en escala 1:15 con control remoto persigue a los supervillanos sobre cualquier tipo de terreno. Agua, nieve, barro, piedras, césped... Pertenece a la gama de coches teledirigidos para niños que nada puede detener
 - JUGUETES NIÑOS 4 AÑOS +: el coche teledirigido Batmóvil es fácil de manipular y es apto para niños a partir de 4 años. ¡Con el coche radiocontrol de Batman el deseo de vivir nuevas aventuras y salvar Gotham City del crimen organizado está siempre presente
+- COMPATIBLE CON LAS FIGURAS DE BATMAN DE 10 CM: este icónico batmóvil teledirigido es compatible con cualquier figura Batman 10 cm de la Liga de la Justicia y del universo DC Comics (se venden por separado)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08SR7HKCQ{{</world>}}

@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Design ergonomique et léger pour un travail confortable à une main
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
-- Sélecteur 2 vitesses pour adapter la puissance selon les besoins du jardin
+- Sac de collecte 35 l pour nettoyer de grandes surfaces sans interruption
 - Vitesse de soufflerie jusqu’à 335 km/h pour déloger feuilles et débris tenaces
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- 2 en 1 : passe facilement du mode souffleur au mode aspirateur sans outil
 - Support à roues inclus pour une aspiration sans effort sur les longues sessions
 - Parfait pour l’entretien des grandes allées, pelouses, terrasses et jardins
-- Puissance d’aspiration de 575 m³/h avec broyage automatique intégré (ratio 12:1)
-- 2 en 1 : passe facilement du mode souffleur au mode aspirateur sans outil
 - Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max (non incluse)
-- Sac de collecte 35 l pour nettoyer de grandes surfaces sans interruption
+- Puissance d’aspiration de 575 m³/h avec broyage automatique intégré (ratio 12:1)
+- Sélecteur 2 vitesses pour adapter la puissance selon les besoins du jardin
+- Design ergonomique et léger pour un travail confortable à une main
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09KHG97BW{{</world>}}

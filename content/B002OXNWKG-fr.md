@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Noir
-- Réf : M5039_39
 - Matière(s) : - Type de baskets : Basses
+- Réf : M5039_39
 - Type de fermeture : Lacet
 - Délais de livraison : 48h à 72H
+- Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B002OXNWKG{{</world>}}

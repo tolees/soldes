@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
-- GRADABLE - Le variateur dintensité en continu permet un ajustement individuel de la luminosité
-- CHANGEMENT DE COULEUR – La fonction RGBW permet de choisir librement la température de couleur.
-- SMART HOME - Contrôlable via Zigbee et supérieur, par smartphone et tablette
 - ÉCONOMIQUE - La technologie LED fait économiser jusquà 80 % par rapport aux ampoules à incandescence traditionnelles
+- GRADABLE - Le variateur dintensité en continu permet un ajustement individuel de la luminosité
+- SMART HOME - Contrôlable via Zigbee et supérieur, par smartphone et tablette
+- CHANGEMENT DE COULEUR – La fonction RGBW permet de choisir librement la température de couleur.
+- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHY5YG77{{</world>}}

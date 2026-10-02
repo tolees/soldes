@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu des produits: - Le sérum nr-5 et son gel activateur (gouttières non incluses). - La formulation nr-5 est inchangée pour des résultats identiques
+- C’est prouvé: l’utilisation combinée du dentifrice et du sérum Expert permet de régénérer 82% de lémail après 3 jours dutilisation
 - Technologie nr-5: Silicate de calcium et phosphate de sodium. Résultats cliniquement prouvés
 - Agit sur l’érosion à un stade précoce et invisible. Régénère l’émail avec exactement le même minéral dont il est constitué
-- C’est prouvé: l’utilisation combinée du dentifrice et du sérum Expert permet de régénérer 82% de lémail après 3 jours dutilisation
 - 3 minutes, 3 soirs par mois
 
 [🛒 Achète-le!!]({{< param buyurl >}})

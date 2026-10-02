@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bandoulière réglable et amovible de 85 cm
-- Doublure intérieure
 - Petit sac à bandoulière avec un compartiment à fermeture éclair
+- Doublure intérieure
+- Bandoulière réglable et amovible de 85 cm
 - Deux poches avant et un rabat avec aimants
 - Dimensions: 19 x 23 x 9 cm
 

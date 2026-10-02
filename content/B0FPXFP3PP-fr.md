@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars chez Grogu 75443'
-date: 2026-09-28 23:58:24
+date: 2026-09-30 02:17:59
 image: 'https://m.media-amazon.com/images/I/51Xt41+bORL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFP3PP/?tag=tolees0d-21'
 descuento: '35.07'
-average: '12.5196992481203'
+average: '12.5265185185185'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

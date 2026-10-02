@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Palladium Pallabrouse Baggy 02353060M Boots - 42 EU'
-date: 2026-07-11 19:41:04
+date: 2026-09-29 23:59:40
 image: 'https://m.media-amazon.com/images/I/313WejI-bHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,6 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille : 42 EU
-- Matière : Toile
-- Fermeture : Lacets
-- Saison : Printemps Été
-- Couleur : Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0031QP6VS{{</world>}}

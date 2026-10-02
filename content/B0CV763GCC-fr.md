@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Finition bord côte poignets
-- Bas de vêtement arrière pressionné
 - Fermeture zippée double sens à rabat pressionné
 - Capuche fixe avec cordon de serrage
+- Bas de vêtement arrière pressionné
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CV763GCC{{</world>}}

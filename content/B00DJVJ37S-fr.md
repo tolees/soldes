@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détartrer la machine TASSIMO permet daugmenter sa durée de vie et daméliorer ses performances.
-- Livraison : 1x 4 Pastilles TCZ6004 TASSIMO
 - L’utilisation régulière de pastilles anticalcaire pour machines à café est indispensable pour préserver la durée de vie de l’appareil et améliorer ses performances
-- Contenu : 4 tablettes de détartrage effervescentes de 18g (Pour 2 utilisations)
+- Livraison : 1x 4 Pastilles TCZ6004 TASSIMO
 - Elimine rapidement les dépots de calcaire dans toute la machine.
+- Contenu : 4 tablettes de détartrage effervescentes de 18g (Pour 2 utilisations)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00DJVJ37S{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sutilise sur beaucoup de supports: verre, métal, plastique, caoutchouc, cuir..
-- Marqueur peinture permanent
 - Idéal pour le bricolage, lindustrie et la décoration
 - Pointe conique moyenne 4 mm
 - Peinture noire indélébile, couvrante et brillante
+- Marqueur peinture permanent
+- Sutilise sur beaucoup de supports: verre, métal, plastique, caoutchouc, cuir..
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CO6L6BK{{</world>}}

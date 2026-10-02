@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- doublure du corps en maillefilet
+- finition déperlante DWR
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - Logo Imprimé par transfert thermique
 - doublure de la mentonnière et nuque en Tricot brossé
-- doublure du corps en maillefilet
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- finition déperlante DWR
 - Deux poches principales zippées à rabat
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Manchettes élastiquées
-- Manchettes élastiquées
+- finition déperlante DWR
+- doublure du corps en maillefilet
 - Capuche fixe avec Cordon de serrage unidirectionnel
+- Manchettes élastiquées
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- doublure du corps en maillefilet
+- Cordon de serrage élastique à la capuche et à lourlet
+- Deux poches principales zippées à rabat
+- Manchettes élastiquées
 - Logo Imprimé par transfert thermique
 - Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Cordon de serrage élastique à la capuche et à lourlet
 - doublure de la mentonnière et nuque en Tricot brossé
-- Cordon de serrage élastique à la capuche et à lourlet
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- finition déperlante DWR
-- Deux poches principales zippées à rabat
-- Cordon de serrage élastique à la capuche et à lourlet
+- Capuche fixe avec Cordon de serrage unidirectionnel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Étiquette G-STAR au dos, en tissu de papier imitant le cuir
+- Offre du confort
 - Taille ajustée, pas despace
 - 5 poches, dont une poche à monnaie
 - Braguette zippée
-- Offre du confort
-- Étiquette G-STAR au dos, en tissu de papier imitant le cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09Q96NQJZ{{</world>}}

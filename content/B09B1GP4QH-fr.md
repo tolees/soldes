@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col montant
-- Fermeture Éclair
 - Deux poches à bouton-pression à lavant
+- Fermeture Éclair
 - Capuche fixe à cordon de serrage avec stoppeurs
+- Col montant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09B1GP4QH{{</world>}}

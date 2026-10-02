@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Respirant
 - Boucle sur la sangle pour ajuster lajustement
 - Chaussures faciles à enfiler
+- Respirant
 - Effet damortissement exceptionnel
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

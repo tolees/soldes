@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
-- XL EXTRALIGHT pour plus de légèreté et damortissement des chocs
 - Matériau extérieur : cuir (cuir de vache)
+- XL EXTRALIGHT pour plus de légèreté et damortissement des chocs
+- Couleur : noir
 - Semelle extérieure : semelle extérieure en EVA pour un poids léger
 - Coutures tout autour pour une longue durée de vie
 

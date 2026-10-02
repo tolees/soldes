@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un set daventurier complet pour partir en exploration!
+- A partir de 3 ans
+- Un compas pour retrouver son chemin
+- Alimentation : 8 piles AAA/LR03 (non fournies)
+- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
 - Clip ceinture: attache ton talkie-walkie à ta ceinture et pars pour de superbes aventures!
 - Garantie : 2 ans - Conçu et développé en Europe - Fabriqué en Chine
 - Des jumelles pour voir au loin
-- Alimentation : 8 piles AAA/LR03 (non fournies)
-- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
-- A partir de 3 ans
-- Un compas pour retrouver son chemin
+- Un set daventurier complet pour partir en exploration!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09G6Q6DX8{{</world>}}

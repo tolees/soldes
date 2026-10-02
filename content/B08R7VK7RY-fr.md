@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle : caoutchouc
 - Fermeture : Lace-Up
 - Matériau extérieur : cuir
-- Semelle : caoutchouc
 - Matériau intérieur : non aplicable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

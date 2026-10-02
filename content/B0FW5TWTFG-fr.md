@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ÉCRAN HAUTE QUALITÉ: Écran couleur de 7 pouces offrant une expérience de jeu immersive avec des graphismes nets et vibrants.
-- COMMANDES AUTHENTIQUES: Équipé dune manette directionnelle, dun Trackball et dun clavier intégré pour une expérience arcade authentique.
-- JEUX CLASSIQUES: Plus de 200 jeux intégrés, incluant des titres légendaires comme PAC-MAN, Asteroids, Centipede et la série Atari Recharged.
-- CONNECTIVITÉ AVANCÉE: Wi-Fi intégré pour les mises à jour, port HDMI pour jouer sur grand écran, et technologie SmartGlow pour lillumination des commandes.
 - PORTABILITÉ OPTIMALE: Batterie rechargeable intégrée pour jouer nimporte où.
+- COMMANDES AUTHENTIQUES: Équipé dune manette directionnelle, dun Trackball et dun clavier intégré pour une expérience arcade authentique.
+- ÉCRAN HAUTE QUALITÉ: Écran couleur de 7 pouces offrant une expérience de jeu immersive avec des graphismes nets et vibrants.
+- CONNECTIVITÉ AVANCÉE: Wi-Fi intégré pour les mises à jour, port HDMI pour jouer sur grand écran, et technologie SmartGlow pour lillumination des commandes.
+- JEUX CLASSIQUES: Plus de 200 jeux intégrés, incluant des titres légendaires comme PAC-MAN, Asteroids, Centipede et la série Atari Recharged.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FW5TWTFG{{</world>}}

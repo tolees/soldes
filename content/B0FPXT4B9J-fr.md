@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : Le Landspeeder de Luke - Jouet de Construction pour Jeux d action - Set Compatible avec 1 Smart Tag & 2 Minifigurines Cadeau pour Garçon ou Fille dès 6 Ans 75420'
-date: 2026-09-28 22:43:27
+date: 2026-09-30 02:11:00
 image: 'https://m.media-amazon.com/images/I/51080iuDywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXT4B9J/?tag=tolees0d-21'
 descuento: '32.51'
-average: '25.3572222222222'
+average: '25.3869090909091'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

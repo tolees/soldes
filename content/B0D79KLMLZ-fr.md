@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détails réfléchissants à 360° pour une visibilité nocturne
 - Idéal pour les séances dentraînement du soir ou du matin
-- FF BLAST+ Eco pour une réactivité accrue
 - Tige respirante et moderne
+- FF BLAST+ Eco pour une réactivité accrue
+- Détails réfléchissants à 360° pour une visibilité nocturne
 - PureGEL pour un amorti tout en douceur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

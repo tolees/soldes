@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de produit : ABIS MUSIC
 - Marque : KSCOPE
+- Type de produit : ABIS MUSIC
 - Your Wilderness [Vinyl LP]
 
 [🛒 Achète-le!!]({{< param buyurl >}})

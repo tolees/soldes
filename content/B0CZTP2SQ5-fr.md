@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compartiment principal zippé.
 - Partie extérieure : 100 % polyester (recyclé). Partie intérieure : 100 % élastomère thermoplastique.
-- Bandoulière réglable.
 - Dimensions : 5 cm x 15 cm x 21 cm.
+- Bandoulière réglable.
 - Poche zippée sur le devant.
+- Compartiment principal zippé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZTP2SQ5{{</world>}}

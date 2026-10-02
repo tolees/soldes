@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Voiture de Course F1 Academy 77258'
-date: 2026-09-28 23:43:13
+date: 2026-09-30 02:16:01
 image: 'https://m.media-amazon.com/images/I/51gLZEoolOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDCDNB/?tag=tolees0d-21'
 descuento: '35.69'
-average: '17.9311764705882'
+average: '17.9331428571428'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

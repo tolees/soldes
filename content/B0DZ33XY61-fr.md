@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Précommandez Tony Hawk’s Pro Skater 3 + 4 dès maintenant !
 - Réunissez votre équipe dans le mode multijoueur en ligne en multiplateforme permettant à jusqu’à 8 skateurs de se rejoindre dans des modes de jeu classiques ou inédits. Créez et partagez également des objectifs personnalisés avec vos amis pour la première fois dans les modes Créer un skateur et Créer un skatepark !
 - Préparez-vous pour le retour de la franchise légendaire avec Tony Hawk’s Pro Skater 3 + 4. Une expérience revisitée avec plus de skateurs, de nouveaux skateparks, des tricks encore plus géniaux, des musiques percutantes et bien plus encore
 - Simple amateur ou pro de la planche, la prise en main fluide et les commandes simples sont les mêmes à apprendre que dans Tony Hawk’s Pro Skater 1 + 2, et vous permettront de rider comme un pro
 - Enchainez les figures plus vite que jamais avec des objectifs plus difficiles à atteindre et un mode New Game+ amélioré
-- Précommandez Tony Hawk’s Pro Skater 3 + 4 dès maintenant !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DZ33XY61{{</world>}}

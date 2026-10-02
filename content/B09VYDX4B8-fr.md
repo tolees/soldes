@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 poches basses zippées & 1 poche intérieure zippée
 - Capuche fixe ajustable
+- 2 poches basses zippées & 1 poche intérieure zippée
 - Finitions poignets en bord côte
 - Fermeture zippée
 

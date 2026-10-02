@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Duplo Disney Spidey-Rex Contre Le Bouffon Vert 10463'
-date: 2026-09-28 22:44:13
+date: 2026-09-30 02:11:06
 image: 'https://m.media-amazon.com/images/I/51kx3dZgDDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N0MJBWN/?tag=tolees0d-21'
 descuento: '36.02'
-average: '13.3083333333334'
+average: '13.2342857142858'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

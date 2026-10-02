@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Waterproof
-- Duo à lèvres longue tenue 24h
 - Etape 2 : baume confort hydratation et illuminateur
 - Etape 1 : couleur vibrante non transfert
 - Une couleur infaillible pour des lèvres comme fraîchement maquillées pendant 24h,
+- Duo à lèvres longue tenue 24h
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00AQDPI2Q{{</world>}}

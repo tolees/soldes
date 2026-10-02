@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Entièrement automatique, le masque passe du clair à létat teinté en une fraction de seconde.
 - Le casque de soudage automatique ECHNO 9/13 TRUE COLOR est indispensable pour la sécurité et protège le visage et les yeux du soudeur contre les UV, les infrarouges et les projections deau.
-- Soudage TIG > 5 A
 - Équipé dun bandeau, il libère les mains du soudeur et offre le confort nécessaire pour les travaux de soudage.
 - Équipé de la technologie True Color
+- Soudage TIG > 5 A
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B095YYZNTG{{</world>}}

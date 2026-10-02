@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Le Lutin de Cornouailles 76461'
-date: 2026-09-28 22:33:26
+date: 2026-09-30 02:09:32
 image: 'https://m.media-amazon.com/images/I/518VGfWp1zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGPT4J/?tag=tolees0d-21'
 descuento: '33.34'
-average: '20.536'
+average: '20.445'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

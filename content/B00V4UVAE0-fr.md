@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues
 - Veste de motard en simili-cuir
 - Care Label:
-- materialFabricComposition: 85% Polyester, 15% Coton
+- Manches longues
 - Col motard
+- materialFabricComposition: 85% Polyester, 15% Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00V4UVAE0{{</world>}}

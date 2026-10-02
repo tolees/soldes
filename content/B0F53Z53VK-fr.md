@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- TAILLE : Ta poupée mesure 26 cm.
+- 2 AUTRES MODÈLES À COLLECTIONNER : Bloom et Stella. Collectionne-les tous !
 - LE GRAND BAL À ALFEA : Retrouve les Winx dans leurs plus belles tenues de gala ultra détaillées.
+- FLORA : Retrouve ta Winx dans sa robe rose à fleurs, délicate et charmante, idéale pour une soirée enchantée.
 - POUPÉE ARTICULÉE : Ta poupée possède au total 7 points d’articulation.
 - ÂGE : Pour les enfants à partir de 4 ans.
-- 2 AUTRES MODÈLES À COLLECTIONNER : Bloom et Stella. Collectionne-les tous !
-- FLORA : Retrouve ta Winx dans sa robe rose à fleurs, délicate et charmante, idéale pour une soirée enchantée.
-- TAILLE : Ta poupée mesure 26 cm.
 - LES WINX SONT DE RETOUR : Découvre les poupées inspirées de la toute nouvelle série Winx et rejoins Bloom et ses amies dans leurs aventures !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

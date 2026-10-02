@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - En inox.
 - 75x220mm
-- Conique
 - Tamis en maille fine avec poignée métallique.
+- Conique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09TNY88KL{{</world>}}

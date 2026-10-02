@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions La Toyota Supra MK4 de Fast and Furious 77260'
-date: 2026-09-28 23:53:50
+date: 2026-09-30 02:17:14
 image: 'https://m.media-amazon.com/images/I/51p9KBIsFvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF65PH/?tag=tolees0d-21'
 descuento: '34.30'
-average: '18.6566666666667'
+average: '18.6185714285715'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

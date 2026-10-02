@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Mélange de maille et de cuir sur la tige
+- Semelle extérieure en caoutchouc Omni-Grip non marquant et adhérent
 - Semelle intercalaire Techlite légère
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

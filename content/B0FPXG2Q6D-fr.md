@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Camion-Benne et la chargeuse Frontale 60494'
-date: 2026-09-29 00:03:24
+date: 2026-09-30 02:18:34
 image: 'https://m.media-amazon.com/images/I/51TZPeSAlFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG2Q6D/?tag=tolees0d-21'
 descuento: '34.34'
-average: '80.1016666666665'
+average: '80.066216216216'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

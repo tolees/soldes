@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Large Compabilité: Équipée dune vis 1/4", la plaque de dégagement rapide amovible de type Arca convient à tous les appareils photo reflex. Le trou de vis 3/8 en bas peut être fixé au trépied ou au monopode
 - Robuste et durable : charge maximale jusquà 6,6 lb/5 kg, fabriqué en alliage daluminium.
-- Petit et Portable: Hauteur seulement 68 mm/2,68", Poids seulement 197 g/ 0,43 lb, facile à transporter
-- Haute Stabilité: La conception à tête sphérique à profil bas crée une force de verrouillage plus forte et une plus grande stabilité. Le bouton à vis est situé sur le côté de la boule au lieu du bas de la rotule, abaisse de 15 % tout le centre de gravité de la rotule, améliore la stabilité.
 - Rotule à rotation libre : le bouton à vis peut rapidement serrer ou desserrer la boule et lui permet de se déplacer librement dans toutes les directions.
+- Haute Stabilité: La conception à tête sphérique à profil bas crée une force de verrouillage plus forte et une plus grande stabilité. Le bouton à vis est situé sur le côté de la boule au lieu du bas de la rotule, abaisse de 15 % tout le centre de gravité de la rotule, améliore la stabilité.
+- Petit et Portable: Hauteur seulement 68 mm/2,68", Poids seulement 197 g/ 0,43 lb, facile à transporter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07RXQTL1V{{</world>}}

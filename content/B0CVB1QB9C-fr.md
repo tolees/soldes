@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Support de base inclus
-- Atelier
-- La figurine « Reisalin Stout » de SEGA-Luminasta TV Anime « Atelier Ryza » est la figurine sculptée parfaite à ajouter à votre collection de SEGA. Parfait pour les collectionneurs et les fans
-- Produit sous licence officielle.
 - Figurine SEGA-Luminasta TV Anime « Atelier Ryza » « Reisalin Stout », figurine de SEGA. Vous êtes à la recherche dune figurine adorable et de qualité supérieure à ajouter à votre collection ? Ne cherchez pas plus loin.
+- Atelier
+- Produit sous licence officielle.
+- Support de base inclus
+- La figurine « Reisalin Stout » de SEGA-Luminasta TV Anime « Atelier Ryza » est la figurine sculptée parfaite à ajouter à votre collection de SEGA. Parfait pour les collectionneurs et les fans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CVB1QB9C{{</world>}}

@@ -29,15 +29,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle intermédiaire en EVA.
-- Languette à goussets.
-- Contient au moins 20 % de matériaux recyclés et renouvelables.
-- Chaussant standard.
 - Tige textile avec bout renforcé.
+- Chaussant standard.
 - RAIN.RDY.
 - Fermeture à lacets.
+- Poids : 390 g (pointure 42 2/3).
 - Drop semelle intermédiaire : 10 mm (talon : 27 mm / 17 mm).
 - Semelle extérieure Traxion.
-- Poids : 390 g (pointure 42 2/3).
+- Languette à goussets.
+- Contient au moins 20 % de matériaux recyclés et renouvelables.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVWCT74{{</world>}}

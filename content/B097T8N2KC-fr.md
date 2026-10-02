@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- semelle intermédiaire en EVA découpée
-- semelle extérieure en caoutchouc
 - doublure en textile
 - Dessus en cuir
+- semelle extérieure en caoutchouc
+- semelle intermédiaire en EVA découpée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097T8N2KC{{</world>}}

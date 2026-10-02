@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sony ECM-LV1 Microphone lavalier stéréo
 - Microphone
+- Sony ECM-LV1 Microphone lavalier stéréo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XXZHY6Z{{</world>}}

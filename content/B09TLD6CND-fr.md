@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cadre en aluminium durable, Repose-poignet détachable
 - Personnalisation avancée avec le logiciel HyperX NGENUITY
 - Connecteur USB plaqué or avec câble tressé résistant
 - Effets lumineux dynamiques RGB par touche
-- Cadre en aluminium durable, Repose-poignet détachable
 - Commutateurs mécaniques fiables et étanches à la poussière
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

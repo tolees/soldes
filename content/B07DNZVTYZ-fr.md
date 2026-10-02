@@ -31,8 +31,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Large compartiment principal avec une poche intérieure zippée pour lespace
 - Fabriqué en polyester résistant
 - Bretelles amovibles, avec des poignées de transport qui peuvent être utilisées sur lépaule
-- Hauteur : 30 cm, largeur : 62 cm, profondeur : 29 cm
 - Voyagez organisé avec la boucle de transport rembourrée et la poche frontale zippée
+- Hauteur : 30 cm, largeur : 62 cm, profondeur : 29 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DNZVTYZ{{</world>}}

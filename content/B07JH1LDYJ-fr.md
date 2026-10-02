@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque : Puma
 - Couleur : blanc
 - Référence : 370325-02-41
+- Marque : Puma
 - Femme > Chaussures > Sneakers
 
 [🛒 Achète-le!!]({{< param buyurl >}})

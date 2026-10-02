@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : 100 % cuir de vache
-- Couleur : noir
 - Semelle : 100 % EVA
+- Couleur : noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GC9M5Z4{{</world>}}

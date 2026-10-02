@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PARFUM : laissez-vous transporter par le parfum léger et raffiné de ce shampoing hydratant aux notes de fruits et de fleurs tropicales, ancrées dans de riches accords de musc et de senteurs boisées.
-- Shampoing nourrissant qui préserve la couleur.
-- QU’EST-CE QUE C’EST : un shampooing hydratant et soin anti-frisottis pour cheveux secs.
 - IDÉAL POUR : les types de cheveux qui recherchent un shampoing nourrissant et un soin anti-frisottis.
+- PARFUM : laissez-vous transporter par le parfum léger et raffiné de ce shampoing hydratant aux notes de fruits et de fleurs tropicales, ancrées dans de riches accords de musc et de senteurs boisées.
+- QU’EST-CE QUE C’EST : un shampooing hydratant et soin anti-frisottis pour cheveux secs.
+- Shampoing nourrissant qui préserve la couleur.
 - INGRÉDIENTS CLÉS : soin anti-frisottis au mélange ultraléger de 6 huiles qui aide à hydrater, nourrir, adoucir et lisser les cheveux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

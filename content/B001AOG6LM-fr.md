@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Teinture pour cheveux Manic Panic Voodoo bleu classique.
 - Bleu.
+- Teinture pour cheveux Manic Panic Voodoo bleu classique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001AOG6LM{{</world>}}

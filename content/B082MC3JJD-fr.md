@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Bandoulière en tissu amovible et réglable
-- Poignée supérieure
 - Fermeture à glissière sur le dessus
+- Poignée supérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082MC3JJD{{</world>}}

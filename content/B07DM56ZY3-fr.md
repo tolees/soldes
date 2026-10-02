@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- HRM – PLUS QU’UN STYLE DE VIE : Nous garantissons que nos produits de haute qualité sont fabriqués de manière équitable, dans le respect de lenvironnement et sans substances nocives
-- MODERNE : La capuche dotée d’un cordon contrasté brodé, la doublure contrastée et les 6 œillets métalliques HRM de cette veste à capuche à fermeture éclair ton sur ton crée un look unique qui ne passe pas inaperçu
 - DURABILITÉ : Grâce au prétraitement anti-rétrécissement et anti-boulochage, le sweat-shirt pour femmes dure longtemps. Il peut être utilisé partout et surtout à lextérieur, par temps froid et venteux
+- MODERNE : La capuche dotée d’un cordon contrasté brodé, la doublure contrastée et les 6 œillets métalliques HRM de cette veste à capuche à fermeture éclair ton sur ton crée un look unique qui ne passe pas inaperçu
+- HRM – PLUS QU’UN STYLE DE VIE : Nous garantissons que nos produits de haute qualité sont fabriqués de manière équitable, dans le respect de lenvironnement et sans substances nocives
 - SWEAT À CAPUCHE FEMME : Ce « hoodie » femmes à la coupe ajustée est fabriqué dans un tissu mélangé doux contenant 80% de coton et 20% de polyester. Grâce à la finesse de sa texture, il est idéal pour l’ennoblissement textile
 - FAIR4ALL : Linitiative sociale du même nom, que nous avons fondée, garantit que nos pulls pour femmes sont fabriqués et distribués dans des conditions de travail équitables
 

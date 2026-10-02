@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonctionne mieux sur les tissus naturels et absorbants de couleur claire tels que le coton, le lin ou la soie
-- Appliquez les pastels directement sur le tissu
-- Une fois fixé, le design est permanent et ne se décolore pas. (si vous nêtes pas satisfait de votre design, ne le repassez pas, mais lavez-le à leau froide et recommencez)
 - Les personnes de tous âges peuvent profiter de ce moyen amusant et facile de transformer des tissus absorbants naturels avec des designs uniques
+- Une fois fixé, le design est permanent et ne se décolore pas. (si vous nêtes pas satisfait de votre design, ne le repassez pas, mais lavez-le à leau froide et recommencez)
 - Couvrez le motif terminé avec une feuille de papier ou de tissu propre, et appuyez dessus avec un fer chaud pour fixer les colorants
+- Appliquez les pastels directement sur le tissu
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001JOPVIW{{</world>}}

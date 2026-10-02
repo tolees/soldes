@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit végétalien
 - Mousse viscoélastique
 - Slip-Ins
+- Produit végétalien
 - Slip Ins intégrés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

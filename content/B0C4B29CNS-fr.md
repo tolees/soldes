@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Haute qualite
-- Coupe régulière
 - Sechage rapide
+- Coupe régulière
 - Confort de port eleve
 - Liberte de mouvements absolue
 

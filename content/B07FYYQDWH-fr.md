@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puzzle de 2000 pièces
 - Âge recommandé : à partir de 12 ans
+- Puzzle de 2000 pièces
 - Puzzles SCHMIDT SPIELE Premium – avec une qualité que vous pouvez saisir
 - taille du puzzle: 96,8 x 69,2 cm
 

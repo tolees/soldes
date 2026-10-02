@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydrofuge
-- 30 Hauteur x 35.5 Largeur x 18.5 Profondeur cm
 - Sac épaule Medium Avec Bretelle Ajustable
-- 100% Polyamide
+- Hydrofuge
 - 0.4kg Poids x 12L Volume
+- 30 Hauteur x 35.5 Largeur x 18.5 Profondeur cm
+- 100% Polyamide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08SWNDKXJ{{</world>}}

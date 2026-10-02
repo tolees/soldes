@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fiche de voyage universelle 2 pôles
-- Avec ses quatre fiches mâles réglables, il peut être utilisé dans plus de 220 destinations dans le monde entier
 - Non seulement aux États-Unis, au Japon, en Grande-Bretagne, en Chine et en Australie, mais également dans tous les pays avec la norme euro et Schuko
+- Avec ses quatre fiches mâles réglables, il peut être utilisé dans plus de 220 destinations dans le monde entier
 - Le connecteur de voyage universel peut être utilisé avec des appareils 2 en provenance dAllemagne ou dautres pays et dispose dun fusible remplaçable
 - Deux ports USB (USB et USB C) permettent de charger deux appareils USB en même temps
 

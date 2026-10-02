@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
 - Enfilage facile et chaussant réglable avec fermeture éclair et lacets
 - Faciles à porter pour un confort unique
-- Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
 - Hauteur du talon : 2,5 cm / 1"
 
 [🛒 Achète-le!!]({{< param buyurl >}})

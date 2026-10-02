@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manufacturer Part Number: PC3 CHAT
 - HEADSET, MULTIMEDIA
+- Manufacturer Part Number: PC3 CHAT
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005HWEYN0{{</world>}}

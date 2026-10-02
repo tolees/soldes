@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en maille douce chinée
 - Baskets de marche confortables à enfiler
 - Lavable en machine
-- Talon de 22,9 cm
+- Dessus en maille douce chinée
 - Semelle extérieure en caoutchouc souple avec design Burst Grip
+- Talon de 22,9 cm
 - Remarque : Veuillez vérifier le tableau des tailles et mesurer votre pied avant dacheter
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

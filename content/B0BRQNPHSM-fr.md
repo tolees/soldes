@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avec le portique métal baby swing, votre petit pourra connaitre les sensations de la balançoire dès lâge de 6 mois
-- Les pièces plastiques sont traitées Anti-UV pour une bonne résistance et la tenue des couleurs dans le temps
+- Hauteur 118cm Poids maxi 25 kgs
 - Ce portique peut être utilisé en intérieur comme en extérieur sous la surveillance rapprochée dun adulte
 - Grâce à la structure métal stable et résistante, et au siège équipé dun arceau, votre bébé pourra profiter de sa balançoire en toute sécurité
-- Hauteur 118cm Poids maxi 25 kgs
+- Les pièces plastiques sont traitées Anti-UV pour une bonne résistance et la tenue des couleurs dans le temps
+- Avec le portique métal baby swing, votre petit pourra connaitre les sensations de la balançoire dès lâge de 6 mois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BRQNPHSM{{</world>}}

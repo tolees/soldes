@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- construction variable
 - Développe la coordination œil-main, la créativité et la pensée logique.
 - Contient des briques de jeu, des billes, un tremplin, un entonnoir à sonnette, un entonnoir en spirale, une roue à billes et 18 dominos colorés.
 - Pour les enfants à partir de 3 ans
-- construction variable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07YWWFLG2{{</world>}}

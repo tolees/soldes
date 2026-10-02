@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bout rond
 - Logo de la marque
 - Fermeture à lacets
-- Bout rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C76WKJ94{{</world>}}

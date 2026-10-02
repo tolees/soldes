@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La technologie Beamforming+ augmente la vitesse, la portée et la fiabilité
 - Fonctionne avec les routeurs Wi-Fi 802.11 a/b/g/n et AC
+- La technologie Beamforming+ augmente la vitesse, la portée et la fiabilité
 - Améliore la vitesse Wi-Fi avec la technologie AC
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

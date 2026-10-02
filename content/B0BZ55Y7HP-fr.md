@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Premium Qualite
-- Produit Original
 - Marque: Tsume
+- Produit Original
 - Fiable
+- Premium Qualite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BZ55Y7HP{{</world>}}

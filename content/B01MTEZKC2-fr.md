@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À enfiler
-- Cuir
 - Arche basse
+- Cuir
 - Talon plateforme
+- À enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MTEZKC2{{</world>}}

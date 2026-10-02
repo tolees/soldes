@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Petites Plantes dansantes 11506'
-date: 2026-09-28 23:57:19
+date: 2026-09-30 02:17:48
 image: 'https://m.media-amazon.com/images/I/51lL7ImWRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFLNR7/?tag=tolees0d-21'
 descuento: '40.02'
-average: '12.1638775510204'
+average: '12.1570588235294'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

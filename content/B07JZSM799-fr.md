@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ceinture élastique Flex Comfort Waistband pour plus de stretch
 - Coupe droite
 - Pantalon chino décontracté avec technologie Smart 360 Flex pour plus délasticité et de confort
-- Ceinture élastique Flex Comfort Waistband pour plus de stretch
 - Poche de sécurité invisible avec une fermeture zippée dissimulée et une petite poche pour les pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})

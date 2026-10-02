@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étiquette G-STAR au dos, en papier ressemblant à du cuir
-- Une allure originale
-- 5 poches
 - Offre du confort
+- Étiquette G-STAR au dos, en papier ressemblant à du cuir
+- 5 poches
+- Une allure originale
 - Braguette zippée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

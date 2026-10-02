@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué à Arques, dans le Nord de la France.
-- Fabriqué en Krysta, un cristallin haut de gamme.
 - Vendu en boite de 6 pièces.
+- Fabriqué en Krysta, un cristallin haut de gamme.
+- Fabriqué à Arques, dans le Nord de la France.
 - Ultra transparent et très résistant.
 - Produit expédié dans un emballage renforcé, dédié à la vente en ligne.
 

@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Col châle
-- Standard
-- Tissage alvéolé
-- Cache-cœur
 - Ceinture à nouer
+- Standard
 - Épaules légèrement tombantes
+- Cache-cœur
 - Dobby de pur coton
+- Tissage alvéolé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDGYNKGM{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle de propreté en EVA
 - Tige en matière synthétique
-- Doublure textile
 - Chaussant standard
+- Doublure textile
+- Semelle de propreté en EVA
 - Amorti confortable
 - Fermeture à lacets
 

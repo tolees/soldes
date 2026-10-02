@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Minuteur et télécommande
-- Boutons-poussoirs numériques
 - Consommation : 50 W
-- 3 puissances
-- Dimensions : 27 x 27 x 18 cm
+- Boutons-poussoirs numériques
 - Oscillant
 - 3 modes de fonctionnement
+- Dimensions : 27 x 27 x 18 cm
+- 3 puissances
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X9PCBLW{{</world>}}

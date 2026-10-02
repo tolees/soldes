@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il sagit dun produit Tommy Jeans authentique et original
 - Ce style a été produit de manière durable
+- Il sagit dun produit Tommy Jeans authentique et original
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4QTH5R1{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fonction haut-parleur avec câble auxiliaire double tête (inclus)
-- Super Design Spiderman !
-- Lumière LED à faible consommation en énergie avec changement de couleur
 - Alimentation : piles 3 x 1,5V AAA/LR03 (non incluses)
+- Super Design Spiderman !
+- Fonction haut-parleur avec câble auxiliaire double tête (inclus)
 - Changement de couleur : bleu, jaune, rouge et vert.
+- Lumière LED à faible consommation en énergie avec changement de couleur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FWKCYWV3{{</world>}}

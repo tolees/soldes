@@ -29,12 +29,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Refined chino pants with no wrinkle technology
-- Straight fit
-- Zip fly
-- Signature Khaki Straight
 - Flexible Comfort Waistband
-- Wrinkle-free stretch cotton blend fabric
 - Welt pockets
+- Straight fit
+- Wrinkle-free stretch cotton blend fabric
+- Signature Khaki Straight
+- Zip fly
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077PNM7FT{{</world>}}

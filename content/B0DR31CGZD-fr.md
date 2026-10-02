@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les lacets donnent un look classique et personnalisé
-- Détails passepoilés en cuir résistant
-- Semelle intérieure confortable moulée offrant un amorti durable
 - Semelle légère en EVA absorbant les chocs
+- Semelle intérieure confortable moulée offrant un amorti durable
+- Détails passepoilés en cuir résistant
+- Les lacets donnent un look classique et personnalisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DR31CGZD{{</world>}}

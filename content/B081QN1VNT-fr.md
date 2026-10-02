@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La tige en cuir de qualité supérieure
 - la tige de cette chaussure est fabriquée avec au moins 20 % de matériaux recyclés
+- La tige en cuir de qualité supérieure
 - ce qui constitue un pas vers un avenir meilleur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

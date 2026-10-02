@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sèche cheveux professionnel
 - Fonction Ionic Care
+- Puissance 2400 W
+- Sèche cheveux professionnel
 - Fabrication Suisse
 - Câble SuperFlex 3 m
-- Puissance 2400 W
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00VFTY7XG{{</world>}}

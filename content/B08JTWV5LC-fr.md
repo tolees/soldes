@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- materialFabricComposition: Superposition: 100% Polyester; Doublure: 100% Polyester
 - Veste en cuir synthétique
 - Regular Fit
 - Care Label:
-- materialFabricComposition: Superposition: 100% Polyester; Doublure: 100% Polyester
 - Manches longues
 
 [🛒 Achète-le!!]({{< param buyurl >}})

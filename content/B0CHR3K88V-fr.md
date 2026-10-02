@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : La doublure en toile est durable et robuste
-- Style embout : Bout rond
 - Semelle : Semelle extérieure en caoutchouc
+- Style embout : Bout rond
 - Type darticle : Espadrilles
+- Doublure : La doublure en toile est durable et robuste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CHR3K88V{{</world>}}

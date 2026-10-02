@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bonne prise en main
-- Solide à lutilisation
 - Matériel professionnel
+- Solide à lutilisation
+- Bonne prise en main
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0748JJM1D{{</world>}}

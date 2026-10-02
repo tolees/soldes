@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Radio-réveil avec tuner radio AM / FM et répétition de lalarme
-- Options standard, alarme double ou projection murale
-- Type de batterie : 230 V CA, 50 Hz
-- Répétition à intervalle réglable
 - Puissance de sortie 100 mW
+- Radio-réveil avec tuner radio AM / FM et répétition de lalarme
+- Type de batterie : 230 V CA, 50 Hz
+- Options standard, alarme double ou projection murale
+- Répétition à intervalle réglable
 - Elégant radio-réveil AM/FM avec réglage de lheure automatique, contrôle de la luminosité et fonction dalarme progressive
 - Changement dheure automatique
 

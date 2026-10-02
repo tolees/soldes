@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PROTECTION DE LA COULEUR : Elimine les impuretés pour une meilleure réflexion de la couleur, pour améliorer et protéger la couleur des cheveux jusquà 8 semaines.
 - BRILLANCE : Enrichi en antioxydants pour préserver l’éclat de la couleur et protéger contre les dommages environnementaux - garde les cheveux vigoureux et brillants.
 - SOIN DES CHEVEUX : Préserve la douceur, léclat et la brillance des cheveux - Associez ce produit aux autres soins ColorMotion+ pour une protection encore plus intense de la couleur.
-- PROTECTION DE LA COULEUR : Elimine les impuretés pour une meilleure réflexion de la couleur, pour améliorer et protéger la couleur des cheveux jusquà 8 semaines.
 - DOUCEUR: Rend les cheveux plus lisses et faciles à coiffer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

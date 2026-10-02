@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Monsieur Tomate 77079'
-date: 2026-09-29 00:08:01
+date: 2026-09-30 02:19:01
 image: 'https://m.media-amazon.com/images/I/41ImAeg+3RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

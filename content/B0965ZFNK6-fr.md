@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Nike Air Max SC Mens Shoes
 - Confort de port eleve
-- Liberte de mouvements absolue
 - Plat
+- Liberte de mouvements absolue
 - Enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

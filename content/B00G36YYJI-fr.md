@@ -29,25 +29,25 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Cordon de serrage élastique à la capuche et à lourlet
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- doublure du corps en maillefilet
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- finition déperlante DWR
-- Deux poches principales zippées à rabat
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Manchettes élastiquées
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Cordon de serrage élastique à la capuche et à lourlet
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - doublure du corps en maillefilet
-- Capuche fixe avec Cordon de serrage unidirectionnel
+- doublure de la mentonnière et nuque en Tricot brossé
+- Deux poches principales zippées à rabat
+- doublure du corps en maillefilet
 - Logo Imprimé par transfert thermique
 - Manchettes élastiquées
+- Manchettes élastiquées
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - doublure de la mentonnière et nuque en Tricot brossé
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Logo Imprimé par transfert thermique
-- doublure de la mentonnière et nuque en Tricot brossé
 - finition déperlante DWR
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- finition déperlante DWR
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Deux poches principales zippées à rabat
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00G36YYJI{{</world>}}

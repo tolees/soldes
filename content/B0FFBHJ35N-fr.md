@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : 52 purcent cuir de vachette, 48 purcent peau de porc
 - 80 purcent TPU, 20 purcent TPU recyclé
+- Doublure : 52 purcent cuir de vachette, 48 purcent peau de porc
 - Matériau supérieur : 100 purcent cuir de vachette
 - Couleur : bordeaux
 

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Appareil photo numérique
-- Zoom optique: 0.23 multiplier_x
-- Item Weight: 945.0 grams
-- 20.9 Mpixels
-- Bouchon de boîtier BF-N1, Batterie Li-ion EN-EL25, Courroie AN-DC25, Câble USB UC-E24
 - Nikon
+- Appareil photo numérique
+- 20.9 Mpixels
+- Item Weight: 945.0 grams
+- Bouchon de boîtier BF-N1, Batterie Li-ion EN-EL25, Courroie AN-DC25, Câble USB UC-E24
+- Zoom optique: 0.23 multiplier_x
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B5FCK2KN{{</world>}}

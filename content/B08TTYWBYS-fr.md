@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vous apporte un confort supplémentaire
 - - 100 % polyester pour vous garder au frais et à l’aise.
+- Vous apporte un confort supplémentaire
 - Résistant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

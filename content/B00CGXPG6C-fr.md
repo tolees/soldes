@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cartouche de toner
+- Imprimantes compatibles: M4025
 - noir
 - Samsung
-- Imprimantes compatibles: M4025
 - Consommable impression
+- Cartouche de toner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CGXPG6C{{</world>}}

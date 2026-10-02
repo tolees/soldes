@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fréquence dentrée AC: 60 Hz
-- Description du produit: Denon DP-300F
-- Poids: 5,5 kg
 - Couleur: Noir, Argent
-- Tension dentrée AC: 80-260 V
 - Consommation électrique: 2 W
+- Poids: 5,5 kg
+- Tension dentrée AC: 80-260 V
+- Description du produit: Denon DP-300F
 - Dimensions du produits (LxHxP): 434 x 381 x 122 mm
+- Fréquence dentrée AC: 60 Hz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000KVWBKQ{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Processeur PRIME IV et nouvelle accélératrice pour un bruit numérique encore mieux maîtrisé
 - Sensibilité maximale de 819 200 ISO
+- Processeur PRIME IV et nouvelle accélératrice pour un bruit numérique encore mieux maîtrisé
 - Produit
 - AF.S et AF.C plus rapide grâce à un algorithme amélioré
 

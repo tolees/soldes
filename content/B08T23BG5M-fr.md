@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspirateur :sans fil
 - Livré avec 3 accessoires : brosse
+- Aspirateur :sans fil
 - Bac à poussière grande capacité avec vidage d’une simple pression sur un bouton
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manche longue
+- 100% Coton
 - À enfiler
 - Lavage en machine
-- 100% Coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01I5X7SSK{{</world>}}

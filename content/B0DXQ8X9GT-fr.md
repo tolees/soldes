@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Commandes audio intuitives
-- Son signé HyperX
 - Micro pivotant avec coupure audio automatique
+- Son signé HyperX
+- Commandes audio intuitives
 - Jusqu’à 25 heures d’autonomie; Confort HyperX toute la journée
 - Double connexion sans fil pour une compatibilité multi-plateforme
 

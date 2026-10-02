@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Caoutchouc de traction Omni-Grip non marquant
 - Remarque : les lacets et fermetures éclair intégrés dans les chaussures Columbia Sportswear Company ne sont pas étanches.
-- Doublure réfléchissante Omni-Heat
 - Semelle intermédiaire légère Techlite pour un amorti durable et un retour dénergie élevé
+- Doublure réfléchissante Omni-Heat
 - Dessus en maille imperméable et cuir. Bottines Omni-Tech imperméables et respirantes avec membrane scellée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

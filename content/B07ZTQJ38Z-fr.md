@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Refroidit jusquà 18 °C en dessous de la température ambiante
-- Deux roues robustes, poignée rabattable pour un transport facile, deux séparateurs amovibles
 - Glacière électrique pour 12 V DC dans la voiture et prise 230 V AC
+- Deux roues robustes, poignée rabattable pour un transport facile, deux séparateurs amovibles
+- Refroidit jusquà 18 °C en dessous de la température ambiante
 - Le couvercle fendu garantit une perte minimale de froid lors de louverture de la boîte
 - Mini-réfrigérateur portable pour voiture, pique-nique, maison et jardin
 

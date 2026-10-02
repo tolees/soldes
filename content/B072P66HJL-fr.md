@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nom de larticle : Highwayman Vinyl LP
 - Marque : MUSIQUE SUR VINYLE
+- Nom de larticle : Highwayman Vinyl LP
 - Type de produit : ABIS MUSIQUE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
