@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cordon de serrage externe
 - Son tissu durable résiste au boulochage pour garantir des performances durables.
+- Cordon de serrage externe
 - Matière à l’élasticité multidirectionnelle, résistante au chlore et au boulochage. Conçu pour s’ajuster à la perfection pendant longtemps avec CREORA HighClo. Corps fabriqué à partir de 80 % de nylon recyclé et 20 % d’élasthanne (CREORA HighClo).
 - Élasthanne ultra-robuste et résistant au chlore - conçu pour s’ajuster à la perfection pendant longtemps
 - Résiste au chlore pour une performance longue durée

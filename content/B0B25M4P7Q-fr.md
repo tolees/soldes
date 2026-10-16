@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - étanche
-- très bon amortissement
 - semelle de randonnée robuste
-- Jack Wolfskin Vojo 3 Texapore MID M Chaussures de marche Kaki Phantom 40 EU, Kaki Phantom, 40 EU
 - chaussure de randonnée multifonctionnelle
+- Jack Wolfskin Vojo 3 Texapore MID M Chaussures de marche Kaki Phantom 40 EU, Kaki Phantom, 40 EU
+- très bon amortissement
 - respirant
 
 [🛒 Achète-le!!]({{< param buyurl >}})

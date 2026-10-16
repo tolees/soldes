@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : caoutchouc
 - Forme du talon : plat
-- Hauteur du talon : 2 cm
+- Semelle : caoutchouc
 - Matériau extérieur : cuir
+- Hauteur du talon : 2 cm
 - Matériau intérieur : synthétique
 - Fermeture : lacets
 

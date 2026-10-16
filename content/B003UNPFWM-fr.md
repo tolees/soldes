@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Extra forte Permet également de réaliser des créations en utilisant la technique de lacrylique pouring
 - Séchage rapide & transparent 5 à 10 minutes
 - Colle forte multi-usagers papier carton bois terre cuite mousse plastique faïence liège etc
-- Extra forte Permet également de réaliser des créations en utilisant la technique de lacrylique pouring
 - Sans solvant sans acide nettoyage des outils à leau savonneuse
 - Ne t che pas
 

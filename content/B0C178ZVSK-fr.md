@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de fermeture : Lacet
 - Matériau extérieur : Cuir
 - Type de talon : Plat
+- Type de fermeture : Lacet
 - Matériau intérieur : Synthétique
 - Matériau unique :Caoutchouc
 

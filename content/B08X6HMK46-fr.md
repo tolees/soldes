@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matière : Bois
 - Couleur : Beige
 - Type : Etagères
 - Présentoir à décorer
-- Matière : Bois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08X6HMK46{{</world>}}

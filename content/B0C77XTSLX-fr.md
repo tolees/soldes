@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau unique : Caoutchouc
-- Matière intérieur : Synthétique
-- Type de fermeture : Lacet
-- Type de Talon : Plat
 - Matériau extérieur : Cuir - Synthétique/PU
+- Type de fermeture : Lacet
+- Matière intérieur : Synthétique
+- Type de Talon : Plat
+- Matériau unique : Caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C77XTSLX{{</world>}}

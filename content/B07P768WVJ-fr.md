@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Échelle : 1:18
 - Mouvement dynamique de la figurine : Mario sallonge dans le sens de la course
-- Voiture RC télécommandée avec licence Nintendo
 - Sur la route
+- Voiture RC télécommandée avec licence Nintendo
 - Dès 6 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

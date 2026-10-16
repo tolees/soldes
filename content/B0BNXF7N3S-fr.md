@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Green Spirit
 - Bugatti Coupe souple
+- Green Spirit
 - Bugatti Easy Change
 
 [🛒 Achète-le!!]({{< param buyurl >}})

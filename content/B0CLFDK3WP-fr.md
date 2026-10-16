@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko Pop! présentant les caractéristiques suivantes:
 - Figurine de collection || Marchandises fun et de fans || Motif: Uni
 - Merchandising Pop Culture, Sport
 - Mesures: Taille standard
+- Funko Pop! présentant les caractéristiques suivantes:
 - Un véritable attrape-loeil pour chez vous!
 
 [🛒 Achète-le!!]({{< param buyurl >}})

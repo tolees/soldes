@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire Cloudfoam
+- Tige 100 % synthétique
 - Semelle de propreté 100 % textile
 - Chaussant large
+- Semelle intermédiaire Cloudfoam
 - Lacets
-- Tige 100 % synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F29TK27V{{</world>}}

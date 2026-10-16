@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus : doublure réfléchissante Omni-Heat Infinity
 - Construction imperméable et respirante Omni Tech
+- Dessus : doublure réfléchissante Omni-Heat Infinity
 - Semelle intermédiaire : semelle intermédiaire légère Techlite pour un confort durable, un amorti supérieur et un retour dénergie élevé
 - Une combinaison imperméable de daim et de textlie avec des détails de sangle de qualité supérieure et une impression 3D surélevée
 

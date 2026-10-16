@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions du produits (LxHxP): 434 x 381 x 122 mm
 - Poids: 5,5 kg
 - Couleur: Noir, Argent
-- Dimensions du produits (LxHxP): 434 x 381 x 122 mm
-- Description du produit: Denon DP-300F
 - Fréquence dentrée AC: 60 Hz
 - Consommation électrique: 2 W
+- Description du produit: Denon DP-300F
 - Tension dentrée AC: 80-260 V
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

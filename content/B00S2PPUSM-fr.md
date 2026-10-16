@@ -28,18 +28,18 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectique : Entrée : jack mono 6,35mm (impédance de 470k Ohms)
-- Mini pédale deffet type enregistreur-répétiteur pour guitare.
-- Puissance dutilisation : 140mA
-- Sortie : jack mono 6,35mm (impédance de 100 Ohms)
-- Pile : Non
-- Contrôles : Le potentiomètre de la MICRO LOOPER assure le réglage de volume de la restitution de la boucle enregistrées.
-- Boitier : Issue de la famille des MICRO SERIES, le MICRO LOOPER se présente sous la forme dune mini pédale offrant un encombrement minimum.
 - Le footswitch de la MICRO LOOPER assure le contrôle de lenregistrement, la lecture, la superposition dune boucle sur le précédent enregistrement, ainsi que leffacement de la dernière boucle enregistrée et larrêt de la lecture de la boucle.
-- Dimensions : 93,5mm x 42mm x 52mm
+- Pile : Non
+- Sortie : jack mono 6,35mm (impédance de 100 Ohms)
 - Poids : 140g
 - Alimentation externe : Adaptateur AC/DC 9V (centre négatif), non fourni.
+- Connectique : Entrée : jack mono 6,35mm (impédance de 470k Ohms)
+- Boitier : Issue de la famille des MICRO SERIES, le MICRO LOOPER se présente sous la forme dune mini pédale offrant un encombrement minimum.
+- Dimensions : 93,5mm x 42mm x 52mm
 - Notes : True Bypass : le MICO LOOPER désactivé, votre signal nest pas affecté par le circuit de la pédale. Le son reste ainsi pur et clair.
+- Puissance dutilisation : 140mA
+- Mini pédale deffet type enregistreur-répétiteur pour guitare.
+- Contrôles : Le potentiomètre de la MICRO LOOPER assure le réglage de volume de la restitution de la boucle enregistrées.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00S2PPUSM{{</world>}}

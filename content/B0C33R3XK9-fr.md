@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en caoutchouc
-- Bande PUMA Formstrip sur les côtés intérieurs et extérieurs
-- Tige en cuir synthétique
 - Semelle extérieure en caoutchouc
+- Semelle intermédiaire en caoutchouc
+- Tige en cuir synthétique
+- Bande PUMA Formstrip sur les côtés intérieurs et extérieurs
 - Détails brandés PUMA sur la tige, la languette et le talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})

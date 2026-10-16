@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrôle du direct, Timer, Fonction GOTO, renommage des fichiers
 - Enregistrez en Haute définition et +
+- Contrôle du direct, Timer, Fonction GOTO, renommage des fichiers
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FWKG6YYX{{</world>}}

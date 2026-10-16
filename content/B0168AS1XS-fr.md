@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Échelle 1:35
-- Tamiya 35346
 - EAN 4950344353460
+- Tamiya 35346
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0168AS1XS{{</world>}}

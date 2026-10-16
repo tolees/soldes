@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
-- Chaussant standard.
-- Tige textile.
 - Fermeture à lacet.
+- Doublure textile.
+- Tige textile.
+- Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CYTSBDRD{{</world>}}

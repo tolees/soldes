@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Olaplex N°4P Blonde Enhancer Toning Shampoing 250 ml
 - Pour les cheveux : abîmés
+- Olaplex N°4P Blonde Enhancer Toning Shampoing 250 ml
 - Nom du parfum : agrumes
 - Ingrédients : Olaplex N°4P Blonde Enhancer Toning Shampoing 250 ml
 

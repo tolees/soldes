@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Couleur de lencre : bleu
-- Pen - Here comes the fun
 - Un message en anglais en bas et un personnage M. ; magnifique suspendu à une petite chaîne à son extrémité
+- Pen - Here comes the fun
 - Stylo avec embout en plastique transparent, avec paillettes à lintérieur
 - Idéal pour offrir en cadeau
 

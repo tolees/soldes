@@ -28,22 +28,22 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/7Cj1wo9cKbNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
-- Batteries included : True
 - Memory storage capacity : 256.0 GB
-- Item dimensions : 0.0 inches
-- Manufacturer : XIAOMI COMMUNICATIONS CO LTD
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/7Cj1wo9cKbNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
 - Wireless provider : all carriers
-- Item dimensions : 0.0 inches
+- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/7Cj1wo9cKbNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
 - Wireless provider : all carriers
+- Batteries included : True
 - Wireless network technology : wifi
 - Batteries included : True
 - Manufacturer : XIAOMI COMMUNICATIONS CO LTD
-- Display.size : 6.74 inches
-- Memory storage capacity : 256.0 GB
-- Transportation restrictions : {modes:["AIR","GROUND"],eval attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7etrvdskg/7Cj1wo9cKbNxXabdskg/2uFHrhR64bNxXa9xOKXdskhAs4gAAAAAALNxNaNxX+NxMw==}}}
+- Item dimensions : 0.0 inches
+- Manufacturer : XIAOMI COMMUNICATIONS CO LTD
 - Display.size : 6.74 inches
 - Wireless network technology : wifi
+- Display.size : 6.74 inches
+- Memory storage capacity : 256.0 GB
+- Item dimensions : 0.0 inches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNK3KJJ3{{</world>}}

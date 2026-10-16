@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Indice de résistance à leau : imperméable
 - Largeur de la chaussure : moyenne
+- Indice de résistance à leau : imperméable
 - Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

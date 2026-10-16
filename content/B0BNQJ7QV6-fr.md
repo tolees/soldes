@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LE PETIT + : Ce moule tablette garantit un excellent transfert de chaleur, une cuisson rapide et homogène grâce au micro trous et réduira denviron 20% votre temps de cuisson
 - DESCRIPTION : Zenker vous présente ce moule tablette en silicone à base de fibre de verre, pour préparer des gâteaux à diviser en parts égales, sa technologie en fibre de verre combine les avantages des moules en silicone et traditionnels
 - COMPOSITION : Ce moule tablette est fabriqué en silicone à base de fibre de verre, il résiste à la chaleur jusquà 200°C (ne pas placer le moule trop près des résistances du four), cette matière permet un démoulage express sans aucune matière grasse
+- LE PETIT + : Ce moule tablette garantit un excellent transfert de chaleur, une cuisson rapide et homogène grâce au micro trous et réduira denviron 20% votre temps de cuisson
 - DIMENSIONS : Ce moule à gâteau en forme de tablette mesure 24,5 x 22 x 3,8 cm, cela est idéal pour réaliser des croques tablettes, la découpe du croque est enfantine grâce au motif du moule
 - UTILISATION : Laissez tremper ce moule tablette dans leau chaude savonneuse, puis frotter avec une éponge douce non-abrasive, ou bien le passer au lave-vaisselle, ce moule à gâteaux est fragile mais se nettoie très facilement à la main, la chaleur du lave-vaisselle peut décoller la partie rigide
 

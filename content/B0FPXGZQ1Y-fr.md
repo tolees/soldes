@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Marvel Le Robot de Miles Morales Contre Spider-Man 2099-76337'
-date: 2026-10-14 10:20:26
+title: 'LEGO Marvel Le Robot de Miles Morales Contre Spider-Man 2099-76337 | Jouet pour garçon dès 6 ans figurine d’action jouet super-héros 2 minifigurines toile tranchante idée cadeau 135 pièces'
+date: 2026-10-15 21:47:45
 image: 'https://m.media-amazon.com/images/I/51YPfABSDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9
 comparePrice: 14.99 EUR
-prodname: 'LEGO Marvel Le Robot de Miles Morales Contre Spider-Man 2099-76337'
+prodname: 'LEGO Marvel Le Robot de Miles Morales Contre Spider-Man 2099-76337 | Jouet pour garçon dès 6 ans figurine d’action jouet super-héros 2 minifigurines toile tranchante idée cadeau 135 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGZQ1Y/?tag=tolees0d-21'
 descuento: '33.96'
-average: '9.92422222222219'
+average: '9.92369565217388'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

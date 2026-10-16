@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture par bouton et zip
 - Tissu super extensible
+- Fermeture par bouton et zip
 - Design à cinq poches
 - Passants de ceinture
 

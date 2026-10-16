@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emballage: Boîte
 - Entièrement doublé
+- Emballage: Boîte
 - Lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

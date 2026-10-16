@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Flexibilité optimale
-- Les systèmes brevetés Geox assurent la respirabilité de la semelle et le bien-être du pied
 - Facile à porter pour un confort optimal
+- Les systèmes brevetés Geox assurent la respirabilité de la semelle et le bien-être du pied
 - Ajustement facile et réglable avec sangle unique et fermeture avec cordon élastique
 - Chaussure avec semelle anti-signe
 

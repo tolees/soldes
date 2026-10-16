@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Plusieurs poignées de transport et points darrimage
-- Grand compartiment principal
 - Poche extérieure zippée
+- Grand compartiment principal
 - Se range dans une poche extérieure pour accessoires.
 - Système de bandoulière escamotable
 

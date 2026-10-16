@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Il est certifié FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière responsable.
 - À l’intérieur de la couverture, nous trouvons une grille destinée à enregistrer le calendrier de l’année scolaire.
 - De plus, comprend une feuille dautocollants.
+- Il est certifié FSC, qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière responsable.
 - Carnet A4 avec couverture extra rigide et reliure spirale, avec 240 pages quadrillées et microperforées à lintérieur, ce qui permet darracher facilement ses pages pour les classer ultérieurement dans un dossier.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

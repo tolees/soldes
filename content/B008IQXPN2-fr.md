@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Description du produit: Larmoire OMNIMODUS peut être installé aussi bien à lintérieur (chambre, buanderie, garage, cave, cuisine...) quà lexterieur (terrasse, jardin, balcon, piscine...) grâce à sa finition soignée (imitation bois) et sa matière (polypropylène). Omnimodus est résistant aux intempéries et est traité anti-UV. Chaque compartiment supporte 30Kg. Montage et démontage simple et rapide.
-- Composition: polypropylène
-- Matière : polypropylène
-- Dimensions : 79 x 43 x 164 cm
-- Couleur : Taupe
 - Finition: imitation bois
+- Dimensions : 79 x 43 x 164 cm
+- Matière : polypropylène
+- Composition: polypropylène
+- Couleur : Taupe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B008IQXPN2{{</world>}}

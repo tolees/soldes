@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Scie circulaire te-cs 165 - 1200 w - régime 5500 trs/min - lame ø165 x ø16 x 2,4 mm - 24 dents - capacité de coupe 55 mm - butée de coupe parallèle - réglage sans outil de la coupe et linclinaison de coupe - livré avec poignée supplémentaire, adaptateur pour aspiration, lame 24 dents et clé de changement de lame
+- Poignée supplémentaire ergonomique avec Softgrip
 - Clé pour le changement de lame sur l‘outil
 - Réglages sans outil (profondeur de coupe, angle d‘inclinaison)
 - Lame de scie CT haut de gamme pour des coupes rapides
-- Poignée supplémentaire ergonomique avec Softgrip
 - Butée parallèle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

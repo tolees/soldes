@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ENTIÈREMENT ÉQUIPÉ : Comprend des éclairages électroniques, des sons authentiques, des jambes articulées et plus encore.
 - VAISSEAU EMBLÉMATIQUE : Mène l’assaut sur ECHO BASE avec l’AT-AT Walker.
 - ÉCHELLE AUTHENTIQUE : Le vaisseau de 25 cm présente des détails incroyables et une mise à l’échelle authentique.
+- ENTIÈREMENT ÉQUIPÉ : Comprend des éclairages électroniques, des sons authentiques, des jambes articulées et plus encore.
 - ÉQUIPAGE EMBLÉMATIQUE : Comprend cinq micro figurines de 3 cm et un speeder HOTH exclusif.
 - PRODUIT OFFICIEL : Produit Jazwares sous licence officielle STAR WARS.
 

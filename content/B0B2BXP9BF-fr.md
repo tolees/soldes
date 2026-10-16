@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une toile vierge pour l’expression de soi
-- Ceci est un authentique produit Levi’s
 - Le blue-jean original depuis 1873
 - Présente la coupe droite iconique et l’emblématique braguette boutonnée
+- Une toile vierge pour l’expression de soi
+- Ceci est un authentique produit Levi’s
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2BXP9BF{{</world>}}

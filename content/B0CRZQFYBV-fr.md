@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Empiècement aux épaules
 - Poches poitrine à rabat fermées par boutons-pression
 - Col chemise
-- Poignets fermés par boutons-pression
-- Empiècement aux épaules
 - Fermeture à boutons-pression
+- Poignets fermés par boutons-pression
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRZQFYBV{{</world>}}

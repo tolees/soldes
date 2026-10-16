@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Braguette zippée
 - 5 poches
 - Offre du confort
-- Une allure originale
 - Étiquette G-STAR au dos, en tissu de papier imitant le cuir
+- Braguette zippée
+- Une allure originale
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Q4FJ5P7{{</world>}}

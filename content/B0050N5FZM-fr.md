@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable
 - Cuir responsable
+- Confortable
 - Cuir souple
 - Poids léger
 

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal pour les étudiants et les professionnels
-- Finition laquée noire mate rehaussée d’attributs noirs et du clip Parker emblématique en forme de flèche
 - Forme confortable et ergonomique associée à l’expertise de Parker, pour évoquer le raffinement de la marque
+- Finition laquée noire mate rehaussée d’attributs noirs et du clip Parker emblématique en forme de flèche
 - Design élégant, raffiné et authentique allié à une silhouette moderne et fuselée
 - Pointe bille rétractable et encre QUINKflow fiable pour tracer des lignes fluides et régulières, quel que soit le lieu où vous écrivez
 

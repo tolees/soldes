@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 2 cartouches d’encre
 - Les cartouches dencre HP authentiques testées ont imprimé plus de 2 fois le nombre de pages, en moyenne, que les modèles non HP ont imprimé.*
-- La cartouche d’encre HP 308 fonctionne avec: HP DeskJet 2900, 4300; HP Envy 6110e, 6120e, 6122e, 6130e, 6132e, 6520e, 6530e, 6532e, 6558e, Envy 6100, Envy 6165e, Envy 6500
 - Idéal pour les petites entreprises ou les particuliers à faible volume.
+- La cartouche d’encre HP 308 fonctionne avec: HP DeskJet 2900, 4300; HP Envy 6110e, 6120e, 6122e, 6130e, 6132e, 6520e, 6530e, 6532e, 6558e, Envy 6100, Envy 6165e, Envy 6500
 - Une technologie de pointe[1] fait de la qualité et de la fiabilité au centre des préoccupations de ces cartouches dencre HP authentiques. [2] Conçue avec au moins 65 % de plastique recyclé[3], vos cartouches usagées se recyclent facilement et gratuitement grâce au programme HP Planet Partners. [4]
 
 [🛒 Achète-le!!]({{< param buyurl >}})

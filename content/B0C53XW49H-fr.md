@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire à amorti
 - Fermeture à lacets
-- Chaussant standard
 - Tige en cuir
+- Semelle intermédiaire à amorti
+- Chaussant standard
 - Doublure textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

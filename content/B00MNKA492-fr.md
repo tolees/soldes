@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maniable – longueur de 115 millimètres pour un poids de seulement 98 grammes et un diamètre de tête de 25 millimètres
-- Fonctionne avec des piles – utilisation de trois piles alcalines AAA (micro, 1,5 V)
 - Protection contre les éclaboussures – IPX6
-- Portée déclairage de qualité – jusquà 240 lumens
 - Une qualité déclairage Ledlenser exceptionnelle – la luminosité, la portée déclairage et lautonomie sont parfaitement adaptées à la source dénergie
+- Portée déclairage de qualité – jusquà 240 lumens
+- Fonctionne avec des piles – utilisation de trois piles alcalines AAA (micro, 1,5 V)
+- Maniable – longueur de 115 millimètres pour un poids de seulement 98 grammes et un diamètre de tête de 25 millimètres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00MNKA492{{</world>}}

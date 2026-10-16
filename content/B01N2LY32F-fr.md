@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Logo darchivage et boîte à fenêtre
 - Dessus en cuir souple
-- Coupe basse
 - Semelle intérieure moulée confortable
+- Coupe basse
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N2LY32F{{</world>}}

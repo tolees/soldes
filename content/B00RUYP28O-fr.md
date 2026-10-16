@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Deux poches principales zippées à rabat
-- finition déperlante DWR
-- Manchettes élastiquées
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Deux poches principales zippées à rabat
-- Cordon de serrage élastique à la capuche et à lourlet
-- doublure de la mentonnière et nuque en Tricot brossé
-- finition déperlante DWR
-- Manchettes élastiquées
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- doublure du corps en maillefilet
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Logo Imprimé par transfert thermique
-- Logo Imprimé par transfert thermique
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- doublure de la mentonnière et nuque en Tricot brossé
 - doublure du corps en maillefilet
 - Cordon de serrage élastique à la capuche et à lourlet
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Logo Imprimé par transfert thermique
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- finition déperlante DWR
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Manchettes élastiquées
+- Deux poches principales zippées à rabat
+- doublure de la mentonnière et nuque en Tricot brossé
+- doublure de la mentonnière et nuque en Tricot brossé
+- finition déperlante DWR
+- Deux poches principales zippées à rabat
+- Manchettes élastiquées
+- Cordon de serrage élastique à la capuche et à lourlet
+- doublure du corps en maillefilet
+- Logo Imprimé par transfert thermique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

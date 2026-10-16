@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enfiler
 - Plat
+- Enfiler
 - Cuir
 - Synthetic
 

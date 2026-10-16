@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexible
-- Facile à ajuster
 - Léger
 - RECYCLED
 - CUSHIONING
+- Flexible
+- Facile à ajuster
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NQR5JX6{{</world>}}

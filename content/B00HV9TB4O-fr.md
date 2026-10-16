@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Rapport dagrandissement maximum (x): 0,225x
-- Format APS-C, type E
-- Stabilisation optique SteadyShot
-- Téléobjectif compact 3,8x
 - Téléobjectif 55-210 mm, F4.5-6.3, fin et léger pour appareils photo de type E, Stabilisateur optique SteadyShot pour des images plus nettes à main levée
+- Stabilisation optique SteadyShot
+- Format APS-C, type E
+- Téléobjectif compact 3,8x
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HV9TB4O{{</world>}}

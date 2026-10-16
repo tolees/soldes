@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Matériel: Acier inoxydable avec placage ionique (IP) rose clair
 - Circonférence intérieure : 16,5 cm plus extenseur 25 mm
-- Fermoir : Mousqueton
 - Bracelet pour femme en chaîne de Lacoste avec détail de crocodile
+- Fermoir : Mousqueton
 - Embelli avec logo du crocodile emblématique Lacoste
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Facile à utiliser
-- Produit issu de la gamme dinterrupteurs de la marque
 - Gira : des techniques intelligentes pour le bâtimen
+- Produit issu de la gamme dinterrupteurs de la marque
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000T7QLES{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Authentique PANDORA
 - Il est livré avec un certificat dauthenticité "ALE" et lemballage officielle de lEspagne (petit carton de pliage)
+- Authentique PANDORA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00TDPC3E4{{</world>}}

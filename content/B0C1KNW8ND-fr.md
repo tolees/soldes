@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Support 30 mm F1.4 DC DN Nikon Z'
-date: 2026-10-10 23:42:29
+date: 2026-10-16 04:42:20
 image: 'https://m.media-amazon.com/images/I/31Jc-T3MtrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

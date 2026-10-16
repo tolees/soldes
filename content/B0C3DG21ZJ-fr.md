@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Ces produits sont fabriqués avec une qualité de fabrication très poussée.
 - Tasse à changement de chaleur Pokémon 325 ml
-- Tasse à changement de chaleur Pokémon 325 ml
 - Licence officielle
+- Tasse à changement de chaleur Pokémon 325 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C3DG21ZJ{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Comprend le DLC Picnic Panic!
+- Un jeu dynamique et acrobatique aux contrôles ultra précis dignes dune aventure de ninja épique.
 - Des animations, des décors et des sprites 8 et 16 bits méticuleusement conçus dans lesprit des classiques de lépoque.
 - Des améliorations de personnage, de nouvelles habiletés, des niveaux secrets et des raccourcis cachés.
 - Une distribution mémorable et étonnante dadversaires, de partenaires et de boss.
-- Un jeu dynamique et acrobatique aux contrôles ultra précis dignes dune aventure de ninja épique.
-- Comprend le DLC Picnic Panic!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DQ9DSM8C{{</world>}}

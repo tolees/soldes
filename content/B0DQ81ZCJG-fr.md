@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Hydrate, adoucit et démêle instantanément
-- Répare et protège en continu
 - Scelle immédiatement les pointes fourchues
+- Répare et protège en continu
+- Hydrate, adoucit et démêle instantanément
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQ81ZCJG{{</world>}}

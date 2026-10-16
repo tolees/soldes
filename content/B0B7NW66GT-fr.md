@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Épaisseur du boîtier 9,80mm / Diamètre du boîtier 42 mm
 - Bracelet bleu marin en silicone avec motif petit piqué
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Mouvement à quartz à 3 aiguilles
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
+- Épaisseur du boîtier 9,80mm / Diamètre du boîtier 42 mm
 - Cadran bleu marine semi-brillant avec logo emblématique LACOSTE à 3 heures.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

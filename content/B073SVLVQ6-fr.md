@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Famille de thé: thé noir
-- Boîte de 10 capsules
-- Notes aromatiques: fruitée, gourmande, cerise, framboise
 - Pays dorigine : Chine, Sri Lanka
+- Notes aromatiques: fruitée, gourmande, cerise, framboise
+- Boîte de 10 capsules
+- Famille de thé: thé noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B073SVLVQ6{{</world>}}

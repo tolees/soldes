@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Verre: Acrylique
 - - Matérial de la Boîtier: Resine
 - Boîtier
-- - Forme de la Boîtier: Rectangulaire
 - - Couleur de la Boîte: Or
+- - Forme de la Boîtier: Rectangulaire
+- - Verre: Acrylique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C15QZ46R{{</world>}}

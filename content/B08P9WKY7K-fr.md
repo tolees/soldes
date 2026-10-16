@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Five - Bocal à Bonbons en Verre couvercle en Bois 2,1 L
 - Dimensions Produit : L. 17.4 x l.,12.8 x H.17.8 cm - Capacité : 2.1 L - Matière : Verre -
+- Five - Bocal à Bonbons en Verre couvercle en Bois 2,1 L
 - Modèle : Verre
 
 [🛒 Achète-le!!]({{< param buyurl >}})

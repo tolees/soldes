@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Quaderno A4 avec liaison en spirale et feuilles carrées
 - Idéal pour lécole
 - Comprend une feuille dautocollants
+- Quaderno A4 avec liaison en spirale et feuilles carrées
 - Avec une couverture rigide et avec 80 feuilles de papier de 80 gr à lintérieur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignées supérieures et latérales rembourrées
 - Hauteur : 79 cm, largeur : 40 cm, profondeur : 33 cm
 - Dans notre imprimé tropical Brize Trees
 - Fabrication 100% polyester
+- Poignées supérieures et latérales rembourrées
 - Deux compartiments avec poche frontale zippée et sangles de compression
 
 [🛒 Achète-le!!]({{< param buyurl >}})

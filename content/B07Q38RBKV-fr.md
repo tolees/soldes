@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 brosses en caoutchouc multi surfaces pour aspirateur robot iRobot Roomba séries e et i
 - Frottent, détachent et envoient la saleté dans le conduit daspiration
+- 2 brosses en caoutchouc multi surfaces pour aspirateur robot iRobot Roomba séries e et i
 - Pièces authentiques fabriquées par iRobot
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

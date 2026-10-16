@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offre confort et liberté de mouvement
 - Design léger
+- Offre confort et liberté de mouvement
 - Détails distinctifs de la marque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

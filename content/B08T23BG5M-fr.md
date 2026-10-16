@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bac à poussière grande capacité avec vidage d’une simple pression sur un bouton
 - Livré avec 3 accessoires : brosse
+- Bac à poussière grande capacité avec vidage d’une simple pression sur un bouton
 - Aspirateur :sans fil
 
 [🛒 Achète-le!!]({{< param buyurl >}})

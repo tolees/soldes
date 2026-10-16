@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige : Cuir (Cuir de vachette)
 - Couleur : noir
-- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
+- Tige : Cuir (Cuir de vachette)
 - XL EXTRALIGHT, tout en légèreté et absorption des chocs
+- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - Coutures à 360° pour une meilleure durabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

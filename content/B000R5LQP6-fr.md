@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Uniquement pour blocage de broche
+- Queue six pans mâle 1/4"
 - Rotation droite/gauche
 - Pays dorigine : taïwan
-- Queue six pans mâle 1/4"
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000R5LQP6{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jusquà 700 °C
 - Pierre réfractaire originale de rechange.
 - Pierre réfractaire compacte avec fours à pizza « Delizia » mod. G10006
+- Super facile à changer et à nettoyer : il suffit dun chiffon humide de cuisine, ou dune spatule en plastique pour éliminer les petits résidus.
+- Jusquà 700 °C
+- Adaptable : la pierre réfractaire est utilisable au four, sur braises et grille à gaz.
 - Pierre réfractaire G3 Ferrari G10180 est fabriquée en cordiélite naturelle, ce qui la rend optimale pour la consommation alimentaire. Adaptable : la pierre réfractaire G10180 est utilisable au four, sur braises et grille à gaz.
 - Diamètre 31 cm : 31 cm est le diamètre une fois la pierre montée, une partie reste couverte par lanneau qui la fixe au four à pizza.
-- Adaptable : la pierre réfractaire est utilisable au four, sur braises et grille à gaz.
-- Super facile à changer et à nettoyer : il suffit dun chiffon humide de cuisine, ou dune spatule en plastique pour éliminer les petits résidus.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CB3JZ4VV{{</world>}}

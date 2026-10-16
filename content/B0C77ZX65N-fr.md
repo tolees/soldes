@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bout perforé
-- Logo au talon, sur la languette et sur le côté
 - Semelle intermédiaire en mousse EVA
 - Col de cheville rembourré
+- Logo au talon, sur la languette et sur le côté
+- Bout perforé
 - Fermeture à lacets sur le devant avec œillet en TPU contrasté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

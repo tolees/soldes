@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle en caoutchouc qui ne déteint pas
-- Matière supérieure en cuir
 - Laçage continu pour un maintien en sécurité
+- Matière supérieure en cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B076G5KVXK{{</world>}}

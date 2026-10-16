@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoires inclus : pistolet, flexible haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo,brosse rotative, accessoire lave sols, diffuseur de détergent/désinfectant
-- Idéal pour laver toutes les surfaces extérieures de la maison, pour les voitures, les motos, les vélos, les clôtures, les murs et les sols
-- Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique
 - Nettoyeur haute pression à eau froide caractérisé par une conception légère, a une pression maximale de 150 bar, un débit maximal de 450 litres par heure et un moteur de 2100 Watt
+- Idéal pour laver toutes les surfaces extérieures de la maison, pour les voitures, les motos, les vélos, les clôtures, les murs et les sols
+- Accessoires inclus : pistolet, flexible haute pression de 6 mètres, lance avec buse Vario-jet et buse Turbo,brosse rotative, accessoire lave sols, diffuseur de détergent/désinfectant
+- Pompe 3 pistons acier, tête de pompe en aluminium, vanne by-pass incorporée. Systèm de Arrêt Automatique
 - Chariot avec poignée ergonomique et porte-accessoires. Pistolet avec raccord rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

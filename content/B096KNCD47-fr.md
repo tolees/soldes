@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc souple
 - Dessus en maille avec lacets sur le devant
 - Skechers Semelle intérieure confortable en mousse à mémoire de forme
+- Semelle extérieure en caoutchouc souple
 - Semelle intermédiaire profilée absorbant les chocs
 
 [🛒 Achète-le!!]({{< param buyurl >}})

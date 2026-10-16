@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Pantalon Cargo Homme Comfort Cotton Skinny Fit Noir Black M'
-date: 2026-10-10 05:32:42
+date: 2026-10-15 02:40:19
 image: 'https://m.media-amazon.com/images/I/31nBcCg2t7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Refroidissement complet : dissipateurs VRM et M.2, dissipateur PCH, caches pour les ventilateurs et Fan Xpert 2+.
 - Réseau à haute performance : réseau Realtek Ethernet 2,5 Go.
-- Socket AMD AM5 : prête pour les processeurs de bureau AMD Ryzen série 9000, 8000 et 7000.
+- Refroidissement complet : dissipateurs VRM et M.2, dissipateur PCH, caches pour les ventilateurs et Fan Xpert 2+.
 - Conçue pour l’avenir du traitement IA, avec la puissance et la connectivité nécessaires pour les applications IA les plus exigeantes.
+- Socket AMD AM5 : prête pour les processeurs de bureau AMD Ryzen série 9000, 8000 et 7000.
 - Personnalisation inégalée : les trois couvertures de deuxième génération, attribuables, sont toutes configurables avec l’éclairage RGB Aura Sync, pour donner votre touche personnelle à la carte mère.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

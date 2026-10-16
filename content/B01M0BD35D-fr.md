@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poignard MORA ELDRISS
-- Etui rigide Rouge
-- Lame 6 cm inox
 - Manche gomme Rouge
+- Lame 6 cm inox
+- Etui rigide Rouge
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M0BD35D{{</world>}}

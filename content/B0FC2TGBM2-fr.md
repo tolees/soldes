@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AUTONOMIE DE BATTERIE ÉLEVÉE : durée de fonctionnement jusquà 4 heures en mode batterie pour un éclairage prolongé sans recharge fréquente
 - ÉCONOME EN ÉNERGIE : réduit la consommation d’énergie jusqu’à 80 % comparé aux projecteurs halogènes
-- ÉCLAIRAGE FLEXIBLE : ce projecteur de chantier portable offre une tête pivotante pour un éclairage optimal des espaces de travail
+- AUTONOMIE DE BATTERIE ÉLEVÉE : durée de fonctionnement jusquà 4 heures en mode batterie pour un éclairage prolongé sans recharge fréquente
 - POLYVALENCE : idéal pour rénovations, garages, caves et ateliers comme solution déclairage mobile sans accès à des sources dalimentation externes
 - RECHARGEABLE : batterie rechargeable via câble USB, utilisation écologique sans piles coûteuses et difficiles à recycler
+- ÉCLAIRAGE FLEXIBLE : ce projecteur de chantier portable offre une tête pivotante pour un éclairage optimal des espaces de travail
 - Ce produit est un produit d’éclairage. Les produits d’éclairage sont des luminaires qui peuvent être démontés pour vérifier séparément la ou les sources lumineuses qu’ils contiennent. Ce produit contient une source lumineuse de classe énergétique F
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

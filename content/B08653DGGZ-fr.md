@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hauteur du talon : 3,8 cm
-- Semelle extérieure flexible
 - Baskets tendance à lacets classiques
+- Semelle extérieure flexible
 - Tige perforée synthétique lisse « Durabuck »
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jantes Comfort Curve II
-- Coquille en chêne Siam de 38,1 cm
-- Tête en cuir brut naturel
 - Plaques latérales LP Heart avec pattes daccordage de 5/16" de diamètre
+- Coquille en chêne Siam de 38,1 cm
+- Jantes Comfort Curve II
+- Tête en cuir brut naturel
 - Comprend un support à double renfort réglable en hauteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

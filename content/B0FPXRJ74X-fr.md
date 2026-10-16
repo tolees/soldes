@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : la hutte de Yoda et l’entraînement Jedi 75422'
-date: 2026-10-14 13:17:33
+date: 2026-10-15 21:48:38
 image: 'https://m.media-amazon.com/images/I/51PV-j8T+WL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXRJ74X/?tag=tolees0d-21'
 descuento: '38.58'
-average: '42.2328846153843'
+average: '42.2471698113204'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

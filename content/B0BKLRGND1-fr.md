@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FERMETURE À GLISSIÈRE YKK
 - Polartec
-- Ouverture frontale YKK coil 1/2 zip
 - Logo HH brodé sur la poitrine
+- FERMETURE À GLISSIÈRE YKK
 - Coutures plates pour un faible encombrement
+- Ouverture frontale YKK coil 1/2 zip
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BKLRGND1{{</world>}}

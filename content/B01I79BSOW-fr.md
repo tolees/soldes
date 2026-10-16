@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Équipement Perma
 - Composé dun mélange de coton de qualité supérieure
 - Jean classique à cinq poches en denim authentique
-- Équipement Perma
-- Détails sportifs
 - Jambes droites
+- Détails sportifs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01I79BSOW{{</world>}}

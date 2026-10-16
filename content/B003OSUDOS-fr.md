@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compartiment principal avec poche frontale spacieuse pour ranger les petits objets ; bretelles rembourrées avec SGS
-- Panneau frontal zippé pour un accès facile, avec de la place pour des ordinateurs portables de 13"
 - Hauteur : 44 cm, largeur : 29,5 cm, profondeur : 22 cm
+- Panneau frontal zippé pour un accès facile, avec de la place pour des ordinateurs portables de 13"
 - Poche intérieure en filet avec fermeture éclair
+- Compartiment principal avec poche frontale spacieuse pour ranger les petits objets ; bretelles rembourrées avec SGS
 - Fabriqué en 100 % nylon
 
 [🛒 Achète-le!!]({{< param buyurl >}})

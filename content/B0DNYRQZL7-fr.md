@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 📏 TAILLE : emballage de 300g pour de petites portions ou pour goûter
-- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 - 💚 MjAMjAM : aliment complet sans céréales et naturel pour chats avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels
 - 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
+- 📏 TAILLE : emballage de 300g pour de petites portions ou pour goûter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DNYRQZL7{{</world>}}

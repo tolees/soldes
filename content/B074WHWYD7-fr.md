@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bracelet en cuir façon croco marron foncé
-- Cadran bleu
 - Diamètre du boîtier 44 mm / Épaisseur du boîtier 10,85mm
+- Cadran bleu
 - Mouvement multifonction à quartz avec trois sous-cadrans
+- Bracelet en cuir façon croco marron foncé
 - Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
-- Semelle extérieure terrain souple/multi-surfaces
+- Fermeture à lacets
 - Tige synthétique avec texture Strikeprint
 - Doublure textile
-- Fermeture à lacets
+- Semelle extérieure terrain souple/multi-surfaces
+- Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHV369GJ{{</world>}}

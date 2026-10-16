@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Filtre Densité neutre pour photo & vidéo
 - Absorption 10 diaphs (ND 3.0)
 - Verre optique minéral ultra-clear à très haute résolution
-- Excellente neutralité colorimétrique et rendu des contrastes
 - Traitement optique multicouches exclusif Accu-ND double-face
+- Excellente neutralité colorimétrique et rendu des contrastes
+- Filtre Densité neutre pour photo & vidéo
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09LCYHYLR{{</world>}}

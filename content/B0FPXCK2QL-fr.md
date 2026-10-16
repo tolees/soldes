@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463'
-date: 2026-10-14 13:19:15
+title: 'LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463 | Jouet pour fille ou garçon dès 9 ans 7 minifigurines dont Hermione maquette miniature DIY Ron idée cadeau 907 pièces'
+date: 2026-10-15 21:49:56
 image: 'https://m.media-amazon.com/images/I/51jtks9ml2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXCK2QL-fr LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463'
+slug: 'B0FPXCK2QL-fr LEGO Harry Potter Le château de Poudlard : l’infirmerie...'
 sku: 'B0FPXCK2QL-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9
 comparePrice: 99.99 EUR
-prodname: 'LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463'
+prodname: 'LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463 | Jouet pour fille ou garçon dès 9 ans 7 minifigurines dont Hermione maquette miniature DIY Ron idée cadeau 907 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCK2QL/?tag=tolees0d-21'
 descuento: '35.09'
-average: '66.8549999999999'
+average: '66.8073170731707'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Slim
-- 100% Polyester
 - Hand Wash Only
+- 100% Polyester
 - Fermeture: Fermeture éclair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

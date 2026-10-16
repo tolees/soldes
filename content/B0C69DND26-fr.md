@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - UN PUISSANT RÉCIT INITIATIQUE
-- L’ASSASSIN ULTIME
 - UNE VILLE DYNAMIQUE ET IMMERSIVE
-- CONTENU ADDITIONNEL : LÉdition Launch dAssassins Creed Mirage comprend le jeu complet ainsi que 3 lithographies.
 - Une connexion Internet est nécessaire. Lartbook et la bande originale numériques seront disponibles au téléchargement et en streaming sur le site officiel assassinscreed.com
+- L’ASSASSIN ULTIME
 - UN HOMMAGE À L’OPUS ORIGINAL
+- CONTENU ADDITIONNEL : LÉdition Launch dAssassins Creed Mirage comprend le jeu complet ainsi que 3 lithographies.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C69DND26{{</world>}}

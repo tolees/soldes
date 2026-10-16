@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grâce au Nylon Tactel son tissu à séchage rapide, ce vêtement est idéal pour le sport, lentraînement, le ski, la voile, lescalade et bien dautres
-- Pour une utilisation quotidienne ou pour les activités sportives, Helly Hansen vous présente le polo manches courtes HH Driftline Polo
-- <b>Taillant :</b> standard
-- <b> Technologie intégrée :</b> Le nylon Tactel est une matière qui sèche très rapidement
-- Doté dune coupe classique, ce haut peut être utilisé quotidiennement - Orné du logo emblématique sur la poitrine, il se porte confortablement
-- Livraison : 1 x Helly Hansen HH Driftline Polo manches courtes pour homme - Performant et confortable - Couleur : blanc - Taille : L
 - <b>Coupe :</b> regular
+- <b>Taillant :</b> standard
+- Doté dune coupe classique, ce haut peut être utilisé quotidiennement - Orné du logo emblématique sur la poitrine, il se porte confortablement
+- Pour une utilisation quotidienne ou pour les activités sportives, Helly Hansen vous présente le polo manches courtes HH Driftline Polo
 - Confectionné avec un col et des manches côtelées, ce t-shirt possède une qualité de confort supérieure
+- <b> Technologie intégrée :</b> Le nylon Tactel est une matière qui sèche très rapidement
+- Livraison : 1 x Helly Hansen HH Driftline Polo manches courtes pour homme - Performant et confortable - Couleur : blanc - Taille : L
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B004FJG47U{{</world>}}

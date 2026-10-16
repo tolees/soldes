@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caractéristiques spéciales : Compatible avec cuisinière à gaz
-- Hauteur : 225 centimètres
-- Passe au lave-vaisselle
-- Longeur : 145 centimètres
-- Taille : 10 tasses
 - Compatible avec induction
+- Passe au lave-vaisselle
+- Taille : 10 tasses
+- Caractéristiques spéciales : Compatible avec cuisinière à gaz
+- Longeur : 145 centimètres
+- Hauteur : 225 centimètres
 - Poids : 144 kilograms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

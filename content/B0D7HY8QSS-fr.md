@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5. Riche en liquides, pour fournir lhydratation nécessaire au chat
-- 7. Ingrédients de qualité minimalement traités, à haute valeur nutritionnelle
 - 3. Riche en protéines, de vrai poulet et organes, plus de canard
-- 1. recette 100% complète et équilibrée, avec toutes les protéines, vitamines et minéraux dont le chat a besoin
-- 6. Sans grain
-- 2. Avec de véritables morceaux de cœurs, de foie et de ventrigles riches en nutriments
 - 4. En pâte savoureuse moulue
+- 1. recette 100% complète et équilibrée, avec toutes les protéines, vitamines et minéraux dont le chat a besoin
+- 2. Avec de véritables morceaux de cœurs, de foie et de ventrigles riches en nutriments
+- 5. Riche en liquides, pour fournir lhydratation nécessaire au chat
+- 6. Sans grain
+- 7. Ingrédients de qualité minimalement traités, à haute valeur nutritionnelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D7HY8QSS{{</world>}}

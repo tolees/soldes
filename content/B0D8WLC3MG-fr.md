@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Zip court
-- Empiècements côtelés sur les côtés et à la taille
 - Col montant
-- Broderie G- STAR sur la poitrine
 - Poignets côtelés, bord incurvé
+- Broderie G- STAR sur la poitrine
+- Empiècements côtelés sur les côtés et à la taille
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D8WLC3MG{{</world>}}

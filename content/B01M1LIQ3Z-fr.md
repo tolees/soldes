@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Schott Nyc Blouson casual homme
 - 68% polyester/32% coton
+- entretien: lavage machine 30°
 - Fermeture zippée, 2 Poches basses, 1 poche bomber sur la manche,2 Poches intérieures
 - coupe : ajustée
-- entretien: lavage machine 30°
+- Schott Nyc Blouson casual homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01M1LIQ3Z{{</world>}}

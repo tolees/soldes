@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Gradation fine des degrés de dureté
-- Crayons de la plus haute qualité
-- Idéal pour les domaines techniques et artistiques
 - mine incassable
 - 6 degrés de dureté différents
+- Crayons de la plus haute qualité
+- Idéal pour les domaines techniques et artistiques
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00COMESOQ{{</world>}}

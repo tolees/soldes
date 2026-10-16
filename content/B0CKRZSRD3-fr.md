@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de fermeture : SANS LACETS
 - Type de talon : Sans talon
+- Type de fermeture : SANS LACETS
 - Matériau unique : Caoutchouc
 - Matériau intérieur : Feutre
 - Matériau extérieur :Cuir - Synthétique/PU

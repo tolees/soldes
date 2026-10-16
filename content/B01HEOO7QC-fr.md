@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Socle porte-fromage pivotant
+- Elément de chauffe horizontal
 - Appareil à raclette traditionnel
 - 6 à 8 personnes
 - Inclinable et réglable en hauteur avec poignées en bois
-- Elément de chauffe horizontal
-- Socle porte-fromage pivotant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01HEOO7QC{{</world>}}

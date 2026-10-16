@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La tige contient 50 % minimum de matières recyclées.
-- Chaussant standard.
-- Tige en mesh ouvert avec empiècements synthétiques.
 - Doublure textile.
 - Fermeture à lacets.
-- Semelle intermédiaire légère en EVA.
+- Chaussant standard.
 - Semelle extérieure Traxion.
+- Tige en mesh ouvert avec empiècements synthétiques.
+- Semelle intermédiaire légère en EVA.
+- La tige contient 50 % minimum de matières recyclées.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C2QPLCXT{{</world>}}

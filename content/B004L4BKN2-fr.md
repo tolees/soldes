@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Pointe conique moyenne de 4mm
-- S’efface à sec sur tableau blanc, sans laisser de trace
 - Sans xylène ni toluène
 - Encre liquide aux couleurs intenses
-- Dimensions : 140x100x30 mm
 - Bouton poussoir pour réencrer la pointe à tout moment
+- S’efface à sec sur tableau blanc, sans laisser de trace
 - Marqueur pour tableaux blancs
+- Dimensions : 140x100x30 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004L4BKN2{{</world>}}

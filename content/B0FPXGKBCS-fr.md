@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262'
-date: 2026-10-14 10:19:55
+title: 'LEGO Speed Champions Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262 | Jouet voiture pour garçon dès 9 ans maquette minifigurine collector décoration chambre d enfant idée cadeau 345 pièces'
+date: 2026-10-15 21:47:25
 image: 'https://m.media-amazon.com/images/I/51vK8ZtR59L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 18.16 EUR
 currency: EUR
 price: 18.16
 comparePrice: 27.99 EUR
-prodname: 'LEGO Speed Champions Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262'
+prodname: 'LEGO Speed Champions Ford Mustang Hoonicorn V1 de 1965 de Ken Block 77262 | Jouet voiture pour garçon dès 9 ans maquette minifigurine collector décoration chambre d enfant idée cadeau 345 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGKBCS/?tag=tolees0d-21'
 descuento: '35.12'
-average: '17.2825'
+average: '17.458'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

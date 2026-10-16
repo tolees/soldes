@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En bois de haute qualité issu dune sylviculture durable (FSC 100%), Finition avec des peintures à base deau
 - Env. 40 x 25, 5 x 48, 5 cm
-- Établi classique en bois de couleur scandinave moderne pour les futurs amateurs de bricolage
 - De nombreux accessoires pour des moments damusement longs et intenses
+- Établi classique en bois de couleur scandinave moderne pour les futurs amateurs de bricolage
+- En bois de haute qualité issu dune sylviculture durable (FSC 100%), Finition avec des peintures à base deau
 - Scie, tournevis, clé, niveau deau, marteau, planches, vis, vis, écrous et clous inclus.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

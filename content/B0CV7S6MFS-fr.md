@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La qualité Schott depuis 1913
 - Doudoune Zippee Soudee Schott
+- La qualité Schott depuis 1913
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV7S6MFS{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie de 2 ans
 - Dimensions du produit: 11 x 11 x 23 cm
+- Garantie de 2 ans
 - Repose Ustensiles avec Cuillère
 - Couleur du produit: Argent
 

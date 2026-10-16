@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Large plateau anti-dérapant
+- Ajustable en hauteur
 - Plaque décorée
 - Roues PVC
 - Poignées anti-pincement
-- Ajustable en hauteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N9QXG4S{{</world>}}

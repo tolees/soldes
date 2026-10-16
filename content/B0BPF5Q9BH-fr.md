@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Construction en T classique à lavant-pied.
 - Doublure textile.
-- Achetez 1 taille plus grande
-- Fermeture à lacets.
 - Semelle intermédiaire à amorti.
-- Tige en mesh.
+- Fermeture à lacets.
+- Construction en T classique à lavant-pied.
 - Semelle extérieure en caoutchouc adhérent.
+- Achetez 1 taille plus grande
+- Tige en mesh.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPF5Q9BH{{</world>}}

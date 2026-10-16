@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec verrouillage automatique de la lame (coulisse)
-- Poignée en élastomère avec une fonction unique de tournevis.
 - DRIVER Cutter avec curseur et aileron
+- avec verrouillage automatique de la lame (coulisse)
 - Guide de lame trempé
+- Poignée en élastomère avec une fonction unique de tournevis.
 - Pour ouvrir des cartons, rainurer du carton épais et retirer les couvercles de boîtes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

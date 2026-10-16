@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko Pop! présentant les caractéristiques suivantes:
-- Mesures: Taille standard
 - Films, Jeux, Merchandising Pop Culture, Séries TV
-- Un véritable attrape-loeil pour chez vous!
+- Mesures: Taille standard
 - Figurine de collection || Marchandises fun et de fans || Motif: Uni
+- Un véritable attrape-loeil pour chez vous!
+- Funko Pop! présentant les caractéristiques suivantes:
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CJFRFQQ6{{</world>}}

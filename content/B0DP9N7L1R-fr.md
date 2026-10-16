@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle intérieure amovible
 - Chaussures légères
 - Amorti renforcé, grâce au Système Zéro Shock
-- Semelle intérieure amovible
 - Lacets élastiques pour ajuster le chaussant
 - Fast In System : enfilage facile et rapide sans les mains
 

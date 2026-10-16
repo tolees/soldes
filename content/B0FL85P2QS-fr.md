@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG Ultragear | Écran Gaming IPS 27" QHD | 300Hz 1ms'
-date: 2026-10-10 02:23:29
+date: 2026-10-14 23:40:21
 image: 'https://m.media-amazon.com/images/I/316R4MgRilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

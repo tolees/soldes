@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- skinny
 - Le modèle à 5 poches avec taille haute crée de superbes courbes et parvient même à rendre la taille visuellement plus étroite. Le tissu bleu uniforme est également élégant, ce qui permet de nombreuses combinaisons.
+- skinny
 - Ce jean skinny de la marque ONLY est doux et fiable sur la jambe. Le pantalon a une coupe étroite et met en valeur la jambe grâce à la teneur en stretch dans le mélange de fibres douces.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

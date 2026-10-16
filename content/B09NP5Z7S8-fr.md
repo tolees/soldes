@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- L3
 - Managed
 - Aruba 6000 24G 4SFP Switch
-- L3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09NP5Z7S8{{</world>}}

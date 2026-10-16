@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Remplissage pratique par le haut
 - Rosette Ø 50 mm
+- Remplissage pratique par le haut
 - Récipient en plastique 300ml
 - Trou de montage Ø 35 mm
 

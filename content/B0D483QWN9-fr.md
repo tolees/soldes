@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alternez facilement entre deux alliés inattendus et découvrez le destin qui les unit au début de cette nouvelle ère pour le Japon.
 - Plongez dans une épopée daction-aventure historique au cœur du Japon féodal !
+- Alternez facilement entre deux alliés inattendus et découvrez le destin qui les unit au début de cette nouvelle ère pour le Japon.
 - Incarnez une shinobi meurtrière et un puissant samouraï légendaire tout en explorant un magnifique monde ouvert plongé dans le chaos.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

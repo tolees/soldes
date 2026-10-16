@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voyez vous-même le bonheur… de bébé qui se découvre !
 - Se replie à plat pour faciliter le rangement et le transport
-- Feuilles à froisser et tissu coloré pour stimuler bébé
+- Voyez vous-même le bonheur… de bébé qui se découvre !
 - Parfait pour jouer sur le ventre ou assis
+- Feuilles à froisser et tissu coloré pour stimuler bébé
 - Faites des grimaces avec bébé dans le grand miroir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure : 58 % coton, 22 % polyester, 20 % tissu (60 % nylon, 40 % polyuréthane)
-- Semelle intérieure : OrthoLite pour amortir
 - Dessus : cuir (cuir de veau)
 - Couleur : noir
+- Doublure : 58 % coton, 22 % polyester, 20 % tissu (60 % nylon, 40 % polyuréthane)
+- Semelle intérieure : OrthoLite pour amortir
 - Semelle extérieure/caractéristiques : caoutchouc pour une adhérence extraordinaire
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Technic Monster Jam Sparkle Smash à rétrofriction 42220'
-date: 2026-10-14 13:24:50
+title: 'LEGO Technic Monster Jam Sparkle Smash à rétrofriction 42220 | Jouet camion pour garçon dès 7 ans maquette de voiture de course rose design licorne cadeau d nniversaire 243 pièces'
+date: 2026-10-15 21:50:58
 image: 'https://m.media-amazon.com/images/I/412xyTumTiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXD7PQV-fr LEGO Technic Monster Jam Sparkle Smash à rétrofriction 42220'
+slug: 'B0FPXD7PQV-fr LEGO Technic Monster Jam Sparkle Smash à rétrofriction...'
 sku: 'B0FPXD7PQV-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 19.46 EUR
 currency: EUR
 price: 19.46
 comparePrice: 29.99 EUR
-prodname: 'LEGO Technic Monster Jam Sparkle Smash à rétrofriction 42220'
+prodname: 'LEGO Technic Monster Jam Sparkle Smash à rétrofriction 42220 | Jouet camion pour garçon dès 7 ans maquette de voiture de course rose design licorne cadeau d nniversaire 243 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD7PQV/?tag=tolees0d-21'
 descuento: '35.11'
-average: '19.075'
+average: '19.2033333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

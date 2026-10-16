@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matière supérieure en cuir
 - Bande PUMA sur le côté
+- Semelle intermédiaire et extérieure en caoutchouc
 - Laçage continu pour un maintien en sécurité
 - Marque PUMA sur la languette et sur les côtés
-- Semelle intermédiaire et extérieure en caoutchouc
-- Matière supérieure en cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DCDV15Y{{</world>}}

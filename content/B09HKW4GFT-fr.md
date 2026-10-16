@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pierre: Zircon cubique
-- Coleur: Argenté
 - Style: Alliance et anneau
 - Marque: Pandora
+- Coleur: Argenté
+- Pierre: Zircon cubique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09HKW4GFT{{</world>}}

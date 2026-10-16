@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Languette à soufflet pour empêcher les débris dentrer
 - Membrane imperméable Gore-Tex, respirabilité exceptionnelle et performance imperméable
-- Embout de protection et semelle en caoutchouc Vibram TC5+
+- Languette à soufflet pour empêcher les débris dentrer
 - Lacets 100 % recyclés, toile et doublure en maille
+- Embout de protection et semelle en caoutchouc Vibram TC5+
 - Dessus en cuir de porc et maille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

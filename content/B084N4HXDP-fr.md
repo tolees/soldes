@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche courte
-- Col rond
-- Classique
 - 100% Coton
+- Classique
+- Col rond
+- Manche courte
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084N4HXDP{{</world>}}

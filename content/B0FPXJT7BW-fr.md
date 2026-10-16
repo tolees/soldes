@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Creator 3-en-1 Animaux Sauvages : Le Colibri coloré 31384'
-date: 2026-10-14 13:17:09
+title: 'LEGO Creator 3-en-1 Animaux Sauvages : Le Colibri coloré 31384 | Jouet oiseau pour fille dès 8 ans se transforme en figurine de papillon ou poisson décoration idée cadeau 312 pièces'
+date: 2026-10-15 21:48:26
 image: 'https://m.media-amazon.com/images/I/51AefjtNEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
 comparePrice: 29.99 EUR
-prodname: 'LEGO Creator 3-en-1 Animaux Sauvages : Le Colibri coloré 31384'
+prodname: 'LEGO Creator 3-en-1 Animaux Sauvages : Le Colibri coloré 31384 | Jouet oiseau pour fille dès 8 ans se transforme en figurine de papillon ou poisson décoration idée cadeau 312 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXJT7BW/?tag=tolees0d-21'
 descuento: '33.64'
-average: '20.4511111111112'
+average: '20.3960000000001'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

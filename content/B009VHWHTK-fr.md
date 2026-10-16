@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Plage de fréquences de 45 à 65 Hz
+- Tension dentrée de 75 à 1000 VCA
 - Boîtier durable avec aimant à larrière pour fixation à un panneau de distribution CA pour une mesure facile
 - Pinces crocodiles entièrement isolées avec mâchoires larges
 - Les LED indiquent lorientation des phases (sens horaire ou antihoraire) et si chaque phase est sous tension
-- Plage de fréquences de 45 à 65 Hz
-- Tension dentrée de 75 à 1000 VCA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009VHWHTK{{</world>}}

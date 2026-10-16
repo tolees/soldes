@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Y compris le nouveau Defender360.
+- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
 - Mécanisme de rétroaction haptique.
 - Mise à zéro du vignettage jusquaux objectifs de 16 mm de longueur focale.
-- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
+- Y compris le nouveau Defender360.
 - Contrôle de la vitesse dobturation dans la plupart des conditions déclairage
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contents: 1x Columbia Inner Limits III, Veste Imperméable pour Homme, Colour: Bleu (Collegiate Navy), Size: M, Article: 2071215
-- Système daération sous les bras pour le confort, Deux poches chauffe-main zippées et poche intérieure sécurisée pour garder vos affaires en toute sécurité
 - Veste de pluie pour homme, Idéale pour les aventures urbaines et de plein air
 - Capuche intégrée réglable avec protège menton, Poignets adaptables et cordon de serrage à la taille pour un ajustement optimal et une protection maximale contre la pluie
 - Hautement imperméable et respirante grâce à la technologie Omni-Tech avec coutures étanches
+- Système daération sous les bras pour le confort, Deux poches chauffe-main zippées et poche intérieure sécurisée pour garder vos affaires en toute sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CN3VNDKC{{</world>}}

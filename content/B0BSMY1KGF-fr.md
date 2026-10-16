@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cette paire de boucles doreilles classiques se porte facilement en toute occasion
 - La limite extérieure de chaque créole plaquée rhodium est délicatement ornée dun pavé de cristaux clairs, qui confère à cette création intemporelle un doux scintillement
+- Cette paire de boucles doreilles classiques se porte facilement en toute occasion
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BSMY1KGF{{</world>}}

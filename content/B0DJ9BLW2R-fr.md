@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Caoutchouc pleine longueur
-- Talon et œillet moulés
 - Bout arrondi
+- Talon et œillet moulés
+- Caoutchouc pleine longueur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJ9BLW2R{{</world>}}

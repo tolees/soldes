@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu de la livraison : Dispositif découlement à faible encombrement – Vanne panier 3 ½, commande de vidage automatique rotative et confortable
 - Évier en SILGRANIT : Pierre artificielle de haute qualité composée jusquà 80 % de quartz – Facile à entretenir, résistant aux rayures, aux cassures et à la chaleur
 - Évier encastrable classique en anthracite : Pour meubles bas de 45 cm de large, comporte un égouttoir raccourci – Disponible dans dautres coloris SILGRANIT assortis aux robinets BLANCO correspondants
+- Contenu de la livraison : Dispositif découlement à faible encombrement – Vanne panier 3 ½, commande de vidage automatique rotative et confortable
 - Version compacte : La cuve spacieuse offre un large espace, où même de grandes casseroles peuvent être disposées, tandis que légouttoir raccourci optimise la surface de travail
 - Instructions de montage : Le bassin est réversible et peut être orienté à gauche ou à droite de légouttoir – Trous pré-fraisés à percer pour le montage
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Anches pour Saxophone Alto
 - Force : 3
 - Pack de 10
-- Anches pour Saxophone Alto
 - Fabricant Français - Grande Qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

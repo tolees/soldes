@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture à lacets sur le devant
 - Logo brodé au niveau du talon
 - Dessus en cuir synthétique et empiècements en daim
-- Fermeture à lacets sur le devant
 - Logo sur la languette
 - Col et languette rembourrés
 

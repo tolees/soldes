@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour une utilisation sur des motos et les petits moteurs
 - Longueur : 250 mm, dimensions de la poignée T 180 mm
-- Pour une utilisation avec toutes les 1/10,2 cm d sockets et 1/10,2 cm shank bits en utilisant la fonction double mandrin
+- Idéal pour une utilisation sur des motos et les petits moteurs
 - Il peuvent être utilisés pour Spin off attaches rapidement et facilement à laide de la pochette du Spinner
+- Pour une utilisation avec toutes les 1/10,2 cm d sockets et 1/10,2 cm shank bits en utilisant la fonction double mandrin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N4WYIGH{{</world>}}

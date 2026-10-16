@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Portefeuille homme
 - Avec porte-documents
 - Protection anti-fraude RFID
-- Portefeuille homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SJH9B7P{{</world>}}

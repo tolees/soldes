@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grand angle de vision
-- Smart TV WebOS - Wi-Fi - Bluetooth
 - Moniteur TV - LED - IPS - Full HD - 27 pouces
 - Son 2 x 5 Watts
+- Grand angle de vision
+- Smart TV WebOS - Wi-Fi - Bluetooth
 - Game Optimizer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

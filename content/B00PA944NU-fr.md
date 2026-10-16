@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 0,33 mm
 - 8,5 kg
+- 0,33 mm
 - 1000 m
 - Spools économiques
 

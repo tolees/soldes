@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POUPÉE ARTICULÉE : Chaque poupée possède au total 7 points d’articulation.
-- AILES LUMINEUSES : Retrouve ta Winx dans son incroyable tenue de fée avec des ailes spectaculaires, qui silluminent quand tu appuies sur le bouton en forme de cœur !
-- WINX : BLOOM, la fée de la flamme du dragon.
 - 2 AUTRES MODÈLES DISPONIBLES : Flora et Stella... Collectionne-les tous !
+- WINX : BLOOM, la fée de la flamme du dragon.
+- AILES LUMINEUSES : Retrouve ta Winx dans son incroyable tenue de fée avec des ailes spectaculaires, qui silluminent quand tu appuies sur le bouton en forme de cœur !
+- POUPÉE ARTICULÉE : Chaque poupée possède au total 7 points d’articulation.
 - LES WINX SONT DE RETOUR : Découvre les poupées inspirées de la toute nouvelle série Winx et rejoins Bloom et ses amies dans leurs aventures !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

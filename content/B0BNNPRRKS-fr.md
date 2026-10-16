@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Crayon à lèvres ultra pigmenté
-- Fini velouté, mat et intense- Waterproof et sans transfert
 - Crayon à lèvres Fini mat Waterproof et Sans transfert
+- Fini velouté, mat et intense- Waterproof et sans transfert
+- Crayon à lèvres ultra pigmenté
 - Crayon rouge à lèvres- 2 en 1
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lavage en machine
 - Fermeture: Fermeture éclair
 - Manche longue
-- Lavage en machine
 - Normale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

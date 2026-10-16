@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poids : Env. 180g Diamètre filtre : 46mm Finition en métal
-- Objectif Panasonic Lumix G 30mm F2.8 Macro adapté aux montures micro 4/3 - Equivalence 35mm : 60mm
 - Objectif Macro 30mm à grande ouverture F2.8 (Min F22) pour une précision et une qualité dimage dexception sur des sujets rapprochés.
 - Stabilisation MEGA O.I.S.
+- Objectif Panasonic Lumix G 30mm F2.8 Macro adapté aux montures micro 4/3 - Equivalence 35mm : 60mm
 - Mise au point mini 0,105m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PrimaLoft NOIR Eco
-- Détails réfléchissants
 - PROTECTION HELLY TECH
+- PrimaLoft NOIR Eco
 - Construction à 2 couches
+- Détails réfléchissants
 - Coutures entièrement scellées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

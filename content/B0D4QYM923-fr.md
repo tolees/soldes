@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe unisexe O/s
 - La poche de compression extensible sur le devant permet de ranger rapidement des articles supplémentaires
+- Coupe unisexe O/s
 - La poche zippée sur le panneau avant avec porte-clés permet de ranger les petits objets à portée de main
 - Pochette dhydratation interne avec deux orifices de sortie par-dessus les épaules
 - Design à chargement par panneau

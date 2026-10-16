@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gameplay fluide et stable à 60 FPS
-- Rendu 4K natif
 - Mode Photo
+- Rendu 4K natif
+- Gameplay fluide et stable à 60 FPS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GSFRB7PX{{</world>}}

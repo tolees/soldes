@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Livré en coffret cadeau de 2 verres.
-- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
-- Capacité : 40 cl.
 - Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
 - Isotherme. Conserve les boissons au chaud (ou froid) plus longtemps.
+- Capacité : 40 cl.
+- En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
+- Livré en coffret cadeau de 2 verres.
 - Passe au lave-vaisselle, au four et au micro-onde.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

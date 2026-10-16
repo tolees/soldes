@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mammut Crater Light HS Veste à capuche pour homme'
-date: 2026-10-11 02:04:31
+date: 2026-10-16 05:10:07
 image: 'https://m.media-amazon.com/images/I/31-qiQ0C9BL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0DSPRC63C/?tag=tolees0d-21'
 descuento: '43.59'
-average: '205.418'
+average: '205.03'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

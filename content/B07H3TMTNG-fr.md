@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Finitions haut de gamme
-- Ecran couleur rétroéclairé 2, 4 avec interface moderne
-- Conçu et fabriqué en allemagne
 - L’utilisation de ce produit est uniquement compatible en France
+- Ecran couleur rétroéclairé 2, 4 avec interface moderne
+- Finitions haut de gamme
+- Conçu et fabriqué en allemagne
 - Connection au PC via micro USB
 - Répertoire jusquà 400 contacts
 

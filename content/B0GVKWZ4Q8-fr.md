@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids de seulement 2 kg offrant un design léger qui réduit la fatigue lors des longues sessions
-- Poignée surmoulée en caoutchouc limitant les vibrations et améliorant le confort de prise en main
-- Éclairage LED triple anneau assurant une illumination homogène sans ombres dans les zones sombres ou étroites
 - Batterie PowerShare compatible avec tous les outils Worx 20V, 40V et 80V MAX (non incluse)
-- Construction robuste pensée pour les usages intensifs en atelier ou en entretien automobile
 - Set d’accessoires complet inclus pour une utilisation immédiate sans achats supplémentaires
-- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
 - Trois modes de puissance permettant d’ajuster le couple selon les besoins, des travaux courants aux applications exigeantes
-- Rotation gauche/droite pour un contrôle simple et rapide des opérations de serrage et desserrage
 - Grâce à son moteur brushless, elle délivre jusqu’à 600 Nm de couple en mode serrage et jusquà 800 Nm en mode desserrage, suffisamment puissant pour la majorité des applications, du changement de roues aux travaux d’entretien plus exigeants
+- Construction robuste pensée pour les usages intensifs en atelier ou en entretien automobile
+- Éclairage LED triple anneau assurant une illumination homogène sans ombres dans les zones sombres ou étroites
+- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
+- Poignée surmoulée en caoutchouc limitant les vibrations et améliorant le confort de prise en main
+- Poids de seulement 2 kg offrant un design léger qui réduit la fatigue lors des longues sessions
+- Rotation gauche/droite pour un contrôle simple et rapide des opérations de serrage et desserrage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0GVKWZ4Q8{{</world>}}

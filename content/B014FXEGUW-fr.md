@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille mi-haute
 - Coupe classique
+- Taille mi-haute
 - Jambe droite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

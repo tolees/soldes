@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
 - Doublure textile.
 - Tige en cuir et matière synthétique.
 - Semelle extérieure en caoutchouc.
 - Empeigne perforée.
+- Fermeture à lacets.
 - Chaussant standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

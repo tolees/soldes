@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Voiture de Course Ferrari SF90 XX Stradale 77254'
-date: 2026-10-12 04:06:33
+title: 'LEGO Speed Champions Voiture de Course Ferrari SF90 XX Stradale 77254 | Jouet voiture pour garçon dès 9 ans maquette minifigurine collector de pilote cadeau sur le sport automobile 339 pièces'
+date: 2026-10-15 00:25:59
 image: 'https://m.media-amazon.com/images/I/511eqB7LF1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
 comparePrice: 27.99 EUR
-prodname: 'LEGO Speed Champions Voiture de Course Ferrari SF90 XX Stradale 77254'
+prodname: 'LEGO Speed Champions Voiture de Course Ferrari SF90 XX Stradale 77254 | Jouet voiture pour garçon dès 9 ans maquette minifigurine collector de pilote cadeau sur le sport automobile 339 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXK52K8/?tag=tolees0d-21'
 descuento: '39.30'
-average: '18.99'
+average: '18.59'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

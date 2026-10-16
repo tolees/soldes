@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un système de combat évolué
 - Au-delà des murs du destin
+- Un système de combat évolué
 - Un monde gigantesque
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

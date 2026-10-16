@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tissu sergé
 - __Traitement de la matière :__Renfort en TPE étanche
-- __Conscious by Nature :__ polyester recyclé
-- __Grammage:__ 600T, 312 g/m2
 - __Matière :__ polyester recyclé
+- Tissu sergé
+- __Grammage:__ 600T, 312 g/m2
+- __Conscious by Nature :__ polyester recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DP4QMKBY{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Chaussant standard.
-- Doublure textile.
 - Tige ripstop avec empiècements.
+- Doublure textile.
 - Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

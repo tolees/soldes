@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 80 Pour cent coton, 20 Pour cent polyester
-- Manche mi-longue
 - Lavage en machine
 - Fermeture: Enfiler
 - Type de col: Français
+- Manche mi-longue
+- 80 Pour cent coton, 20 Pour cent polyester
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07KD8FF8H{{</world>}}

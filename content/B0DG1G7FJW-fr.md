@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort emblématique des crocs
 - Léger, flexible et confortable à 360 degrés
+- Confort emblématique des crocs
 - Croslite à poser
 
 [🛒 Achète-le!!]({{< param buyurl >}})

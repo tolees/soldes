@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Fortnite Monsieur Tomate 77079'
-date: 2026-10-14 10:19:34
+title: 'LEGO Fortnite Monsieur Tomate 77079 | Jouet pour enfant dès 10 ans décoration de chambre ou bureau figurine interactive restaurant cadeau gaming 210 pièces'
+date: 2026-10-15 21:47:09
 image: 'https://m.media-amazon.com/images/I/51vV94ncS-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXGFLTL-fr LEGO Fortnite Monsieur Tomate 77079'
+slug: 'B0FPXGFLTL-fr LEGO Fortnite Monsieur Tomate 77079 | Jouet pour enfant...'
 sku: 'B0FPXGFLTL-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 14.99 EUR
-prodname: 'LEGO Fortnite Monsieur Tomate 77079'
+prodname: 'LEGO Fortnite Monsieur Tomate 77079 | Jouet pour enfant dès 10 ans décoration de chambre ou bureau figurine interactive restaurant cadeau gaming 210 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGFLTL/?tag=tolees0d-21'
 descuento: '40.03'
-average: '9.84185185185184'
+average: '9.82636363636363'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - CRÉATIONS INCROYABLES : plus de 70 effets spéciaux, ajout de musique, sons, filtres, trucages, possibilité de faire des retouches, plus de 30 thèmes de fonds différents
 - VERSION : Française
+- INCLUS : 1 appareil photo KidiZoom, 1 mini trépied, 1 fond vert, 1 câble micro-USB, 1 dragonne, 1 paire de gants verts, 1 anneau de lumière de 8" à LED blanche, 1 adaptateur secteur USB (5W) pour le brancher, Batterie rechargeable
 - ÂGE : dès 7 ans, tout le nécessaire pour créer son propre contenu vidéo en toute simplicité
 - FACILE D’UTILISATION : un logiciel de création vidéo intégré adapté pour une prise en main simple et intuitive, Avec contrôle parental
-- INCLUS : 1 appareil photo KidiZoom, 1 mini trépied, 1 fond vert, 1 câble micro-USB, 1 dragonne, 1 paire de gants verts, 1 anneau de lumière de 8" à LED blanche, 1 adaptateur secteur USB (5W) pour le brancher, Batterie rechargeable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BYJM7X9X{{</world>}}

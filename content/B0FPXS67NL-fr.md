@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : la Cantina de Mos Eisley 75425'
-date: 2026-10-14 13:17:44
+date: 2026-10-15 21:48:45
 image: 'https://m.media-amazon.com/images/I/51NfuyZkDLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXS67NL/?tag=tolees0d-21'
 descuento: '43.76'
-average: '45.3471428571427'
+average: '45.3388372093021'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

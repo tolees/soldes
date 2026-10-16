@@ -30,11 +30,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Revêtement antiadhésif pour une cuisson peu grasse
 - Temps de cuisson réglable à l‘infini
-- Plaques de cuisson 14,5 cm Ø
-- Boîtier en métal laqué bleu
-- Enrouleur de cordon avec dépot de fiche, sert également de serrure
-- Information optique quand prêt par feu de signalisation cuisson
 - Cônes croustillants aux armoiries de la Frise orientale
+- Information optique quand prêt par feu de signalisation cuisson
+- Boîtier en métal laqué bleu
+- Plaques de cuisson 14,5 cm Ø
+- Enrouleur de cordon avec dépot de fiche, sert également de serrure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082BQ5HKT{{</world>}}

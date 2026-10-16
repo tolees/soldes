@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de la chaussure : moyenne
-- Doublure : doublure froide
-- Matériau extérieur : synthétique
 - Matériau intérieur : textile
+- Matériau extérieur : synthétique
+- Doublure : doublure froide
+- Largeur de la chaussure : moyenne
 - Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

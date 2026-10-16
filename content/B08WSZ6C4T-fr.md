@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Vitamine D & E
-- 100% complet et équilibré
 - Source dacides gras oméga 6
 - Sans arômes artificiels ajoutés Pas de conservateurs artificiels ajoutés
 - Pas de colorants, même goût délicieux
+- 100% complet et équilibré
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WSZ6C4T{{</world>}}

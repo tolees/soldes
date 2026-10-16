@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Puissance daspiration 800m3/h. Puissance moteur 210W.
+- Classe énergétique A++. Éclairage LED. Télécommande.3 niveaux de puissance + Booster.
 - Le filtre à graisse en aluminium à 5 couches permet une élimination efficace de la graisse et de la fumée.
 - Hotte aspirante intégrée au plafond de 90 cm de large.
-- Classe énergétique A++. Éclairage LED. Télécommande.3 niveaux de puissance + Booster.
-- Puissance daspiration 800m3/h. Puissance moteur 210W.
 - Filtre à charbon Ø176, idéal pour éliminer les fumées et les odeurs. Le filtre à graisse en aluminium à 5 couches permet une élimination efficace de la graisse et de la fumée.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

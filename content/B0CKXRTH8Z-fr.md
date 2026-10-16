@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- RAIN.RDY.
-- Fermeture à lacets.
 - Chaussant standard.
+- Fermeture à lacets.
+- RAIN.RDY.
 - Tige textile avec bout renforcé.
 - Semelle intermédiaire en EVA.
 

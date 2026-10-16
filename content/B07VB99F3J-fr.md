@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Baskets dentraînement confortables et sportives à enfiler
-- Maille athlétique douce et tige synthétique
-- Semelle intermédiaire très flexible et semelle extérieure en caoutchouc
 - Semelle intérieure confortable en mousse à mémoire de forme refroidie à lair
+- Semelle intermédiaire très flexible et semelle extérieure en caoutchouc
+- Maille athlétique douce et tige synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VB99F3J{{</world>}}

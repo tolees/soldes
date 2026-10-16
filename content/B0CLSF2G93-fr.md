@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Isolation de 200 g
-- Dessus en daim imperméable et textile. Construction imperméable à coutures scellées. Doublure textile. Les lacets ne sont pas étanches.
 - Coque en caoutchouc thermique imperméable moulé par injection
-- Bouchon antigel en feutre collé de 2,5 mm
+- Dessus en daim imperméable et textile. Construction imperméable à coutures scellées. Doublure textile. Les lacets ne sont pas étanches.
 - Semelle intérieure amovible en EVA. Dessus en textile
+- Bouchon antigel en feutre collé de 2,5 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CLSF2G93{{</world>}}

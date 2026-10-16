@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- RÉSISTANT AUX INTEMPÉRIES : classe de protection IP44 pour utilisation fiable en extérieur, idéal pour éclairage de façade, terrasse et balcon
+- Ce produit est un produit d’éclairage. Les produits d’éclairage sont des luminaires qui peuvent être démontés pour vérifier séparément la ou les sources lumineuses qu’ils contiennent. Ce produit contient une source lumineuse de classe énergétique E
+- MONTAGE FLEXIBLE : disponible en deux couleurs de boîtier et avec module réglable à 340°, pour orienter la lumière selon les besoins, là où elle est nécessaire
 - BOÎTIER ROBUSTE : le boîtier en aluminium moulé sous pression garantit durabilité et résistance aux intempéries
 - ÉCONOME EN ÉNERGIE : technologie LED réduisant la consommation sans compromis sur la luminosité
-- MONTAGE FLEXIBLE : disponible en deux couleurs de boîtier et avec module réglable à 340°, pour orienter la lumière selon les besoins, là où elle est nécessaire
-- Ce produit est un produit d’éclairage. Les produits d’éclairage sont des luminaires qui peuvent être démontés pour vérifier séparément la ou les sources lumineuses qu’ils contiennent. Ce produit contient une source lumineuse de classe énergétique E
-- RÉSISTANT AUX INTEMPÉRIES : classe de protection IP44 pour utilisation fiable en extérieur, idéal pour éclairage de façade, terrasse et balcon
 - LUMINEUX ET FONCTIONNEL : luminaires extérieurs LED très lumineux offrent un éclairage efficace pour façades, chemins et autres extérieurs
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

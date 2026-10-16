@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réglage Mouture Manuel
-- Entretien: Nettoyage avec un chiffon sec et doux / Ne pas le mettre en contact de leau ou au lave-vaisselle / Aucun produit ou détergent ne doit être utilisé
 - Garantie : Mécanisme Peugeot garanti à vie, Moulin garanti 5 ans
+- Entretien: Nettoyage avec un chiffon sec et doux / Ne pas le mettre en contact de leau ou au lave-vaisselle / Aucun produit ou détergent ne doit être utilisé
 - Couleur : Noir
+- Réglage Mouture Manuel
 - Dimension : 8 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

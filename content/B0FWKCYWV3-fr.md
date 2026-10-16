@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lumière LED à faible consommation en énergie avec changement de couleur
+- Alimentation : piles 3 x 1,5V AAA/LR03 (non incluses)
 - Fonction haut-parleur avec câble auxiliaire double tête (inclus)
 - Changement de couleur : bleu, jaune, rouge et vert.
-- Lumière LED à faible consommation en énergie avec changement de couleur
 - Super Design Spiderman !
-- Alimentation : piles 3 x 1,5V AAA/LR03 (non incluses)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FWKCYWV3{{</world>}}

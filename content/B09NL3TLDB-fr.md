@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets
-- Amorti confortable
-- Semelle de propreté en EVA
 - Chaussant standard
+- Amorti confortable
 - Doublure textile
+- Fermeture à lacets
 - Tige en matière synthétique
+- Semelle de propreté en EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09NL3TLDB{{</world>}}

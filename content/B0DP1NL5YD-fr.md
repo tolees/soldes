@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Champion Logo C
 - Semelles douces et confortables
+- Champion Logo C
 - Fabriqué avec des matériaux durables et de qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

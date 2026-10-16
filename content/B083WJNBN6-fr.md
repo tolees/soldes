@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ✅ COMPATIBILITÉ: Capacité de charge max 35kg. Support adapté aux écran incurvé. Normes VESA prises en charge 100x100 200x100 200x200
-- ❗ VEUILLEZ NOTER: Diagonale décran seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran.
-- ✅ CAPACITÉ: Diagonales décran appropriées 58cm/23" 61cm/24" 69cm/27" 76cm/30" 81cm/32" 94cm/37" 102cm/40" 107cm/42" Pouces
 - ✅ APPROPRIÉ POUR: Tele Acer Samsung Sharp Toshiba Thomson LG Philips Sony Panasonic BenQ Asus HP AOC Reflexion Eizo iiyama ViewSonic Hisense Fujitsu Hanns-G NEC Lenovo Medion Dell
+- ✅ CAPACITÉ: Diagonales décran appropriées 58cm/23" 61cm/24" 69cm/27" 76cm/30" 81cm/32" 94cm/37" 102cm/40" 107cm/42" Pouces
+- ❗ VEUILLEZ NOTER: Diagonale décran seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran.
+- ✅ COMPATIBILITÉ: Capacité de charge max 35kg. Support adapté aux écran incurvé. Normes VESA prises en charge 100x100 200x100 200x200
 - ✅ FONCTIONS: Panneau de réception inclinable +8/-0 degré. Hauteur réglable 1160mm - 1800mm. Présentoir sur Pied Tige télescopique. Réhausseur de Tele.
 - ✅ FONCTIONS: Panneau de réception inclinable +8/-0 degré. Hauteur réglable 1160mm - 1800mm. Présentoir sur Pied Tige télescopique. Réhausseur de Tele.
 

@@ -32,8 +32,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - suspension des roues avant
 - unité de siège réversible
 - Pare-soleil XXL avec insert en maille
-- Roues tout-terrain
 - 2 en 1 : la nacelle devient un siège
+- Roues tout-terrain
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DB2JCLBN{{</world>}}

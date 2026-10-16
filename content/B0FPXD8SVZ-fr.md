@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592'
-date: 2026-10-14 13:26:06
+title: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592 | Jouet pour enfant dès 9 ans décoration de chambre 6 figurines dont golem de fer et bébé loup cadeau gaming 428 pièces'
+date: 2026-10-15 21:51:07
 image: 'https://m.media-amazon.com/images/I/51P0gpBRNPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXD8SVZ-fr LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592'
+slug: 'B0FPXD8SVZ-fr LEGO Minecraft L’Attaque du désert du Poulet chevauché...'
 sku: 'B0FPXD8SVZ-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79
 comparePrice: 24.99 EUR
-prodname: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592'
+prodname: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592 | Jouet pour enfant dès 9 ans décoration de chambre 6 figurines dont golem de fer et bébé loup cadeau gaming 428 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''

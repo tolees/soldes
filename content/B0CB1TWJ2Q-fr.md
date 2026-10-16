@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en maille géo avec lacets extensibles
 - Semelle intermédiaire légère et flexible absorbant les chocs
+- Dessus en maille géo avec lacets extensibles
 - Skechers Logo
 - Skechers Semelle intérieure confortable en mousse à mémoire de forme
 

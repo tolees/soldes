@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ingrédients extra durables
-- Bonne prise en main
 - Rembourrage
+- Bonne prise en main
+- Ingrédients extra durables
 - Légères
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Baskets de course Brit Air W rétro avec combinaisons de matériaux et de couleurs, semelle intérieure amovible et thermoformée
 - Isotype latéral emblématique, talon en cuir poilu et logo classique latéral
 - Semelle intermédiaire confortable en EVA bicolore, semelle extérieure en caoutchouc personnalisée, stabilisateur et œillet personnalisés
-- Baskets de course Brit Air W rétro avec combinaisons de matériaux et de couleurs, semelle intérieure amovible et thermoformée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F58MFTLG{{</world>}}

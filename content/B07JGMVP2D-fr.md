@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Voyant LED – sens de rotation et indicateur détat de la batterie
-- Contenu de la livraison : PSR Select, 12 embouts de tournevis standard, coffret de transport
-- Chargeur micro USB
 - Puissant pour le bricolage - Plus de 90 vis avec 1 batterie
+- Voyant LED – sens de rotation et indicateur détat de la batterie
+- Chargeur micro USB
 - Choisissez facilement le foret – EasySelect 12 forets intégrés différents
+- Contenu de la livraison : PSR Select, 12 embouts de tournevis standard, coffret de transport
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07JGMVP2D{{</world>}}

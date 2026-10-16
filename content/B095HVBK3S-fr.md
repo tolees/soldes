@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellent rapport qualité/prix
 - Durable
+- Excellent rapport qualité/prix
 - Bonne qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

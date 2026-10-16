@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Grand écran panoramique 6,5’’ tft
-- Caméra principale haute résolution 48 mp pour des photos nettes
-- Sécurité sans faille : votre smartphone est protégé dès la minute où il s’allume grâce à une sécurité multi-niveaux. Elle protège vos informations les plus sensibles contre les logiciels malveillants et autres menaces
-- Autonomie renforcée 5000 mah + charge rapide
 - Quadruple capteur photo ultra grand angle mode portrait & macro
+- Caméra principale haute résolution 48 mp pour des photos nettes
+- Autonomie renforcée 5000 mah + charge rapide
+- Sécurité sans faille : votre smartphone est protégé dès la minute où il s’allume grâce à une sécurité multi-niveaux. Elle protège vos informations les plus sensibles contre les logiciels malveillants et autres menaces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08Q8HBN9S{{</world>}}

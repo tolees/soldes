@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Envie de découvrir de nouvelles saveurs ? Optez pour la plancha au gaz 3 brûleurs MÉRIDA.
-- Matières : Structure : acier peint - Plaque de cuisson : acier émaillé - Brûleurs : acier inoxydable
-- Dimensions : Barbecue : L 64,5 × P 41,2 × H 19cm - Surface de cuisson : L 60 × l 35cm
-- À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
 - Couleurs : Structure : noir - Panneau de contrôle : silver - Brûleurs : silver
+- Dimensions : Barbecue : L 64,5 × P 41,2 × H 19cm - Surface de cuisson : L 60 × l 35cm
+- Matières : Structure : acier peint - Plaque de cuisson : acier émaillé - Brûleurs : acier inoxydable
+- À monter (notice incluse) - Garantie 2 ans - Livraison en 1 colis en pas de porte, en bas dimmeuble
+- Envie de découvrir de nouvelles saveurs ? Optez pour la plancha au gaz 3 brûleurs MÉRIDA.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07P98PKX8{{</world>}}

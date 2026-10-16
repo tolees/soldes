@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception légère pour améliorer la vitesse et lagilité.
 - Technologie GEL pour un amorti efficace.
+- Conception légère pour améliorer la vitesse et lagilité.
 - Semelle extérieure en caoutchouc durable pour une adhérence optimale.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

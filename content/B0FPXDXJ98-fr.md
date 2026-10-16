@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO City Le Camion de Pompiers de l aéroport 60499'
-date: 2026-10-14 13:38:02
+title: 'LEGO City Le Camion de Pompiers de l aéroport 60499 | Jouet pour garçon dès 7 ans maquette de véhicule de secours 4 minifigurines de pompiers cadeau d’anniversaire 691 pièces'
+date: 2026-10-15 21:55:00
 image: 'https://m.media-amazon.com/images/I/51wsjqrkWkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXDXJ98-fr LEGO City Le Camion de Pompiers de l aéroport 60499'
+slug: 'B0FPXDXJ98-fr LEGO City Le Camion de Pompiers de l aéroport 60499 |...'
 sku: 'B0FPXDXJ98-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 43.9 EUR
 currency: EUR
 price: 43.9
 comparePrice: 69.99 EUR
-prodname: 'LEGO City Le Camion de Pompiers de l aéroport 60499'
+prodname: 'LEGO City Le Camion de Pompiers de l aéroport 60499 | Jouet pour garçon dès 7 ans maquette de véhicule de secours 4 minifigurines de pompiers cadeau d’anniversaire 691 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDXJ98/?tag=tolees0d-21'
 descuento: '37.28'
-average: '43.9673809523808'
+average: '43.9658139534883'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

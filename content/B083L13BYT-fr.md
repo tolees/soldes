@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir'
-date: 2026-10-10 07:24:22
+title: 'Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir | Capteur Optique 18000 DPI Temps de Réponse Rapide 8 Boutons Latéraux Programmables Rétroéclairage Dynamique Multicolore'
+date: 2026-10-15 17:42:25
 image: 'https://m.media-amazon.com/images/I/31IDQTk0u4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B083L13BYT-fr Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir'
+slug: 'B083L13BYT-fr Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir |...'
 sku: 'B083L13BYT-fr'
 tags: [ '🇫🇷', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99
 comparePrice: 109.99 EUR
-prodname: 'Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir'
+prodname: 'Corsair Dark Core RGB Pro Souris de Jeu sans Fil – Noir | Capteur Optique 18000 DPI Temps de Réponse Rapide 8 Boutons Latéraux Programmables Rétroéclairage Dynamique Multicolore'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''

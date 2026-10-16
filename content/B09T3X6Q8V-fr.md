@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Qualité/durabilité
 - Robustesse
+- Qualité/durabilité
 - Longue durée de vie
 - Conception flexible
 

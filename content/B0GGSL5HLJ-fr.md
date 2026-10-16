@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO One Piece Dorry Contre Brogy – Les géants de Little Garden 75644'
-date: 2026-10-07 09:25:49
+title: 'LEGO One Piece Dorry Contre Brogy – Les géants de Little Garden 75644 | Jouet pour garçon ou fille dès 9 ans jouet interactif 2 figurines d’action 5 minifigurines idée cadeau 733 pièces'
+date: 2026-10-15 21:49:10
 image: 'https://m.media-amazon.com/images/I/51wzceUzlnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99
 comparePrice: 79.99 EUR
-prodname: 'LEGO One Piece Dorry Contre Brogy – Les géants de Little Garden 75644'
+prodname: 'LEGO One Piece Dorry Contre Brogy – Les géants de Little Garden 75644 | Jouet pour garçon ou fille dès 9 ans jouet interactif 2 figurines d’action 5 minifigurines idée cadeau 733 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande PUMA sur les côtés
 - Détails de la marque PUMA
 - Style confortable par PUMA
+- Bande PUMA sur les côtés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BLCL754T{{</world>}}

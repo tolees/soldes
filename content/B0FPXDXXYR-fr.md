@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Machine à remonter Le Temps Retour vers Le Futur 77256'
-date: 2026-10-14 13:39:14
+title: 'LEGO Speed Champions Machine à remonter Le Temps Retour vers Le Futur 77256 | Jouet pour garçon ou fille dès 9 ans minifigurines de Doc Brown voiture jouet Marty Mcfly idée cadeau 357 pièces'
+date: 2026-10-15 21:55:23
 image: 'https://m.media-amazon.com/images/I/51bofEALzYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89
 comparePrice: 27.99 EUR
-prodname: 'LEGO Speed Champions Machine à remonter Le Temps Retour vers Le Futur 77256'
+prodname: 'LEGO Speed Champions Machine à remonter Le Temps Retour vers Le Futur 77256 | Jouet pour garçon ou fille dès 9 ans minifigurines de Doc Brown voiture jouet Marty Mcfly idée cadeau 357 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDXXYR/?tag=tolees0d-21'
 descuento: '32.51'
-average: '26.6744444444444'
+average: '26.3431914893617'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

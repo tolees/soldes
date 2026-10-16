@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mousse à mémoire de forme refroidie à lair
 - 32 FR
+- Mousse à mémoire de forme refroidie à lair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B082N4WRPW{{</world>}}

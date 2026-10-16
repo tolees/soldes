@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Manche longue
-- Col rond
-- Poignets côtelés
 - Longueur standard
+- Poignets côtelés
 - Regular fit
+- Col rond
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CJDPM1VH{{</world>}}
