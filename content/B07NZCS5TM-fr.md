@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau intérieur : synthétique
 - Matériau extérieur : cuir
 - Fermeture : lacets
-- Matériau intérieur : synthétique
 - Semelle : caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

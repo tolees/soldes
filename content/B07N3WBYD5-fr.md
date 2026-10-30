@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Matérial de la Boîtier: Acier inoxydable
-- Boîtier
 - - Forme de la Boîtier: Rond
-- Mouvement
 - - Couleur de la Boîte: Or
+- Mouvement
+- Boîtier
+- - Matérial de la Boîtier: Acier inoxydable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07N3WBYD5{{</world>}}

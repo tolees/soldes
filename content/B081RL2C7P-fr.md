@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lors du branchement dun sèche-linge, dun lave-linge ou dune chaudière et dun lave-vaisselle sur un circuit électrique, il peut y avoir une surcharge lors du chauffage simultané des deux appareils
-- Made in Germany - 100% contrôlé - Garantie constructeur 5 ans
-- Le répartiteur dénergie spécial empêche un consommateur de déclencher le fusible ou de créer un incendie de ligne en cas de coupure de courant dépendant de la puissance (3400W)
 - Dès que la puissance absorbée diminue, le deuxième consommateur est automatiquement réactivé
+- Le répartiteur dénergie spécial empêche un consommateur de déclencher le fusible ou de créer un incendie de ligne en cas de coupure de courant dépendant de la puissance (3400W)
 - Avec protection contre les surcharges · Version française (type E) · Indicateur de fonctionnement optique
+- Made in Germany - 100% contrôlé - Garantie constructeur 5 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B081RL2C7P{{</world>}}

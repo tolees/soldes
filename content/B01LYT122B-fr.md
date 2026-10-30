@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Filetage standard 5/20,3 cm-27 avec extrémité extérieure et filetage femelle en laiton massif 3/20,3 cm-16.
-- Fabriqué en alliage daluminium, il est léger et réduit la fatigue de lopérateur associée à des prises de vue prolongées.
 - Trois barres télescopiques prolongent la longueur de la flèche de 8,9 à 20,6 cm. Réglage de la longueur pour verrouiller/déverrouiller avec un système Twist and Lock.
-- Poignées ergonomiques et confortables en caoutchouc EVA. (1) Poignée fixe à la base de la barre, (1) poignée coulissante permettant des configurations individuelles.
+- Fabriqué en alliage daluminium, il est léger et réduit la fatigue de lopérateur associée à des prises de vue prolongées.
 - Remarque : le microphone nest pas inclus
+- Poignées ergonomiques et confortables en caoutchouc EVA. (1) Poignée fixe à la base de la barre, (1) poignée coulissante permettant des configurations individuelles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01LYT122B{{</world>}}

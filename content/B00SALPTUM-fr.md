@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sans fermeture
 - Numéro de modèle : 18811-064
-- Largeur de la chaussure : moyenne
 - Forme du talon : plat
+- Sans fermeture
 - Degré de résistance à leau : non imperméable à leau
+- Largeur de la chaussure : moyenne
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00SALPTUM{{</world>}}

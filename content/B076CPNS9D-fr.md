@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Aspiration puissante sur tous types de sols.
 - Le système de filtration avancé sur l’ensemble de l’appareil capture 99,97 % des poussières fines aussi petites que 0,3 micron.¹
+- Aspiration puissante sur tous types de sols.
 - Pas de sacs à acheter et pas de perte d’aspiration.
 - Avec un filtre lavable permanent.
 - Technologie de balle pour une manœuvre facile.

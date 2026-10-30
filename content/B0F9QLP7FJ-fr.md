@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure amovible pour un entretien facile.
 - Semelle intermédiaire amortissante pour une excellente absorption des chocs.
 - Semelle extérieure en caoutchouc résistant pour une excellente traction sur toutes les surfaces.
 - Empeigne en mesh respirant pour garder les pieds au frais et au sec.
+- Semelle intérieure amovible pour un entretien facile.
 - Conception légère pour plus de vitesse et de réactivité.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

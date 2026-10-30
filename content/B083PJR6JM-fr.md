@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Style Element classique
 - Doublure en mesh de polyester recyclé
-- Lacets en coton biologique
 - Empeigne en suède et semelle en caoutchouc recyclé
+- Lacets en coton biologique
 - Colle à base deau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

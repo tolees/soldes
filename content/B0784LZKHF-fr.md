@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Solides éléments de guidage avec patins plastique
 - 3 x 12 échelons
+- Solides éléments de guidage avec patins plastique
 - Utilisation polyvalente comme échelle simple, échelle coulissante et échelle-chevalet
-- Réglage par pédale
 - Échelle transformable 3 plans
+- Réglage par pédale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0784LZKHF{{</world>}}

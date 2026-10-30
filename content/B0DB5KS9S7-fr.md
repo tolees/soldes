@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Très confortable
 - SCHOTT NYC Blouson Homme CADAMS NAVY L
 - Marque: SCHOTT NYC
+- Très confortable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DB5KS9S7{{</world>}}

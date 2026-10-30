@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poids produit : 8.8 kg
 - Sac de transport inclus
+- Dimensions gonflé : environ 2.03 m x 1.52 m x 56 cm
+- Poids produit : 8.8 kg
 - Gonfleur électrique intégré 220-240 V : se gonfle en 5 minutes
 - Poids max supporté : 272 kg
-- Dimensions gonflé : environ 2.03 m x 1.52 m x 56 cm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B8PCVKSV{{</world>}}

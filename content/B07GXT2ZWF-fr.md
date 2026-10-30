@@ -29,11 +29,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
-- Ajustez la vitesse de 0 à 2600 tr/min pour une maîtrise optimale selon le matériau à découper.
-- Profitez de 4 mouvements pendulaires pour une coupe rapide et efficace dans bois, métal ou plastique.
-- Travaillez avec une visibilité parfaite grâce au souffleur intégré qui élimine les copeaux.
 - Effectuez des coupes en biseau précises jusqu’à ±45° pour répondre à tous vos besoins de découpe.
+- Travaillez avec une visibilité parfaite grâce au souffleur intégré qui élimine les copeaux.
+- Ajustez la vitesse de 0 à 2600 tr/min pour une maîtrise optimale selon le matériau à découper.
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Profitez de 4 mouvements pendulaires pour une coupe rapide et efficace dans bois, métal ou plastique.
 - Travaillez confortablement avec la poignée ergonomique en caoutchouc pour une bonne prise en main.
 - Changez de lame sans outil et en quelques secondes grâce au système de fixation rapide.
 - Réalisez des coupes nettes jusqu’à 80 mm dans le bois, 18 mm dans l’alu, 8 mm dans le métal.

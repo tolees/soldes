@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meuleuse dangle BOSCH PROFESSIONAL GWS 880 - 880 W - 125 mm - Pour Béton - rapido2shop
 - Sans disque à tronçonner
+- Meuleuse dangle BOSCH PROFESSIONAL GWS 880 - 880 W - 125 mm - Pour Béton - rapido2shop
 - Bosch GWS 880 - Meuleuse angulaire - 2 disques diamantés et coffret - 880W - 125mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

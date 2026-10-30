@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic Les dinosaures créatifs 11041 | Jeu de construction pour enfant dès 5 ans jeu de rôle assortiment de briques idée de cadeau d’anniversaire 450 pièces'
-date: 2026-10-29 09:59:38
+date: 2026-10-29 10:02:56
 image: 'https://m.media-amazon.com/images/I/513bFKRTfXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MZ0C0UD/?tag=tolees0d-21'
 descuento: '35.72'
-average: '27.6660000000001'
+average: '27.4669230769232'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- __matière :__ matière éponge imprimée en coton
 - __dimensions :__ 59 [h] x 56 [l] cm
-- Logo ROXY
+- __matière :__ matière éponge imprimée en coton
 - Boutons-pression sur les côtés
+- Logo ROXY
 - __Compartiments :__ poche kangourou sur le devant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

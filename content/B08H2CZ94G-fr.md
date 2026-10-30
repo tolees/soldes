@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 - Cadran Sunray rose clair
 - Bracelet milanais en acier inoxydable avec placage ionique (IP) or rose clair
 - Diamètre du boîtier 38 mm, Épaisseur du boîtier 8,95mm
-- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
 - Mouvement multifonction à quartz
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Enfiler
 - Manche longue
-- Type de col: sweatshirt
-- 80% Coton, 20% Polyester
-- Lavage à la main seulement
 - Regular
+- Lavage à la main seulement
+- Type de col: sweatshirt
+- Fermeture: Enfiler
+- 80% Coton, 20% Polyester
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T9T9HP7{{</world>}}

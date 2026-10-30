@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tige : Cuir de vachette / Textile
-- Doublure :
-- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
-- 70 % Textile (100 % Polyester) 30 % Textile (50 % Polyester - 50 % PU）
 - Couleur : noir
+- Doublure :
+- 70 % Textile (100 % Polyester) 30 % Textile (50 % Polyester - 50 % PU）
+- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DG96CWS{{</world>}}

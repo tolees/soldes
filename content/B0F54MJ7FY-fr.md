@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FONCTIONS ÉLECTRONIQUES : Appuie sur le bouton sur son torse pour activer les effets lumineux de ses yeux, et sonores en français !
-- FIGURINE ARTICULÉE : Retrouve ta figurine Megazord avec plus de 10 points darticulation pour reproduire les scènes épiques de la série !
-- TAILLE : Ta figurine mesure 30 cm.
 - ACCESSOIRES INCLUS : 1 bouclier et 1 épée.
+- TAILLE : Ta figurine mesure 30 cm.
+- FIGURINE ARTICULÉE : Retrouve ta figurine Megazord avec plus de 10 points darticulation pour reproduire les scènes épiques de la série !
+- FONCTIONS ÉLECTRONIQUES : Appuie sur le bouton sur son torse pour activer les effets lumineux de ses yeux, et sonores en français !
 - NOUVEAUTÉS POWER RANGERS : Tes héros préférés reviennent dans des versions inédites, inspirées de la nouvelle série remasterisée Mighty Morphin !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

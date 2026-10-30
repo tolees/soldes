@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longue durée de vie
 - T-shirt à manches courtes
+- Longue durée de vie
 - Produit de fabrication excellente
 
 [🛒 Achète-le!!]({{< param buyurl >}})

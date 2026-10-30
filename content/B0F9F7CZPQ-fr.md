@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 【Materiale】: en Argent Sterling 925 avec 5A Zircone.
-- 【Taille du produit】：Taille 2,5 cm * 1,5 cm, Poids: 2,2 g
-- 【Service client】 ： Nbsameng vous offre une GARANTIE À VIE. Satisfaction à 100% et garantie de remboursement.
 - 【Scène applicable】：Il peut être facilement associé à différents styles de bracelets et de colliers pour toute occasion.
+- 【Service client】 ： Nbsameng vous offre une GARANTIE À VIE. Satisfaction à 100% et garantie de remboursement.
+- 【Taille du produit】：Taille 2,5 cm * 1,5 cm, Poids: 2,2 g
+- 【Materiale】: en Argent Sterling 925 avec 5A Zircone.
 - 【Emballage】 1 * Pendentif Charms +1 * Tissu de polissage argenté + 1 * Boîte-cadeau de bijoux.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ceci est un authentique produit Levi’s
 - Doté d’une touche de stretch pour plus de confort tout au long de la journée
+- Ceci est un authentique produit Levi’s
 - Une alternative ideale au jean skinny
 - Silhouette élancée et confortable
 - Une coupe ajustée moderne, pour une ideale liberté de mouvement

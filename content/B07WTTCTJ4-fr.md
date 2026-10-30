@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marque: Pandora
 - Couleur: argent
+- Marque: Pandora
 - Argent 925/1000
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

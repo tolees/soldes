@@ -28,19 +28,19 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- IDEAL EN CONDITIONS SECHE
 - adhère et lubrifie sans projections
-- idéal en conditions sèches
-- SYSTEME DE VAPORISATION LARGE
-- PROPRIÉTÉS ANTI-ÉCLABOUSSURES : adhère et lubrifie sans projection. Evite ainsi de salir votre moto et votre équipement.
-- ODEUR AGREABLE DE CHEWING GUM
-- COMPATIBLE AVEC LES JOINTS TORIQUES EN O, X et Z
-- PAS DE DATE LIMITE DUTILISATION la date imprimée sous l’aérosol est sa date de production
-- SÈCHE RAPIDEMENT
-- Pour tout défaut produit, tube prolongateur rouge manquant notamment, merci de contacter les équipes WD-40 directement, via le formulaire de contact de notre site internet
+- IDEAL EN CONDITIONS SECHE
 - sèche rapidement
-- LUBRIFIANT IDÉAL POUR LES CONDITIONS SÈCHES : il empêche les poussières et le sable dadhérer
+- idéal en conditions sèches
+- ODEUR AGREABLE DE CHEWING GUM
 - LUBRIFICATION ET PROTECTION LONGUE DURÉE
+- PROPRIÉTÉS ANTI-ÉCLABOUSSURES : adhère et lubrifie sans projection. Evite ainsi de salir votre moto et votre équipement.
+- SÈCHE RAPIDEMENT
+- LUBRIFIANT IDÉAL POUR LES CONDITIONS SÈCHES : il empêche les poussières et le sable dadhérer
+- COMPATIBLE AVEC LES JOINTS TORIQUES EN O, X et Z
+- Pour tout défaut produit, tube prolongateur rouge manquant notamment, merci de contacter les équipes WD-40 directement, via le formulaire de contact de notre site internet
+- PAS DE DATE LIMITE DUTILISATION la date imprimée sous l’aérosol est sa date de production
+- SYSTEME DE VAPORISATION LARGE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00P0YLS1Q{{</world>}}

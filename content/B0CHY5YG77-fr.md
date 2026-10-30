@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 - SMART HOME - Contrôlable via Zigbee et supérieur, par smartphone et tablette
+- FABRICANT DE MARQUES - Depuis 40 ans, Paulmann a fait de la lumière sa passion.
 - GRADABLE - Le variateur dintensité en continu permet un ajustement individuel de la luminosité
 - CHANGEMENT DE COULEUR – La fonction RGBW permet de choisir librement la température de couleur.
 - ÉCONOMIQUE - La technologie LED fait économiser jusquà 80 % par rapport aux ampoules à incandescence traditionnelles

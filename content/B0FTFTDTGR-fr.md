@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – La célébration 43018 | Jouet pour ado dès 14 ans décoration de chambre pour fans de sport tableau mural 3D projet DIY idée cadeau 1427 pièces'
-date: 2026-10-29 10:01:31
+date: 2026-10-30 10:34:39
 image: 'https://m.media-amazon.com/images/I/41+Bzlu-95L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FTFTDTGR/?tag=tolees0d-21'
 descuento: '47.37'
-average: '116.457530864198'
+average: '115.681190476191'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

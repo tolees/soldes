@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- LANGAGE: Lettres, mots, dactylographie et orthographe.
-- MATHÉMATIQUES: nombres et calcul (4 opérations).
-- AMUSANT - Comprend également de nombreux jeux pour s’amuser après lapprentissage.
-- ÉDUCATIF - Activités éducatives avec différents niveaux : Langues, Mathématiques, Logique, Dactylographie, Sections musicales, Lecture de l’heure.
-- ET PLEIN DAUTRES FONCTIONNALITÉS ! - Culture générale et apprentissage de lheure, Jeux amusants pour tester sa logique, sa mémoire et sa rapidité.
-- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
-- ANIMATIONS GRAPHIQUES - Écran LCD avec des animations.
 - SUPER DESIGN - Format pratique ultra-léger, pour une prise en main facile. Ergonomie inspirée de véritables ordinateurs.
+- ANIMATIONS GRAPHIQUES - Écran LCD avec des animations.
+- ET PLEIN DAUTRES FONCTIONNALITÉS ! - Culture générale et apprentissage de lheure, Jeux amusants pour tester sa logique, sa mémoire et sa rapidité.
+- LANGAGE: Lettres, mots, dactylographie et orthographe.
+- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
+- ÉDUCATIF - Activités éducatives avec différents niveaux : Langues, Mathématiques, Logique, Dactylographie, Sections musicales, Lecture de l’heure.
+- AMUSANT - Comprend également de nombreux jeux pour s’amuser après lapprentissage.
+- MATHÉMATIQUES: nombres et calcul (4 opérations).
 - PRATIQUE - Clavier complet pour répondre aux questions.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

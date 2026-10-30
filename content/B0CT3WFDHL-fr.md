@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc exclusive avec motif gaufré qui offre traction et flexibilité
-- Tige en maille technique respirante améliorée
 - Chaussure de running sur route Nike Pegasus 41 pour homme
+- Tige en maille technique respirante améliorée
 - La semelle intermédiaire en mousse ReactX enveloppe les unités Air Zoom à lavant-pied et au talon pour une foulée réactive
+- Semelle extérieure en caoutchouc exclusive avec motif gaufré qui offre traction et flexibilité
 - Chaussure de running sur route Nike Pegasus 41 pour homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})

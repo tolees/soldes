@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - Barre De Toit:
+- Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
 - ATERA Rails de toit / barres de toit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

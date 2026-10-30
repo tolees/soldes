@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- montage facile
 - Revêtement facile dentretien avec un chiffon humide ou du lait démaquillant
+- montage facile
 - Produit design Bois et Aspect Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

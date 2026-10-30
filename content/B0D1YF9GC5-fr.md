@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle intérieure porte la marque « All conditions Gear »
 - Une semelle extérieure en caoutchouc enveloppe la pointe et le talon pour une traction durable
 - La semelle intermédiaire en mousse offre un amorti léger à chaque pas
+- La semelle intérieure porte la marque « All conditions Gear »
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1YF9GC5{{</world>}}

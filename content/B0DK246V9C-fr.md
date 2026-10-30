@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Polo Manches Courtes Homme 1985 Slim Fit Multicolore Medium Red M'
-date: 2026-10-09 07:08:18
+title: 'Tommy Hilfiger Men Polos Core 1985 Slim POLOMW0MW17771 Red Medium Red M'
+date: 2026-10-30 15:19:01
 image: 'https://m.media-amazon.com/images/I/31fN9RNy8TL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DK246V9C-fr Tommy Hilfiger Polo Manches Courtes Homme 1985 Slim Fit...'
+slug: 'B0DK246V9C-fr Tommy Hilfiger Men Polos Core 1985 Slim POLOMW0MW17771 Red...'
 sku: 'B0DK246V9C-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 41.18 EUR
+actualPrice: 54.9 EUR
 currency: EUR
-price: 41.18
+price: 54.9
 comparePrice: 79.9 EUR
-prodname: 'Tommy Hilfiger Polo Manches Courtes Homme 1985 Slim Fit Multicolore Medium Red M'
+prodname: 'Tommy Hilfiger Men Polos Core 1985 Slim POLOMW0MW17771 Red Medium Red M'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0DK246V9C/?tag=tolees0d-21'
-descuento: '48.46'
-average: '39.44'
+descuento: '31.29'
+average: '43.305'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

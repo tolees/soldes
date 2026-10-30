@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Magnified Diamand shape midsole
+- Protective rubber toecap
 - Soft washed canvas upper
 - WHITECAP GRAY
-- Protective rubber toecap
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F6VLW396{{</world>}}

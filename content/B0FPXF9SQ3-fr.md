@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Vinicius Jr. – Best of 43027 | Jouet pour enfant dès 10 ans et adulte minifigurine collector décoration de chambre jeu football idée cadeau 510 pièces'
-date: 2026-10-29 10:01:42
+date: 2026-10-30 10:35:09
 image: 'https://m.media-amazon.com/images/I/51BhKGskiUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

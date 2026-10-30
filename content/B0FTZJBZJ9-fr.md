@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 3 bandes.
-- 70 % polyester (100 % recyclé), 30 % coton.
-- Fermeture zippée.
 - Coupe slim.
+- Fermeture zippée.
+- 70 % polyester (100 % recyclé), 30 % coton.
 - Tissu interlock.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

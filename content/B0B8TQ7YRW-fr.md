@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Marque: Lattafa
+- Type de produit: PERSONAL FRAGRANCE
 - Taille: 100 ml Lot de 1
 - Asad Lattafa for Unisex Eau de Parfum Spray 100ml Men Women Perfume
-- Type de produit: PERSONAL FRAGRANCE
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B8TQ7YRW{{</world>}}

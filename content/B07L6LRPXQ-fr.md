@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contenu de la livraison : kit dexpérimentation comprenant 6 lames avec un total de 24 préparations
+- 6 diapositives avec préparations passionnantes
 - 24 préparations (animaux, plantes, insectes, fibres, pollen)
 - Préparations permanentes pour une entrée parfaite en microscopie
-- 6 diapositives avec préparations passionnantes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07L6LRPXQ{{</world>}}

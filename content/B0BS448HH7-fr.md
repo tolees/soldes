@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Œillet et renard personnalisés
-- Col et talon de couleur contrastée
 - Logo classique sur le côté
+- Col et talon de couleur contrastée
+- Œillet et renard personnalisés
 - Baskets de tennis basiques vulcanisées à coupe basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})

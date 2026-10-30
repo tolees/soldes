@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Avec 2x 7 pouces/ 18cm écran couleur avec aluminium brossé
 - Réception de la sonnerie en tant que notification push dans lELRO Intercom App
 - ELRO Color Night Vision Technology avec des LED blanches de vision nocturne
-- Avec 2x 7 pouces/ 18cm écran couleur avec aluminium brossé
 - Communication bidirectionnelle avec vidéo en direct via un moniteur ou une application smartphone/tablette
 - Enregistrer des photos ou des vidéos sur le smartphone
 

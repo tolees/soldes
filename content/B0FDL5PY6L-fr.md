@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Standard
 - Col, poignets et ourlet côtelés
-- Col ras-du-cou
 - Pur coton
+- Standard
+- Col ras-du-cou
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FDL5PY6L{{</world>}}

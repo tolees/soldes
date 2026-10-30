@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Securipak - Sac à dos pour ordinateur portable 15 6 pouces 44 cm 17 L gris Cool Grey'
-date: 2026-10-22 06:23:15
+date: 2026-10-30 22:28:02
 image: 'https://m.media-amazon.com/images/I/31-aKKsoeoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084MNDVQG/?tag=tolees0d-21'
 descuento: '24.79'
-average: '65.0049999999999'
+average: '71.4079999999999'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Adhésif repositionable 204 x 83 cm
 - Pose facile/Autocollant
+- Adhésif repositionable 204 x 83 cm
 - Stickers muraux/Stickers décoration
 - Vinyl
 

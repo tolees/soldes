@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Avant plissé
+- Lourlet de la jambe se replie, il nest pas fixe
 - Poches structurées à empiècements avec poche à monnaie intégrée
 - Poches dos carrées, fermeture à bouton
-- Lourlet de la jambe se replie, il nest pas fixe
 - Braguette zippée
-- Avant plissé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DK5FQVRB{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
 - 100% Cuir
+- Fermeture éclair
 - Lavage en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

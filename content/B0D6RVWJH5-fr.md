@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le parfum du luxe californien : leau de toilette Giorgio Beverly Hills incarne le luxe et le glamour de la Californie, avec une fragrance inimitable qui allie des notes florales et boisées.
-- Un cadeau inoubliable : Offrez à votre femme cet élégant vaporisateur Giorgio Beverly Hills pour une idée cadeau femme inoubliable, qui lui permettra de découvrir lune des fragrances les plus prestigieuses du monde.
 - Fragrance audacieuse : Osez loriginalité avec cette fragrance incroyablement osée, grâce à ses notes de vanille, de musc et de patchouli qui viennent sublimer les notes florales.
 - Un classique indémodable : Depuis plus de trente ans, cette eau parfumée pour homme est devenue un classique de la parfumerie, appréciée dans le monde entier pour son élégance et son raffinement.
+- Le parfum du luxe californien : leau de toilette Giorgio Beverly Hills incarne le luxe et le glamour de la Californie, avec une fragrance inimitable qui allie des notes florales et boisées.
+- Un cadeau inoubliable : Offrez à votre femme cet élégant vaporisateur Giorgio Beverly Hills pour une idée cadeau femme inoubliable, qui lui permettra de découvrir lune des fragrances les plus prestigieuses du monde.
 - Bouquet de fleurs blanches : Plongez dans un univers floral avec cette eau de toilette homme, qui marie des notes de jasmin, gardénia, tubéreuse et ylang:ylang pour un bouquet de fleurs blanches envoûtant.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

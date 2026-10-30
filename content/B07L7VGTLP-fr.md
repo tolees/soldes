@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Lavage en machine à 40 ° C
-- De 0 à 2 ans
 - Imperméables et coupe-vent
-- Cape peut s’utiliser avec tous les porte-bébés BABYBJÖRN.
 - Cest facile à mettre en place
+- De 0 à 2 ans
+- Cape peut s’utiliser avec tous les porte-bébés BABYBJÖRN.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L7VGTLP{{</world>}}

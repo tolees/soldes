@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Talon plateforme
 - Arche basse
 - Cuir
-- Talon plateforme
 - À enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

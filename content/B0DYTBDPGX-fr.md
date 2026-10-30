@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ENSEMBLE DE 4 MUGS : lot de 4 tasses à café en verre à double paroi pour boissons chaudes et froides, pour le café, le thé ou les lattes
-- MAINTIEN DE LA TEMPÉRATURE : la tasse à double paroi isotherme garde les boissons chaudes tandis que le revêtement extérieur reste froid au toucher
-- VERRE BOROSILICATÉ ALIMENTAIRE : fabriqué à partir de verre borosilicaté haute qualité, sans plomb et sans BPA, supportant les températures extrêmes
 - CAPACITÉ DE 35,5cl : chaque mug peut contenir jusqu’à 35,5cl de votre boisson préférée ; parfait pour un usage quotidien
+- VERRE BOROSILICATÉ ALIMENTAIRE : fabriqué à partir de verre borosilicaté haute qualité, sans plomb et sans BPA, supportant les températures extrêmes
+- MAINTIEN DE LA TEMPÉRATURE : la tasse à double paroi isotherme garde les boissons chaudes tandis que le revêtement extérieur reste froid au toucher
 - POIGNÉE PRATIQUE : poignée large pour une bonne prise en main
 - LAVABLE AU LAVE-VAISSELLE : lavable au lave-vaisselle pour un nettoyage et un entretien faciles
 

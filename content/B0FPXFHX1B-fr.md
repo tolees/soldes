@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC La Batmobile de Batman v Superman 76331 | Jouet pour enfant dès 9 ans maquette collector de super-héros minifigurine voiture cadeau d’anniversaire 220 pièces'
-date: 2026-10-29 10:01:58
+date: 2026-10-30 10:37:56
 image: 'https://m.media-amazon.com/images/I/51vtYRSOhNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFHX1B/?tag=tolees0d-21'
 descuento: '35.11'
-average: '19.5698591549293'
+average: '19.5654054054052'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Grogu apprenti du Mandalorien 75446 | Jouet pour garçon ou fille dès 10 ans figurine armure en beskar décoration de chambre idée cadeau 1200 pièces'
-date: 2026-10-29 10:01:59
+date: 2026-10-30 10:38:17
 image: 'https://m.media-amazon.com/images/I/51abFcwV5FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFMP3M/?tag=tolees0d-21'
 descuento: '38.46'
-average: '80.9423809523809'
+average: '80.8233333333333'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

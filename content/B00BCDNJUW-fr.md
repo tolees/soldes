@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- décorer, agrémenter cette boîte à mouchoirs afin quelle soit en harmonie avec votre décoration
 - matière: bois
+- décorer, agrémenter cette boîte à mouchoirs afin quelle soit en harmonie avec votre décoration
 - chouette idée dactivités avec des enfants
 - la peinture, le déco patch, les serviettes, le masking tape, la mosaïque peuvent être utilisés comme le ruban, les boutons, la touche
 

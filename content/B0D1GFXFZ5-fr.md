@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durabilité : les capsules Nespresso sont recyclables. Toutes les capsules en aluminium collectées par Nespresso sont recyclées.
-- Design industriel : une machine compacte et intuitive avec panneaux latéraux en métal martelé.
-- La machine à café à capsules Pixie propose une gamme complète de cafés expresso de manière pratique et avec un fort sens du design.
-- 2 choix de café : choisissez entre Espresso et Lungo.
 - Économie dénergie : la machine séteint automatiquement après 2 minutes dinactivité.
+- Durabilité : les capsules Nespresso sont recyclables. Toutes les capsules en aluminium collectées par Nespresso sont recyclées.
+- 2 choix de café : choisissez entre Espresso et Lungo.
+- La machine à café à capsules Pixie propose une gamme complète de cafés expresso de manière pratique et avec un fort sens du design.
+- Design industriel : une machine compacte et intuitive avec panneaux latéraux en métal martelé.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D1GFXFZ5{{</world>}}

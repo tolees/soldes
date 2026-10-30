@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- POLAIRE HOMME MILLET légère et respirante, idéale été et mi-saison
-- MATIÈRE BI-FACE chinée extérieure et mesh intérieur ventilé
-- 3 POCHES zippées dont 2 mains et 1 poitrine pratiques
 - COUPE RAGLAN et capuche protectrice pour aisance en mouvement
+- POLAIRE HOMME MILLET légère et respirante, idéale été et mi-saison
+- 3 POCHES zippées dont 2 mains et 1 poitrine pratiques
+- MATIÈRE BI-FACE chinée extérieure et mesh intérieur ventilé
 - COUPE RÉGULIÈRE confortable adaptée aux activités outdoor
 
 [🛒 Achète-le!!]({{< param buyurl >}})

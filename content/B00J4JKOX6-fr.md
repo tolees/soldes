@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistance à leau de 20 bars.
 - 2 ans de garantie Invicta.
 - Modèle issu de la collection Invicta Pro Diver.
+- Résistance à leau de 20 bars.
 - Mouvement mécanique à remontage automatique précis.
 - LInvicta 8927OB a un boîtier en acier inoxydable de 40 millimètres avec un cadran noir.
 

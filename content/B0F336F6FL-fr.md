@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle de propreté en textile
 - Lacets
-- Semelle extérieure en caoutchouc
 - Chaussant standard
 - Semelle Cupsole en caoutchouc non marquant
 - Tige en matière synthétique
+- Semelle extérieure en caoutchouc
+- Semelle de propreté en textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F336F6FL{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche avec insert en inox
-- Coloris : Noir et Rouge
-- Lame en acier
-- Garantie : 1 an(s)
 - Matière : Plastique
+- Coloris : Noir et Rouge
+- Garantie : 1 an(s)
+- Lame en acier
+- Manche avec insert en inox
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00WULCP9G{{</world>}}

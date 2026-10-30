@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Formule optique avancée pour une netteté absolue, du centre à la périphérie
-- Deux modes de mise au point : M/A (autofocus à priorité manuelle) et M (mise au point manuelle)
+- Design optimal, compact et léger
 - Moteur SWM (Silent Wave Motor) pour un autofocus silencieux et rapide
 - Objectif 35 mm au format DX à grande ouverture (équivalent 24x36 : 52,5 mm)
-- Design optimal, compact et léger
+- Deux modes de mise au point : M/A (autofocus à priorité manuelle) et M (mise au point manuelle)
+- Formule optique avancée pour une netteté absolue, du centre à la périphérie
 - Grande ouverture maximale f/1,8
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

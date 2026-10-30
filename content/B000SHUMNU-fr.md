@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Marqueur permanent Pentel Pen N50 encre noire
-- Pointe conique 4,3mm
 - Tous supports, tous usages
 - Résistance extrême. 1000m décriture possible.
+- Pointe conique 4,3mm
 - Corps métal
+- Marqueur permanent Pentel Pen N50 encre noire
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000SHUMNU{{</world>}}

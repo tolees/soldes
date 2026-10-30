@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué avec un minimum de 20 % de matériaux recyclés et dautres tissus durables
 - Coupe droite
+- Fabriqué avec un minimum de 20 % de matériaux recyclés et dautres tissus durables
 - Taille normale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

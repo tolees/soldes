@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft L’Aventure de la première Nuit 21593 | Jouet pour enfant dès 8 ans jeu interactif 7 figurines Alex Creeper squelette loup de bois cadeau gaming 301 pièces'
-date: 2026-10-29 10:00:50
+date: 2026-10-30 10:31:20
 image: 'https://m.media-amazon.com/images/I/51yxUNLE2fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHJ4ZZ/?tag=tolees0d-21'
 descuento: '33.34'
-average: '20.0577966101697'
+average: '20.0545161290325'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

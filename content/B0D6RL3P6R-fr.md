@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type détirement : faible élasticité
 - Conseils dentretien : lavable en machine
-- Coupe : coupe classique
 - Veste en jean, veste en jean, veste en jeans
 - Composition : 99 % coton, 1 % élasthanne
+- Type détirement : faible élasticité
+- Coupe : coupe classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D6RL3P6R{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tête compatible valves Presta/Schrader
 - Accessoires Adaptateur valves Dunlop aiguille pour gonfler les ballons crochet de maintien du flexible
+- Tête compatible valves Presta/Schrader
 - Base tripode composite
 - Corps acier peint
 

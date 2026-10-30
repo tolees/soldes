@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - stretchy Scuba Material facilitates the entry
-- Comfort wide
 - Stitchdown-Style: Durable, flexible properties and perfect fit
 - Genuine Leather
+- Comfort wide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00P19ZL9K{{</world>}}

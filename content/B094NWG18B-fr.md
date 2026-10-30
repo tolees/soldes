@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavage en machine
-- Fermeture: Fermeture éclair
 - Type de col: Rond
+- Fermeture: Fermeture éclair
+- Lavage en machine
 - Synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

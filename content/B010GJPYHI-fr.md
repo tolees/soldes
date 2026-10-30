@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détection de faible niveau deau alarme
-- Contrôle de la température à 0,5 °C
-- 0–99 heures Minuterie
 - Corps et couvercle en acier inoxydable
 - Écran LCD
+- 0–99 heures Minuterie
+- Contrôle de la température à 0,5 °C
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B010GJPYHI{{</world>}}

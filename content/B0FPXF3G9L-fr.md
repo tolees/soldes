@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Fortnite Ravitaillement 77080 | Jouet pour garçon ou fille dès 10 ans minifigurines de Poiscaille Léviathan bleuvage déco gaming idée cadeau 314 pièces'
-date: 2026-10-29 10:01:26
+date: 2026-10-30 10:34:01
 image: 'https://m.media-amazon.com/images/I/51MVnSPkNwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF3G9L/?tag=tolees0d-21'
 descuento: '33.01'
-average: '26.9373684210526'
+average: '26.93'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Magnified Diamand shape midsole
+- GOTS certified material
+- durable outsole
 - Organic cotton canvas upper
 - OEKO-TEX certified material
-- Magnified Diamand shape midsole
-- durable outsole
-- GOTS certified material
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6G8DSM5{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coquille : 100% Polyester (recyclé)
 - Articles livrés 1x Helly Hansen Homme Veste Polaire Daybreaker,XL,Noir
 - Cette veste polaire polyvalente et ultra-douce est confortable tout au long de lannée. Portez-la seule lors des journées fraîches ou superposez-la lorsque la température baisse.
+- Coquille : 100% Polyester (recyclé)
 - Une veste polaire Polartec chaude, légère et très respirante, fabriquée à partir de matériaux 100 % recyclés.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

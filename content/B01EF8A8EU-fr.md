@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nombreux accessoires : lamelles, pince, mélangeur, boite de Petri, micro-trancheuse
-- Nécessite 2 piles LR06 (non incluses)
 - Oculaires en verre
+- Nécessite 2 piles LR06 (non incluses)
 - Chaque activité est expliquée en détails,
 - 3 tailles de grossissement : 100X / 250X / 1000X
+- Nombreux accessoires : lamelles, pince, mélangeur, boite de Petri, micro-trancheuse
 - 50 activités scientifiques et amusantes,
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bugatti Easy Change
 - Bugatti Coupe souple
 - Green Spirit
+- Bugatti Easy Change
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BNXF7N3S{{</world>}}

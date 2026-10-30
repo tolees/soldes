@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle spécifique pour usage intérieur
 - Amorti FLYTEFOAM et GEL
 - Tige respirante et durable
-- Semelle spécifique pour usage intérieur
 - Coupe basse pour une agilité accrue
 - Idéal pour le volley-ball et les sauts explosifs
 

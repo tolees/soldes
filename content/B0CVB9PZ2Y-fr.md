@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- basse
 - Plat
+- basse
 - bas
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TAILLE: La poupée Masha mesure 12 cm environ et la peluche Michka 20 cm.
 - COMME DANS TA SERIE ANIMEE: Retrouve Masha et Michka pour vivre et revivre de super aventures.
 - AGE : Pour les enfants à partir de 3 ans.
+- TAILLE: La poupée Masha mesure 12 cm environ et la peluche Michka 20 cm.
 - INSERAPARABLES: Retrouve ton nouveau coffret avec Masha et Michka.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

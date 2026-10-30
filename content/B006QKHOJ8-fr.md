@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bosch Home and Garden
-- Protège des coupures
 - Permet à vos mains de rester propres
+- Protège des coupures
+- Bosch Home and Garden
 - A nutiliser que pour les travaux de jardin avec un risque de blessure minimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

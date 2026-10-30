@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur de bande: 24.0 millimètres
 - Casio Montre numérique unisexe
 - Cadran rectangulaire en résine LCD avec mouvement à énergie solaire
 - Diamètre du boîtier: 14.0 millimètres
-- Étanche jusquà 20 bars
 - Avec verre minéral
+- Largeur de bande: 24.0 millimètres
+- Étanche jusquà 20 bars
 - Bracelet en résine de couleur grise
 
 [🛒 Achète-le!!]({{< param buyurl >}})

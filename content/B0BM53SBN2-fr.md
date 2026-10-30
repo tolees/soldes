@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Forme du talon : pas de talon
-- Niveau de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
+- Niveau de résistance à leau : non étanche
+- Forme du talon : pas de talon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM53SBN2{{</world>}}

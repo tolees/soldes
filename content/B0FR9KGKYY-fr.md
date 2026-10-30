@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions Lionel Messi – Légende du Foot 43015 | Jouet pour enfant dès 12 ans décoration DIY de chambre figurine 3D à exposer jeu de football idée cadeau 958 pièces'
-date: 2026-10-29 10:01:29
+date: 2026-10-30 10:34:19
 image: 'https://m.media-amazon.com/images/I/41omwdsG1iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FR9KGKYY/?tag=tolees0d-21'
 descuento: '47.51'
-average: '45.3746153846154'
+average: '44.7400000000001'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

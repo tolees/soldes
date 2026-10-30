@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau extérieur : 100 % PET recyclé
 - Better Outsoles, synthétiques recyclés
 - Semelle : 80 % EVA - 20 % EVA recyclé
-- Matériau extérieur : 100 % PET recyclé
 - Couleur : bleu foncé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le rouge à lèvres a une couvrance moyenne et une finition chatoyante
-- Convient à tous les types de peau
 - Améliore léclat sans provoquer de déshydratation
+- Convient à tous les types de peau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM4QSLKY{{</world>}}

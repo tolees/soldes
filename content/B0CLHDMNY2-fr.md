@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manches longues
 - Logo tonal sur la poitrine
-- Coupe droite
 - Programme Core
+- Coupe droite
+- Manches longues
 - Capuche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

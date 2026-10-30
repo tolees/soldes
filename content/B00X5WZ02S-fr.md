@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions de lemballage de larticle : 33 x 20 x 10 cm
-- Poids du colis de larticle : 0.7 kg
 - Pour distributeur de plongée
+- Poids du colis de larticle : 0.7 kg
+- Dimensions de lemballage de larticle : 33 x 20 x 10 cm
 - Couleur : Noir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

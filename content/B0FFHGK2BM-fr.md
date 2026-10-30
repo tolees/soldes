@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canal Toys - Photo Creator - Appareil Photo Enfant - Bleu -8 Ans+ - CLK 057 | Appareil Photo Instantané - Impression Thermique sans Encre - +250 Photos - Accessoires- Idée Cadeau Fille Garçon'
-date: 2026-10-24 08:42:58
+date: 2026-10-30 12:54:20
 image: 'https://m.media-amazon.com/images/I/51+p73mH4DL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FFHGK2BM/?tag=tolees0d-21'
 descuento: '32.28'
-average: '42.18625'
+average: '42.3888888888889'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

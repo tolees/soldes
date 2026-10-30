@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Il vous protège, vous et vos données.
 - Nouveau téléobjectif avec zoom haute résolution jusquà x20.
 - Profitez de 7 ans de mises à jour et de nouvelles fonctionnalités.
 - Conçu pour Gemini, votre assistant IA.
 - Une conception haut de gamme ultra-résistante.
-- Il vous protège, vous et vos données.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FHK7S731{{</world>}}

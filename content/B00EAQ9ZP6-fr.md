@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Câble HO5 VV-F - Section 3G1,5 mm²
 - Rallonge Prolongateur électrique 3 m 16A - section 3G1,5 mm² noir
 - Puissance enroulée 1100W - Puissanc déroulée : 3200W
+- Câble HO5 VV-F - Section 3G1,5 mm²
 - Toutes les fiches sont équipées de protection enfant. Empêche lintroduction de corps étranger dans la prise.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

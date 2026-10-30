@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CMF Headphone Pro - Casque Bluetooth Over-Ear ANC Hybride Jusqu’à 100 h | Charge rapide : 5 min pour jusqu’à 8 h Hi-Res avec LDAC Audio Spatial double connexion et coussinets interchangeables.'
-date: 2026-10-28 09:46:51
+date: 2026-10-29 12:54:12
 image: 'https://m.media-amazon.com/images/I/31Gbtw7rs5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FKG6TDRR/?tag=tolees0d-21'
 descuento: '20.36'
-average: '74.5566666666667'
+average: '75.6275000000001'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

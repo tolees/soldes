@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Largeur : Régulière
-- Doublure : Textile
 - Bout : Arrondi
-- Talon : Plat
 - Fermeture : À lacets
+- Doublure : Textile
 - Semelle extérieure : Caoutchouc
+- Largeur : Régulière
+- Talon : Plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DJC25RG4{{</world>}}

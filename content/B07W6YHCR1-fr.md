@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Fermeture éclair
+- Slim
 - 100% Polyester
+- Fermeture: Fermeture éclair
 - Manche longue
 - Hand Wash Only
-- Slim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6YHCR1{{</world>}}

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matches the look of Mix Station and Mix Extension
-- Peut contenir jusquà 90 disques compacts
 - Possibilité de montage mural
 - Avec séparateur (45 CD par compartiment)
 - Système de combinaison : Empilage facile avec dautres boîtes de CD
+- Peut contenir jusquà 90 disques compacts
+- Matches the look of Mix Station and Mix Extension
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001CZNS8S{{</world>}}

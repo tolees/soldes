@@ -29,12 +29,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Languette en mesh.
+- Languette en mesh.
 - Tige en matière synthétique.
+- Semelle extérieure en caoutchouc.
 - Semelle intermédiaire aux 3/4 en EVA.
 - Sans lacets.
-- Languette en mesh.
 - Chaussant standard.
-- Semelle extérieure en caoutchouc.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DL74K96S{{</world>}}

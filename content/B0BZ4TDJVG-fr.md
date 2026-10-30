@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FABER-CASTELL: Enrichir la vie par la créativité et lexpression personnelle, inspirer la confiance et la joie grâce à des produits pratiques et innovants pour tous les âges
-- COULEURS VIBRANTES: Améliorez votre travail artistique avec ces feutres Faber Castell pastel pour lécriture, le dessin et la peinture
 - ENCRE LAVABLE: Ces aquamarkers sont dotés dune encre à base de colorants alimentaires qui seffacent sur la plupart des tissus
+- COULEURS VIBRANTES: Améliorez votre travail artistique avec ces feutres Faber Castell pastel pour lécriture, le dessin et la peinture
 - DESIGN SIMPLE: Avec un corps noir mat et un capuchon à pression ventilé, vous pouvez utiliser ces marqueurs pour tous vos projets créatifs
 - FEUTRE COLORIAGE: Profitez de la flexibilité et de la précision dun marqueur à pointe de pinceau souple en variant facilement les traits pour dessiner et écrire
 

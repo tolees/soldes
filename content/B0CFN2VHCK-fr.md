@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Offre un confort optimal
 - Chaussures de sport
 - Convient pour un usage quotidien
+- Offre un confort optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CFN2VHCK{{</world>}}

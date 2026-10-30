@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft L’Attaque du désert du Poulet chevauché 21592 | Jouet pour enfant dès 9 ans décoration de chambre 6 figurines dont golem de fer et bébé loup cadeau gaming 428 pièces'
-date: 2026-10-29 10:00:32
+date: 2026-10-30 10:31:02
 image: 'https://m.media-amazon.com/images/I/51P0gpBRNPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

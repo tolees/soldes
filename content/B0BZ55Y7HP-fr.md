@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Premium Qualite
 - Fiable
 - Marque: Tsume
+- Premium Qualite
 - Produit Original
 
 [🛒 Achète-le!!]({{< param buyurl >}})

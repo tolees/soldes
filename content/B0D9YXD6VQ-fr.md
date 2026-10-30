@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La puissante soufflerie incluse gonfle le parc aquatique en 2 minutes
-- Matière avec doubles coutures pour une plus grande résistance
 - Contenance : 970 L
+- Matière avec doubles coutures pour une plus grande résistance
 - Parfait pour les 5 ans et plus
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

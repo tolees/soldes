@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc vulcanisé.
-- Chaussant standard.
-- Semelle intermédiaire à amorti.
-- Tige en suède.
 - Doublure textile.
+- Chaussant standard.
+- Tige en suède.
+- Semelle intermédiaire à amorti.
+- Semelle extérieure en caoutchouc vulcanisé.
 - Fermeture à lacets.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

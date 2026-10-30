@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - La marque en laquelle les professionnels font confiance
-- Numéro du modèle : DW275KN-QS
 - Poids de larticle : 3,38 kg
+- Numéro du modèle : DW275KN-QS
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0013LK5FA{{</world>}}

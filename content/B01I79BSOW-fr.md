@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composé dun mélange de coton de qualité supérieure
+- Jean classique à cinq poches en denim authentique
 - Détails sportifs
 - Jambes droites
-- Jean classique à cinq poches en denim authentique
+- Composé dun mélange de coton de qualité supérieure
 - Équipement Perma
 
 [🛒 Achète-le!!]({{< param buyurl >}})

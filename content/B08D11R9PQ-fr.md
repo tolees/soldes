@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boucles de dentelle carrée unique
 - Baskets Bulky
+- Boucles de dentelle carrée unique
 - Favorise tout le temps, maintenant disponible pour les petits
 
 [🛒 Achète-le!!]({{< param buyurl >}})

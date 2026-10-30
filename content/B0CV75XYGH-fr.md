@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Hydrate la peau et laisse une sensation de douceur
-- Idéal pour fixer le maquillage au quotidien
-- Donne à la peau une finition naturelle et rafraîchissante
 - Formule végétalienne
+- Donne à la peau une finition naturelle et rafraîchissante
+- Idéal pour fixer le maquillage au quotidien
 - Augmente la durée de vie du maquillage en appliquant de la poudre, du fond de teint, etc. se fondent en douceur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

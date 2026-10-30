@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Format de disque vidéo compact
 - Moments de divertissement
+- Format de disque vidéo compact
 - Produit de qualité optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

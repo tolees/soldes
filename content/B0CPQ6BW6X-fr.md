@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effet damortissement exceptionnel
-- Chaussures faciles à enfiler
 - Respirant
+- Chaussures faciles à enfiler
+- Effet damortissement exceptionnel
 - Boucle sur la sangle pour ajuster lajustement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

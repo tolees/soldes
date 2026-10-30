@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bande emblématique à lintérieur du col
-- Standard
-- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Pur coton
 - Branding Tommy Hilfiger
+- Bande emblématique à lintérieur du col
+- Drapeau Tommy Hilfiger brodé sur la poitrine
+- Standard
 - Col ras-du-cou
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

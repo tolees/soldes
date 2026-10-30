@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étiquette G-STAR au dos, en tissu de papier imitant le cuir
 - Poches à empiècements renforcées par des rivets, poche à monnaie à lintérieur de la ceinture
+- Étiquette G-STAR au dos, en tissu de papier imitant le cuir
+- Braguette à boutons
 - Poches dos
 - Offre du confort
-- Braguette à boutons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKBYCNZ5{{</world>}}

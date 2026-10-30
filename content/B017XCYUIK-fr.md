@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les coussins de fixation à lintérieur du sac sont amovibles et réglables. Il peut être construit en 7 petites cloisons, chacune pouvant contenir un contenu en toute sécurité
 - Compatible avec DJI Pocket 3, 4, 4P, Xtra Muse, Osmo 360 Nano, Action 2, 3, 4, 5, Pro 6, Xtra Edge Pro, Insta360 Luna Ultra, Insta 360 X3, X4, X5, Go2, Go3, Go3S Ultra, et bien plus encore.
-- Le sac dinsertion sépare le corps de votre appareil photo et vos objectifs avec dautres effets personnels dans votre sac à main ou étui de voyage
 - Remarque : étui de rangement uniquement, appareil photo, objectif et autres accessoires ne sont pas inclus
+- Le sac dinsertion sépare le corps de votre appareil photo et vos objectifs avec dautres effets personnels dans votre sac à main ou étui de voyage
+- Les coussins de fixation à lintérieur du sac sont amovibles et réglables. Il peut être construit en 7 petites cloisons, chacune pouvant contenir un contenu en toute sécurité
 - Elle protège votre matériel photo des rayures et des chocs. Compatible avec GoPro Hero 13,GoPro 12,11,10 et 9, les flashes professionnels à griffe, les déclencheurs radio, les batteries et chargeurs, les câbles et autres accessoires.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

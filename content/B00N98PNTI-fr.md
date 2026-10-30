@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le signal sonore basse fréquence transmet la puissance électrique pour la commande des haut-parleurs
 - Connecte les ports de haut-parleur dun amplificateur audio à une enceinte
+- Le signal sonore basse fréquence transmet la puissance électrique pour la commande des haut-parleurs
 - Ce produit nest pas homologué pour une installation permanente dans les bâtiments
 - Câble denceinte rouge/noir avec un diamètre extérieur de 2,5 mm x 5,2 mm et 2 x 24 fils
 

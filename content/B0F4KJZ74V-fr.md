@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col, poignets et ourlet côtelés
-- Ruban emblématique à lintérieur du cou
 - Pur coton peigné
+- Ruban emblématique à lintérieur du cou
+- Col, poignets et ourlet côtelés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4KJZ74V{{</world>}}

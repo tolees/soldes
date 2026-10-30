@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fonction pesage intégrée
+- Capacité du bol 3 litres
 - Couleur Silver
 - Mixer, hacher, fouetter, émulsionner et pétrir
-- Capacité du bol 3 litres
 - Puissance de 1000 Watts
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

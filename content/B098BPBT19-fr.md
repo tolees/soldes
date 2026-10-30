@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Boot Types: Ankle Boots
 - Material - Upper: Suede
+- Boot Types: Ankle Boots
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B098BPBT19{{</world>}}

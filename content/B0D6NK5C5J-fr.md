@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Composition : 99 % coton 1 % élasthanne
-- jean, pantalon, long
-- Type de stretch : faible stretch
 - Conseils dentretien : lavable en machine
+- Type de stretch : faible stretch
 - Coupe : droite
+- jean, pantalon, long
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D6NK5C5J{{</world>}}

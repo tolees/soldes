@@ -28,14 +28,14 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Emmanchures tombantes.
-- Bords-côtes aux poignets et à la base.
-- Pan arrière légèrement plus court.
 - Coupe standard.
-- 70 % coton, 30 % polyester (recyclé).
+- Bords-côtes aux poignets et à la base.
 - Poche kangourou.
-- Capuche réglable par cordon de serrage.
 - Contient au moins 70 % de matériaux recyclés et renouvelables.
+- Pan arrière légèrement plus court.
+- Capuche réglable par cordon de serrage.
+- Emmanchures tombantes.
+- 70 % coton, 30 % polyester (recyclé).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZTZX1QR{{</world>}}

@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meilleure abrasion bonne qualité de surface - utilisation universelle
+- Plateaux de ponçage mi-durs (noir) pour travaux de ponçage standards de dégrossissage
+- Diamètre mm : 150
+- Plateaux de ponçage souples (gris) pour travaux de ponçage standard
+- Plateaux de ponçage durs (bleu) pour travaux de ponçage grossier (enlèvement de matière important qualité de surface faible)
+- Pour le ponçage de la peinture, du mastic, du plâtre des bois naturels non traités (surfaces planes)
 - Excellente stabilité des bords - lidéal pour chants étroits
 - Exécution : extra-souple
 - Plateaux de ponçage extra-souples (gris) pour travaux de ponçage fins le ponçage au niveau des courbes des formes
-- Pour le ponçage de la peinture, du mastic, du plâtre des bois naturels non traités (surfaces planes)
-- Plateaux de ponçage durs (bleu) pour travaux de ponçage grossier (enlèvement de matière important qualité de surface faible)
-- Plateaux de ponçage mi-durs (noir) pour travaux de ponçage standards de dégrossissage
-- Plateaux de ponçage souples (gris) pour travaux de ponçage standard
-- Diamètre mm : 150
+- Meilleure abrasion bonne qualité de surface - utilisation universelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000XJ4YT6{{</world>}}

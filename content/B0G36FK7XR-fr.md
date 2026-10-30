@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Kissy Missy sinspire du jeu à succès POPPY PLAYTIME de MOB Entertainment
-- Utilisez le dos de la boîte pour créer un présentoir en carton Kissy Missy !
-- 4,5 pouces de haut, idéal pour une mise en valeur sur une étagère ou pour les fans en déplacement
 - Il ne sagit pas dun jouet mais dune figurine de collection
 - Dispose de membres entièrement articulés pour des poses personnalisables
+- Utilisez le dos de la boîte pour créer un présentoir en carton Kissy Missy !
+- 4,5 pouces de haut, idéal pour une mise en valeur sur une étagère ou pour les fans en déplacement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0G36FK7XR{{</world>}}

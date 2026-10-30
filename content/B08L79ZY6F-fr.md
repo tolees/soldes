@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contrefort de talon renforcé.
-- Pointe arrondie douce.
 - Semelle côtelée.
+- Pointe arrondie douce.
+- Contrefort de talon renforcé.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08L79ZY6F{{</world>}}

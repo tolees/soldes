@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Les empiècements élastiques sur les côtés permettent d’enfiler facilement la chaussure
 - Bottine basse
-- Confectionnée en cuir ECCO haut de gamme
-- La semelle bicomposant en PU légère offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
 - Assise plantaire anatomique moulée
+- La semelle bicomposant en PU légère offre amorti et flexibilité grâce à la technologie innovante ECCO FLUIDFORM Direct Comfort
+- Confectionnée en cuir ECCO haut de gamme
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01A9IR9N8{{</world>}}

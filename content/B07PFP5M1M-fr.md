@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon confortable
+- Department : Homme
 - Fermetures éclair à hauteur de genou qui les transforment en short
 - Grandes poches sur les jambes, une avec une poche extérieure supplémentaire
+- Pantalon confortable
 - Type de tissu : 73% Polyamide, 27% Coton
-- Department : Homme
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PFP5M1M{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- DIFFERENTES TAILLES : Ce costume est spécialement conçu pour les enfants. Il est disponible en plusieurs tailles : 5-6 ans, 7-8 ans, 9-10 ans et 11-13 ans.
 - QUALITE : Les costumes Rubies sont de qualités et durables. Grâce aux matériaux robustes et aux finitions soignées, les déguisements sont réutilisables dans le temps.
 - DEGUISEMENT : Ce déguisement comprend une veste noir et dorée imprimée effet "shiny" avec T-shirt intégré et épaulette dorée ainsi quun short en jersey assorti imprimé et une paire de jambières. (Perruque non incluse)
+- DIFFERENTES TAILLES : Ce costume est spécialement conçu pour les enfants. Il est disponible en plusieurs tailles : 5-6 ans, 7-8 ans, 9-10 ans et 11-13 ans.
 - IDEAL POUR LES FETES ET LES JEUX DE RÔLE : Parfait pour une fête costumée, Anniversaire ou pour Halloween. Ce déguisement deluxe KPOP Demon Hunters de Rumi ajoutera de laventure aux activités de votre enfant.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

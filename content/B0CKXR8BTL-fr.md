@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en EVA.
-- Semelle extérieure Traxion.
 - Doublure textile.
+- Semelle extérieure Traxion.
 - Fermeture à lacets.
+- Semelle intermédiaire en EVA.
 - Chaussant standard.
 - Tige textile avec bout renforcé.
 

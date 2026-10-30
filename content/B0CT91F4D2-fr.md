@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Couleur de la Boîte: Argent
-- - Matérial de la Boîtier: Acier inoxydable
 - - Verre: Verre Minéral
+- - Matérial de la Boîtier: Acier inoxydable
+- - Couleur de la Boîte: Argent
 - Boîtier
 - Mouvement
 

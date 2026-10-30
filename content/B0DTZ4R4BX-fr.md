@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Astérix et Obélix - Baffez-les Tous ! 1 et 2
-- Compilation de 6 jeux Astérix :
 - Astérix & Obélix – XXL Romastered / XXL2 / XXL3 / XXXL
+- Compilation de 6 jeux Astérix :
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DTZ4R4BX{{</world>}}

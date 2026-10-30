@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 La console de jeu rétro 31380 | Jeu de construction pour enfant dès 8 ans jouet transformable en borne d’arcade ou ordinateur cadeau gaming 268 pièces'
-date: 2026-10-29 10:01:44
+date: 2026-10-30 10:37:09
 image: 'https://m.media-amazon.com/images/I/51exhQCrarL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFB5XP/?tag=tolees0d-21'
 descuento: '40.02'
-average: '12.6419827586205'
+average: '12.6255462184873'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

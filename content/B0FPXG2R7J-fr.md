@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Hagrid et Harry s’échappent de Privet Drive 76459 | Jouet pour garçon ou fille dès 8 ans moto avec 4 minifigurines dont 2 Mangemorts décor de rue idée cadeau 124 pièces'
-date: 2026-10-29 09:59:53
+date: 2026-10-30 10:25:20
 image: 'https://m.media-amazon.com/images/I/41T7B7MJ63L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG2R7J/?tag=tolees0d-21'
 descuento: '35.47'
-average: '13.0944186046513'
+average: '13.0817391304349'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

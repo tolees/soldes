@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ce style a été produit de manière durable
 - Il sagit dun produit Tommy Hilfiger authentique et original
+- Ce style a été produit de manière durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F4KHY571{{</world>}}

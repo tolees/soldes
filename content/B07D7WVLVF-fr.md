@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Jambes plus ajustées que le Levis 511
 - Juste assez extensible pour rester confortable toute la journée
+- Jambes plus ajustées que le Levis 511
 - Coupe effet sur mesure
 - Ceci est un authentique produit Levi’s
 

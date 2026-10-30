@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maille en polyester recyclé (100%)
 - Col renforcé au talon
+- Maille en polyester recyclé (100%)
 - GORE-TEX Invisible Fit imperméable avec tissu extérieur en polyester recyclé (70 %)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : marron moyen
-- Matériau extérieur : 100 % cuir de vachette
 - Semelle extérieure : 80 % EVA - 20 % EVA recyclé
+- Matériau extérieur : 100 % cuir de vachette
+- Couleur : marron moyen
 - Doublure : 63 % cuir de porc - 37 % tissu (100 % polyester recyclé)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

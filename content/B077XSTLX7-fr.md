@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec les plateformes éducatives MagiBook vendus séparément
-- Version française
-- Une voix de narrateur, des musiques et des effets sonores guident votre enfant
-- Livre de 32 pages illustrées pour exercer sa logique et son sens de lobservation avec la PatPatrouille
-- Contenu audio à télécharger en se connectant à plateforme Explor Park
 - Avec la vraie voix des personnages
+- Compatible avec les plateformes éducatives MagiBook vendus séparément
+- Une voix de narrateur, des musiques et des effets sonores guident votre enfant
+- Version française
+- Contenu audio à télécharger en se connectant à plateforme Explor Park
+- Livre de 32 pages illustrées pour exercer sa logique et son sens de lobservation avec la PatPatrouille
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B077XSTLX7{{</world>}}

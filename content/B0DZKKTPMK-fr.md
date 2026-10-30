@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Slip-Ins
 - Coupe décontractée
-- Lavable en machine
+- Slip-Ins
 - Produit végétalien
+- Lavable en machine
 - Mousse à mémoire de forme refroidie à lair
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

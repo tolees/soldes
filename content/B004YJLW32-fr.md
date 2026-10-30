@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur noir sur jaune
 - Type de bande : TZe
-- Ruban titreuse laminé
 - Compatible devices: products:Brother
 - Couleur du produit:
-- Couleur noir sur jaune
+- Ruban titreuse laminé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004YJLW32{{</world>}}

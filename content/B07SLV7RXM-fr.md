@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 1,5 Litres
-- Livré avec 3 valves pour la mousse sèche, moyenne et humide.
 - Une couche épaisse de mousse sans utiliser un tuyau !
+- Livré avec 3 valves pour la mousse sèche, moyenne et humide.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SLV7RXM{{</world>}}

@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Avantages du produit :Maquillaje clinique. Máscara de pestañas máximo volumen y definición
+- Volume de larticle : 7 Millilitres
 - Degré de résistance à leau: Non résistant à leau
 - Marque:Clinique
-- Volume de larticle : 7 Millilitres
-- Nombre dunités :7 millilitre
 - Forme de larticle :Crema
-- Type de peau :Sonstige
 - Teint :Todos
+- Nombre dunités :7 millilitre
+- Avantages du produit :Maquillaje clinique. Máscara de pestañas máximo volumen y definición
+- Type de peau :Sonstige
 - Couleur 02 Noir/Brun
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

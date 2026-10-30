@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un parfum fruité qui cristallise la douceur absolument délicieuse des généreuses cerises griottes bien mûres
 - Le format des bougies votives remplies Yankee Candle est idéal pour découvrir votre nouveau parfum préféré
-- Les étiquettes décoratives illustrées à la main offrent un visuel aussi envoûtant que le parfum quelles représentent
 - Un mélange de cires de soja pour une couleur chatoyante et une combustion harmonieuse
+- Les étiquettes décoratives illustrées à la main offrent un visuel aussi envoûtant que le parfum quelles représentent
+- Un parfum fruité qui cristallise la douceur absolument délicieuse des généreuses cerises griottes bien mûres
 - Faites plaisir à un être cher avec ce coffret de trois bougies votives remplies, joliment présentées et parfaites pour nimporte quelle occasion
 
 [🛒 Achète-le!!]({{< param buyurl >}})

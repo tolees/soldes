@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc adhérent.
-- Construction en T classique à lavant-pied.
-- Doublure textile.
-- Semelle intermédiaire à amorti.
-- Achetez 1 taille plus grande
 - Fermeture à lacets.
 - Tige en mesh.
+- Semelle extérieure en caoutchouc adhérent.
+- Semelle intermédiaire à amorti.
+- Achetez 1 taille plus grande
+- Construction en T classique à lavant-pied.
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BPF5Q9BH{{</world>}}

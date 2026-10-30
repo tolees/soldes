@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Molette de précision avec plus de 40 hauteurs de coupe différentes
-- 1 tondeuse, 1 molette de précision, 2 sabots, pour styliser votre barbe comme vous le souhaitez
-- Autonomie de 80 minutes avec une charge complète
 - Tondeuse à barbe PRO King C. Gillette : pour une précision ultime. Sa molette de précision vous offre plus de 40 hauteurs de coupe différentes, pour styliser votre barbe à linfini
+- Autonomie de 80 minutes avec une charge complète
+- 1 tondeuse, 1 molette de précision, 2 sabots, pour styliser votre barbe comme vous le souhaitez
 - Des lames en acier qui ne susent jamais
 
 [🛒 Achète-le!!]({{< param buyurl >}})

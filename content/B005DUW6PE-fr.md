@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dimensions: 196 x 102 x 33 cm
-- Fond gonflable
 - Peut accueillir 1 adulte et 1 enfant
 - Gonflable et dégonflage rapide grâce à ses valves 2en1
+- Fond gonflable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B005DUW6PE{{</world>}}

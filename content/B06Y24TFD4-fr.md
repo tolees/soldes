@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- JOUER LA LÉGENDE: Fender - Le leader mondial de la guitare manufacturer
 - POUR VOUS: Housse de transport pour guitare électrique
+- JOUER LA LÉGENDE: Fender - Le leader mondial de la guitare manufacturer
 - MEILLEUR MATÉRIAU: 600 Polyester-Enduit - 10 mm rembourrant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

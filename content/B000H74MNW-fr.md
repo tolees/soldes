@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Affine les pores et lisse la texture
-- 400 ml
 - Élimine les impuretés pour révéler une peau éclatante et éclatante.
+- 400 ml
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000H74MNW{{</world>}}

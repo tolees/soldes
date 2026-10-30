@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Standard
-- Piqué de coton extensible
-- Patte à deux boutons
-- Branding Tommy Hilfiger
 - Bande emblématique à lintérieur du col
+- Piqué de coton extensible
 - Drapeau Tommy Hilfiger brodé sur la poitrine
+- Patte à deux boutons
+- Standard
+- Branding Tommy Hilfiger
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FDL5Q357{{</world>}}

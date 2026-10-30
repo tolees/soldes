@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : fermeture éclair
 - Forme du talon : plat
+- Fermeture : fermeture éclair
 - Semelle : caoutchouc
 - Matériau extérieur : cuir
 

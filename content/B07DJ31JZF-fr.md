@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture : à enfiler
-- Doublure : textil
-- Materieu de semelle : caoutchouc
 - Type de Talons : plat
 - Semelle intérieure : cuir
+- Materieu de semelle : caoutchouc
+- Doublure : textil
 - Dessus : synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

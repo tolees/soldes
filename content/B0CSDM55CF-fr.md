@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : fermeture éclair et bouton
-- Composition : 99 % coton 1 % élasthanne
 - Conseils dentretien : lavable en machine
+- Composition : 99 % coton 1 % élasthanne
+- Fermeture : fermeture éclair et bouton
 - jean, pantalon, long
 - Coupe : droite
 

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe régulière
 - Tissu doux
+- Coupe régulière
 - Logo Nike sur le devant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

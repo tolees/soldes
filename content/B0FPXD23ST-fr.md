@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le Transporteur de Motos 60491 | Jeu de construction garçon ou fille dès 4 ans 2 motos camion à plateau 2 minifigurines motricité fine cadeau 88 pièces'
-date: 2026-10-29 10:00:18
+date: 2026-10-30 10:30:37
 image: 'https://m.media-amazon.com/images/I/51OMbov9sFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD23ST/?tag=tolees0d-21'
 descuento: '43.77'
-average: '12.3688524590164'
+average: '12.3159375'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

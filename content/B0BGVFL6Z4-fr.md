@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche kangourou à lavant
-- Ample : coupe plus ample pour un confort total
-- Logo tissé
-- Poignets et ourlet côtelés
-- Manches raglan
 - Polaire en coton mélangé ultra doux de poids moyen avec intérieur brossé pour plus de chaleur
 - Intérieur brossé pour plus de chaleur
+- Poignets et ourlet côtelés
+- Logo tissé
 - Capuche réglable et croisée
+- Poche kangourou à lavant
+- Manches raglan
+- Ample : coupe plus ample pour un confort total
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BGVFL6Z4{{</world>}}

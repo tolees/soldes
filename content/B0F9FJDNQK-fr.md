@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon 2,5 couches, genoux préformés
 - Taille avec élastique et cordon de serrage
-- Fessiers doublés
 - Pantalon de pluie de cyclisme pour femme, imperméable, coupe-vent et respirant
+- Fessiers doublés
+- Pantalon 2,5 couches, genoux préformés
 - Léger et compact avec sac de rangement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

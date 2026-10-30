@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Masse adhésive sans solvant avec une grande résistance aux u.v.
-- Déroulement régulier et silencieux
 - Code couleur selon les normes eu pour le marquage
+- Déroulement régulier et silencieux
+- Masse adhésive sans solvant avec une grande résistance aux u.v.
 - Pour le marquage dobstacles et de zones dangereuses
 - Sadapte à tous les dérouleurs manuels tesa
 - Support PVC solide

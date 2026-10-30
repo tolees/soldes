@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Aide à réguler l’excès de sébum et à réduire la desquamation, les démangeaisons et les rougeurs
 - Formule non-comédogène, oil free et effet matifiant
 - Il agit sur les principaux symptômes : excès de sébum, desquamation, démangeaisons et irritations
 - Le gel crème visage Nutradeica est spécialement formulé pour entretienir les peaux séborrhéiques au quotidien
-- Aide à réguler l’excès de sébum et à réduire la desquamation, les démangeaisons et les rougeurs
 - Texture légère, absorption immédiate
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

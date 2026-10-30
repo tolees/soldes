@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- - Verre: Verre Saphir
+- - Couleur de la Boîte: Argent
+- Mouvement
 - Boîtier
 - - Matérial de la Boîtier: Titane
-- - Couleur de la Boîte: Argent
-- - Verre: Verre Saphir
-- Mouvement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B093HFKXDY{{</world>}}

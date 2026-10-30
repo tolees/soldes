@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lavable en machine
 - Talon de 28 cm
+- Lavable en machine
+- Dessus en maille douce chinée
 - Semelle extérieure en caoutchouc souple avec design Burst Grip
 - Baskets de marche confortables à enfiler
-- Dessus en maille douce chinée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08QJQFBLL{{</world>}}

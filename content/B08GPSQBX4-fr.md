@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : toile
 - Lacets
+- Matériau extérieur : toile
 - Semelle : caoutchouc
 - Matériau intérieur : synthétique
 

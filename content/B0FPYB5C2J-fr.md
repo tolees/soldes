@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play : l’attaque du AT-ST sur Endor 75424 | SMART Brique non incluse set Compatible 2 Tags Minifigurine de Wicket cadeau pour garçon ou fille dès 8 ans 347 pièces'
-date: 2026-10-29 10:01:25
+date: 2026-10-30 10:33:41
 image: 'https://m.media-amazon.com/images/I/514uAFQNDrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPYB5C2J/?tag=tolees0d-21'
 descuento: '36.01'
-average: '32.4247826086956'
+average: '32.3746153846153'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Type de lacet: attache standard
-- Semelle extérieure en caoutchouc résistant pour plus dadhérence et defficacité sur toutes les surfaces
 - Col confortable pour mieux maintenir le talon
+- Semelle extérieure en caoutchouc résistant pour plus dadhérence et defficacité sur toutes les surfaces
 - Semelle intermédiaire Micro G sur toute la longueur qui apporte confort et réactivité
 - Empeigne composée de plusieurs matières qui offre résistance et respirabilité aux endroits stratégiques
 

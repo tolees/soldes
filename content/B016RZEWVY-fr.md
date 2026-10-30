@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fournit une protection contre lhumidité, les UV et la chaleur.
-- spray de brillance cheveux
 - pour une brillance lumineuse.
 - sans fixation
+- spray de brillance cheveux
 - Tenue niveau 1.
+- Fournit une protection contre lhumidité, les UV et la chaleur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B016RZEWVY{{</world>}}

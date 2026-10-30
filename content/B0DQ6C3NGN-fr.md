@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- PROMÈNE-TOI ET JOUE AVEC LUI : une fois quil est guéri, emmène Cooper se promener, fais-lui plein de câlins et joue avec lui !
 - PLUS DE 50 SONS ET RÉACTIONS : avec plus de 50 sons et réactions, Cooper le retriever est très interactif. Il marche, réagit au toucher, rougit et émet des sons trop mignons !
 - TRANSFORME LA CAISSE DE TRANSPORT EN TABLE DE CONSULTATION : prépare une table digne dun vrai cabinet vétérinaire lorsque tu dois soigner ton chiot.
-- RECOMMENCE À LINFINI : ton chiot pourrait se blesser à nouveau. Si cest le cas, tu devras lui mettre une nouvelle attelle à enrouler avec de nouveaux pansements !
-- PROMÈNE-TOI ET JOUE AVEC LUI : une fois quil est guéri, emmène Cooper se promener, fais-lui plein de câlins et joue avec lui !
-- " IL BOITE PUIS MARCHE : soigne ton Ouchie et regarde-le passer dun chiot tout triste et boiteux à un chiot heureux et en pleine santé !"
 - " POSE UN VRAI PLÂTRE : humidifie les pansements et enroule-les autour de lattelle. Une fois le plâtre sec, nhésite pas à le décorer !"
+- RECOMMENCE À LINFINI : ton chiot pourrait se blesser à nouveau. Si cest le cas, tu devras lui mettre une nouvelle attelle à enrouler avec de nouveaux pansements !
+- " IL BOITE PUIS MARCHE : soigne ton Ouchie et regarde-le passer dun chiot tout triste et boiteux à un chiot heureux et en pleine santé !"
 - PRENDS SOIN DE TON CHIOT : Cooper a besoin de beaucoup damour pour aller mieux. Il réagit à tes caresses et câlins qui laident à guérir !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

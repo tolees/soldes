@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions: hauteur 28 cm, diamètre 18.5 cm
+- Un appareil pratique et facile à utiliser, une combinaison de mode et de design pour ceux qui prennent soin de chaque détail de leur maison
 - Appareil de style contemporain composé dun grand récipient, dun bec et dun tamis en acier
 - Matériel: résine thermoplastique
-- Un appareil pratique et facile à utiliser, une combinaison de mode et de design pour ceux qui prennent soin de chaque détail de leur maison
-- Dimensions: hauteur 28 cm, diamètre 18.5 cm
 - Designer: Michele De Lucchi
 
 [🛒 Achète-le!!]({{< param buyurl >}})

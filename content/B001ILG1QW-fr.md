@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capacité de charge max. 280 Nm environ
-- Modèle d’atelier de précision
 - Permet de serrer via contrôle dangle dans un seul cycle de travail
+- Modèle d’atelier de précision
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001ILG1QW{{</world>}}

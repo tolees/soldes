@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- semelle extérieure stable en TPR
 - Semelle intérieure en textile remplaçable avec système de mesure de la taille jusqu’à la taille 35, à partir de la taille 36 sans système de mesure de la taille avec logo Lico
 - Nylon avec garnitures synthétiques
 - Système de laçage rapide
 - Boîte à chaussures en carton recyclé
-- semelle extérieure stable en TPR
-- Doublure textile
 - Chaussure d’extérieur fonctionnelle
+- Doublure textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DWJYRHR{{</world>}}

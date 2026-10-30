@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coupe standard
-- Tige synthétique
-- Doublure textile
 - Fermeture à lacets
+- Doublure textile
+- Tige synthétique
 - Semelle extérieure en caoutchouc
 
 [🛒 Achète-le!!]({{< param buyurl >}})

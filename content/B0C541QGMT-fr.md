@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
-- Doublure textile
-- Tige en suède
 - Semelle intermédiaire à amorti
+- Doublure textile
 - Fermeture à lacets
+- Chaussant standard
+- Tige en suède
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C541QGMT{{</world>}}

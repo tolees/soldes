@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur : Noir
+- Couleur : Noir
 - Poids : 0.01 kilogrammes
-- Couleur : Noir
-- Couleur : Noir
 - Poids : 0.01 kilogrammes
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

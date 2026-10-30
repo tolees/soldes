@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit officiel et de qualité
+- Eclairage progressif ou rapide
 - Lampe LED Ronflex 3D de 25cm
 - Figurine avec lampe LED
-- Eclairage progressif ou rapide
-- Produit officiel et de qualité
-- Avec bouton interrupteur On/off
 - Sans fil, fonctionne avec 3 piles AAA non incluses
+- Avec bouton interrupteur On/off
 - Matière souple
 
 [🛒 Achète-le!!]({{< param buyurl >}})

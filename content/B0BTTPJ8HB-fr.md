@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Unisexe
-- non
 - Jurassic Parks Entry
+- non
+- Unisexe
 - HOLLYWOOD RIDES
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

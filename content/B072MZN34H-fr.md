@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie : 2 ans
-- Affi­chage numérique de lheure sur lécran LCD.
 - Alarme avec fonction "snooze" (répétition).
-- Appuyer sur le bouton "PROJECT" pour projeter lheure au plafond.
-- Réveil projecteur La PatPatrouille pour vous plonger au cœur de l’ambiance du jeu !
 - Pour un sommeil paisible, une simple pression sur la base permet denclencher la veilleuse pour une durée de 15 minutes.
-- Alimentation: 4 piles LR6/AA (non fournies).
+- Garantie : 2 ans
+- Réveil projecteur La PatPatrouille pour vous plonger au cœur de l’ambiance du jeu !
+- Appuyer sur le bouton "PROJECT" pour projeter lheure au plafond.
 - Conçu et développé en Europe – Fabriqué en Chine
+- Affi­chage numérique de lheure sur lécran LCD.
+- Alimentation: 4 piles LR6/AA (non fournies).
 - Découvrez 4 superbes effets sonores en appuyant sur Chase et Marshall.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

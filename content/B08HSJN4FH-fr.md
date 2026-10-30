@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Lustrant
 - Wella Professionals
 - 150 ml
 - Hydratant
-- Lustrant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08HSJN4FH{{</world>}}

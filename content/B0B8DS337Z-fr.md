@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nespresso De Longhi Vertuo POP Noir - Machine à café 4 tailles de tasses | Cafetière capsule à technologie Centrifusion - Prépare 4 longueurs de café - Reconnaissance automatique - Kit de 12 capsules'
-date: 2026-10-28 16:49:43
+date: 2026-10-30 15:13:15
 image: 'https://m.media-amazon.com/images/I/31Di6zOFK-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

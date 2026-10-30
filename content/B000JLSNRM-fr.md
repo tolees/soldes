@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Léger et maniable
-- Utilisation universelle
-- Pour tous types de serrages
 - Grandes surfaces de serrage parallèles
+- Léger et maniable
+- Pour tous types de serrages
+- Utilisation universelle
 - Puissance de serrage jusquà 1500 N
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

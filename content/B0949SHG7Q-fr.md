@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière recyclée : polyester recyclé 70 gm²
 - Doublure : doublure en taffetas
 - Coupe : coupe regular, classique et confortable
-- Poches : poche latérale zippée dissimulée
 - Capuche : capuche 3 pans fixe
+- Matière recyclée : polyester recyclé 70 gm²
+- Poches : poche latérale zippée dissimulée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0949SHG7Q{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bac à graisse frontal – facilite le nettoyage après utilisation
 - Modes de cuisson variés – griller, cuire à la vapeur, fumer, maintenir au chaud ou décongeler avec accessoires (vendus séparément)
-- Design compact – gain de place, parfait pour balcon ou jardin
+- Bac à graisse frontal – facilite le nettoyage après utilisation
 - Grilles en fonte émaillée – excellente rétention de chaleur, compatibles lave-vaisselle
+- Design compact – gain de place, parfait pour balcon ou jardin
 - Atteint plus de 315 °C – pour des marques de grillage nettes et un arôme intense
 
 [🛒 Achète-le!!]({{< param buyurl >}})

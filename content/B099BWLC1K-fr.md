@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- * Remasterisé pour la PlayStation5 : Sam Bridges bénéficiera de mécaniques de combat avancées, des combats rapprochés améliorés et un système de challenges compétitifs* dans cette expérience DEATH STRANDING ultime.
-- * De nouvelles découvertes : Vivez une histoire étendue à travers de nouvelles missions et des zones à découvrir.
 - * De nouveaux contenus : Utilisez de nouvelles armes et véhicules, combattez de nouveaux types dennemis, explorez des zones telles que le stand de tir ou le circuit de Fragile qui comprennent de nouvelles missions et mini jeux.
+- * De nouvelles découvertes : Vivez une histoire étendue à travers de nouvelles missions et des zones à découvrir.
+- * Remasterisé pour la PlayStation5 : Sam Bridges bénéficiera de mécaniques de combat avancées, des combats rapprochés améliorés et un système de challenges compétitifs* dans cette expérience DEATH STRANDING ultime.
 - * Découvrez le "Social Strand System" - Restez connecté dans votre aventure et interagissez avec dautres joueurs partout dans le monde*.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

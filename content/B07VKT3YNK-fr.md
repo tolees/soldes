@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Un système exclusif à trois voies permet de faire chauffer leau rapidement, de régler la température de manière précise et constante, et dextraire larôme uniformément pour obtenir un café à la fois relevé et parfaitement équilibré
-- Un excellent café en toute simplicité. Dégustez chez vous un café digne de celui de votre bar préféré en seulement 3 étapes : mouture, extraction et moussage du lait
 - Options 1 ou 2 doses + contrôle manuel ; réservoir de 2,8 l ; permet de préparer des expressos, cafés longs, latte, cafés au lait, etc
 - Des commandes simples avec des fonctionnalités de qualité professionnelle pour préparer un délicieux café, à chaque tasse
+- Un excellent café en toute simplicité. Dégustez chez vous un café digne de celui de votre bar préféré en seulement 3 étapes : mouture, extraction et moussage du lait
 - Les grains sont directement moulus dans le porte-filtre pour obtenir un café dune saveur intense et sans déchets
 
 [🛒 Achète-le!!]({{< param buyurl >}})

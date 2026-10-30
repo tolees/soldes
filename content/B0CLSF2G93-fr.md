@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus en daim imperméable et textile. Construction imperméable à coutures scellées. Doublure textile. Les lacets ne sont pas étanches.
-- Coque en caoutchouc thermique imperméable moulé par injection
-- Bouchon antigel en feutre collé de 2,5 mm
 - Isolation de 200 g
+- Bouchon antigel en feutre collé de 2,5 mm
+- Coque en caoutchouc thermique imperméable moulé par injection
 - Semelle intérieure amovible en EVA. Dessus en textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

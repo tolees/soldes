@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Procure une hydratation durable aux peaux sèches
 - Durable
+- Procure une hydratation durable aux peaux sèches
 - Réduit lapparence des ridules et des rides
 
 [🛒 Achète-le!!]({{< param buyurl >}})

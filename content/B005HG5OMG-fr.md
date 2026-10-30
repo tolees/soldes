@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimensions : 8,1 x 16,8 x 8,1 cm
 - Une couleur riche, profonde et lumineuse
-- Couverture parfaite des cheveux blancs (si < 50 %) et texture de la mousse
+- Dimensions : 8,1 x 16,8 x 8,1 cm
 - Cette dynamique convient si votre couleur naturelle se situe entre le châtain clair et le châtain foncé.
 - Mousse colorante permanente sans ammoniaque
+- Couverture parfaite des cheveux blancs (si < 50 %) et texture de la mousse
 - Avec une mousse antifragilisation sans ammoniaque
 
 [🛒 Achète-le!!]({{< param buyurl >}})

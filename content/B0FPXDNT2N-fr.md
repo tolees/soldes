@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic La Voiture de Course 1966 Ford GT40 MKII 42223 | Set de construction pour adulte maquette collector kit sur la mécanique moteur V8 & accessoires idée cadeau 793 pièces'
-date: 2026-10-29 10:00:54
+date: 2026-10-30 10:32:33
 image: 'https://m.media-amazon.com/images/I/41Gjef5rfHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDNT2N/?tag=tolees0d-21'
 descuento: '33.34'
-average: '49.3785714285715'
+average: '49.4268421052632'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

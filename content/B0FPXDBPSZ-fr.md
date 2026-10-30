@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft La ferme à poulet 21585 | Jeu de construction pour enfant 7 ans minifigurine de fan de poule figurines Mobs de bébé zombie cadeau gaming 233 pièces'
-date: 2026-10-29 10:00:33
+date: 2026-10-30 10:31:13
 image: 'https://m.media-amazon.com/images/I/51bZLKIvoJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDBPSZ/?tag=tolees0d-21'
 descuento: '35.02'
-average: '13.1063404255316'
+average: '13.1048739495795'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

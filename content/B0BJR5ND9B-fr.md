@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gamme de cas Disney Show
 - Mini figurine de point
+- Gamme de cas Disney Show
 - Mini figurine coudre la tête à lenvers, disney showcase
 
 [🛒 Achète-le!!]({{< param buyurl >}})

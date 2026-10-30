@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FIGURINE MANGA - Personnage : Trafalgar Law, le capitaine de léquipage du Heart.
 - COLLECTION ANIME HEROES - Collectionnez toutes les figurines Anime Heroes One Piece de Bandai.
-- LICENCE OFFICIELLE - Figurine Trafalgar Law collector issue de la série One Piece.
-- FIGURINE ARTICULÉE - Figurine de 17 cm, très détaillée avec 16 points darticulation
 - ACCESSOIRES INCLUS - Plusieurs mains et accessoires disponibles pour recréer toutes les scènes de la série.
+- FIGURINE ARTICULÉE - Figurine de 17 cm, très détaillée avec 16 points darticulation
+- FIGURINE MANGA - Personnage : Trafalgar Law, le capitaine de léquipage du Heart.
+- LICENCE OFFICIELLE - Figurine Trafalgar Law collector issue de la série One Piece.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B435MLK2{{</world>}}

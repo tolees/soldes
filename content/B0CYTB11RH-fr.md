@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Chaussant standard.
+- Doublure textile.
 - Fermeture à lacet.
 - Tige en cuir.
-- Doublure textile.
-- Chaussant standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CYTB11RH{{</world>}}

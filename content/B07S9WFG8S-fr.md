@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
-- Semelle extérieure en caoutchouc Doublure textile
 - Fermeture à lacets
+- Semelle extérieure en caoutchouc Doublure textile
+- Chaussant standard
 - Tige en cuir enduit
 - Semelle de propreté légère Adibouncy en EVA
 

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 13/4-inch épais Granite blanc Table Top
-- 330 livres statique capacité
 - style de formation de charge
 - Impact et résistant aux taches dessus en plastique
+- 13/4-inch épais Granite blanc Table Top
+- 330 livres statique capacité
 - table pliante de qualité commerciale, largeur de 18 pouces par 96 pouces Longueur de 29 pouces tableau hauteur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

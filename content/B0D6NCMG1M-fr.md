@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- il assure un ajustement optimal
 - il sagit dun produit authentique et original Geox
+- il assure un ajustement optimal
 - Confortable à porter
 
 [🛒 Achète-le!!]({{< param buyurl >}})

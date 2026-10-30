@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions: 1 x 1 m.
 - Fabriqué en : Pakistan
 - Gants de rétroviseur de voiture
-- Dimensions: 1 x 1 m.
 - accessoire mignon pour les vrais fans de boxe
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

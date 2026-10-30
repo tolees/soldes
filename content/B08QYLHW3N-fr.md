@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Trous daération pour plus de respirabilité
-- Col et languette rembourrés de mousse pour plus de confort et de soutien
 - Dessus en cuir nubuck et/ou en cuir (selon la couleur)
-- La surface de roulement emblématique de DC
+- Col et languette rembourrés de mousse pour plus de confort et de soutien
 - Languette légère en maille
+- Trous daération pour plus de respirabilité
+- La surface de roulement emblématique de DC
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QYLHW3N{{</world>}}

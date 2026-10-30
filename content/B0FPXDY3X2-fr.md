@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Botanicals Marguerites 11508 | Jouet pour enfant 9 ans bouquet de fleurs artificielles dont lavande décoration chambre d enfant DIY cadeau 133 pièces'
-date: 2026-10-29 10:01:12
+date: 2026-10-30 10:33:34
 image: 'https://m.media-amazon.com/images/I/41ba5N5K-SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDY3X2/?tag=tolees0d-21'
 descuento: '36.42'
-average: '9.6186956521739'
+average: '9.61499999999999'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

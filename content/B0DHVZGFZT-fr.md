@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige ripstop avec empiècements.
-- Doublure textile.
-- Semelle intermédiaire en EVA LIGHTMOTION.
-- Chaussant standard.
-- Semelle extérieure en caoutchouc Continental.
-- Drop semelle intermédiaire : 12 mm (talon : 32 mm/avant-pied : 20 mm).
 - Fermeture à lacets.
+- Chaussant standard.
 - Poids : 393 grammes (taille FR 38 2/3).
+- Tige ripstop avec empiècements.
+- Drop semelle intermédiaire : 12 mm (talon : 32 mm/avant-pied : 20 mm).
+- Doublure textile.
+- Semelle extérieure en caoutchouc Continental.
+- Semelle intermédiaire en EVA LIGHTMOTION.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVZGFZT{{</world>}}

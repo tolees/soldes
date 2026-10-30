@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste bomber pour hommes
-- DÉTAIL 1: Poignets en tricot
 - DÉTAIL 2: Balise "Remove Before Flight" (supprimer avant le vol)
+- DÉTAIL 1: Poignets en tricot
+- Veste bomber pour hommes
 - FIT: Slim Fit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

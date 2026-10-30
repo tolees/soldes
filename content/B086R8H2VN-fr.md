@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Thème: Symboles
-- Pierre: Zircon cubique
-- Coleur: Argent
 - Style: Collier court
 - Fermoir: Mousqueton
+- Pierre: Zircon cubique
+- Coleur: Argent
 - Type de chaîne: Marin
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

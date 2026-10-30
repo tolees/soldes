@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabriqué en France, grâce au savoir-faire de Waterman et à plus de 140 ans d’expérience
+- Pointe de stylo bille remarquablement conçue avec une pointe moyenne et de l’encre à séchage rapide
 - Corps bleu foncé avec capuchon noir, clip à double branche emblématique et finition plaqués palladium
 - Un stylo bille au style affirmé, inspiré par la tendance color block audacieuse de cette saison, affichant une finition raffinée et une silhouette fine
 - Présenté dans un étui cadeau Waterman haut de gamme, le cadeau parfait à offrir ou à s’offrir
-- Fabriqué en France, grâce au savoir-faire de Waterman et à plus de 140 ans d’expérience
-- Pointe de stylo bille remarquablement conçue avec une pointe moyenne et de l’encre à séchage rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CVNJ7MPM{{</world>}}

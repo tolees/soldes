@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Editions McLaren MasterCard F1 Team Casque de Lando Norris 43023 | Jeu de construction dès 14 ans maquette F1 minifigurine collector décoration idée cadeau pour ado ou adulte 793 pièces'
-date: 2026-10-29 09:59:35
+date: 2026-10-30 10:24:41
 image: 'https://m.media-amazon.com/images/I/41vV+toxfML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFT73X/?tag=tolees0d-21'
 descuento: '40.00'
-average: '54.8919607843137'
+average: '54.8418518518519'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

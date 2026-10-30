@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Des graphismes améliorés : Découvrez de nouveaux designs plus expressifs que jamais ou dans leur style pixelisé original !
 - Musée : Profitez des musique de fond, des croquis de conception des personnages et une tonne de contenu bonus.
+- Des graphismes améliorés : Découvrez de nouveaux designs plus expressifs que jamais ou dans leur style pixelisé original !
 - - Amélioration d’ergonomie : Des fonctionnalités telles que le mode histoire ont été ajoutées pour rendre vos enquêtes encore plus fluides !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

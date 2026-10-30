@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches à boutons-pression
-- La conception allongée à fermeture éclair vous protège des éléments
-- Matériel: 100% polyester
 - La finition hydrofuge vous aide à rester au sec
+- La conception allongée à fermeture éclair vous protège des éléments
+- Poches à boutons-pression
+- Matériel: 100% polyester
 - Coupe ample pour une sensation despace
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Stitch et Scrump 43296 | Jouet pour enfant dès 9 ans décoration de chambre 2 figurines accessoires dont ukulélé cadeau d’anniversaire 713 pièces'
-date: 2026-10-29 10:01:25
+date: 2026-10-30 10:33:54
 image: 'https://m.media-amazon.com/images/I/410iTc5ooTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FQP58M4R/?tag=tolees0d-21'
 descuento: '37.15'
-average: '44.3328571428572'
+average: '44.3057894736843'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

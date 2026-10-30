@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Env. 40 x 25, 5 x 48, 5 cm
-- En bois de haute qualité issu dune sylviculture durable (FSC 100%), Finition avec des peintures à base deau
-- De nombreux accessoires pour des moments damusement longs et intenses
 - Établi classique en bois de couleur scandinave moderne pour les futurs amateurs de bricolage
 - Scie, tournevis, clé, niveau deau, marteau, planches, vis, vis, écrous et clous inclus.
+- De nombreux accessoires pour des moments damusement longs et intenses
+- Env. 40 x 25, 5 x 48, 5 cm
+- En bois de haute qualité issu dune sylviculture durable (FSC 100%), Finition avec des peintures à base deau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W945FGQ{{</world>}}

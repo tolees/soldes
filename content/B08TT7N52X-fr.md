@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passe au lave-vaisselle et au micro-ondes
-- À utiliser avec Cricut Mug Press et Infusible Ink pour créer des tasses personnalisées impeccables
-- Cricut Lot de 2 boîtes vierges de sublimation pour tasse Blanc 355 ml
 - Parois lisses et droites pour des transferts impeccables
+- À utiliser avec Cricut Mug Press et Infusible Ink pour créer des tasses personnalisées impeccables
+- Passe au lave-vaisselle et au micro-ondes
+- Cricut Lot de 2 boîtes vierges de sublimation pour tasse Blanc 355 ml
 - Compatible avec Cricut Mug Press
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- The removable top can be turned at 90-degree intervals, making the logotype horizontal independent of the mounting orientation
-- Pre-applied thermal paste ensures an easy installation
-- Six ARGB LEDs are yours to command via your motherboard or controller
 - Supports the most common sockets for both Intel and AMD
+- Six ARGB LEDs are yours to command via your motherboard or controller
+- Pre-applied thermal paste ensures an easy installation
+- The removable top can be turned at 90-degree intervals, making the logotype horizontal independent of the mounting orientation
 - Duality design provides both a stealthy and illuminated look, controlled from your motherboard RGB UI
 
 [🛒 Achète-le!!]({{< param buyurl >}})

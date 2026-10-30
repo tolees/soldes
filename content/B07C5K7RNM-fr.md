@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Véhicule d’intervention avec moteur à friction super-rapide
 - Boîte pratique de rangement incluse
 - Avec de nombreux effets ludiques palpitants: tunnel pour animaux, tour à clochette et aiguillages
+- Véhicule d’intervention avec moteur à friction super-rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07C5K7RNM{{</world>}}

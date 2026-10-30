@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Les Plantes du Cours de botanique de Poudlard 76474 | Jouet pour enfant dès 12 ans jouet interactif décoration de chambre plantes artificielles en pot idée cadeau 817 pièces'
-date: 2026-10-29 09:59:34
+date: 2026-10-30 10:24:35
 image: 'https://m.media-amazon.com/images/I/51TsnKNufIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

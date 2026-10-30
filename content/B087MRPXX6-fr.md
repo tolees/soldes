@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - très bon amortissement
-- étanche
 - semelle de randonnée robuste
+- étanche
 - respirant
 - Chaussure de randonnée pour les excursions dune journée
 

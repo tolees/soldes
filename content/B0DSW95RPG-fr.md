@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 5 poches
 - Une allure originale
+- Offre du confort
 - Étiquette G-STAR au dos, en papier ressemblant à du cuir
 - Braguette zippée
-- Offre du confort
-- 5 poches
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DSW95RPG{{</world>}}

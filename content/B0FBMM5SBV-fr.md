@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La semelle extérieure Vibram TC5+ offre une traction exceptionnelle pour les activités multisports de plein air, formulée exclusivement pour Merrell
-- Doublure en maille 100 % respirante et semelle intérieure en maille
 - Semelle intérieure en mousse EVA intégrée à 30 % recyclée
-- Dessus en maille respirante 100 % recyclée
 - Lacets 100 % recyclés et construction Merrell Barefoot 2 conçus pour garder le pied dans une position naturelle
+- Doublure en maille 100 % respirante et semelle intérieure en maille
+- Dessus en maille respirante 100 % recyclée
+- La semelle extérieure Vibram TC5+ offre une traction exceptionnelle pour les activités multisports de plein air, formulée exclusivement pour Merrell
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FBMM5SBV{{</world>}}

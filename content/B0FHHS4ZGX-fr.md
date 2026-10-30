@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Petit mini-sac fourre-tout
 - Tiré du Kipling x Anna Sui Collection
 - Poche avant extérieure zippée et 3 poches intérieures
 - Compartiment principal zippé et compartiment à stylos
 - Bretelle amovible et ajustable et bretelles à longueur fixe
-- Petit mini-sac fourre-tout
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FHHS4ZGX{{</world>}}

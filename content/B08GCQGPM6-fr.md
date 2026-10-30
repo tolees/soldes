@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EN ISO 20347:2012 - OB FO SRC
-- Motif antidérapant
 - Coupe décontractée
-- Semelle intérieure en mousse à mémoire de forme
 - Lacets imprimés haptiques avec semelle extérieure rembourrée Max
+- EN ISO 20347:2012 - OB FO SRC
+- Semelle intérieure en mousse à mémoire de forme
+- Motif antidérapant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08GCQGPM6{{</world>}}

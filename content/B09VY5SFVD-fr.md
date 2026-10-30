@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Boîtier de commande avec quatre préréglages pour réduire les calculs vagues et optimiser le temps de travail
-- Sajuste automatiquement aux matériaux allant jusquà 5 cm (2 po) dépaisseur avec une pression de haut en bas pour que les matériaux ne se déplacent pas
 - Fonctionnalité Zero Effort avec fermeture facile de la machine et ouverture automatique lorsque le transfert est terminé
+- Sajuste automatiquement aux matériaux allant jusquà 5 cm (2 po) dépaisseur avec une pression de haut en bas pour que les matériaux ne se déplacent pas
 - Plaque chauffante à revêtement céramique de 38 cm x 30 cm (15 po x 12 po)
 - Atteint des températures allant jusqu’à 205 °C (400 °F) pour les projets de thermocollant (HTV), Infusible Ink et de sublimation
 

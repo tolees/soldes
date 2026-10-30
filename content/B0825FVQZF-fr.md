@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Officially licensed product Warner Bros. / DC Comics
-- 0
+- Size 5-7 years
 - Content: dress with skirt, belt, cape, head band, boot covers
 - Occasions: Carnival / Mardi Gras, bithdays, parties, theme party, shows, recitals, cosplay
-- Size 5-7 years
+- 0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0825FVQZF{{</world>}}

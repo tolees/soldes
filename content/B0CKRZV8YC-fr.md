@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
+- Semelle extérieure Adiwear.
+- Tige en mesh.
+- Drop semelle intermédiaire : 10 mm (talon 33 mm / avant-pied 23 mm).
 - Semelle intermédiaire Cloudfoam.
 - Poids : 304 g (pointure 42 2/3).
-- Semelle extérieure Adiwear.
+- Doublure textile.
 - Chaussant standard.
-- Semelle de propreté OrthoLite.
-- Tige en mesh.
 - Fermeture à lacets.
-- Drop semelle intermédiaire : 10 mm (talon 33 mm / avant-pied 23 mm).
+- Semelle de propreté OrthoLite.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKRZV8YC{{</world>}}

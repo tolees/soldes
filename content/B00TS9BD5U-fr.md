@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Nano Coating System (NCS) réduit les reflets et offre un contraste plus élevé
-- Bague dengrenage large et soft focus
 - Lentille asphérique en verre (ASP)
-- Lentille à dispersion extra faible (ED)
+- Bague dengrenage large et soft focus
 - Ouverture ciraire avec 7 lames
+- Lentille à dispersion extra faible (ED)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00TS9BD5U{{</world>}}

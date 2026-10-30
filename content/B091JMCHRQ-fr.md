@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Manche de guitare avec 6 touches
-- De superbes effets lumineux !
-- Taille : environ 70 cm de long
-- Lunettes avec micro inclus, pour jouer à la guitare avec style !
 - Alimentation : 3 piles LR6/AA de 1.5V (non fournies).
-- Garantie : 2 ans - Conçu et développé en Europe - Fabriqué en Chine.
-- 6 chansons de démonstration et 2 rythmes inclus
-- Découvre la musique avec ce e guitare électronique rockn roll !
+- De superbes effets lumineux !
 - 2 modes de jeu : Jouez sur des musiques de démonstration ou jouez vos propres mélodies !
+- Taille : environ 70 cm de long
+- 6 chansons de démonstration et 2 rythmes inclus
+- Garantie : 2 ans - Conçu et développé en Europe - Fabriqué en Chine.
+- Lunettes avec micro inclus, pour jouer à la guitare avec style !
+- Manche de guitare avec 6 touches
+- Découvre la musique avec ce e guitare électronique rockn roll !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B091JMCHRQ{{</world>}}

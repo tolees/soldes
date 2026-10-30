@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Temps de réponse 5 ms
-- Résolution 2560 x 1440
 - Normes TCO Displays 6.0
+- Résolution 2560 x 1440
+- Temps de réponse 5 ms
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00UAMYTR8{{</world>}}

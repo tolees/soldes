@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadre & fourche rigide acier
-- Norme EN71 ( Rétropédalage obligatoire )
-- Panier avant - Klaxon - Garde-boues
-- 1 frein avant Caliper
 - Carter de Protection - 2 Stabilisateurs avec montage sans outils
+- Panier avant - Klaxon - Garde-boues
+- Cadre & fourche rigide acier
 - Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
 - Transmission Mono vitesse - Pignon Fixe
+- Norme EN71 ( Rétropédalage obligatoire )
+- 1 frein avant Caliper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9XLRSVW{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eyenimal Gamelle Balance Intégrée Blanche pour Chien'
-date: 2026-10-28 15:05:37
+date: 2026-10-29 23:00:26
 image: 'https://m.media-amazon.com/images/I/319TuQ2Nm1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

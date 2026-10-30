@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Matériau de la semelle:Caoutchouc synthétique
 - Matériau intérieur:Synthétique
 - Matériau extérieur:Synthétique
-- Matériau de la semelle:Caoutchouc synthétique
 - Type de talon:Plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

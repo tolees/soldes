@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Idéal aussi pour les petits oiseaux sauvages
+- Aliment complémentaire de haute qualité pour tous les oiseaux sauvages granivores
 - Idéal pour nourrir sans laisser de résidus sur le balcon et la terrasse
 - Servies entières ou cassées sans coquilles
-- Aliment complémentaire de haute qualité pour tous les oiseaux sauvages granivores
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00ANZL5BA{{</world>}}

@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Avec fermeture éclair.
-- Sur la face avant, on retrouve une règle imprimée directement sur le boîtier, mesurant 15cm, qui peut savérer très utile. Il comporte également une petite poche verticale qui contient un joli stylo à encre noire.
-- Mode demploi : Ne pas laver (les taches peuvent être éliminées en essuyant délicatement avec un chiffon humide).
 - Petite trousse en PU, avec un élastique au dos, idéale pour attacher sur la couverture de votre agenda ou tout autre cahier de format A5.
+- Mode demploi : Ne pas laver (les taches peuvent être éliminées en essuyant délicatement avec un chiffon humide).
+- Sur la face avant, on retrouve une règle imprimée directement sur le boîtier, mesurant 15cm, qui peut savérer très utile. Il comporte également une petite poche verticale qui contient un joli stylo à encre noire.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DQ57LSBX{{</world>}}

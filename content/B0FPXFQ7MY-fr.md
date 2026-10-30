@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Monster Jam Grave Digger - Feu et glace 42219 | Camion jouet pour enfant dès 7 ans véhicule à rétrofriction maquette de voiture de course idée de cadeau 263 pièces'
-date: 2026-10-29 10:02:02
+date: 2026-10-30 10:38:48
 image: 'https://m.media-amazon.com/images/I/51COuZkyZ2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFQ7MY/?tag=tolees0d-21'
 descuento: '36.68'
-average: '19.3945161290324'
+average: '19.3588235294119'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

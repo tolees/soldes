@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Beaucoup despace de rangement pour garder le couloir en forme de bateau
 - Dimensions totales (l x P x H) : 85 x 24 x 160 cm
-- Panneau laminé durable avec bande de bord en ABS pour une durabilité accrue
 - Structure compacte idéale pour les petits intérieurs
+- Panneau laminé durable avec bande de bord en ABS pour une durabilité accrue
 - Design minimaliste dans des couleurs attrayantes
 
 [🛒 Achète-le!!]({{< param buyurl >}})
