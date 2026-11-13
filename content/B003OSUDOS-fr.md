@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Compartiment principal avec poche frontale spacieuse pour ranger les petits objets ; bretelles rembourrées avec SGS
+- Poche intérieure en filet avec fermeture éclair
+- Hauteur : 44 cm, largeur : 29,5 cm, profondeur : 22 cm
 - Fabriqué en 100 % nylon
 - Panneau frontal zippé pour un accès facile, avec de la place pour des ordinateurs portables de 13"
-- Compartiment principal avec poche frontale spacieuse pour ranger les petits objets ; bretelles rembourrées avec SGS
-- Hauteur : 44 cm, largeur : 29,5 cm, profondeur : 22 cm
-- Poche intérieure en filet avec fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003OSUDOS{{</world>}}

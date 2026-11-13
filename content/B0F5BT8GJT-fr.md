@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige respirante et légère
-- Excellent rapport qualité/prix
 - Stabilité latérale pour des changements rapides
+- Excellent rapport qualité/prix
+- Tige respirante et légère
 - Semelle polyvalente pour intérieur offrant une adhérence maximale
 - Amorti EVA et GEL
 

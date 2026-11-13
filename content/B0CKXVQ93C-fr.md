@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets élastiques avec scratch par-dessus.
-- Bout renforcé en suède.
-- Chaussant standard.
 - Semelle cupsole en caoutchouc.
+- Bout renforcé en suède.
+- Lacets élastiques avec scratch par-dessus.
 - Tige en cuir.
 - Doublure textile.
+- Chaussant standard.
 - Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

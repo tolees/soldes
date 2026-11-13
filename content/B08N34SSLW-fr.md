@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - __matière :__ matière éponge imprimée en coton
-- __Compartiments :__ poche kangourou sur le devant
 - Boutons-pression sur les côtés
+- __Compartiments :__ poche kangourou sur le devant
 - Logo ROXY
 - __dimensions :__ 59 [h] x 56 [l] cm
 

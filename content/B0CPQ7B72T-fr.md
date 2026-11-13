@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Effet damortissement exceptionnel
 - Lacets et fermeture éclair
+- Effet damortissement exceptionnel
 - Chaussures faciles à enfiler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

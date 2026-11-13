@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plat
 - Inserts perforés sur la pointe
-- Languette ultra rembourrée
+- Plat
 - Enfiler
+- Languette ultra rembourrée
 - Nike Court Vision Alta Womens Shoes
 - Semelle intercalaire surélevée en mousse
 

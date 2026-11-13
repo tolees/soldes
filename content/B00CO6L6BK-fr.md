@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sutilise sur beaucoup de supports: verre, métal, plastique, caoutchouc, cuir..
+- Pointe conique moyenne 4 mm
 - Idéal pour le bricolage, lindustrie et la décoration
 - Marqueur peinture permanent
-- Pointe conique moyenne 4 mm
 - Peinture noire indélébile, couvrante et brillante
+- Sutilise sur beaucoup de supports: verre, métal, plastique, caoutchouc, cuir..
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CO6L6BK{{</world>}}

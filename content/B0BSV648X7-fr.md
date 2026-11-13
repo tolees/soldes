@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une métamorphose visuelle : Les deux titres ont été refaits à laide dUnreal Engine 5, créant ainsi une collection à la fois stratégiquement intéressante et visuellement captivante.
 - Nouvelles frontières : Découvrez pour la première fois la transition graphique de la PSP aux consoles modernes !
+- Une métamorphose visuelle : Les deux titres ont été refaits à laide dUnreal Engine 5, créant ainsi une collection à la fois stratégiquement intéressante et visuellement captivante.
 - Détruisez la concurrence : Affrontez dautres joueurs en ligne, tant dans R-Type Tactics I que R-Type Tactics II !
 
 [🛒 Achète-le!!]({{< param buyurl >}})

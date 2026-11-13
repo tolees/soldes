@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Saison : Printemps Été
 - Couleur : Gris
-- Matière : Coton
-- Taille : 46 EU
 - Fermeture : Lacets
+- Taille : 46 EU
+- Saison : Printemps Été
+- Matière : Coton
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09ZYKR4V1{{</world>}}

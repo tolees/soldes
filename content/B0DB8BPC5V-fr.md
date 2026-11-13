@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fixe et protège les cheveux colorés de loxydation & laffadissement. Sublime et ravive la couleur.
 - Versez le contenu du sachet dans la bouteille de shampoing 500 ou 300 ml vide. Appliquez comme le shampoing 300ml.
+- Fixe et protège les cheveux colorés de loxydation & laffadissement. Sublime et ravive la couleur.
 - ÉCO-RECHARGE SHAMPOING PROFESSIONNEL : Rechargez votre shampoing anti-oxydant et fixateur de couleur Vitamino grâce à sa poche refill au format généreux & composée avec 73% de plastique en moins quune bouteille 500ml.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

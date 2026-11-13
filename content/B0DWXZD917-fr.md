@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conçue pour poinçonner la tôle de façon nette
-- Contenu de la livraison : Matrice de poinçonnage PRO M16 en acier inoxydable
 - Pour poinçonner jusquà 3 mm dépaisseur dans lacier et jusquà 2,5 mm dépaisseur dans lacier inoxydable, par exemple lors de linstallation de boîtiers et darmoires électriques
+- Contenu de la livraison : Matrice de poinçonnage PRO M16 en acier inoxydable
+- Conçue pour poinçonner la tôle de façon nette
 - Très efficace pour les électriciens et les installateurs : Robuste
 
 [🛒 Achète-le!!]({{< param buyurl >}})

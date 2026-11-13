@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
-- Semelle intermédiaire à amorti
 - Doublure textile
 - Tige en suède
+- Semelle intermédiaire à amorti
 - Fermeture à lacets
+- Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C53ZSRCF{{</world>}}

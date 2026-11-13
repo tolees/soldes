@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Fermeture éclair
-- Synthétique
-- Type de col: Rond
 - Lavage en machine
+- Synthétique
+- Fermeture: Fermeture éclair
+- Type de col: Rond
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094NWG18B{{</world>}}

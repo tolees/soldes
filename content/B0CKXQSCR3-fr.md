@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Assise plantaire Cloudfoam Plus
-- Semelle intermédiaire Bounce 2.0
-- Poids : 306 g (pointure 42 2/3)
-- Semelle extérieure en caoutchouc
 - Tige en mesh
-- Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
+- Poids : 306 g (pointure 42 2/3)
 - Fermeture à lacets
+- Semelle extérieure en caoutchouc
 - Coupe standard
-- Drop semelle intermédiaire : 5 mm (talon 29 mm/avant-pied 24 mm)
+- Assise plantaire Cloudfoam Plus
+- Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
 - Doublure textile
+- Drop semelle intermédiaire : 5 mm (talon 29 mm/avant-pied 24 mm)
+- Semelle intermédiaire Bounce 2.0
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKXQSCR3{{</world>}}

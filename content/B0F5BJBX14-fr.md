@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéal pour un style de vie sportif
 - Semelle intermédiaire avancée pour un confort supérieur
+- Idéal pour un style de vie sportif
 - Semelle durable et stable
 - Amorti GEL à 360°
 - Empeigne en mesh technique

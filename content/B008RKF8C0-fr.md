@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils dutilisation : A distribuer plusieurs fois par jour en petites rations
 - Aliment complet en flocons de grande qualité pour tous les poissons rouges et deau froide
-- Apporte les protéines et les acides aminés nécessaires au bien-être de vos poissons
 - Mélange de flocons idéalement équilibrés pour assurer une alimentation diversifiée et variée
+- Conseils dutilisation : A distribuer plusieurs fois par jour en petites rations
+- Apporte les protéines et les acides aminés nécessaires au bien-être de vos poissons
 - Améliore le bien-être des poissons Encore plus pratique grâce au bouchon verseur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

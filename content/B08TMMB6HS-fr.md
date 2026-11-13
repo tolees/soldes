@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Skechers Logo
-- Semelle intermédiaire absorbant les chocs
 - Maille athlétique
+- Semelle intermédiaire absorbant les chocs
 - Légères
+- Skechers Logo
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08TMMB6HS{{</world>}}

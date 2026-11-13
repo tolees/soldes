@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Combine trois fonctions en un seul outil : perçage, percussion et vissage
-- Livré avec 10 forets pour le béton, le bois et le métal, prêt pour tous les travaux
-- Interrupteur de marche arrière intégré pour un usage encore plus polyvalent
-- Perce facilement le béton jusqu’à 13 mm grâce à une énergie d’impact de 1,2 J
-- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
-- Poignée ergonomique avec grip souple pour une prise en main confortable
-- Faibles vibrations pour un confort optimal et un meilleur contrôle
-- Design léger qui réduit la fatigue lors des longues sessions de perçage
 - Batterie PowerShare compatible avec tous les outils Worx 20V, 40V et 80V MAX.
+- Faibles vibrations pour un confort optimal et un meilleur contrôle
+- Poignée ergonomique avec grip souple pour une prise en main confortable
+- Combine trois fonctions en un seul outil : perçage, percussion et vissage
+- Design léger qui réduit la fatigue lors des longues sessions de perçage
+- Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
 - Vitesse variable pour s’adapter à tous les matériaux et types d’applications
+- Interrupteur de marche arrière intégré pour un usage encore plus polyvalent
+- Livré avec 10 forets pour le béton, le bois et le métal, prêt pour tous les travaux
+- Perce facilement le béton jusqu’à 13 mm grâce à une énergie d’impact de 1,2 J
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FPMDNS7Q{{</world>}}

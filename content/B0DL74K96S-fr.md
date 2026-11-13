@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard.
-- Sans lacets.
-- Semelle extérieure en caoutchouc.
 - Languette en mesh.
+- Semelle extérieure en caoutchouc.
+- Sans lacets.
 - Tige en matière synthétique.
 - Languette en mesh.
+- Chaussant standard.
 - Semelle intermédiaire aux 3/4 en EVA.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

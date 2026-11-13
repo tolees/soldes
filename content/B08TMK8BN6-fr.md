@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe: Slim Fit
 - Short présentant les caractéristiques suivantes:
 - Short || Longueur: Courte || hauteur de la ceinture: support
-- Découvrez toutes les meilleures marques chez EMP!
 - StreetWear
+- Découvrez toutes les meilleures marques chez EMP!
+- Coupe: Slim Fit
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08TMK8BN6{{</world>}}

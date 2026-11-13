@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe : coupe regular, classique et confortable
-- Capuche : capuche 3 pans fixe
 - Doublure : doublure en taffetas
 - Matière recyclée : polyester recyclé 70 gm²
+- Capuche : capuche 3 pans fixe
+- Coupe : coupe regular, classique et confortable
 - Poches : poche latérale zippée dissimulée
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
 - L´oreal professionel
 - Numéro de Modèle : 2525388
+- Durable
 - Produit de haute qualité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

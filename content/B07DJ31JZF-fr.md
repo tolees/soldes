@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure : cuir
-- Fermeture : à enfiler
 - Materieu de semelle : caoutchouc
-- Doublure : textil
 - Dessus : synthétique
+- Doublure : textil
 - Type de Talons : plat
+- Fermeture : à enfiler
+- Semelle intérieure : cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07DJ31JZF{{</world>}}

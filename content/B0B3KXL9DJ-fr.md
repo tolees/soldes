@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Skechers Semelle intérieure confortable en mousse à mémoire de forme refroidie par
 - Coupe compensée avec talon caché de 2,5 cm
-- Tige perforée en durabuck synthétique lisse
 - Semelle extérieure en caoutchouc souple
+- Tige perforée en durabuck synthétique lisse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B3KXL9DJ{{</world>}}

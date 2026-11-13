@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Application innovante grâce à une brosse en silicone qui enveloppe les cils et offre plus de volume
-- Formule waterproof très douce, végan et composée à 95 % d’ingrédients d’origine naturelle
-- Mascara Waterproof Healthy Mix Clean de Bourjois, pour un volume qui dure toute la journée
 - Enrichi en beurre de karité et en huile de jojoba hydratants et revitalisants
+- Formule waterproof très douce, végan et composée à 95 % d’ingrédients d’origine naturelle
 - Formule sans bavures et sans paquets qui sèche rapidement
+- Mascara Waterproof Healthy Mix Clean de Bourjois, pour un volume qui dure toute la journée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CWVJV33F{{</world>}}

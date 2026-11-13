@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Enfiler
-- Semelle intercalaire surélevée en mousse
 - Nike Court Vision Alta Womens Shoes
+- Enfiler
 - Inserts perforés sur la pointe
-- Plat
+- Semelle intercalaire surélevée en mousse
 - Languette ultra rembourrée
+- Plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097TJ27DG{{</world>}}

@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Construction légère
 - Grande poche principale avec fermeture éclair
-- 0
 - Petite poche avant zippée
+- 0
 - Compatible système d’hydratation
 
 [🛒 Achète-le!!]({{< param buyurl >}})

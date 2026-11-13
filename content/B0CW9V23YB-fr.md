@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Landau pour poupée avec guidon réglable (58 - 71 cm) et poignée réversible
+- Facilement transformable en poussette canne pour poupée
+- Poussette pour poupée convient aux poupons jusquà 46 cm
 - Avec des roues avant orientables pour conduire facilement
 - Avec un sac à bandoulière et un panier intégré
-- Landau pour poupée avec guidon réglable (58 - 71 cm) et poignée réversible
-- Poussette pour poupée convient aux poupons jusquà 46 cm
-- Facilement transformable en poussette canne pour poupée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CW9V23YB{{</world>}}

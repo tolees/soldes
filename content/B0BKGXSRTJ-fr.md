@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Rivets et tiges de marque
 - Jean coupe classique
 - Lavage classique
-- Rivets et tiges de marque
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BKGXSRTJ{{</world>}}

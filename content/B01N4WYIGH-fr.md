@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Idéal pour une utilisation sur des motos et les petits moteurs
 - Pour une utilisation avec toutes les 1/10,2 cm d sockets et 1/10,2 cm shank bits en utilisant la fonction double mandrin
-- Il peuvent être utilisés pour Spin off attaches rapidement et facilement à laide de la pochette du Spinner
 - Longueur : 250 mm, dimensions de la poignée T 180 mm
+- Il peuvent être utilisés pour Spin off attaches rapidement et facilement à laide de la pochette du Spinner
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N4WYIGH{{</world>}}

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Perceuse: Ø80 mm (trou encastre plafond)
 - Angle basculement: 30º. Orientable: 351º.
 - Ampoule non incluse
+- Perceuse: Ø80 mm (trou encastre plafond)
 - Matériel: aluminium. IP 20
 - Il inclut douille GU10 (direct à 220v). Sans transformateur
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ROBUSTE : Supporte les rudes conditions du chantier et permet un changement facile de la turbine
 - LIVRÉ AVEC : GTP18V-28
 - POLYVALENTE POUR DIFFÉRENTES APPLICATIONS : Avec les modes de fonctionnement Standard et ECO et une fonction minuterie
+- ROBUSTE : Supporte les rudes conditions du chantier et permet un changement facile de la turbine
 - PUISSANTE POMPE À EAU 18V : Pompe de transfert auto-amorçante avec un débit de 2 800 l/h
 - PRATIQUE : Filetage extérieur G3/4" pour les raccords de tuyaux
 

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Large plateau anti-dérapant
 - Roues PVC
 - Poignées anti-pincement
+- Large plateau anti-dérapant
 - Ajustable en hauteur
 - Plaque décorée
 

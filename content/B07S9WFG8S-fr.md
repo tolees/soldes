@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
-- Semelle extérieure en caoutchouc Doublure textile
-- Tige en cuir enduit
-- Semelle de propreté légère Adibouncy en EVA
 - Fermeture à lacets
+- Tige en cuir enduit
+- Chaussant standard
+- Semelle de propreté légère Adibouncy en EVA
+- Semelle extérieure en caoutchouc Doublure textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07S9WFG8S{{</world>}}

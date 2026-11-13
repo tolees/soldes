@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intérieure amovible
 - Faciles à porter pour un confort unique
+- Semelle intérieure amovible
 - Les systèmes brevetés Geox garantissent la respirabilité de la semelle et le bien-être des pieds
 - Enfilage facile et rapide grâce à l’élastique sur la tige
 

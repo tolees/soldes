@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Composition du matériau principal en cuir lisse
-- Construction technique type Strobel
 - Coutures à 360° pour une plus longue durée de vie
 - Semelles en TPU légères résistantes à labrasion
+- Composition du matériau principal en cuir lisse
+- Construction technique type Strobel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00123XXMQ{{</world>}}

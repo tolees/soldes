@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Col, poignets et ourlet côtelés
+- Drapeau Tommy Hilfiger brodé sur la poitrine
 - Ruban emblématique à lintérieur du cou
 
 [🛒 Achète-le!!]({{< param buyurl >}})

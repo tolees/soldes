@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - FONCTION AUTO-MORPHIN : 2 figurines en 1 ! Appuie sur le bouton dans le dos de ta figurine pour activer le changement de tête et regarde-la se transformer instantanément, passant de visage à Power Ranger (avec casque).
+- PERSONNAGE : Lagile et déterminée Kimberly Hart (Kim), alias la Ranger Rose.
 - NOUVEAUTÉS POWER RANGERS : Tes héros préférés reviennent dans des versions inédites, inspirées de la nouvelle série remasterisée Mighty Morphin !
 - TAILLE : Ta figurine mesure 15 cm.
-- PERSONNAGE : Lagile et déterminée Kimberly Hart (Kim), alias la Ranger Rose.
 - ACCESSOIRES INCLUS : Ta figurine est fournie avec ses 2 armes de combat.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

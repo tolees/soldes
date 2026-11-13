@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Eau de Cologne homme
 - Marque montblanc
+- Eau de Cologne homme
 - Montblanc Eau de Parfum 60 ml
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Processeur 8 bits avec graphiques 16 bits.
+- Chassez les monstres, évitez les pièges, marquez des buts et gagnez des courses, des heures de jeux garanties pour tout le monde!
 - Écran couleur LCD 2,5’’ (6,35 cm)
 - Haut-parleur et bouton volume
-- Processeur 8 bits avec graphiques 16 bits.
 - 150 jeux en 1 : 10 jeux Spider-Man + 140 jeux classiques : sport, action, logique, jeux de plateforme, aventure et bien plus !
-- Chassez les monstres, évitez les pièges, marquez des buts et gagnez des courses, des heures de jeux garanties pour tout le monde!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FWKDZSCY{{</world>}}

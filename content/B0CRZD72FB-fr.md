@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Braguette zippée
-- Une allure originale
-- Offre du confort
-- Étiquette G-STAR au dos, en papier ressemblant à du cuir
 - 5 poches
+- Étiquette G-STAR au dos, en papier ressemblant à du cuir
+- Une allure originale
+- Braguette zippée
+- Offre du confort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CRZD72FB{{</world>}}

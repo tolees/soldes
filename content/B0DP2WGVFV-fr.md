@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Des transitions en douceur pour une course naturelle
 - Nouvel amorti réactif DNA LOFT v3
-- Parfait pour lentraînement quotidien sur route
 - Semelle stable pour les longues distances
+- Parfait pour lentraînement quotidien sur route
 - Tige en mesh technique respirant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

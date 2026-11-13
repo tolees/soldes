@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Classique
-- 100% Polyester
 - Fermeture: À enfiler
+- 100% Polyester
 - Lavage à la main seulement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boîtier de 32 mm, largeur de bracelet de 14 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à deux aiguilles, importé
 - Bracelet en acier inoxydable argenté
 - Étanchéité jusqu’à 30 m : résiste aux éclaboussures
-- Boîtier de 32 mm, largeur de bracelet de 14 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à deux aiguilles, importé
 - Boîtier rond en acier inoxydable, cadran bleu
 
 [🛒 Achète-le!!]({{< param buyurl >}})

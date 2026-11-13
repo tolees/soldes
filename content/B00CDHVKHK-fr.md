@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- En papier, adhésif permanent
 - Autocollantes
 - Etiquettes pour pinces à étiqueter rectangulaire
+- En papier, adhésif permanent
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CDHVKHK{{</world>}}

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige textile.
 - Semelle extérieure en caoutchouc.
 - Semelle intermédiaire Cloudfoam.
-- Doublure textile.
-- Tige textile.
 - Fermeture à lacet.
+- Doublure textile.
 - Chaussant standard.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

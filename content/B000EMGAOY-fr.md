@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - MUSIC
 - STADIUM ARCADIUM (2CD)
-- RED HOT CHILI PEPPERS THE
 - INTERNATIONAL
+- RED HOT CHILI PEPPERS THE
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000EMGAOY{{</world>}}

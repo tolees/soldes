@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Laissez l’imagination de vos enfants s’épanouir dans un monde de créativité sans limites !
-- Un personnage incontournable du manga Naruto
 - Des accessoires exclusifs pour recréer son univers
+- Un personnage incontournable du manga Naruto
 - Chaque personnage est présenté dans un costume fidèle à la série
 - Son arme de combat fétiche, identique à la série
 

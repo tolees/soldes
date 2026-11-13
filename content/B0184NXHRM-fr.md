@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LIFA
+- hh comfort dry 2-pack - ensemble de couche de base (t-shirt et mailles)
 - Instructions dentretien: Lavage en machine
 - référence: 48676 - helly hansen
-- hh comfort dry 2-pack - ensemble de couche de base (t-shirt et mailles)
-- LIFA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0184NXHRM{{</world>}}

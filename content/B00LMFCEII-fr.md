@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lame de coupe pour débroussailleuse Beret chrome série Prolithium
 - Idéal pour une coupe plus lisse et un angle de coupe unique
+- Lame de coupe pour débroussailleuse Beret chrome série Prolithium
 - Matériau de qualité supérieure
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

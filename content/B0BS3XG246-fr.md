@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- COLLECTIONNE: 15 véhicules à découvrir. Collectionne-les tous!
-- TAILLE VÉHICULE: Le véhicule mesure 6.4 cm environ.
-- TAILLE FIGURINE: La figurine mesure 3,5 cm environ.
 - OUVRE ET DÉCOUVRE: Un véhicule et une figurine exclusifs!
+- TAILLE VÉHICULE: Le véhicule mesure 6.4 cm environ.
 - AGE : Pour les enfants à partir de 5 ans.
+- TAILLE FIGURINE: La figurine mesure 3,5 cm environ.
+- COLLECTIONNE: 15 véhicules à découvrir. Collectionne-les tous!
 - PERSONNAGES & THEMES: Collectionne Mickey, Cendrillon, Raiponce ou encore Stitch, Buzz lEclair et plein dautres!
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

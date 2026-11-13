@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle extérieure en caoutchouc flexible
 - Semelle intérieure confortable en mousse à mémoire de forme refroidie par air
-- Tige Durabuck lisse et perforée en synthétique
 - Forme compensée avec talon caché de 2,5 cm
+- Tige Durabuck lisse et perforée en synthétique
 - Semelle intermédiaire rembourrée Skech-Air visible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

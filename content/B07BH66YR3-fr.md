@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit européen
 - Pour créer de délicieux yaourts avec des ingrédients et une consistance selon vos goûts.
 - LACOR Garantie
-- Produit européen
 - Meilleure qualité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Attache cordon : Permet daccrocher un cordon.
-- Branches galbées : Profil ergonomique pour une bonne tenue des lunettes sur le visage et la tête.
 - Total Cover : Protection optimale contre les rayonnements du soleil en conditions extrêmes.
+- Branches galbées : Profil ergonomique pour une bonne tenue des lunettes sur le visage et la tête.
+- Attache cordon : Permet daccrocher un cordon.
 - Coques amovibles : Protections latérales contre les rayonnements lumineux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

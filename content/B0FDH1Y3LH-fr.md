@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille élastique à cordon de serrage
-- Deux poches fendues sur les côtés
-- Drapeau Tommy Hilfiger brodé sur la hanche
 - Tissu de bain en nylon
+- Drapeau Tommy Hilfiger brodé sur la hanche
+- Deux poches fendues sur les côtés
+- Taille élastique à cordon de serrage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FDH1Y3LH{{</world>}}

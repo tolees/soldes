@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- A partir de 14 ans
-- Editeur : La boite de jeu
-- Durée du jeu : 45 minutes environ
 - Auteur : Frédéric Guérard
+- Editeur : La boite de jeu
 - 1 - 2 joueurs
+- Durée du jeu : 45 minutes environ
+- A partir de 14 ans
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09KGY292G{{</world>}}

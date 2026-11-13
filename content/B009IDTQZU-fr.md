@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponible en violet
 - Poignée de transport rembourrée
 - Extérieur robuste en nylon 600 deniers
+- Disponible en violet
 - Comprend une bandoulière rembourrée et une étiquette didentification
 - Sécurisé par une fermeture rapide à crochet et boucle
 

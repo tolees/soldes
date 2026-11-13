@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coton pur
 - Col rond
 - Col, poignets et ourlet côtelés
+- Coton pur
 - Bande signature à lintérieur de lencolure
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

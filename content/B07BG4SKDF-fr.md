@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Jeu de 2 cylindres sentrouvrant débrayables ASTRAL 2,9 en laiton nickelé 10 pistons, 2 entrées 30+30, protection contre le perçage et le crochetage. Carte personnelle.
 - Fonction débrayable : souvre même si une clé est restée dans la porte côté intérieur.
 - Niveau de sécurité 3.
-- Jeu de 2 cylindres sentrouvrant débrayables ASTRAL 2,9 en laiton nickelé 10 pistons, 2 entrées 30+30, protection contre le perçage et le crochetage. Carte personnelle.
 - 4 clés réversibles.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

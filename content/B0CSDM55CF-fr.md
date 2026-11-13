@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conseils dentretien : lavable en machine
-- Fermeture : fermeture éclair et bouton
-- Coupe : droite
 - Composition : 99 % coton 1 % élasthanne
 - jean, pantalon, long
+- Fermeture : fermeture éclair et bouton
+- Conseils dentretien : lavable en machine
+- Coupe : droite
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSDM55CF{{</world>}}

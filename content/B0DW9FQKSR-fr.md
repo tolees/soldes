@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mousse à mémoire de forme refroidie par air
+- Coupe compensée
+- Doré
 - Skech-Air
 - Collab
-- Coupe compensée
-- Mousse à mémoire de forme refroidie par air
-- Doré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DW9FQKSR{{</world>}}

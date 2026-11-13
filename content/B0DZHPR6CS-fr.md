@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Smartphone sous systeme Android 15
-- Ecran de 6.7 - 4G: Oui
 - Memoire interne: 128 Go - RAM: 6 Go
+- Ecran de 6.7 - 4G: Oui
 - Appareil photo de 50 + 8 + 2 Mégapixels
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

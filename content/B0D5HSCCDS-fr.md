@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - FACILE À UTILISER ET À ENTRETENIR: Interface intuitive avec des commandes simples et des indicateurs de remplacement de filtre pour un entretien sans tracas, assurant une performance optimale en permanence.
 - SURVEILLANCE ET CONTRÔLE DE LA QUALITÉ DE LAIR: Le capteur intelligent surveille en continu la qualité de lair et ajuste automatiquement les niveaux de purification pour garantir un air propre à tout moment.
-- PURIFICATION AVANCÉE AVEC FILTRE HEPA : Capture 99,97 % des pollens, poussières et allergènes ultra-fines grâce au filtre HEPA multicouche. Assurez-vous d’un air pur et sain pour toute la famille, idéal pour les personnes souffrant dallergies ou dasthme.
 - SYSTÈME DE FILTRATION MULTICOUCHE: Équipé dun système de filtration multicouche avancé, incluant un filtre HEPA et un filtre à charbon actif, pour éliminer les polluants, les odeurs et les gaz nocifs.
+- PURIFICATION AVANCÉE AVEC FILTRE HEPA : Capture 99,97 % des pollens, poussières et allergènes ultra-fines grâce au filtre HEPA multicouche. Assurez-vous d’un air pur et sain pour toute la famille, idéal pour les personnes souffrant dallergies ou dasthme.
 - MODE SILENCIEUX POUR LA NUIT: Profitez dun sommeil paisible grâce au mode silencieux spécialement conçu pour la nuit, qui réduit le bruit de fonctionnement du purificateur tout en continuant à purifier lair efficacement.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

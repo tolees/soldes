@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Super Slim Fit
 - Care Label:
-- Blazer croisé
+- Super Slim Fit
 - materialFabricComposition: Superposition: 59% Polyester recyclé, 24% Laine, 16% Viscose, 1% Élasthanne; Doublure: 100% Polyester
 - Manches longues
+- Blazer croisé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082T73MXP{{</world>}}

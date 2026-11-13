@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
+- Mise à zéro du vignettage jusquaux objectifs de 16 mm de longueur focale.
 - Contrôle de la vitesse dobturation dans la plupart des conditions déclairage
 - Y compris le nouveau Defender360.
 - Mécanisme de rétroaction haptique.
-- Mise à zéro du vignettage jusquaux objectifs de 16 mm de longueur focale.
+- La plage darrêt prédéfinie élimine tout risque de polarisation croisée.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08T6H55LR{{</world>}}

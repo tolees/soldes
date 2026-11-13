@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cold Brew : pour une expérience gustative rafraîchissante et inégalée
+- coffeeWorld : explorez la large variété de spécialités de café internationales, dun seul coup dœil
+- Favoris : Sauvegardez facilement jusquà 10 créations personnelles.
 - iSelect Display : écran tactile de 5" se manipulant tel un smartphone, pour une utilisation intuitive
 - aromaSelect : Trois profils darômes différents à choisir en fonction de vos goûts personnels.
-- Favoris : Sauvegardez facilement jusquà 10 créations personnelles.
-- coffeeWorld : explorez la large variété de spécialités de café internationales, dun seul coup dœil
+- Cold Brew : pour une expérience gustative rafraîchissante et inégalée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F4RFCGKZ{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le col bas offre une mobilité à la cheville
-- Chaussure de basket Nike Precision 7 pour homme
 - Chaussure de basket Nike Precision 7 pour homme
 - Tissu respirant
+- Chaussure de basket Nike Precision 7 pour homme
+- Le col bas offre une mobilité à la cheville
 - Logo Swoosh moulé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

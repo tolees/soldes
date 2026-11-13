@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Encourage les enfants de 3 à 8 ans à imaginer des histoires
-- La figurine possède des bras et des jambes articulés pour plus de réalisme
-- Les enfants vont pouvoir inventer des histoires immersives inspirées de Jurassic World avec ce dinosaure Baryonyx de 25 cm de haut, avec lumières et sons immersifs
 - Clac ! La gâchette de la queue active également des mouvements de tête vers l’avant et d’ouverture de la mâchoire
+- La figurine possède des bras et des jambes articulés pour plus de réalisme
+- Encourage les enfants de 3 à 8 ans à imaginer des histoires
+- Les enfants vont pouvoir inventer des histoires immersives inspirées de Jurassic World avec ce dinosaure Baryonyx de 25 cm de haut, avec lumières et sons immersifs
 - Les enfants aux commandes : appuyez sur la gâchette située sous la queue du dinosaure pour qu’il s’illumine et se mette à grogner et rugir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

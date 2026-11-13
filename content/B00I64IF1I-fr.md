@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Disponibilité des pièces de rechange après achat du produit : 5 ans
-- Matériel: plastique
 - Nombre de pièces: 1.0
+- Matériel: plastique
+- Disponibilité des pièces de rechange après achat du produit : 5 ans
 - Couleur : noir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

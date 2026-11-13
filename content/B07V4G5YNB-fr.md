@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- EN 343 : 2003 + A1 : 2007 3, 1.
 - Fermeture éclair centrale YKK à lavant.
 - AATCC 127
+- EN 343 : 2003 + A1 : 2007 3, 1.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07V4G5YNB{{</world>}}

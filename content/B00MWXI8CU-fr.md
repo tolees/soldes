@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur :Umschlag grün
 - Dimension (L x L x H ) : 8.9 pouces x 11.65 pouces x 0.31 pouces
 - Poids :0.93 livres
-- Couleur :Umschlag grün
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00MWXI8CU{{</world>}}

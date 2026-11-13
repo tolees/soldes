@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Anneau empilable
-- Zircon cubique
-- Blanc
 - Argent sterling
+- Blanc
+- Zircon cubique
 - Émail
 
 [🛒 Achète-le!!]({{< param buyurl >}})

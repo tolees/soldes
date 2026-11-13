@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
-- Tige en matière synthétique
 - Chaussant standard
 - Lacets
+- Tige en matière synthétique
+- Semelle extérieure en caoutchouc
 - Semelle de propreté en textile
 - Semelle Cupsole en caoutchouc non marquant
 

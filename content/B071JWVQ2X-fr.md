@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dessus en maille respirante. Col rembourré
 - Semelle intérieure Skechers Goga Max à rebond élevé
 - Léger et flexible
 - Rembourrage réactif 5Gen
-- Dessus en maille respirante. Col rembourré
 - Doublure en tissu doux. Empiècement du talon avec boucle supérieure
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

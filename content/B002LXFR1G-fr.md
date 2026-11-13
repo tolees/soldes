@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour barres de douche de diamètre 22 mm
 - hansgrohe depuis 1901 – fabriquant de choix pour produits cuisine et salle de bain
+- Réglage en hauteur
+- Dimensions (l x l x h) : 3 x 12 x 12 cm
+- Pour barres de douche de diamètre 22 mm
 - Garantie fabricant de 5 ans, produits répondant aux plus hauts critères de qualité
 - Avec matériel de montage
-- Dimensions (l x l x h) : 3 x 12 x 12 cm
-- Réglage en hauteur
 - Orientable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

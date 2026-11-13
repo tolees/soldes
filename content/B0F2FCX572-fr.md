@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tige: Textile / Autres Fibres
+- Semelle: Autres Fibres
 - Doublure: Textile
 - Lacets.
 - Chaussant standard.
-- Semelle: Autres Fibres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F2FCX572{{</world>}}

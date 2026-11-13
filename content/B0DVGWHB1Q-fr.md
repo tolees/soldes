@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle en caoutchouc
+- Semelle en cuir respirante et rembourrée
 - Hauteur du talon : 5,5 cm
 - Chaussures Mary Jane avec talon, bout carré et fermetures réglables
-- Semelle en cuir respirante et rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DVGWHB1Q{{</world>}}

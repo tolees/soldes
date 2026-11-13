@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne comprends pas de détecteur NFC, ni de vibration HD Rumble.
-- Sous licence officielle Nintendo
-- Accéléromètre et gyroscope pour un meilleur contrôle des mouvements.
-- Works with Nintendo Switch 2. C button not available
-- Manette bluetooth avec une portée de plus de 9 mètres.
 - Batterie rechargeable avec une autonomie de jusquà 15 heures par charge.
+- Sous licence officielle Nintendo
+- Ne comprends pas de détecteur NFC, ni de vibration HD Rumble.
+- Accéléromètre et gyroscope pour un meilleur contrôle des mouvements.
+- Manette bluetooth avec une portée de plus de 9 mètres.
+- Works with Nintendo Switch 2. C button not available
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01C6WW4LW{{</world>}}

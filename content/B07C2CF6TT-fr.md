@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élastique.
 - Pullover.
-- Confortables.
 - Doux.
+- Confortables.
+- Élastique.
 - En coton.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -29,13 +29,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure en TPU.
-- Tige textile.
-- Poids : 319 g (pointure 42 2/3).
 - Chaussant standard.
+- Poids : 319 g (pointure 42 2/3).
+- Drop semelle intermédiaire : 6 mm (talon 35 mm / avant-pied 29 mm).
+- Tige textile.
 - Fermeture à lacets.
 - Semelle intermédiaire Cloudfoam.
 - Doublure textile.
-- Drop semelle intermédiaire : 6 mm (talon 35 mm / avant-pied 29 mm).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKXTF8N7{{</world>}}

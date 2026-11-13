@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col et languette rembourrés Logo sur la languette
-- Reebok REEBOK GLIDE GRIS 6/VINTAGE CRAIE/BLEU DOUX CHAUSSURES DE COURSE POUR FEMME
 - Semelle intermédiaire en EVA Semelle dentelée en caoutchouc
+- Reebok REEBOK GLIDE GRIS 6/VINTAGE CRAIE/BLEU DOUX CHAUSSURES DE COURSE POUR FEMME
+- Col et languette rembourrés Logo sur la languette
 - Détails perforés au niveau des orteils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

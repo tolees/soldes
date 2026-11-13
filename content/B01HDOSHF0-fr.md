@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Amorti TechLite pour une absorption des chocs et une excellente restitution de lénergie
 - Caoutchouc adhérent non marquant Omni-Grip pour garde le pied sûr même sur sentiers mouillés
+- Amorti TechLite pour une absorption des chocs et une excellente restitution de lénergie
 - Tige en cuir suédé et textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

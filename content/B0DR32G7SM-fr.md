@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détails passepoilés en cuir résistant
-- Semelle légère en EVA absorbant les chocs
 - Les lacets donnent un look classique et personnalisé
+- Semelle légère en EVA absorbant les chocs
 - Semelle intérieure confortable moulée offrant un amorti durable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable : structure en résine haute résistance
-- Roues de 7” résistantes pour assurer une bonne mobilité
 - Confortable : large poignée bimatière
+- Roues de 7” résistantes pour assurer une bonne mobilité
+- Durable : structure en résine haute résistance
 - Poignée bimatière téléscopique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

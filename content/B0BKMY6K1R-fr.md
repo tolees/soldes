@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - SOIN DES CHEVEUX : Associez ce produit aux autres soins Fusion pour une réparation encore plus intense.
-- METAL PURIFIER: Formulé avec la technologie Metal Purifier, il optimise la protection contre les radicaux libres et encapsule les métaux nocifs présents dans leau pour maintenir léclat de la couleur.
 - RÉPARATION INTENSE : Enrichi en acides aminés de soie et en lipides micronisés pour aider à réparer les cheveux et apporter une douceur instantanée.
 - ANTI-CASSE : Formulé avec la technologie Silksteel Fusion pour protéger les cheveux contre la casse et les dommages mécaniques, liés aux appareils chauffants.
+- METAL PURIFIER: Formulé avec la technologie Metal Purifier, il optimise la protection contre les radicaux libres et encapsule les métaux nocifs présents dans leau pour maintenir léclat de la couleur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BKMY6K1R{{</world>}}

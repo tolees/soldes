@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée thermorésistante en Bakelite noire pour Couvercle dautocuiseur Sitram de la Gamme SITRAFORZA
 - Pièce dorigine Sitram
+- Poignée thermorésistante en Bakelite noire pour Couvercle dautocuiseur Sitram de la Gamme SITRAFORZA
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000VQP44K{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bosch GWS 880 - Meuleuse angulaire - 2 disques diamantés et coffret - 880W - 125mm
 - Meuleuse dangle BOSCH PROFESSIONAL GWS 880 - 880 W - 125 mm - Pour Béton - rapido2shop
 - Sans disque à tronçonner
+- Bosch GWS 880 - Meuleuse angulaire - 2 disques diamantés et coffret - 880W - 125mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07G9ZLX63{{</world>}}

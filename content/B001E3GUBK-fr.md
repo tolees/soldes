@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pentel Portemines GRAPHGEAR 1000, diamètre de mine: 0,5 mm</li><li>couleur: argent/noir, manche en métal, mécanisme Safety-Clic</li><li>conduite de mines complètement escamotable, grip à picots</li><li>caoutchouté, degré de dureté réglable, gomme et 6 mines incl</li><li>(PG1015-A)
 - Pentel - PG1015-A
+- Pentel Portemines GRAPHGEAR 1000, diamètre de mine: 0,5 mm</li><li>couleur: argent/noir, manche en métal, mécanisme Safety-Clic</li><li>conduite de mines complètement escamotable, grip à picots</li><li>caoutchouté, degré de dureté réglable, gomme et 6 mines incl</li><li>(PG1015-A)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B001E3GUBK{{</world>}}

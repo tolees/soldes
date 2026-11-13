@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOSCH Filtre
 - Veuillez choisir votre véhicule dans la liste déroulante pour vérifier sa compatibilité avec le produit.
+- BOSCH Filtre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07D5HFSRT{{</world>}}

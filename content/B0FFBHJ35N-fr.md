@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 80 purcent TPU, 20 purcent TPU recyclé
+- Couleur : bordeaux
 - Doublure : 52 purcent cuir de vachette, 48 purcent peau de porc
 - Matériau supérieur : 100 purcent cuir de vachette
-- Couleur : bordeaux
+- 80 purcent TPU, 20 purcent TPU recyclé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FFBHJ35N{{</world>}}

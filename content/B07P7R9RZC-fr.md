@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : noir
-- Semelle intérieure : OrthoLite pour amortir
-- Semelle extérieure/caractéristiques : caoutchouc pour une adhérence extraordinaire
 - Dessus : cuir (cuir de veau)
+- Semelle extérieure/caractéristiques : caoutchouc pour une adhérence extraordinaire
+- Semelle intérieure : OrthoLite pour amortir
+- Couleur : noir
 - Doublure : 58 % coton, 22 % polyester, 20 % tissu (60 % nylon, 40 % polyuréthane)
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Agenda Office 2026 Journalier au design unique et plein de charme
 - Ideal para decorar tu agenda.
+- Agenda Office 2026 Journalier au design unique et plein de charme
 - Matériaux de qualité et touche Mr. Wonderful
 - À offrir ou à s’offrir sans hésiter !
 - Format pratique à emporter partout

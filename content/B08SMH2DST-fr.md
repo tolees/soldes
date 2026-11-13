@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Élimine lexcès de sébum sur les cheveux et le cuir chevelu
 - Formulé avec 91% dingrédients dorigine naturelle
+- Élimine lexcès de sébum sur les cheveux et le cuir chevelu
 - Sans silicone
 - Formule végan
 

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Présentoir à décorer
 - Type : Etagères
+- Présentoir à décorer
 - Couleur : Beige
 - Matière : Bois
 

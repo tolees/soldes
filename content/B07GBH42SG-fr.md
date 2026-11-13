@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Haute qualite
 - Marque: Nike
-- Sechage rapide
 - Confort de port eleve
+- Sechage rapide
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07GBH42SG{{</world>}}

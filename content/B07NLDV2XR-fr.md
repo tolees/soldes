@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure :
 - Couleur : noir
-- Tige : Cuir de vachette
 - Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
+- Tige : Cuir de vachette
+- Doublure :
 - Semelle intérieure : OrthoLite pour plus damorti et de respirabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

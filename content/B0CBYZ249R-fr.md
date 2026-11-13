@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type dinstallation : Disque dur interne
-- Marque : SAMSUNG - DISQUES SSD (SS)
 - Appareils compatibles : ordinateur portable
+- Facteur de forme : M 2
+- Marque : SAMSUNG - DISQUES SSD (SS)
+- Type dinstallation : Disque dur interne
 - MZ-V9P4T0GW
 - Plateforme matérielle : Non spécifique à la machine
-- Facteur de forme : M 2
 - 8806095255811
 
 [🛒 Achète-le!!]({{< param buyurl >}})

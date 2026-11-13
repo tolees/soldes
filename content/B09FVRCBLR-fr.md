@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100 pourcent sans BPA pour un plaisir sans danger pour la santé
 - Nettoyage facile : les pots en verre se lavent au lave-vaisselle
+- 100 pourcent sans BPA pour un plaisir sans danger pour la santé
 - Lot de 7 pots de yaourt en verre de 150 ml chacun avec couvercles étanches pour une conservation idéale
 - Un plaisir sain sans conservateur : pour des yaourts fait maison - 7 pots de 150 ml avec couvercles anti-fuite
 - Conçu pour les yaourtières de marque Severin : référence JG3521 / JG3520 / JG3518 / JG3519 / JG3516 et JG3525

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriquées en Espagne
-- Résistantes à leau
 - Hauteur du talon : 3,00 cm
+- Résistantes à leau
 - Matière principale : nappa, matériau de la doublure : fausse peau de mouton Matériau de la semelle : caoutchouc naturel Semelle intérieure amovible Insert : oui
+- Fabriquées en Espagne
 - Panama Jack Bottes classiques Cuero / Bark pour femme
 
 [🛒 Achète-le!!]({{< param buyurl >}})

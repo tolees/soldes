@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rim forme: moyen large
-- Coupe diamètre: 24.50 mm
-- Idéal pour tous les types de jeu
-- Convient pour trombone, baryton et euphonium
 - Conçu pour les étudiants et les débutants
+- Rim forme: moyen large
+- Convient pour trombone, baryton et euphonium
+- Idéal pour tous les types de jeu
+- Coupe diamètre: 24.50 mm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00N3SQGEK{{</world>}}

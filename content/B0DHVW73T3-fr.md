@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige en textile et matière synthétique.
 - Fermeture à lacets.
 - Chaussant standard.
-- Tige en textile et matière synthétique.
-- Clip en caoutchouc au talon.
 - Doublure textile.
+- Clip en caoutchouc au talon.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHVW73T3{{</world>}}

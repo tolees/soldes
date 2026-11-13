@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Futter en maille
-- Abriebfeste Gummisohle
 - Leder-, Nubukleder- und/oder Wildlederobermaterial
+- Abriebfeste Gummisohle
 - Construktion de la semelle enveloppante
+- Futter en maille
 - Mit Schaumstoff gepolsterte Zunge und Einstieg für mehr Komfort und Support
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

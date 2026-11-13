@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en cuir souple
 - Semelle intérieure moulée confortable
 - Coupe basse
+- Dessus en cuir souple
 - Logo darchivage et boîte à fenêtre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

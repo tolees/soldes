@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard
 - Shell: Outer: 100% Polyester(100% Recycled) / Inner: 100% Thermoplastic Polyurethane / Lining: 100% Polyester(100% Recycled) / Pockets: 100% Polyester(100% Recycled)
+- Coupe standard
 - Zip sur toute la longueur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

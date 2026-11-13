@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de qualité supérieure
 - Bonne performance
+- Produit de qualité supérieure
 - Produit idéal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

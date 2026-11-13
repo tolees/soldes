@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rigide et résistant
-- Grammage : 200g/m2
-- Les informations ci-dessous sappliquent à chaque unité du pack
-- Taille : A3 29,7 x 42 cm
 - Fabriqué en France
-- Certifié FSC
-- Bloc collé en tête
-- Sans acide
+- Rigide et résistant
 - La siguiente información se aplica a cada unidad del paquete
+- Sans acide
+- Bloc collé en tête
+- Certifié FSC
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - Papier adapté au dessin et aux activités créatives, facile à manipuler et à plier
+- Grammage : 200g/m2
+- Taille : A3 29,7 x 42 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CH2G3YFY{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- ERGONOMIE OPTIMISÉE : un boîtier plein format ultra compact et léger, résistant et tropicalisée, avec écran tactile orientable et une autonomie de 1500 images
 - AUTOFOCUS PRÉCIS ET INTELLIGENT : mise au point ultra rapide sur les yeux, visages et animaux, de près comme de loin
-- DOUBLE STABILISATION : jusqu’à 6.5 stops en capteur+optique pour des images ultra nettes dans toutes les conditions
 - UNE QUALITÉ DIMAGE INCROYABLE : un capteur plein format de 24,2 MP avec Double ISO natif, pour des images époustouflantes même en basse lumière
+- DOUBLE STABILISATION : jusqu’à 6.5 stops en capteur+optique pour des images ultra nettes dans toutes les conditions
+- ERGONOMIE OPTIMISÉE : un boîtier plein format ultra compact et léger, résistant et tropicalisée, avec écran tactile orientable et une autonomie de 1500 images
 - VIDEO PROFESSIONNELLE : vidéo 4K en 4:2:2 10bit avec fonctions V-Log & Mode Anamorphique, Slow Motion 180ips
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

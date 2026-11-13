@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col chemise
 - Motif à carreaux
-- Braguette à boutons
 - Longueur regular
+- Col chemise
+- Braguette à boutons
 - Matière rigide
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cartouches dencre spécialement conçues pour les stylos plume PARKER
 - Inclut 5 recharges dencre bleue
 - La forme de la cartouche vous permet dutiliser votre stylo plume où que vous soyez
+- Cartouches dencre spécialement conçues pour les stylos plume PARKER
 - Son encre riche en pigments donne de la vie à la page.
 - Pratiques, les longues cartouches contiennent de lencre pour un remplissage sans effort
 

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe: Coupe classique
-- Découvrez toutes les meilleures marques chez EMP!
-- Basics
-- Veste mi-saison présentant les caractéristiques suivantes:
 - Veste || Coupe classique || Couleur intense || Matière longue durée
+- Découvrez toutes les meilleures marques chez EMP!
+- Veste mi-saison présentant les caractéristiques suivantes:
+- Basics
+- Coupe: Coupe classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08GSTDFHW{{</world>}}

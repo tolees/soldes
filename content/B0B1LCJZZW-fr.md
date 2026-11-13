@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Slim Fit
+- Original Chino Slim
+- Zip fly
 - Twill with stretch for movement
 - Welt pocket
-- Zip fly
-- Original Chino Slim
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B1LCJZZW{{</world>}}

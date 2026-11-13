@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Monte sur cet adorable poney et découvre de nouvelles sensations!
 - Cheval gonflable à 4 pattes, très stable, idéal pour des heures de saut et de rebondissement en toute sécurité !
 - A partir de 3 ans. Il est recommandé de jouer sous la supervision d’un adulte.
+- Monte sur cet adorable poney et découvre de nouvelles sensations!
 - Mon Poney Sauteur Gonflable
 - Une pompe manuelle est comprise pour gonfler le cheval.
 

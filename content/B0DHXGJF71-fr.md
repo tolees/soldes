@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
-- Contient au moins 20 % de matériaux recyclés.
 - Assise plantaire Cloudfoam Plus.
-- Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
-- Poids : 306 g (pointure 42 2/3).
+- Semelle intermédiaire Bounce 2.0.
 - Doublure textile.
+- Fermeture à lacets.
+- Drop semelle intermédiaire : 5 mm (talon 29 mm / avant-pied 24 mm).
 - Fidèle à la taille
 - Tige en mesh.
-- Semelle intermédiaire Bounce 2.0.
 - Semelle extérieure en caoutchouc.
+- Contient au moins 20 % de matériaux recyclés.
+- Poids : 306 g (pointure 42 2/3).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHXGJF71{{</world>}}

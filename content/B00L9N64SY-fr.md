@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- NOTES DE FOND : Patchouli, mousse.
-- NOTES DE TÊTE : Muguet, camomille.
 - COMPLEXE. SENSUEL. CHALEUREUX. Le parfum culte Aromatics Elixir est une fragrance audacieuse. Les parfumeurs le qualifient de chypré, un mélange de notes boisées et de mousse.
+- NOTES DE TÊTE : Muguet, camomille.
 - PLUS DE 700 INGRÉDIENTS : Avec sa composition envoûtante, ce parfum Clinique est bien plus quun simple parfum.
+- NOTES DE FOND : Patchouli, mousse.
 - NOTES DE CŒUR : Rose, jasmin.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

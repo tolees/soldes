@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches intérieures
-- Offre du confort
 - Poches dos passepoilées, bouton-pression dissimulé et un côté avec bouton visible
 - Braguette zippée
+- Poches intérieures
+- Offre du confort
 - Une allure originale
 
 [🛒 Achète-le!!]({{< param buyurl >}})

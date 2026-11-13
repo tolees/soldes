@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sens-toi propre et frais, et sens irrésistiblement bon pour plus longtemps avec le nouveau gel douche homme 5-en-1 AXE Dark Temptation au format 700 ml.
+- Les informations ci-dessous sappliquent à chaque unité du pack
 - Grâce à notre incroyable formule qui élimine les bactéries responsables des mauvaises odeurs, ce gel douche au pH neutre offre fraîcheur et parfum toute la journée, tout en respectant la peau.
 - Testé dermatologiquement, ce gel douche contient 87 % dingrédients dorigine naturelle et tassure 24 h dhydratation. Il libère un parfum de chocolat et de tonka pour un effet addictif.
+- Sens-toi propre et frais, et sens irrésistiblement bon pour plus longtemps avec le nouveau gel douche homme 5-en-1 AXE Dark Temptation au format 700 ml.
 - La bouteille de ce gel douche AXE est 100 % en plastique recyclé et entièrement recyclable. Dépose-moi dans le bac de tri ! La nouvelle formule de ce gel douche est certifiée Peta, ce qui signifie quaucun test nest fait sur les animaux dans le monde entier.
-- Les informations ci-dessous sappliquent à chaque unité du pack
 - Verse le gel douche dans le creux de ta main. Fais-le mousser sur ton corps. Rince. Tu es propre et sens irrésistiblement bon !
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

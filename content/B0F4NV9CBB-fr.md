@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Produit de fabrication excellente
 - Longue durée de vie
+- Produit de fabrication excellente
 - T-shirt à manches courtes
 
 [🛒 Achète-le!!]({{< param buyurl >}})

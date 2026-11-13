@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière interne : Cuir
-- Type de fermeture : Scratch
 - Matière externe : Cuir
 - Semelle externe : Caoutchouc
+- Type de fermeture : Scratch
+- Matière interne : Cuir
 - Semelle interne : Cuir
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

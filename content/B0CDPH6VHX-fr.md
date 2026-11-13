@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Résiste aux températures jusquà 80 °C
+- Résistant aux UV jusquà 2 semaines
 - Le ruban de masquage Scotch Super 2090 est un ruban de masquage professionnel finement crêpé et résistant aux UV pour les travaux en intérieur et en extérieur
+- Peut être collé sur les sols
 - Se retire sans laisser de traces
 - Les informations ci-dessous sappliquent à chaque unité du pack
-- Résistant aux UV jusquà 2 semaines
-- Résiste aux températures jusquà 80 °C
-- Peut être collé sur les sols
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CDPH6VHX{{</world>}}

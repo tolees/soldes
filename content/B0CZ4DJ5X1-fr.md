@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 👩‍🌾 REGIONAL : composé dingrédients issus dune agriculture écologique et régionale
+- 💚 100% BIO : Aliment complet sans céréales et naturel pour chats avec une teneur en viande extra élevée - monoprotéine
 - 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
 - 🐾 BIEN-ÊTRE DES ANIMAUX : le bien-être des animaux est toujours une priorité lors de la production
-- 💚 100% BIO : Aliment complet sans céréales et naturel pour chats avec une teneur en viande extra élevée - monoprotéine
-- 👩‍🌾 REGIONAL : composé dingrédients issus dune agriculture écologique et régionale
+- 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZ4DJ5X1{{</world>}}

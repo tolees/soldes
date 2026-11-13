@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poids : 238 g.
+- Drop semelle intermédiaire : 8 mm (talon : 21 mm / avant-pied : 13 mm).
+- Contient au moins 20 % de matériaux recyclés.
 - Système de laçage rapide.
 - Outil de mesure de la pointure Adifit sur la semelle de propreté.
-- Tige textile et synthétique avec empiècements résistant à labrasion.
-- Poids : 238 g.
-- Membrane GORE-TEX.
-- Chaussant standard.
-- Contient au moins 20 % de matériaux recyclés.
-- Semelle intermédiaire en EVA.
-- Drop semelle intermédiaire : 8 mm (talon : 21 mm / avant-pied : 13 mm).
 - Semelle extérieure en caoutchouc Continental.
+- Semelle intermédiaire en EVA.
+- Chaussant standard.
+- Membrane GORE-TEX.
+- Tige textile et synthétique avec empiècements résistant à labrasion.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CYXFPYCS{{</world>}}

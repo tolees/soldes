@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fixe grâce aux pieds rabattables antidérapants
 - Fonction darrêt automatique après 15 minutes
+- Fixe grâce aux pieds rabattables antidérapants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07349PHVG{{</world>}}

@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Noir
 - Fermeture : Lacets
-- Taille : 43 EU
 - Saison : Printemps Été
+- Couleur : Noir
+- Taille : 43 EU
 - Matière : Toile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

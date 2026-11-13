@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Drop semelle intermédiaire : 10 mm (talon 35 mm/avant-pied 25 mm)
-- Drop semelle intermédiaire : 10 mm (talon 35 mm / avant-pied 25 mm).
-- Semelle intermédiaire Bounce 2.0
-- Poids : 324 g (pointure 38 2/3)
-- Tige en mesh
-- Coupe standard
 - Fermeture à lacets
+- Drop semelle intermédiaire : 10 mm (talon 35 mm/avant-pied 25 mm)
 - Semelle extérieure Adiwear
-- Doublure textile
+- Semelle intermédiaire Bounce 2.0
 - Semelle de propreté antimicrobienne OrthoLite
+- Coupe standard
+- Poids : 324 g (pointure 38 2/3)
+- Drop semelle intermédiaire : 10 mm (talon 35 mm / avant-pied 25 mm).
+- Tige en mesh
+- Doublure textile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CKRYN1SV{{</world>}}

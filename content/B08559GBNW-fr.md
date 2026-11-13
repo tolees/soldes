@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Encre ultra-lavable à base d’eau
+- Capuchon ventilé anti-étouffement
 - Norme CE
 - Pointe moyenne bloquée et résistante qui ne senfonce pas sous la pression
 - Couleurs vives et lumineuses
-- Encre ultra-lavable à base d’eau
-- Grip ergonomique triangulaire pour une prise en main facile
-- Capuchon ventilé anti-étouffement
 - Feutres de coloriage pointe moyenne
+- Grip ergonomique triangulaire pour une prise en main facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08559GBNW{{</world>}}

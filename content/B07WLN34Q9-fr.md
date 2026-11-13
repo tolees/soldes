@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Courroie de 20 mm de large avec 141 dents pour un calage fiable.
 - Inclut courroie CD41223, galet tendeur GE359.31, et pompe à eau WP014.
+- Courroie de 20 mm de large avec 141 dents pour un calage fiable.
 - Assure synchronisation entre vilebrequin et arbres à cames.
 - Pas de vis additionnelles, tous les éléments nécessaires inclus.
 - Adapté aux moteurs diesel 1.5 et 1.6 HDi, BlueHDi et TDCi.

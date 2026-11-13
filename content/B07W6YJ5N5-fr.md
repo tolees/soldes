@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de col: Col une pièce
+- Regular Fit
 - Hand Wash Only
 - 100% Polyester
-- Regular Fit
-- Type de col: Col une pièce
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ5N5{{</world>}}

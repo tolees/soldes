@@ -32,8 +32,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 - Un design sobre pouvant être combiné avec toutes les collections Villeroy & Boch, parfait pour un mariage ou une pendaison de crémaillère
 - Contenu de la livraison : 4 Villeroy & Boch Entrée verres à eau (570 ml), matériau : cristallin, couleur : transparent (réf. art. : 11-3658-7894)
 - Convient également pour la restauration : cristallin de haute qualité assurant une résistance au lave-vaisselle et un éclat durable
-- Des verres à eau intemporels de taille pratique pour accompagner avec style les brunchs, les déjeuners ou les dîners entre amis
 - Forme: ronde
+- Des verres à eau intemporels de taille pratique pour accompagner avec style les brunchs, les déjeuners ou les dîners entre amis
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BR9QMBL{{</world>}}

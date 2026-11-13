@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Acier inoxydable 18/10
+- Compatible tous feux dont induction
 - Couvercle fabriqué en acier inoxydable 18/10 finition poli ideal
 - Triple fond diffuseur
 - Finition acier poli 3/4 satiné et 1/4 supérieur poli ideal
-- Acier inoxydable 18/10
-- Compatible tous feux dont induction
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00BCLYM5K{{</world>}}

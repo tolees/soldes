@@ -29,15 +29,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Drop semelle intermédiaire : 10 mm (talon : 27 mm / 17 mm).
-- Chaussant standard.
-- Semelle intermédiaire en EVA.
-- Fermeture à lacets.
-- Poids : 390 g (pointure 42 2/3).
-- RAIN.RDY.
-- Tige textile avec bout renforcé.
 - Contient au moins 20 % de matériaux recyclés et renouvelables.
-- Semelle extérieure Traxion.
+- RAIN.RDY.
 - Languette à goussets.
+- Poids : 390 g (pointure 42 2/3).
+- Fermeture à lacets.
+- Semelle extérieure Traxion.
+- Semelle intermédiaire en EVA.
+- Tige textile avec bout renforcé.
+- Chaussant standard.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVWCT74{{</world>}}

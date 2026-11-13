@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une allure originale
-- 5 poches dont une poche à monnaie
 - Étiquette G-STAR au dos, en tissu de papier imitant le cuir
+- 5 poches dont une poche à monnaie
+- Une allure originale
 - Braguette zippée
 - Offre du confort
 

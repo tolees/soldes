@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nom de marque Shimano
 - Plaque arrière en alliage et acier utilisant des ailettes de refroidissement à rayonnement thermique Ice-Technologies avec composé de freinage fritté en métal
-- Couleur: Gris
 - Paire de coussinets de remplacement Shimano authentiques
+- Couleur: Gris
+- Nom de marque Shimano
 - Type de sport: cyclisme
 - Produit de haute qualité
 - Idéal pour votre vélo

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Matérial de la Boîtier: Acier inoxydable
-- - Couleur de la Boîte: Argent
 - - Forme de la Boîtier: Rond
+- - Matérial de la Boîtier: Acier inoxydable
 - Boîtier
+- - Couleur de la Boîte: Argent
 - - Verre: Verre Minéral
 
 [🛒 Achète-le!!]({{< param buyurl >}})

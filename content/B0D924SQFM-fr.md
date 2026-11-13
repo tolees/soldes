@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception flexible et détails réfléchissants
 - Poche Pack-it et poches latérales zippées
+- Conception flexible et détails réfléchissants
 - Manches et épaules ergonomiques pour un bon ajustement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

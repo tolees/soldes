@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau extérieur : daim
-- Niveau de résistance à leau : non étanche
 - Matériau intérieur : synthétique
 - Forme du talon : plat
+- Matériau extérieur : daim
+- Niveau de résistance à leau : non étanche
 - Largeur de la chaussure : moyenne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

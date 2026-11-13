@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dimensions : 27 x 27 x 18 cm
+- 3 modes de fonctionnement
+- Boutons-poussoirs numériques
+- Oscillant
+- Minuteur et télécommande
 - 3 puissances
 - Consommation : 50 W
-- Minuteur et télécommande
-- Boutons-poussoirs numériques
-- Dimensions : 27 x 27 x 18 cm
-- Oscillant
-- 3 modes de fonctionnement
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08X9PCBLW{{</world>}}

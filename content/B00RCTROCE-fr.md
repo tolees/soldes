@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Livraison rapide 48h à 72h
 - REF PRFU8050 Kit de combustion du bois 5 mètres
-- Home equipment
 - Marque neuf et
+- Home equipment
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RCTROCE{{</world>}}

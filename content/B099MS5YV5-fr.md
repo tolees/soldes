@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confectionnée en cuir ECCO haut de gamme produit dans nos propres tanneries
 - Le PU souple et réactif assure un excellent retour d’énergie
-- Deux attaches à fermeture rapide pour un ajustement parfait
 - Sandale monobloc réalisée avec la technologie ECCO FLUIDFORM Direct Comfort, qui offre souplesse et flexibilité
+- Deux attaches à fermeture rapide pour un ajustement parfait
+- Confectionnée en cuir ECCO haut de gamme produit dans nos propres tanneries
 - Assise plantaire de forme anatomique revêtue de daim doux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

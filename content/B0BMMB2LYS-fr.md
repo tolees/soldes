@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Un style américain
-- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
-- Le blue-jean original depuis 1873
 - Le jean à la coupe droite originale
 - Fabriqué avec la technologie Water&ltLess - Utilise 96 % d’eau en moins que les techniques de finition standards
+- Le blue-jean original depuis 1873
+- Un style américain
 - Une toile vierge pour l’expression de soi
+- Nous nous associons à l’organisation Better Cotton Initiative pour améliorer la culture du coton dans le monde entier
 - Ceci est un authentique produit Levi’s
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

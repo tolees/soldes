@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Convient pour leau douce et leau de mer (sauf le thermofiltre - pour leau douce uniquement)
 - 3 ans de garantie
-- Fabriqué en Allemagne
 - Fourni avec des accessoires dinstallation
-- Easy Clean - nettoyage facile et sûr du média filtrant à laide du couvercle de nettoyage
+- Convient pour leau douce et leau de mer (sauf le thermofiltre - pour leau douce uniquement)
+- Fabriqué en Allemagne
 - Réglages individuels des programmes : Débit constant, mode bio, mode pulsé et mode manuel
+- Easy Clean - nettoyage facile et sûr du média filtrant à laide du couvercle de nettoyage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00584MEZM{{</world>}}

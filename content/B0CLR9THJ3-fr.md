@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contents: 1x Columbia Benton Springs Half-Snap II, Sweat pour Femme, Colour: Gris (City Grey Heather, Chalk), Size: L, Article: 2085651
 - Se porte en première ou deuxième couche lors des froids mois dhiver
-- Confort et apport thermique optimal grâce à la matière polaire
+- Contents: 1x Columbia Benton Springs Half-Snap II, Sweat pour Femme, Colour: Gris (City Grey Heather, Chalk), Size: L, Article: 2085651
 - Pull-over en polaire pour femme avec demi patte pressionnée et une coupe classique
+- Confort et apport thermique optimal grâce à la matière polaire
 - Disponible dans plusieurs coloris, convient pour un usage au quotidien
 
 [🛒 Achète-le!!]({{< param buyurl >}})

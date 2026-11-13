@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Embout de protection en caoutchouc
-- Finition en nickel brossé
 - Ressort en acier
-- Inclut le matériel de fixation et les instructions de montage
 - Lot de 12
+- Embout de protection en caoutchouc
 - Longueur : 7,6-12,7/81,2 cm ; largeur : 63,5/81,2 cm
+- Finition en nickel brossé
+- Inclut le matériel de fixation et les instructions de montage
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07PFFFFMT{{</world>}}

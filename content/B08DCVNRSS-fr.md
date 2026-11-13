@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Couleur : gris/bleu
 - Sac de transport avion Wings
 - Dimensions : 28 × 23 × 46 cm
-- Couleur : gris/bleu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DCVNRSS{{</world>}}

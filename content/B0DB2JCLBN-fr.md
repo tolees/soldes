@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- unité de siège réversible
 - Pare-soleil XXL avec insert en maille
+- 2 en 1 : la nacelle devient un siège
 - suspension des roues avant
 - Eos Lux TPE B/Stormy Blue-light blue PU1
-- 2 en 1 : la nacelle devient un siège
+- unité de siège réversible
 - Roues tout-terrain
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

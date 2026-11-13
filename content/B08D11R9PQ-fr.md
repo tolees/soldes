@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Favorise tout le temps, maintenant disponible pour les petits
 - Boucles de dentelle carrée unique
 - Baskets Bulky
-- Favorise tout le temps, maintenant disponible pour les petits
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08D11R9PQ{{</world>}}

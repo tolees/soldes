@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capuche fixe avec cordon de serrage
-- Fermeture zippée double sens à rabat pressionné
 - Finition bord côte poignets
+- Fermeture zippée double sens à rabat pressionné
+- Capuche fixe avec cordon de serrage
 - Bas de vêtement arrière pressionné
 
 [🛒 Achète-le!!]({{< param buyurl >}})

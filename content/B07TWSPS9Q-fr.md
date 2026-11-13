@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sac à Bandoulière avec Compartiment pour Téléphone
+- 0.33kg Poids x 7L Volume
 - Hydrofuge
 - 100% Polyamide
-- 0.33kg Poids x 7L Volume
-- Sac à Bandoulière avec Compartiment pour Téléphone
 - 22 Hauteur x 29 Largeur x 16.5 Profondeur cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

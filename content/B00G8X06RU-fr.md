@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bec avec mousseur
 - Bec tube pivotant / Zone de rotation à 360°
-- GROHE Longlife cartouche en céramique 28 mm
-- Bec haut / Monotrou sur plage
 - Système de montage rapide
 - Flexibles de raccordement souples, sertis d’usine
+- Bec avec mousseur
+- GROHE Longlife cartouche en céramique 28 mm
+- Bec haut / Monotrou sur plage
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00G8X06RU{{</world>}}

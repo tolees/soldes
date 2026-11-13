@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière à effet cuir nacré
 - Tige en matière à effet cuir velours
+- Matière à effet cuir nacré
 - Tenues décontractées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

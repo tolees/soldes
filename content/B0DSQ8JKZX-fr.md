@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Simulation de films
 - X-Trans CMOS 5 HR Sensor
 - X Processeur 5
-- Simulation de films
-- Pixel Shift Multi-Shot
 - Stabilisateur dimage intégré (IBIS)
+- Pixel Shift Multi-Shot
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DSQ8JKZX{{</world>}}

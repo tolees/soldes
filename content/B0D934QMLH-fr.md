@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le support intégré vous permet de caler votre console et d’y jouer confortablement lorsque vous êtes en déplacement
-- Voyagez facilement grâce à la poignée de transport pratique, ainsi qu’aux grandes et petites poches pour ranger vos accessoires
+- Sous licence officielle Nintendo et Mojang Studios
 - Compatible avec la Nintendo Switch, la Nintendo Switch Lite et la Nintendo Switch - Modèle OLED
 - Personnage noir moulé en 3D, brillant dans le noir, à l’intérieur d’un design multicouche avec des graphismes de jeu emblématiques
-- Sous licence officielle Nintendo et Mojang Studios
+- Voyagez facilement grâce à la poignée de transport pratique, ainsi qu’aux grandes et petites poches pour ranger vos accessoires
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D934QMLH{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en textile
 - Fermeture à lacets
+- Tige en textile
 - Semelle extérieure en caoutchouc à zones
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

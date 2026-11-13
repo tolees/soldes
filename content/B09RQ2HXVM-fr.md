@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une surface de contrôle et une interface audio physiques intuitives avec deux entrées XLR, une entrée minijack stéréo, et des sorties pour casque audio ou enceintes.
-- À laide dun iPad et de quelques smartphones, le révolutionnaire système AeroCaster Roland vous permet de commuter et diffuser sans fil sur votre plateforme favorite en quelques minutes.
-- Une plateforme média pour intégrer vidéos, sons, photos et visuels depuis votre médiathèque diPad.
-- Permet la connexion sans fil de quatre caméras de smartphones et tablettes iOS et Android compatibles.
-- Partagez sans fil des images issues dordinateurs et terminaux mobiles depuis le navigateur Google Chrome.
-- Utilisez simultanément les images de quatre terminaux, plus la caméra de liPad hôte.
 - Connexion directe à YouTube, Facebook Live, Twitch, et les canaux RTMP via Wi-Fi ou réseaux 4G/5G.
-- Sauvegardez et rappelez 30 Scenes avec titres, visuels et fenêtres dincrustation dimage.
-- Commutez les caméras, les fichiers média et les Scenes à laide de nombreux effets de transition.
 - Une puissante solution de production sans fil avec surface de contrôle et interface audio physiques, et appli complète pour iPad.
+- Partagez sans fil des images issues dordinateurs et terminaux mobiles depuis le navigateur Google Chrome.
+- Permet la connexion sans fil de quatre caméras de smartphones et tablettes iOS et Android compatibles.
+- Une plateforme média pour intégrer vidéos, sons, photos et visuels depuis votre médiathèque diPad.
+- Commutez les caméras, les fichiers média et les Scenes à laide de nombreux effets de transition.
+- À laide dun iPad et de quelques smartphones, le révolutionnaire système AeroCaster Roland vous permet de commuter et diffuser sans fil sur votre plateforme favorite en quelques minutes.
+- Utilisez simultanément les images de quatre terminaux, plus la caméra de liPad hôte.
+- Sauvegardez et rappelez 30 Scenes avec titres, visuels et fenêtres dincrustation dimage.
+- Une surface de contrôle et une interface audio physiques intuitives avec deux entrées XLR, une entrée minijack stéréo, et des sorties pour casque audio ou enceintes.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09RQ2HXVM{{</world>}}

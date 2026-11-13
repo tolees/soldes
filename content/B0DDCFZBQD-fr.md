@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Chaque chapitre propose de nouveaux jouets qui peuvent être des alliés ou des ennemis.
 - Poppy Playtime Triple Pack inclut une jaquette réversible et une feuille dautocollants Poppy Playtime !
-- Survivez et progressez en résolvant des énigmes complexes.
-- Cette édition physique Playstation 5 contient les trois premiers chapitres de la saga Poppy Playtime
 - Faites vos premiers pas dans Playtime Co. avec les 3 premiers chapitres de la saga Poppy Playtime ! Embarquez pour une aventure épique remplie de mystères, dénigmes, denvironnements étranges et de jouets terrifiants qui prennent vie.
+- Cette édition physique Playstation 5 contient les trois premiers chapitres de la saga Poppy Playtime
+- Survivez et progressez en résolvant des énigmes complexes.
 - Chaque jeu vous dévoile une nouvelle zone de limmense usine de jouets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

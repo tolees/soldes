@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Semelle de propreté antimicrobienne OrthoLite et membrane GORE-TEX
 - Chaussant standard
-- Fermeture à lacets
 - Tige ripstop avec empiècements
+- Fermeture à lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVW6JVS{{</world>}}

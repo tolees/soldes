@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ne brûle pas
-- Haute résistance
 - Conformité :
 - Léger et confortable
 - Imperméable
+- Ne brûle pas
+- Haute résistance
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DDL9RTCX{{</world>}}

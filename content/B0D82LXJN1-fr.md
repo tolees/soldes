@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- soft insole
 - Stitchdown-Style: Durable, flexible properties and perfect fit
+- soft insole
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D82LXJN1{{</world>}}
