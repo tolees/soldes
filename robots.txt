@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soldes.tole.es/sitemap.xml
