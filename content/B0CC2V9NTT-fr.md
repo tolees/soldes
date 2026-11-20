@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cojín suave
 - Aspecto y tacto clásicos
+- Cojín suave
 - Alta calidad
 - Flexibles
 - Piel transpirable

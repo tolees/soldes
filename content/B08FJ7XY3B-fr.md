@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Gchettes arrière assignables, fonctionnalité turbo, et plus
-- Poignée, boutons, gchettes, sticks analogiques et d-pad (croix directionnelle) plus larges
-- Expérience dune manette grandeur nature en mode portable
 - Design couleur noir unie
+- Poignée, boutons, gchettes, sticks analogiques et d-pad (croix directionnelle) plus larges
 - Sous licence officielle Nintendo
+- Expérience dune manette grandeur nature en mode portable
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08FJ7XY3B{{</world>}}

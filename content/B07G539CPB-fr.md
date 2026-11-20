@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible avec : Bracelets Pandora Moments
-- Larbre généalogique symbolise votre famille grandissante et les liens qui vous unissent
-- Ajoutez-le sur un bracelet ou un bracelet jonc Pandora Moments afin de garder vos souvenirs familiaux au plus près de vous
 - Ce bijou sophistiqué est en argent 925/1000e et gravé du message « Family is where love grows » (La famille est le terreau de lamour)
+- Compatible avec : Bracelets Pandora Moments
+- Ajoutez-le sur un bracelet ou un bracelet jonc Pandora Moments afin de garder vos souvenirs familiaux au plus près de vous
+- Larbre généalogique symbolise votre famille grandissante et les liens qui vous unissent
 - Ou offrez-le à une personne à laquelle vous êtes unie par un lien précieux
 - Ce charm intemporel en argent 925/1000 incarne donc à merveille lamour familial
 

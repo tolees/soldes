@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Merrell, shoe, femenino, adulto, vapor glove 6 purple, 40
 - Cuir nubuck pour une sandale haut de gamme sur les sentiers
+- Merrell, shoe, femenino, adulto, vapor glove 6 purple, 40
 - Bout de la chaussure: Rond
 
 [🛒 Achète-le!!]({{< param buyurl >}})

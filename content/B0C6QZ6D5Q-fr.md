@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Peut parfaitement être utilisé par les enfants grâce à sa forme ronde et épaisse
-- Assure un tracé constant tout au long de son utilisation
-- Crayon effaçable avec un chiffon humide ou à sec sur les surfaces lisses non poreuses
 - Crayon marqueur avec une mine spécialement conçue pour les tableaux blancs et les ardoises
-- Crayon de couleur gras, qui ne sèche pas, sans odeur et sans solvants
+- Assure un tracé constant tout au long de son utilisation
+- Peut parfaitement être utilisé par les enfants grâce à sa forme ronde et épaisse
+- Crayon effaçable avec un chiffon humide ou à sec sur les surfaces lisses non poreuses
 - Crayon fabriqué en bois 100% certifié PEFC
+- Crayon de couleur gras, qui ne sèche pas, sans odeur et sans solvants
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6QZ6D5Q{{</world>}}

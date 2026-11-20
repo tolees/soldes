@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - TEXAPORE CORE - protection fiable contre les intempéries, imperméable et respirant
-- Crochets métalliques pour faciliter le laçage
-- Semelle intermédiaire amortissante en EVA
 - Tige robuste en cuir velours
+- Semelle intermédiaire amortissante en EVA
+- Crochets métalliques pour faciliter le laçage
 - protection cousue des orteils et du talon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

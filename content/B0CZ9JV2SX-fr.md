@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petit col avec demi-zip.
+- Goussets sous les bras.
+- Technologie Freshrite Polygiene qui régule les odeurs.
+- 100 % polyester (71 % recyclé).
 - Coupe standard.
+- Facteur de protection contre les ultraviolets (UPF).
+- Petit col avec demi-zip.
 - Construction Twistknit.
 - CLIMACOOL.
-- 100 % polyester (71 % recyclé).
-- Goussets sous les bras.
-- Facteur de protection contre les ultraviolets (UPF).
-- Technologie Freshrite Polygiene qui régule les odeurs.
 - Contient au moins 70 % de matériaux recyclés et renouvelables.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Manches longues
 - Care Label:
 - Veste en simili daim
-- Manches longues
 - Regular Fit
 - materialFabricComposition: Superposition: 88% Polyester, 12% Viscose; Doublure: 100% Polyester; Rembourrage: 100% Polyester
 

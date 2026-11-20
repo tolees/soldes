@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dessus en cuir
-- semelle extérieure en caoutchouc
 - doublure en textile
+- semelle extérieure en caoutchouc
 - semelle intermédiaire en EVA découpée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

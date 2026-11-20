@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe standard.
-- Doublure textile.
-- Achetez une taille plus grande
-- Tige Fiberskin avec imprimé Sprintgrid.
-- Semelle extérieure Sprintplate 360 multi-surfaces.
 - Design sans lacets.
+- Doublure textile.
+- Semelle extérieure Sprintplate 360 multi-surfaces.
+- Coupe standard.
+- Tige Fiberskin avec imprimé Sprintgrid.
+- Achetez une taille plus grande
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CKXSF82W{{</world>}}

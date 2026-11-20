@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soutien maximal
-- Enfilage, retrait faciles
 - Antidérapant
+- Enfilage, retrait faciles
 - Amorti réactif
+- Soutien maximal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L4VS1C7{{</world>}}

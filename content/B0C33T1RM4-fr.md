@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Perforations au niveau des orteils
-- Logo Puma sur le talon
 - Bande Puma sur les côtés médiaux et latéraux
+- Logo Puma sur le talon
 - Semelle intérieure Step-in
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

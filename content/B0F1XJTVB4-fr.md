@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lacets.
 - Semelle de propreté en textile.
+- Lacets.
 - Chaussant standard.
 - Semelle extérieure synthétique.
 - Synthetic upper

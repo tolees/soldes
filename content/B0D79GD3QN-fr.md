@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Semelle durable et stable
 - Empeigne en mesh technique
 - Semelle intermédiaire avancée pour un confort supérieur
-- Semelle durable et stable
 - Amorti GEL à 360°
 - Idéal pour un style de vie sportif
 

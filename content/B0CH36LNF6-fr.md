@@ -28,14 +28,14 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- La pression peut être facilement lue dans toutes les conditions déclairage grce à un manomètre éclairé
-- Le kit de démarrage de batterie 18 V – Utilisation flexible de tous les appareils verts du système 18 V
-- Gonflage rapide et puissant, avec une pression allant jusquà 10,3 bars et un débit dair de 30 lmin
-- Durable : réalisation de presque tous les projets de bricolage avec une seule charge de batterie
 - Tous les accessoires ont une place dédiée dans le compartiment à accessoires intégré ; le tuyau dair anti-torsion est enroulé à lavant
-- Power for ALL 18 V : la batterie et le chargeur inclus sont compatibles avec tous les produits du système vert Bosch Home & Garden 18 V et les aspirateurs Bosch Unlimited
-- Compact, léger et ergonomique, le chargeur flexible pour toutes les utilisations
+- La pression peut être facilement lue dans toutes les conditions déclairage grce à un manomètre éclairé
 - Ladaptateur de la valve de la voiture est fermement fixé à lextrémité du tuyau. Les autres adaptateurs sont vissés dessus
+- Compact, léger et ergonomique, le chargeur flexible pour toutes les utilisations
+- Le kit de démarrage de batterie 18 V – Utilisation flexible de tous les appareils verts du système 18 V
+- Durable : réalisation de presque tous les projets de bricolage avec une seule charge de batterie
+- Gonflage rapide et puissant, avec une pression allant jusquà 10,3 bars et un débit dair de 30 lmin
+- Power for ALL 18 V : la batterie et le chargeur inclus sont compatibles avec tous les produits du système vert Bosch Home & Garden 18 V et les aspirateurs Bosch Unlimited
 - Livré dans un carton avec un UniversalPump, une aiguille à bille, un adaptateur de vanne française, un adaptateur de ballon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

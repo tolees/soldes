@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Simple d’utilisation : imprime des étiquettes sans nécessiter de pilotes grâce au logiciel de conception d’étiquettes P-touch Editor Lite intégré
 - Vitesse dimpression de 150 mm/sec
 - Imprime jusquà 62 mm de largeur
-- Haute qualité résolution d’impression jusqu’à 300 x 600 dpi
 - Tailles rubans : DK 12 / 17 / 24 / 29 / 38 / 58 / 62 mm
+- Haute qualité résolution d’impression jusqu’à 300 x 600 dpi
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007CV9FB0{{</world>}}

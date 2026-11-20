@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Détails réfléchissants
 - Poignets côtelés
+- Détails réfléchissants
 - Capuche amovible pour plus de sécurité
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabriqué avec des matériaux durables et de qualité
 - Champion Logo C
+- Fabriqué avec des matériaux durables et de qualité
 - Semelles douces et confortables
 
 [🛒 Achète-le!!]({{< param buyurl >}})

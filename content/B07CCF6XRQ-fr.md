@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - Semelle synthétique
 - Fermeture : zip
 - Hauteur du talon : 2,3 cm. Forme du talon : plat.Résistant à leau.1 cm, 1 cm
-- Matériau intérieur : synthétique
 - Matériau extérieur : synthétique
+- Matériau intérieur : synthétique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07CCF6XRQ{{</world>}}

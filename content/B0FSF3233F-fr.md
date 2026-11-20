@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 👯 JEU DE CARTES ENTRE AMIS OU EN FAMILLE : Des jeux d’ambiance accessibles dès 12 ans, parfait pour animer une soirée, un apéro, un après-midi ou un week-end en famille.
+- ♻️ Un jeu imprimé en Europe & éco-friendly. Papier écoresponsable et 1% des bénéfices reversé à des associations caritatives.
+- 🎶 UNIQUE : Formez deux équipes et disputez 4 manches aux concepts uniques pour déterminer quelle équipe est la plus incollable sur les musiques cultes de ces quatre décennies.
+- 🎁 LE CADEAU IDÉAL : Play Hit est le cadeau parfait pour Noël, anniversaire, soirée jeux et toute occasion où on veut rigoler autour de la musique !
 - 😂 DÉLIRANT : Jeu de société rapide & parfait pour mettre lambiance (2-10 joueurs / 15-30 min). Règles faciles à comprendre.
 - ⚡️ RAPIDE : Répondez aux questions, remportez un blind test original et épatez vos adversaires : le jeu idéal pour passer un bon moment en revisitant les tubes marquants des années 90 2000 2010 et 2020 ! !
-- 🎶 UNIQUE : Formez deux équipes et disputez 4 manches aux concepts uniques pour déterminer quelle équipe est la plus incollable sur les musiques cultes de ces quatre décennies.
-- ♻️ Un jeu imprimé en Europe & éco-friendly. Papier écoresponsable et 1% des bénéfices reversé à des associations caritatives.
-- 👯 JEU DE CARTES ENTRE AMIS OU EN FAMILLE : Des jeux d’ambiance accessibles dès 12 ans, parfait pour animer une soirée, un apéro, un après-midi ou un week-end en famille.
-- 🎁 LE CADEAU IDÉAL : Play Hit est le cadeau parfait pour Noël, anniversaire, soirée jeux et toute occasion où on veut rigoler autour de la musique !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FSF3233F{{</world>}}

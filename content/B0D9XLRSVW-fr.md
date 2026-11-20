@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 1 frein avant Caliper
 - Norme EN71 ( Rétropédalage obligatoire )
-- Transmission Mono vitesse - Pignon Fixe
 - Pneus EVA increvables - Jantes avec roues bâtons - Roulements nylons sur direction et pédalier
+- Panier avant - Klaxon - Garde-boues
 - Cadre & fourche rigide acier
 - Carter de Protection - 2 Stabilisateurs avec montage sans outils
-- Panier avant - Klaxon - Garde-boues
+- Transmission Mono vitesse - Pignon Fixe
+- 1 frein avant Caliper
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D9XLRSVW{{</world>}}

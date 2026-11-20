@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- housse de pluie détachable
-- Le compartiment séparé pour la poche dhydratation est compatible avec des systèmes dhydratation jusquà 2 litres.
 - Porte-lunettes et porte-bâtons
+- Le compartiment séparé pour la poche dhydratation est compatible avec des systèmes dhydratation jusquà 2 litres.
+- housse de pluie détachable
 - sangle de poitrine réglable en continu
 - Une ventilation maximale grâce au système de dos en filet Aircomfort assure un confort de port optimal
 

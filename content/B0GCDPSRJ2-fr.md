@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pantalon de Jogging HUGO pour enfant, coloris Bleu
 - Taille 4 Ans
+- Pantalon de Jogging HUGO pour enfant, coloris Bleu
 - Poches, taille elastiquee avec cordon de serrage, jersey 100 % coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

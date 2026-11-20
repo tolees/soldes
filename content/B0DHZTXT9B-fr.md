@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tige synthétique
 - Doublure textile
 - Fermeture à lacets
-- Tige synthétique
 - Chaussant standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})

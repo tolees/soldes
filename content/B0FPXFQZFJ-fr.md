@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le braquage du train de police 60508 | Jouet pour enfant dès 7 ans maquette de train télécommandé hélicoptère & voiture 6 minifigurines cadeau 1313 pièces'
-date: 2026-11-18 14:16:45
+date: 2026-11-19 19:11:57
 image: 'https://m.media-amazon.com/images/I/519vtmypyVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFQZFJ/?tag=tolees0d-21'
 descuento: '36.00'
-average: '129.36904761904737'
+average: '129.30681818181793'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

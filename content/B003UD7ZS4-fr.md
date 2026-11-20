@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Range Cordon
 - Dimensions: 32 x 32 x 14 cm
 - 2 Positions: Gril double face et barbecue 180°C
-- Cuisson rapide: Avec une puissance de 2000 W pour saisir vos viandes à une température homogène et obtenir ainsi une viande bien marquée
-- Un gril-viande pratique, efficace et compact Vous pourrez réaliser vos grillades en toute simplicité Ses larges plaques inclinées permettent lécoulement des jus dans le bac spécifique
-- Maxi surface de cuisson: 600 cm²
 - Plaques inclinées et amovibles: Une inclinaison des plaques qui facilite la récupération des jus et des plaques Facilement démontables, les plaques passent au lave vaisselle
+- Un gril-viande pratique, efficace et compact Vous pourrez réaliser vos grillades en toute simplicité Ses larges plaques inclinées permettent lécoulement des jus dans le bac spécifique
+- Range Cordon
+- Cuisson rapide: Avec une puissance de 2000 W pour saisir vos viandes à une température homogène et obtenir ainsi une viande bien marquée
+- Maxi surface de cuisson: 600 cm²
 - Longueur du cordon électrique : 1,1 m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

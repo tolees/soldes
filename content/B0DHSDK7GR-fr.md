@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO | Marvel Le Laboratoire d’Iron Man : la Salle des Armures - Jeu de Construction avec Robot et 5 Minifigurines dont Aldrich Killian & Robot Dum-E - Cadeau Avengers Garçon ou Fille dès 8 ans 76315'
-date: 2026-06-06 06:51:54
-image: 'https://m.media-amazon.com/images/I/513fFPfUbdL._SL500_._SL400_.jpg'
+title: 'LEGO Marvel Le laboratoire d’Iron Man : la salle des armures 76315 | Jouet pour garçon ou fille dès 8 ans robot et 5 minifigurines dont Aldrich Killian et robot Dum-E idée cadeau 384 pièces'
+date: 2026-11-20 03:38:24
+image: 'https://m.media-amazon.com/images/I/51jmnMYZZrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0DHSDK7GR-fr LEGO | Marvel Le Laboratoire d’Iron Man : la Salle des...'
+slug: 'B0DHSDK7GR-fr LEGO Marvel Le laboratoire d’Iron Man : la salle des...'
 sku: 'B0DHSDK7GR-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 39.99 EUR
+actualPrice: 36.99 EUR
 currency: EUR
-price: 39.99
+price: 36.99
 comparePrice: 54.99 EUR
-prodname: 'LEGO | Marvel Le Laboratoire d’Iron Man : la Salle des Armures - Jeu de Construction avec Robot et 5 Minifigurines dont Aldrich Killian & Robot Dum-E - Cadeau Avengers Garçon ou Fille dès 8 ans 76315'
+prodname: 'LEGO Marvel Le laboratoire d’Iron Man : la salle des armures 76315 | Jouet pour garçon ou fille dès 8 ans robot et 5 minifigurines dont Aldrich Killian et robot Dum-E idée cadeau 384 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0DHSDK7GR/?tag=tolees0d-21'
-descuento: '27.28'
-average: '42.49'
+descuento: '32.73'
+average: '40.656666666666666'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,13 +28,6 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Action et aventures avec Iron Man – Le laboratoire inclut 3 capsules pour armures pouvant être connectées à leurs versions précédentes, une plateforme de maintenance avec 2 bras robotiques, un grand scanner et 2 fusils à tenons
-- Personnages de super-héros – Ce jouet LEGO contient les armures d’Iron Man MK1, MK43 et MK6, les minifigurines de Pepper Potts et Aldrich Killian, le robot Dum-E à construire et le robot MK3 doté de bras et jambes mobiles et d’un cockpit qui s’ouvre
-- Jouets à construire pour les jeunes super-héros – La vaste gamme de jouets de construction LEGO Marvel offre aux enfants un univers innovant d’aventures de construction et de jeux avec des super-héros
-- Instructions de montage 3D – Les enfants peuvent télécharger l’application LEGO Builder pour une expérience de construction immersive, avec des outils pour zoomer, faire pivoter les modèles en 3D, enregistrer leurs sets et suivre leur progression
-- Accessoires amusants – Des détails authentiques, tels qu’un extincteur et 2 éléments de feu, stimulent le jeu créatif
-- Jouet LEGO super-héros avec labo d’Iron Man et figurines LEGO Marvel – Le laboratoire d’Iron Man : la salle des armures est un jeu LEGO Avengers destiné aux garçons et aux filles de 8 ans et plus, permettant de construire, jouer et exposer
-- Idée de cadeau Iron Man pour garçons et filles dès 8 ans – Ce jeu de construction LEGO aux multiples options est une belle idée de cadeau danniversaire pour les enfants qui aiment les aventures de super-héros et les films Marvel
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHSDK7GR{{</world>}}

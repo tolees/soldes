@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc adhérente
-- Logo PUMA Cat à la languette et sur lavant de la chaussure
 - Matière supérieure en filet dADN Anzarun
-- Coupe basse
+- Semelle extérieure en caoutchouc adhérente
 - Semelle intermédiaire EVA pour le confort
+- Logo PUMA Cat à la languette et sur lavant de la chaussure
+- Coupe basse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07S7QWPFZ{{</world>}}

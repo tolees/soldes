@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Le système damortissement Castelli (CDS) protège le nerf médian
-- Doublure polaire chaude
 - Bandes réfléchissantes sur la poche
+- Doublure polaire chaude
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07WSDFQFS{{</world>}}

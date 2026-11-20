@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Connectivité totale : smartphone, tablette, Wifi, USB, Google Drive, Dropbox
-- Économisez sur limpression de gros volumes à la maison ou au bureau avec jusquà 3 ans de cartouches dencre inclus dans la boîte
-- Bénéficiez de connexions plus rapides, plus fiables avec le Wi-Fi double bande
-- Recharge simple et sans éclaboussures : Le système unique de réservoir d’encre de HP vous offre un rechargement facile, pratique et propre avec des flacons refermables
-- Impression recto-verso manuelle
 - Le choix idéal pour les professionnels et le télétravail : Capacité à imprimer de gros volumes, chargeur automatique de documents, numérisation et impression à grande vitesse, qualité exceptionnelle
+- Impression recto-verso manuelle
+- Bénéficiez de connexions plus rapides, plus fiables avec le Wi-Fi double bande
+- Économisez sur limpression de gros volumes à la maison ou au bureau avec jusquà 3 ans de cartouches dencre inclus dans la boîte
+- Connectivité totale : smartphone, tablette, Wifi, USB, Google Drive, Dropbox
+- Recharge simple et sans éclaboussures : Le système unique de réservoir d’encre de HP vous offre un rechargement facile, pratique et propre avec des flacons refermables
 - Boostez votre productivité avec HP Smart App : Imprimez, numérisez et copiez depuis votre smartphone avec l’application HP Smart.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

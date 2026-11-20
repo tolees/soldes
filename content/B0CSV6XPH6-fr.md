@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Durable
 - Robuste
+- Durable
 - Modèle : (SM-S921B/DS UD)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

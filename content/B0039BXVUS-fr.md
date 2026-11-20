@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- REMARQUE: Filter, interior air, Filter Type: Activated Carbon Filter
 - ATTENTION - Veuillez vérifier sur la base des données de votre véhicule si cette pièce de rechange est compatible avec votre véhicule et tenez compte, le cas échéant, des restrictions/critères existants.
 - COMPATIBLE AVEC: FORD FOCUS II, FOCUS II Cabriolet, FOCUS II Stufenheck, FOCUS II Turnier, VOLVO C30, C70 II Cabriolet, S40 II, V50
+- REMARQUE: Filter, interior air, Filter Type: Activated Carbon Filter
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0039BXVUS{{</world>}}

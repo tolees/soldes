@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : Cuir
+- Type de fermeture : Lacet
 - Matériau unique : Caoutchouc
 - Type de talon : Plat
-- Type de fermeture : Lacet
+- Matériau intérieur : Cuir
 - Matériau extérieur : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})

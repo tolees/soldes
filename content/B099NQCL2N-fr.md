@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Excellent pour un design durable
 - Doublure Gore-Tex imperméable et respirante
 - Semelle intérieure en cuir tanné sans chrome
 - Excellent amorti grâce à la semelle avec zones flexibles
+- Excellent pour un design durable
 - Cuir nubuck et daim doux au toucher
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

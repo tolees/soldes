@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tissu imperméable
 - Cuir suédé, textile et sangles
 - Semelle intercalaire Techlite légère : amorti et confort
-- Tissu imperméable
 - Semelle extérieure en caoutchouc Omni-Grip non marquant pour une bonne adhérence
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Version en langue française
 - Edition officielle française
+- Version en langue française
 - Fabriqué en France
 
 [🛒 Achète-le!!]({{< param buyurl >}})

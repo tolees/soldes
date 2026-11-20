@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Entretien des arbres indépendants de lélectricité avecdes composants de bonne qualité et à une forte puissance de la batterie
-- Système de charge intelligent pour une longue durée de vie de la batterie
-- Témoin du niveau de charge à 6 positions
 - Confort de maniement ergonomique avec une tête de moteur basculante à sept fois et à une tête rotative à 90° pour une coupe horizontale sans effort.
-- Spécifications de la chaîne: 20 cm de long; 1,3 mm dépaisseur ; 33 dents ; chambre de 3/8 po
-- Temps de charge 75 minutes
 - Témoin LED du niveau de charge de la batterie à 3 positions
-- Cellules Lithium-Ion haut de gamme pratiquement pas d’auto-décharge
 - La sécurité la plus aboutie contrôle permanent de tous les paramètres par un microprocesseur
+- Entretien des arbres indépendants de lélectricité avecdes composants de bonne qualité et à une forte puissance de la batterie
+- Temps de charge 75 minutes
+- Témoin du niveau de charge à 6 positions
 - Confort maximal avec moteur léger et au rapport de poids équilibré, poignée télescopique facilement réglable et poignée principale ergonomique et supplémentaire Lame de qualité Oregon, repose-griffes, boulons de support de chaîne et changement de chaîne sans outil Lubrification automatique de la chaîne
+- Spécifications de la chaîne: 20 cm de long; 1,3 mm dépaisseur ; 33 dents ; chambre de 3/8 po
+- Cellules Lithium-Ion haut de gamme pratiquement pas d’auto-décharge
+- Système de charge intelligent pour une longue durée de vie de la batterie
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Z9NL1CN{{</world>}}

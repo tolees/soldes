@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Original Mr. Wonderful.
 - · Un bloc de notes autocollantes 10 x 7,5 cm
 - Contient : Un bloc-notes 18 x 12,5 cm
-- Original Mr. Wonderful.
 - Carnet de notes à couverture rigide avec bloc-notes et notes autocollantes à lintérieur.
 - · Un bloc de notes autocollantes 18 x 5 cm
 

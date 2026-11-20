@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Basics
-- Veste || Coupe classique || Couleur intense || Matière longue durée
 - Découvrez toutes les meilleures marques chez EMP!
 - Veste mi-saison présentant les caractéristiques suivantes:
+- Basics
 - Coupe: Coupe classique
+- Veste || Coupe classique || Couleur intense || Matière longue durée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07HFZ59KK{{</world>}}

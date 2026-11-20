@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - NOUVEAUTÉS POWER RANGERS : Tes héros préférés reviennent dans des versions inédites, inspirées de la nouvelle série remasterisée Mighty Morphin !
 - TAILLE : Ta figurine mesure 30 cm.
-- FONCTIONS ÉLECTRONIQUES : Appuie sur le bouton sur son torse pour activer les effets lumineux de ses yeux, et sonores en français !
 - FIGURINE ARTICULÉE : Retrouve ta figurine Megazord avec plus de 10 points darticulation pour reproduire les scènes épiques de la série !
 - ACCESSOIRES INCLUS : 1 bouclier et 1 épée.
+- FONCTIONS ÉLECTRONIQUES : Appuie sur le bouton sur son torse pour activer les effets lumineux de ses yeux, et sonores en français !
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F54MJ7FY{{</world>}}

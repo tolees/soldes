@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Réf : M5039_39
-- Matière(s) : - Type de baskets : Basses
 - Délais de livraison : 48h à 72H
+- Matière(s) : - Type de baskets : Basses
+- Réf : M5039_39
 - Noir
 - Type de fermeture : Lacet
 

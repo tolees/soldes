@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Better Leather
 - Doublure : 46 % cuir de porc 32 % tissu (45 % polyester recyclé - 35 % coton recyclé - 20 % viscose) 22 % polyester recyclé
-- Semelle extérieure : 100 % EVA
+- Better Leather
 - Matériau extérieur : 100 % cuir de vachette
 - Couleur : vert foncé
+- Semelle extérieure : 100 % EVA
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CXJMJ7VZ{{</world>}}

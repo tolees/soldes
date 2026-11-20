@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Mèche de défonceuse
-- Diamètre : ..8 mm
-- CMT
 - Référence : CM-CMT19208111
+- Mèche de défonceuse
+- CMT
+- Diamètre : ..8 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00JBJGHX0{{</world>}}

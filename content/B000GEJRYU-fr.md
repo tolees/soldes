@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Brillance exceptionnelle.
+- Longue tenue, en suivant le protocole dapplication.
 - Les vernis à ongles OPI sont reconnus par les professionnels de la manucure.
 - Facilité dapplication grâce à un pinceau breveté.
 - Contient environ 40 applications en double couche - A mélanger énergiquement avant application.
-- Brillance exceptionnelle.
-- Longue tenue, en suivant le protocole dapplication.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000GEJRYU{{</world>}}

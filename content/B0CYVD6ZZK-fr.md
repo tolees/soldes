@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
+- Semelle extérieure Traxion à crampons.
+- Drop semelle intermédiaire : 7 mm (talon : 23 mm / avant-pied : 16 mm).
+- Semelle intermédiaire en EVA.
 - Poids : 373 g (pointure 42 2/3).
+- Fermeture à lacets.
+- Chaussant standard.
 - Contient au moins 20 % de matériaux recyclés.
+- Doublure textile.
 - Membrane GORE-TEX.
 - Tige textile avec empiècements en matière synthétique.
-- Semelle intermédiaire en EVA.
-- Drop semelle intermédiaire : 7 mm (talon : 23 mm / avant-pied : 16 mm).
-- Chaussant standard.
-- Semelle extérieure Traxion à crampons.
-- Doublure textile.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CYVD6ZZK{{</world>}}

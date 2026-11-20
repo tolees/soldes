@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo Glastonbury Tor en relief
-- Semelle EVA C360 ultra douce et légère
 - Design unique darchivage Clarks
+- Semelle EVA C360 ultra douce et légère
 - Les lacets authentiques et le talon offrent un pied sûr et personnalisé et un enfilage facile
 
 [🛒 Achète-le!!]({{< param buyurl >}})

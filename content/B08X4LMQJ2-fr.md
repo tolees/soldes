@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cadran noir brossé verticalement
-- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
-- Bracelet en acier inoxydable avec placage ionique (IP) noir
 - Épaisseur du boîtier 9,3mm, Diamètre du boîtier 43 mm
+- Résistance à leau 3 ATM Les éclaboussures deau ou la pluie ne leur causeront aucun dommage tant que le boîtier, la couronne et la glace restent intacts.
+- Cadran noir brossé verticalement
+- Bracelet en acier inoxydable avec placage ionique (IP) noir
 - Mouvement à quartz à 3 aiguilles
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

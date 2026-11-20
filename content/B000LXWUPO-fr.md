@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Facile à doser: se verse toutes les semaines dans laquarium
 - Permet de maintenir le taux de nitrates sous la barre
 - Pour aquariums deau douce
-- Facile à doser: se verse toutes les semaines dans laquarium
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000LXWUPO{{</world>}}

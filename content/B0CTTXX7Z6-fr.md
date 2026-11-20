@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- DÉTAILS AUTHENTIQUES : le pack comprend des détails authentiques de la série animée Pokémon.
+- LANCEURS DE TOUPIE : inclut aussi un lanceur de toupie Poké Ball
 - POKÉMON ICONIQUE : la toupie de combat présente le Salamèche de type Feu.
 - PRODUIT OFFICIEL : Produit Jazwares sous licence Pokémon.
-- LANCEURS DE TOUPIE : inclut aussi un lanceur de toupie Poké Ball
-- DÉTAILS AUTHENTIQUES : le pack comprend des détails authentiques de la série animée Pokémon.
 - TOUPIE DE COMBAT : combats au coude à coude avec le pack de toupies de combat Salamèche Pokémon.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

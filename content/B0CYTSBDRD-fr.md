@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
 - Fermeture à lacet.
+- Doublure textile.
 - Chaussant standard.
 - Tige textile.
 

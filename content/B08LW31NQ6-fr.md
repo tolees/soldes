@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Capteur optique bleu fonctionnant sur la plupart des surfaces
+- Réglage instantané du DPI : 2400, 1600, 800
 - Caractéristiques Bluetooth 5.0 avec double prise en charge de la connexion pour basculer entre 2 appareils
 - Boutons silencieux sans bruits de clic gênants
-- Réglage instantané du DPI : 2400, 1600, 800
 - Fonction Swift Pair pour une connexion facile à de nouveaux appareils
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

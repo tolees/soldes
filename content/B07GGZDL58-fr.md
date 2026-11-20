@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col et languette rembourrés
-- Semelle intérieure confortable en mousse à mémoire de forme refroidie à lair
 - Baskets de marche sportives à lacets élastiques à enfiler
+- Semelle intérieure confortable en mousse à mémoire de forme refroidie à lair
+- Col et languette rembourrés
 - Empiècement de talon avec languette supérieure
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

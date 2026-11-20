@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Mouvement multifonction
+- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Épaisseur du boîtier 10,7mm / Diamètre du boîtier 45 mm
 - Cadran noir
-- Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Bracelet en acier inoxydable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le Razor Crest 75447 | Jouet pour garçon ou fille dès 10 ans maquette 4 minifigurines et figurine de Grogu cadeau d’anniversaire 930 pièces'
-date: 2026-11-18 14:16:52
+date: 2026-11-19 19:12:04
 image: 'https://m.media-amazon.com/images/I/519LInwCFVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXFTQ9S/?tag=tolees0d-21'
 descuento: '33.34'
-average: '100.38206349206234'
+average: '100.37593749999887'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

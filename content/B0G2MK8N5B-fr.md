@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en mesh technique pour une meilleure respirabilité
 - Semelle intermédiaire FlyteFoam pour un confort tout en légèreté
+- Tige en mesh technique pour une meilleure respirabilité
 - Technologie GEL pour un amorti supérieur
 
 [🛒 Achète-le!!]({{< param buyurl >}})

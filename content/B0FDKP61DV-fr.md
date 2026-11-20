@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Vos plus grandes émotions à collectionner au format Minix !
+- Figurine en PVC de 12cm de hauteur
+- Collectionnez vos célébrités et personnages préférées grâce à Minix
 - Vendue dans sa boîte d’exposition à l’effigie du personnage
 - Figurine Minix Mercredi Addams Parapluie sous licence officielle Wednesday
-- Vos plus grandes émotions à collectionner au format Minix !
-- Collectionnez vos célébrités et personnages préférées grâce à Minix
-- Figurine en PVC de 12cm de hauteur
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FDKP61DV{{</world>}}

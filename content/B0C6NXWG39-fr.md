@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture : lacets
-- Matériau intérieur : synthétique
-- Semelle : caoutchouc
-- Forme du talon : plat
 - Matériau extérieur : cuir
+- Matériau intérieur : synthétique
+- Forme du talon : plat
+- Semelle : caoutchouc
+- Fermeture : lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C6NXWG39{{</world>}}

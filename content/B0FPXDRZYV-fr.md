@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Voiture McLaren MCL39 F1 42228 | Set pour adulte maquette de voiture Formule 1 collector moteur V6 et différentiel idée cadeau 1675 pièces'
-date: 2026-11-18 14:14:50
+date: 2026-11-19 19:10:47
 image: 'https://m.media-amazon.com/images/I/41qSyHvIgrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

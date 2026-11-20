@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Protection en caoutchouc
 - Semelle supérieure offrant un excellent niveau de confort anatomique
 - Semelle intermédiaire avec rembourrage EVA double densité
-- Protection en caoutchouc
 - Tige basse en cuir durable, libérant la cheville
 - Semelle Vibram MULAZ dédiée à lalpinisme, précise et accrocheuse
 

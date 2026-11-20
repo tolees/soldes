@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Col pointu
 - Frappe à la hanche
 - Patte de boutonnage sur le devant
-- Col pointu
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DNNH1QG6{{</world>}}

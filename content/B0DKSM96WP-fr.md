@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 0
+- 0
 - Fabriqué à partir de 100 % coton biologique
-- 0
-- 0
 - 0
 - 0
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Coupe décontractée
-- Mousse à mémoire de forme refroidie à lair
 - Slip-Ins
+- Mousse à mémoire de forme refroidie à lair
 - Produit végétalien
 - Lavable en machine
 

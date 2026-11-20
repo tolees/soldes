@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Cordon traditionnel
 - La seme en caoutchouc fournit une traction et une durabilité
 - En mousse en mousse ajouter un amortissement pour durer
-- Cordon traditionnel
 - Le cuir, le tissu et le maillage sont combinés pour créer une construction durable, respirante et confortable à utiliser toute la journée
 - Conçu à lorigine pour les courses haute performance, lunité Air Max offre un amorti léger à chaque étape
 

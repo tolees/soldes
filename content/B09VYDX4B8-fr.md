@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Fermeture zippée
+- Capuche fixe ajustable
 - Finitions poignets en bord côte
 - 2 poches basses zippées & 1 poche intérieure zippée
-- Capuche fixe ajustable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09VYDX4B8{{</world>}}

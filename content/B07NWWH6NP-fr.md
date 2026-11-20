@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Chargeur Nitecore UI2
 - Intensité maximum: 800Ma (par accu)
 - Alimentation: DC 5V/2A 5W
 - Capacité maximale: 2 accus
-- Chargeur Nitecore UI2
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07NWWH6NP{{</world>}}

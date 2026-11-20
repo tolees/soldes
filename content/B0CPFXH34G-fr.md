@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Notre nouveau fluide de protection quotidienne solaire SPF 50+ à la vitamine C, pour vous aider à réduire les taches
 - Protection des UVA, UVB & UVA longs
+- Notre nouveau fluide de protection quotidienne solaire SPF 50+ à la vitamine C, pour vous aider à réduire les taches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CPFXH34G{{</world>}}

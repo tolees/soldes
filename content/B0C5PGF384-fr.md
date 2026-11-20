@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Moments de divertissement
 - Produit de qualité optimale
 - Format de disque vidéo compact
+- Moments de divertissement
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5PGF384{{</world>}}

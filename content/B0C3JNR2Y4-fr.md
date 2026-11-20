@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle extérieure en caoutchouc
-- Chaussant standard
 - Tige en matière synthétique
+- Chaussant standard
 - Fermeture à lacets
 - Doublure textile
 

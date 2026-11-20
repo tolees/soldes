@@ -29,11 +29,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Puissance 900-1100W; AC 220-240V-50 / 60Hz dalimentation
-- Résistance cachée
+- Pichet en verre gradué; Capacité 1L
 - Commutateur de commutation de libération automatique
 - Lumière LED pour léclairage
 - Filtre Inox amovible pour thé et tisanes
-- Pichet en verre gradué; Capacité 1L
+- Résistance cachée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09HRY69HH{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les bébés sont articulés et vêtus de jolies tenues assorties, chaque vêtement peut être enlevé et remis à loisir.
 - Les jumeaux peuvent monter dans leur jolie voiture.
-- À partir de 3 ans.
+- Les bébés sont articulés et vêtus de jolies tenues assorties, chaque vêtement peut être enlevé et remis à loisir.
 - Dadorables jumeaux Sylvanian Families à collectionner.
+- À partir de 3 ans.
 - Les jouets Sylvanian Families stimulent limagination et la curiosité des enfants.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

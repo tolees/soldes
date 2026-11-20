@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus en textile
 - Rembourrage léger
+- Dessus en textile
 - Fermeture à lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

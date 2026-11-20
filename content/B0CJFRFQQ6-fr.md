@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Funko Pop! présentant les caractéristiques suivantes:
-- Figurine de collection || Marchandises fun et de fans || Motif: Uni
 - Un véritable attrape-loeil pour chez vous!
 - Mesures: Taille standard
+- Funko Pop! présentant les caractéristiques suivantes:
+- Figurine de collection || Marchandises fun et de fans || Motif: Uni
 - Films, Jeux, Merchandising Pop Culture, Séries TV
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

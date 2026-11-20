@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussures de sport
 - Convient pour un usage quotidien
+- Chaussures de sport
 - Offre un confort optimal
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

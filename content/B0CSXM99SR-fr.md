@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Robustesse
-- Matériau de qualité supérieure
 - Dimensions de qualité supérieure :
 - Les informations ci-dessous sappliquent à chaque unité du pack
+- Matériau de qualité supérieure
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CSXM99SR{{</world>}}

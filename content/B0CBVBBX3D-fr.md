@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE SMART + WIFI LEMPLIQUE LED BLANC 32W 3400LM FONCTION DE LA LIGNE BLANCE DIMMABLE EFFET DE LUMIÈRE MAGIQUE MAGIQUE dynamique Life à longue durée'
-date: 2026-11-18 20:39:44
+date: 2026-11-20 15:26:24
 image: 'https://m.media-amazon.com/images/I/31EaaIvT44L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

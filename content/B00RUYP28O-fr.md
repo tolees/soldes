@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- doublure du corps en maillefilet
-- Logo Imprimé par transfert thermique
+- doublure de la mentonnière et nuque en Tricot brossé
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- doublure de la mentonnière et nuque en Tricot brossé
 - finition déperlante DWR
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Cordon de serrage élastique à la capuche et à lourlet
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Manchettes élastiquées
 - doublure du corps en maillefilet
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- Manchettes élastiquées
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - Deux poches principales zippées à rabat
 - Capuche fixe avec Cordon de serrage unidirectionnel
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - finition déperlante DWR
+- Manchettes élastiquées
+- Manchettes élastiquées
 - Cordon de serrage élastique à la capuche et à lourlet
-- doublure de la mentonnière et nuque en Tricot brossé
+- doublure du corps en maillefilet
 - Deux poches principales zippées à rabat
-- doublure de la mentonnière et nuque en Tricot brossé
+- Logo Imprimé par transfert thermique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

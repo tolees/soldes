@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sélecteur 6 vitesses + Impulsion
-- Batteur Crochet Pétrisseur Fouet
 - Mouvement planétaire pour un mélange parfait
+- Batteur Crochet Pétrisseur Fouet
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07FDPZTNY{{</world>}}

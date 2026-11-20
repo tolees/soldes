@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Poche à monnaie dans la poche avant droite
+- COUPE AJUSTÉE, JAMBES FUSELÉES
 - Rugged Flex Denim
 - Rugged Flex - Grande facilité de mouvement
-- Repose légèrement sous la taille
 - Pantalons longs
+- Repose légèrement sous la taille
 - Deux poches avant
-- COUPE AJUSTÉE, JAMBES FUSELÉES
-- Poche à monnaie dans la poche avant droite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MYC00T0{{</world>}}

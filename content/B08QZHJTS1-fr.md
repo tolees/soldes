@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture: Pull On
-- Manche longue
 - Type de col: sweatshirt
-- Standard
-- 82% Coton, 18% Polyester
 - Lavage à la main seulement
+- 82% Coton, 18% Polyester
+- Manche longue
+- Fermeture: Pull On
+- Standard
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08QZHJTS1{{</world>}}

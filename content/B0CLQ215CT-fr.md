@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Isolation : 60 g/m²
-- Protège-poignet renforcé avec tête de marteau.
 - Tissu imperméable
-- Genoux articulés
-- Onglets réglables à la taille
 - Système de croissance Outgrown
 - Guêtres intérieures pour les jambes
+- Protège-poignet renforcé avec tête de marteau.
+- Genoux articulés
+- Onglets réglables à la taille
+- Isolation : 60 g/m²
 - Taille réglable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

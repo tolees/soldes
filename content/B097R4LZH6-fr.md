@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les deux canaux vous permettent de brancher micros et instruments et davoir immédiatement un bon son, sans accessoire supplémentaire.
 - Un mode Eco pour augmenter lautonomie de jeu (puissance de sortie max : 5 watts).
+- Fonctionne sur huit piles alcalines AA ou avec ladaptateur secteur inclus.
+- Évolution du populaire CUBE Street Roland, et désormais intégré à la gamme BOSS, ce puissant ampli à piles vous procure un riche son stéréo pour les concerts de rue et autres prestations mobiles.
 - Travaillez ou improvisez à laide de lappli CUBE JAM pour iOS.
+- Enregistrez ou diffusez en direct laudio de vos concerts sur un ordinateur ou un terminal mobile via USB ou i-CUBE Link
 - Avec le CUBE Street II à vos côtés, vous disposez des outils dont vous avez besoin pour faire passer votre message avec confiance dans toute situation de mobilité, dun concert en pleine rue à une présentation publique.
 - Une fonction dharmonisation vocale, un Looper et des effets sont également disponibles pour donner encore plus de qualité à vos prestations et impressionner les foules.
 - Disponible en noir ou rouge.
-- Évolution du populaire CUBE Street Roland, et désormais intégré à la gamme BOSS, ce puissant ampli à piles vous procure un riche son stéréo pour les concerts de rue et autres prestations mobiles.
-- Fonctionne sur huit piles alcalines AA ou avec ladaptateur secteur inclus.
-- Enregistrez ou diffusez en direct laudio de vos concerts sur un ordinateur ou un terminal mobile via USB ou i-CUBE Link
+- Les deux canaux vous permettent de brancher micros et instruments et davoir immédiatement un bon son, sans accessoire supplémentaire.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B097R4LZH6{{</world>}}

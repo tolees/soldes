@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 20 enveloppes DL doublées toile impériale gommées Blanc
-- 110x220mm
 - Pour une correspondance chic et classique.
+- 110x220mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B004GAOISU{{</world>}}

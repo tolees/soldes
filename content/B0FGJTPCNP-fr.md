@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sweater de la collection pour femme
-- Collection printemps-été
-- Fabriqué en Chine
 - Couleur : noir
 - 57 % viscose, 43 % polyester
+- Fabriqué en Chine
+- Collection printemps-été
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0FGJTPCNP{{</world>}}

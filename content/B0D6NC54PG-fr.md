@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable à porter
 - il sagit dun produit authentique et original Geox
 - il assure un ajustement optimal
+- Confortable à porter
 - Ce style a été produit de manière durable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Léger, facile à coupler
-- Longueur : 30 cm
 - Extension (filetage G) avec porte-buse pour une grande portée
 - Application de peinture ergonomique confortable sur les plafonds, murs hauts ou planchers
+- Longueur : 30 cm
 - Convient pour Control 150 M, Control Pro 250 M, 250 R, 350 M et 350 R
+- Léger, facile à coupler
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B073JY8PJD{{</world>}}

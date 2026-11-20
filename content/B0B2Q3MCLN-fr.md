@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ultra transparent et très résistant.
-- Produit expédié dans un emballage renforcé, dédié à la vente en ligne.
-- Vendu en boite de 6 pièces.
 - Fabriqué à Arques, dans le Nord de la France.
 - Fabriqué en Krysta, un cristallin haut de gamme.
+- Vendu en boite de 6 pièces.
+- Produit expédié dans un emballage renforcé, dédié à la vente en ligne.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0B2Q3MCLN{{</world>}}

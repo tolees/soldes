@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Étui rectangulaire pour violon de taille entière
 - Étui conforme aux normes professionnelles avec intérieur profilé et doublé de peluche
+- Étui rectangulaire pour violon de taille entière
 - 3 compartiments internes. Une poche externe pour les partitions.
 - Intérieur : 4 supports pour archets, protection antipoussière et hygromètre (indicateur dhumidité).
 

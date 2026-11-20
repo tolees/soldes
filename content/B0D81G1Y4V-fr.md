@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus contemporain
 - Style moderne pour une esthétique élégante et simple
+- Dessus contemporain
 - Fenêtres supérieures pour une meilleure respirabilité
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

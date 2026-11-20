@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Largeur de la chaussure : moyenne
-- Forme du talon : plat
 - Indice de résistance à leau : imperméable
+- Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BM51TGS2{{</world>}}

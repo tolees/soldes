@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en suède
-- Fermeture à lacets pour un ajustement ideal
-- Bracelet cousu et rembourré
 - Logo PUMA N° 1 sur la languette
 - Œillets redesignés
+- Tige en suède
+- Bracelet cousu et rembourré
+- Fermeture à lacets pour un ajustement ideal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09YXQ7GPP{{</world>}}

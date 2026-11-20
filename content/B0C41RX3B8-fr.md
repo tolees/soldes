@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair sur le dessus
 - 1 poche intérieure zippée, 2 poches plaquées
-- 34 cm L x 15 cm P x 27 cm H
-- Poignée supérieure
+- Fermeture éclair sur le dessus
 - Tissu jacquard
+- Poignée supérieure
+- 34 cm L x 15 cm P x 27 cm H
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C41RX3B8{{</world>}}

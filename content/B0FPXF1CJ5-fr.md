@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends La boutique de friandises pour chiens 42677 | Jouet pour enfant dès 6 ans 2 mini-poupées 4 figurines d animaux magasin caisse cadeau d’anniversaire 278 pièces'
-date: 2026-11-18 14:15:11
+date: 2026-11-19 19:10:58
 image: 'https://m.media-amazon.com/images/I/51z5BMMvxxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXF1CJ5/?tag=tolees0d-21'
 descuento: '43.65'
-average: '17.351428571428567'
+average: '17.321333333333328'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

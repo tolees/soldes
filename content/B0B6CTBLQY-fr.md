@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Détails de branding subtils
+- Coutures renforcées pour plus de durabilité
 - Construction à 5 poches classique
 - Coupe slim
-- Coutures renforcées pour plus de durabilité
-- Détails de branding subtils
 - Fermeture par bouton et zip
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

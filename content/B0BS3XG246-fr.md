@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- AGE : Pour les enfants à partir de 5 ans.
-- PERSONNAGES & THEMES: Collectionne Mickey, Cendrillon, Raiponce ou encore Stitch, Buzz lEclair et plein dautres!
 - COLLECTIONNE: 15 véhicules à découvrir. Collectionne-les tous!
-- OUVRE ET DÉCOUVRE: Un véhicule et une figurine exclusifs!
 - TAILLE FIGURINE: La figurine mesure 3,5 cm environ.
+- PERSONNAGES & THEMES: Collectionne Mickey, Cendrillon, Raiponce ou encore Stitch, Buzz lEclair et plein dautres!
+- OUVRE ET DÉCOUVRE: Un véhicule et une figurine exclusifs!
+- AGE : Pour les enfants à partir de 5 ans.
 - TAILLE VÉHICULE: Le véhicule mesure 6.4 cm environ.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

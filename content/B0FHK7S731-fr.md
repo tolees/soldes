@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Profitez de 7 ans de mises à jour et de nouvelles fonctionnalités.
-- Il vous protège, vous et vos données.
-- Conçu pour Gemini, votre assistant IA.
 - Une conception haut de gamme ultra-résistante.
+- Il vous protège, vous et vos données.
+- Profitez de 7 ans de mises à jour et de nouvelles fonctionnalités.
+- Conçu pour Gemini, votre assistant IA.
 - Nouveau téléobjectif avec zoom haute résolution jusquà x20.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure Traxion à crampons.
-- Chaussant standard.
-- Tige textile avec empiècements en matière synthétique.
 - Fermeture à lacets.
+- Semelle extérieure Traxion à crampons.
+- Poids : 312 g (pointure 38 2/3).
+- Drop semelle intermédiaire : 6 mm (talon : 21 mm / avant-pied : 15 mm).
+- Chaussant standard.
 - Contient au moins 20 % de matériaux recyclés.
 - Membrane GORE-TEX.
 - Doublure textile.
-- Poids : 312 g (pointure 38 2/3).
 - Semelle intermédiaire en EVA.
-- Drop semelle intermédiaire : 6 mm (talon : 21 mm / avant-pied : 15 mm).
+- Tige textile avec empiècements en matière synthétique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CYTHRQN4{{</world>}}

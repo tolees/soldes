@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Flyer Lite 3
 - Semelle intérieure SoftFoam+
 - Tige basse
-- Flyer Lite 3
 - Détails de la marque PUMA
 
 [🛒 Achète-le!!]({{< param buyurl >}})

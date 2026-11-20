@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus synthétique texturé en cuir lisse et propre
 - Coutures apparentes
+- Dessus synthétique texturé en cuir lisse et propre
 - Baskets tendance à lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

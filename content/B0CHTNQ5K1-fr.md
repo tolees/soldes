@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fabriqué en Espagne
+- Hauteur du talon : 4,50 cm
+- Sandales plates pour femme. Cuir nappa blanc. Fermeture Velcro. Doublure en cuir.
 - Panama Jack Sandales blanches pour femme
 - Semelle anatomique. Semelle en polyuréthane flexible et durable.
-- Hauteur du talon : 4,50 cm
-- Fabriqué en Espagne
-- Sandales plates pour femme. Cuir nappa blanc. Fermeture Velcro. Doublure en cuir.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CHTNQ5K1{{</world>}}

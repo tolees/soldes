@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Skechers Logo
-- Sangle auto-agrippante
-- Sandales sportives à bout ouvert
 - Dessus en maille athlétique
+- Skechers Logo
+- Sandales sportives à bout ouvert
+- Sangle auto-agrippante
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08JHHDDN5{{</world>}}

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture à lacets
+- Tige en suède et textile
+- Semelle extérieure en caoutchouc
+- Doublure textile
 - Amorti Adiprene+
 - Chaussant standard
-- Tige en suède et textile
-- Fermeture à lacets
-- Doublure textile
-- Semelle extérieure en caoutchouc
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DHVW24MS{{</world>}}

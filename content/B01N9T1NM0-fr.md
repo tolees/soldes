@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec verrouillage automatique de la lame (coulisse)
+- DRIVER Cutter avec curseur et aileron
 - Guide de lame trempé
 - Pour ouvrir des cartons, rainurer du carton épais et retirer les couvercles de boîtes.
-- DRIVER Cutter avec curseur et aileron
+- avec verrouillage automatique de la lame (coulisse)
 - Poignée en élastomère avec une fonction unique de tournevis.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

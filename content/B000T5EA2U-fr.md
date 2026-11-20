@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Meilleure qualité
 - LACOR Garantie
+- Meilleure qualité
 - Produit européen
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

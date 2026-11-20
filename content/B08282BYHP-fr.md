@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - Couleur : noir
 - XL EXTRALIGHT, tout en légèreté et absorption des chocs
 - Coutures à 360° pour une meilleure durabilité
+- Semelle extérieure / Caracteristiques : EVA pour plus de légèreté
 - Tige : Cuir (Cuir de vachette)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

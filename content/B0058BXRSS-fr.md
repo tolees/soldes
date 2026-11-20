@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type : accessoire pour robot
+- Cône accessoire gratter pommes de terre
 - Simple dutilisation
 - Compatible avec les hachoirs Moulinex Fresh Express et HV4
-- Cône accessoire gratter pommes de terre
-- Type : accessoire pour robot
 - Coloris : jaune
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

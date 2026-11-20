@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexible
-- Légères
-- Facile à installer
-- Ingrédients extra durables
 - Bonne prise en main
+- Flexible
+- Ingrédients extra durables
+- Facile à installer
+- Légères
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01IG5EEQ6{{</world>}}

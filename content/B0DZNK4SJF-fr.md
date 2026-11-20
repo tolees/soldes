@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Volume du colis: 0.1 litres
 - Texture pte onctueuse
-- Argile neutre. Très douce, elle reminéralise la peau en douceur
+- Gommage à largile blanche
 - Les informations ci-dessous sappliquent à chaque unité du pack
 - Poids du colis: 0.105 kilogrammes
-- Gommage à largile blanche
+- Argile neutre. Très douce, elle reminéralise la peau en douceur
+- Volume du colis: 0.1 litres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DZNK4SJF{{</world>}}

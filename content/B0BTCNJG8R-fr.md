@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
-- Clip ceinture: attache ton talkie-walkie à ta ceinture et pars pour de superbes aventures !
-- Une boussole pour retrouver son chemin.
-- Des jumelles pour voir au loin.
 - Alimentation : 8 piles AAA/LR03 (non fournies).
 - Une paire de Talkie-Walkie avec une portée de 120m !
+- Clip ceinture: attache ton talkie-walkie à ta ceinture et pars pour de superbes aventures !
+- Des jumelles pour voir au loin.
+- Une lampe-torche pour partir à laventure de jour comme de nuit ou pour envoyer des messages codés à tes amis !
+- Une boussole pour retrouver son chemin.
 - A partir de 3 ans. Garantie : 2 ans.
 - Un set daventurier complet pour partir en exploration! Jouez comme dans Spidey et ses amis extrordinaires.
 

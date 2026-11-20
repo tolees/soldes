@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Number of items: 1.0
 - Matériel: Aluminium
+- Number of items: 1.0
 - Couleur: Weiss
 - LED de qualité supérieure.
 

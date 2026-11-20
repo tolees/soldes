@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de manche:Manche longue
-- Composition de matériau:100% Coton
-- Instructions dentretien:Lavage en machine
 - Type dajustement:Coupe régulière
+- Type de manche:Manche longue
+- Instructions dentretien:Lavage en machine
+- Composition de matériau:100% Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BS72KLQT{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Clip d’archivage en métal souple recouvert de plastique
 - Le pack comprend 100 onglets d’identification
-- Conçu pour sécuriser les paquets de documents d’une épaisseur maximale de 8cm
 - Tiges de 10 cm
+- Clip d’archivage en métal souple recouvert de plastique
+- Conçu pour sécuriser les paquets de documents d’une épaisseur maximale de 8cm
 - Disponible en bleu ou en rouge
 
 [🛒 Achète-le!!]({{< param buyurl >}})

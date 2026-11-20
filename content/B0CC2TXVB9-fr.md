@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Semelle EVA absorbant les chocs
-- Semelle intérieure rembourrée
 - Chaussette en peau de mouton douce et respirante
+- Semelle intérieure rembourrée
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CC2TXVB9{{</world>}}

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ce style a été produit de manière durable
-- il sagit dun produit authentique et original Geox
 - Confortable à porter
+- il sagit dun produit authentique et original Geox
 - il assure un ajustement optimal
 
 [🛒 Achète-le!!]({{< param buyurl >}})

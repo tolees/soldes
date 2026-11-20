@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Film physique
 - Le Hobbit, la trilogie 4K Ultra HD Blu ray FR importation
+- Film physique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08XZQCHTP{{</world>}}

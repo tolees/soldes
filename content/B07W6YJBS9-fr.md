@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col rond avec bande de col
-- Bande en silicone de couleur contrastée à lavant
 - Col rond avec col.
 - Imprimés Kempa et Klabels élastiques
+- Bande en silicone de couleur contrastée à lavant
+- Col rond avec bande de col
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07W6YJBS9{{</world>}}

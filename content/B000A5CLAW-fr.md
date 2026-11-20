@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Passe au lave-vaisselle, au four et au micro-onde.
 - Capacité : 40 cl.
-- Livré en coffret cadeau de 2 verres.
-- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
 - Isotherme. Conserve les boissons au chaud (ou froid) plus longtemps.
+- Passe au lave-vaisselle, au four et au micro-onde.
+- Système bréveté dégalisation de la pression dair entre les 2 parois du verre.
+- Livré en coffret cadeau de 2 verres.
 - En verre borosilicate inodore résistant à des températures allant jusquà 250 degrés.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

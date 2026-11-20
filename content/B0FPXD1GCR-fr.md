@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Évoli 72151 | Set pour adulte déco de chambre ou bureau DIY figurine maquette anime membres oreilles idée cadeau gaming 587 pièces'
-date: 2026-11-18 14:14:04
+date: 2026-11-19 19:10:13
 image: 'https://m.media-amazon.com/images/I/41T3ijFVpfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXD1GCR/?tag=tolees0d-21'
 descuento: '33.34'
-average: '38.04000000000012'
+average: '38.118000000000116'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

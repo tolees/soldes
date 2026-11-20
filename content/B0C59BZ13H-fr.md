@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
 - Chaussant standard.
-- Semelle extérieure en caoutchouc vulcanisé.
-- Tige en suède.
+- Fermeture à lacets.
 - Semelle intermédiaire à amorti.
+- Tige en suède.
+- Semelle extérieure en caoutchouc vulcanisé.
 - Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

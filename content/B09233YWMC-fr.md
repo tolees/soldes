@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fabrication 100% polyester
-- Hauteur : 79 cm, largeur : 40 cm, profondeur : 33 cm
-- Deux compartiments avec poche frontale zippée et sangles de compression
 - Poignées supérieures et latérales rembourrées
+- Fabrication 100% polyester
 - Dans notre imprimé tropical Brize Trees
+- Deux compartiments avec poche frontale zippée et sangles de compression
+- Hauteur : 79 cm, largeur : 40 cm, profondeur : 33 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09233YWMC{{</world>}}

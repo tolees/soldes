@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - ✔️ Design en maille perméable à lair à lavant pour un meilleur flux dair
-- ✔️ Conçu pour les cartes mères Mini ITX et Micro ATX
-- ✔️ Pré-équipé de trois ventilateurs ARGB 120mm, dont deux à lavant
 - ✔️ Boîtier compact Micro Tower
+- ✔️ Pré-équipé de trois ventilateurs ARGB 120mm, dont deux à lavant
+- ✔️ Conçu pour les cartes mères Mini ITX et Micro ATX
 - ✔️ Convient pour des refroidisseurs de CPU jusquà 175mm, des cartes graphiques jusquà 330mm et des blocs dalimentation jusquà 170mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

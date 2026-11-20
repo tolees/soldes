@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle extérieure à motif en pointe de flèche pour des transitions rapides
 - Amorti réactif pour une conduite confortable
+- Semelle extérieure à motif en pointe de flèche pour des transitions rapides
 - Tige en mesh respirant au design moderne
 
 [🛒 Achète-le!!]({{< param buyurl >}})

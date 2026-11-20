@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sweatshirt A Capuche Zippe avec Broderie Schott
 - La qualité Schott depuis 1913
+- Sweatshirt A Capuche Zippe avec Broderie Schott
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CV7R8Z52{{</world>}}

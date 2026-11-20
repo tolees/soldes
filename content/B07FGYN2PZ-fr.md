@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poche poitrine zippée
 - Capuche amovible, ajustable
+- Poche poitrine zippée
 - Tissu résistant à leau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

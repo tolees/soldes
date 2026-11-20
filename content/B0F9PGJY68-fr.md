@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Le produit nest pas livré dans une boîte. Celle-ci doit être achetée séparément. Larticle est uniquement compatible avec les articles de la collection Pandora Me et Moments
 - Cette breloque est parfaite pour tous ceux qui aiment les bijoux ludiques et accrocheurs, et un cadeau unique pour vous-même ou quelquun de spécial.
-- Ajoutez une touche damour à votre collection avec un charme délicat en forme de cœur
 - Il symbolise nos précieux liens
+- Ajoutez une touche damour à votre collection avec un charme délicat en forme de cœur
 - Finition à la main par nos artisans qualifiés pour une qualité optimale
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

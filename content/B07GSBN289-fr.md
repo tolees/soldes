@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- fixation extra forte
-- Tenue Niveau 4.
 - Fournit une protection contre lhumidité, les UV et la chaleur.
+- fixation extra forte
 - spray de finition cheveux
 - Contrôle total pour un fini impeccable.
+- Tenue Niveau 4.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GSBN289{{</world>}}

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fort pouvoir opacifiant
 - Recouvrable dès 2H pour un chantier express
 - Convient pour toutes les pièces
+- Fort pouvoir opacifiant
 - Accroche multi-supports : bois, métal, supports poreux
 
 [🛒 Achète-le!!]({{< param buyurl >}})

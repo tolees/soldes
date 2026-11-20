@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Protection contre l’inversion de polarité pour des raccordements électriques sans problème
 - Glacière pratique 12 ou 24 V DC et 230 V AC
 - Refroidit jusqu’à 27 ºC en dessous de la température ambiante et chauffe jusqu’à +65 ºC
 - Système électronique spécial TC haute efficacité avec mode économie d’énergie intelligent
+- Protection contre l’inversion de polarité pour des raccordements électriques sans problème
 - La protection active de la batterie empêche une décharge profonde de la batterie du véhicule
 
 [🛒 Achète-le!!]({{< param buyurl >}})

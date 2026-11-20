@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Omni-Tech imperméable et respirant avec coutures scellées
-- Poches zippées sur la poitrine et les mains
 - Capuche réglable avec cordon de serrage
-- Ourlet réglable avec cordon de serrage
+- Poches zippées sur la poitrine et les mains
 - Se range dans la poche.
+- Omni-Tech imperméable et respirant avec coutures scellées
 - Poignets réglables
+- Ourlet réglable avec cordon de serrage
 - Capuche fixe réglable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

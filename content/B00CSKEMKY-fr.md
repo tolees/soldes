@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - 500W, 230VAC - 50Hz
-- Fusible 5A
 - - Solution de motorisation intelligente: Contrôlez et centralisez facilement louverture et fermeture de vos volets à distance et sans devoir en modifier l’installation électrique - Facile à installer: 100% sans fil - Evolutif: Avec nos diffé
+- Fusible 5A
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CSKEMKY{{</world>}}

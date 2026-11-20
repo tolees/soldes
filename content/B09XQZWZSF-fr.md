@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 💚 MjAMjAM : aliment complet sans céréales et naturel pour chats avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels
-- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
 - 🐾 BIEN-ÊTRE DES ANIMAUX : le bien-être des animaux est toujours une priorité lors de la fabrication
+- 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
 - 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
+- 💚 MjAMjAM : aliment complet sans céréales et naturel pour chats avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels
 - 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contrôle de tonalité pour modeler le ton
-- Ampli dentraînement idéal pour guitare électrique/lead
 - Mini-ampli de 1 W
+- Ampli dentraînement idéal pour guitare électrique/lead
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000RW1UYG{{</world>}}

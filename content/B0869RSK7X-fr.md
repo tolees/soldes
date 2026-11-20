@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Seasonic
 - Durable
 - PRIME FANLESS PX-500
+- Seasonic
 - Alimentation
 
 [🛒 Achète-le!!]({{< param buyurl >}})

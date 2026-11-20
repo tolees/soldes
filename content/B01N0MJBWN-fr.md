@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO Disney Spidey-Rex contre le Bouffon Vert 10463 | Jouet pour enfant dès 2 ans 2 figurines dont Spidey-Rex motricité fine dinosaure super-héros idée cadeau 25 pièces'
-date: 2026-11-18 14:13:10
+date: 2026-11-19 19:06:02
 image: 'https://m.media-amazon.com/images/I/51Rlj7Ig58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N0MJBWN/?tag=tolees0d-21'
 descuento: '35.07'
-average: '12.9168421052632'
+average: '12.91846153846158'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

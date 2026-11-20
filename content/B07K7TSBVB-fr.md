@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Rosette Ø 50 mm
 - Récipient en plastique 300ml
 - Trou de montage Ø 35 mm
+- Rosette Ø 50 mm
 - Remplissage pratique par le haut
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches passepoilées au dos
-- Poches intérieures
 - Fermeture zippée et boutonnée
-- Offre du confort
+- Poches intérieures
 - Une allure originale
+- Poches passepoilées au dos
+- Offre du confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CRZWC1GW{{</world>}}

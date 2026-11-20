@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Corps acier peint
 - Tête compatible valves Presta/Schrader
+- Corps acier peint
 - Accessoires Adaptateur valves Dunlop aiguille pour gonfler les ballons crochet de maintien du flexible
 - Base tripode composite
 

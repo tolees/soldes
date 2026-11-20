@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sadapte sur la housse de siège auto existante sans retirer le harnais
+- Lavable en machine jusquà 30 c
 - Housse éponge compatible avec les Cosis Groupe 0+ Sièges auto Maxi-cosi Pebble Plus et Pebble Pro
 - Offre un confort supplémentaire grâce à son tissu en coton éponge doux
-- Lavable en machine jusquà 30 c
 - Fabriquée en matériau absorbant pour éliminer la transpiration de bébé plus rapidement
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pointure : 46 EU
 - Genre : Masculin
-- Matière : Textile
+- Pointure : 46 EU
 - Age : Adulte
 - Fermeture : Lacets
+- Matière : Textile
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0031QP6HW{{</world>}}

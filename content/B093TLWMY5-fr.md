@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort de port eleve
 - Haute qualite
+- Confort de port eleve
 - Liberte de mouvements
 
 [🛒 Achète-le!!]({{< param buyurl >}})

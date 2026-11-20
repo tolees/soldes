@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Mouvement chronographe à quartz
 - Résistance à leau 5 ATM Peut être portée sous la douche ou lors de la nage, mais pas lors de plongée sous-marine
 - Bracelet en acier inoxydable
-- Mouvement chronographe à quartz
 - Cadran noir brossé verticalement
 - Diamètre du boîtier 42 mm, Épaisseur du boîtier 10,4mm
 

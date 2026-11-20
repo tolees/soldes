@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fixe le maquillage sans dessécher la peau
-- Tamis et houppettes intégrés
 - Laisse respirer la peau
+- Fixe le maquillage sans dessécher la peau
 - Fini aérien grâce à sa texture légère
+- Tamis et houppettes intégrés
 - Teint matifié sans effet masque et unifié en transparence
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

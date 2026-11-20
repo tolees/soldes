@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Produit de qualité supérieure
 - Marque : Hermes
 - Hermes Eau de Basilic Pourpre EdC 100 Ml
-- Produit de qualité supérieure
 - Une fragrance fraîche et énergique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

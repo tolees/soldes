@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coussin : modéré
-- Longueur : 0 mm
-- Hauteur de la pile : 25 mm
-- Semelle intermédiaire : Altra EGO
 - Semelle extérieure : maxtrac
 - Poids : 303 g
+- Longueur : 0 mm
+- Semelle intermédiaire : Altra EGO
+- Hauteur de la pile : 25 mm
+- Coussin : modéré
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C4M4Q5DS{{</world>}}

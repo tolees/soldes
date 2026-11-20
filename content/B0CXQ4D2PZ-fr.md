@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Les Schtroumpfs : Missions Malfeuille
 - Les Sisters : Show Devant !
-- Retrouvez dans cette compilation les jeux suivants (tout sur une cartouche) :
 - Marsupilami : Le secret du Sarcophage
 - Jeux en français
+- Retrouvez dans cette compilation les jeux suivants (tout sur une cartouche) :
+- Les Schtroumpfs : Missions Malfeuille
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0CXQ4D2PZ{{</world>}}

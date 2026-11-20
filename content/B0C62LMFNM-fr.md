@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Comprend une feuille dautocollants
-- Avec une couverture rigide et avec 80 feuilles de papier de 80 gr à lintérieur
 - Quaderno A4 avec liaison en spirale et feuilles carrées
+- Avec une couverture rigide et avec 80 feuilles de papier de 80 gr à lintérieur
+- Comprend une feuille dautocollants
 - Idéal pour lécole
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

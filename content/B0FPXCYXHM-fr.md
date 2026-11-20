@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Speed Champions Flash McQueen 77255 | Jouet voiture de course pour enfant dès 9 ans maquette collector idée de cadeau pour fan du film Cars de Pixar 270 pièces'
-date: 2026-11-18 14:13:56
+date: 2026-11-19 19:10:05
 image: 'https://m.media-amazon.com/images/I/512VDBVzNiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCYXHM/?tag=tolees0d-21'
 descuento: '36.05'
-average: '18.234206349206325'
+average: '18.228984374999975'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

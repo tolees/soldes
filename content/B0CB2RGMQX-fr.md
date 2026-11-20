@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Logo Nike Swoosh brodé
 - Conception compacte
 - Qualité supérieure
-- Logo Nike Swoosh brodé
 - Tissu absorbant
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

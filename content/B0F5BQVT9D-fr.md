@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Amorti PureGEL pour un impact réduit
-- Semelle renforcée pour plus de stabilité et de durabilité
 - FF BLAST+ Eco avec une légèreté supérieure
+- Semelle renforcée pour plus de stabilité et de durabilité
 - Idéal pour les coureurs de tous niveaux
 - Tige en mesh technique respirant et enveloppant
 

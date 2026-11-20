@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Dent pour létiquette mise en œuvre.
-- Évaluation optique.
 - Convient pour les platines Debut et 1Xpression.
+- Évaluation optique.
 - Matériau inerte pour éviter les résonances
 - Audio Tuning
 

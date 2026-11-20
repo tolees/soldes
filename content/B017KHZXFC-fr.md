@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Boîtier rond en acier inoxydable, cadran bleu
-- Étanchéité jusqu’à 30 m : résiste aux éclaboussures
 - Bracelet en acier inoxydable argenté
+- Étanchéité jusqu’à 30 m : résiste aux éclaboussures
 - Boîtier de 32 mm, largeur de bracelet de 14 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à deux aiguilles, importé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

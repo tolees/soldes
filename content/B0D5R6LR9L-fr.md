@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
-- 💚 MjAMjAM : aliment complet avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels, sans céréales
-- 🧘Bien-être : aliment humide préventif pour chats, pour renforcer le bien-être
 - 🔎 CONTRÔLÉ : les ingrédients sont soumis à un contrôle de qualité strict
+- 💚 MjAMjAM : aliment complet avec une teneur extra élevée en viande, monoprotéine, vitamines et minéraux essentiels, sans céréales
+- 🍃 COMPOSITION : conforme à lespèce, proche de la nature et de la ruche
+- 🧘Bien-être : aliment humide préventif pour chats, pour renforcer le bien-être
 - 👩‍🌾 REGIONAL : composé dingrédients provenant de fermes régionales
 
 [🛒 Achète-le!!]({{< param buyurl >}})

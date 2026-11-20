@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Alarme quotidienne
-- Acryl Glass
-- Boîtier en résine
-- Bracelet en acier inoxydable
 - Calendrier automatique
+- Acryl Glass
+- Alarme quotidienne
+- Bracelet en acier inoxydable
+- Boîtier en résine
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BXLPXTD{{</world>}}

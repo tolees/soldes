@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poches devant d’inspiration cargo
 - Poches à rabat boutonné au dos
-- Braguette zippée
 - Offre du confort
+- Poches devant d’inspiration cargo
+- Braguette zippée
 - Base ajustable
 
 [🛒 Achète-le!!]({{< param buyurl >}})

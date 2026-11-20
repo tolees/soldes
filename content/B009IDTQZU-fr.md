@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignée de transport rembourrée
 - Sécurisé par une fermeture rapide à crochet et boucle
-- Comprend une bandoulière rembourrée et une étiquette didentification
 - Extérieur robuste en nylon 600 deniers
 - Disponible en violet
+- Poignée de transport rembourrée
+- Comprend une bandoulière rembourrée et une étiquette didentification
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B009IDTQZU{{</world>}}

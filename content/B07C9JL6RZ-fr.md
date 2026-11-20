@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cellule electrolityque autonettoyante : Inversion de polarité programmable
-- Débit de filtration requis : Min 3 m³/h - Max 12 m³/h
-- Concentration de sel 3gr/l, Production de chlore 12gr/h
-- Pour piscine jusquà 56,8m³
 - Diamètre tuyau : 38 mm
+- Cellule electrolityque autonettoyante : Inversion de polarité programmable
+- Pour piscine jusquà 56,8m³
+- Concentration de sel 3gr/l, Production de chlore 12gr/h
+- Débit de filtration requis : Min 3 m³/h - Max 12 m³/h
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07C9JL6RZ{{</world>}}

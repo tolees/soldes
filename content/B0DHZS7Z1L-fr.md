@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Fermeture à lacets
+- Tige synthétique
 - Coupe standard
 - Doublure textile
-- Tige synthétique
 - Semelle extérieure en caoutchouc
-- Fermeture à lacets
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHZS7Z1L{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FF BLAST+ Eco avec une réactivité supérieure
 - Système de guidage 4D avancé
-- PureGEL amélioré pour un confort tout en douceur
 - Tige légère et renforcée
+- FF BLAST+ Eco avec une réactivité supérieure
+- PureGEL amélioré pour un confort tout en douceur
 - Semelle extérieure durable pour les longues distances
 
 [🛒 Achète-le!!]({{< param buyurl >}})
