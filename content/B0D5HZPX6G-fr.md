@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Doublure textile.
 - Fermeture à lacets.
 - Tige en matière synthétique.
 - Chaussant standard.
-- Doublure textile.
 - Doublure textile.
 - Semelle extérieure en caoutchouc.
 

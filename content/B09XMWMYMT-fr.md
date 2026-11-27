@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de col: col une pièce
 - Régulier
 - 100% polyester
-- Type de col: col une pièce
 - Fermeture: enfiler
 
 [🛒 Achète-le!!]({{< param buyurl >}})

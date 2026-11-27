@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type de lampe: LED
+- Type de fixation: pour fixation à lhorizontale
 - Type de protec. (Code IP): IP67
 - Nombre des LEDs: 17
-- Ø: 95mm - Longueur: 43mm - Hauteur: 36mm - Type de lampe: LED - Nombre des LEDs: 17
-- Type de fixation: pour fixation à lhorizontale
-- Fonctions déclairage: 1 - avec feu de brouillard arrière
+- Nombre de fonctions déclairage: 1
 - Diamètre [mm]: 95
 - Marque de conformité: E9 1158, ECE
+- Type de lampe: LED
 - Couleur du carter: noir
-- Nombre de fonctions déclairage: 1
+- Fonctions déclairage: 1 - avec feu de brouillard arrière
+- Ø: 95mm - Longueur: 43mm - Hauteur: 36mm - Type de lampe: LED - Nombre des LEDs: 17
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00V0COPEO{{</world>}}

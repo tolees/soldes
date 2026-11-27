@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Skechers Semelle intérieure confortable en mousse à mémoire de forme
 - Baskets dentraînement athlétiques à lacets
 - Semelle extérieure en caoutchouc souple
-- Skechers Semelle intérieure confortable en mousse à mémoire de forme
 - Dessus en cuir lisse, synthétique et maille
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Vivez tout ce que le futur sombre peut vous offrir vivez toutes les aventures dans un seul pack explosif
 - Ajoutez de la profondeur à votre expérience de jeu avec la nintendo switch 2 explorez une multitude de fonctionnalités pour améliorer votre expérience de jeu
+- Vivez tout ce que le futur sombre peut vous offrir vivez toutes les aventures dans un seul pack explosif
 - Créez un edgerunner originale en son genre réalisez vos fantasmes cyberpunk les plus fous
 
 [🛒 Achète-le!!]({{< param buyurl >}})

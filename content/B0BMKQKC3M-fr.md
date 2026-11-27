@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- SUPER DESIGN - Format pratique ultra-léger, pour une prise en main facile. Ergonomie inspirée de véritables ordinateurs.
-- AMUSANT - Comprend également de nombreux jeux pour s’amuser après lapprentissage.
 - ANIMATIONS GRAPHIQUES - Écran LCD avec des animations.
-- MATHÉMATIQUES: nombres et calcul (4 opérations).
+- ÉDUCATIF - Activités éducatives avec différents niveaux : Langues, Mathématiques, Logique, Dactylographie, Sections musicales, Lecture de l’heure.
+- SUPER DESIGN - Format pratique ultra-léger, pour une prise en main facile. Ergonomie inspirée de véritables ordinateurs.
+- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
 - ET PLEIN DAUTRES FONCTIONNALITÉS ! - Culture générale et apprentissage de lheure, Jeux amusants pour tester sa logique, sa mémoire et sa rapidité.
+- AMUSANT - Comprend également de nombreux jeux pour s’amuser après lapprentissage.
+- MATHÉMATIQUES: nombres et calcul (4 opérations).
 - LANGAGE: Lettres, mots, dactylographie et orthographe.
 - PRATIQUE - Clavier complet pour répondre aux questions.
-- ÉDUCATIF - Activités éducatives avec différents niveaux : Langues, Mathématiques, Logique, Dactylographie, Sections musicales, Lecture de l’heure.
-- MUSIQUES ET MÉLODIES - Sections musicales pour sinitier à la musique (apprentissage des notes et composition de mélodies).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BMKQKC3M{{</world>}}

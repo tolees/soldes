@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Grille-Pain Colours Plus Rouge 2 Fentes 26554-56 | 2 fentes extra-longues 6 niveaux de brunissage Lift & Look décongélation réchauffage et surélévation.'
-date: 2026-11-23 07:14:29
+date: 2026-11-26 09:44:44
 image: 'https://m.media-amazon.com/images/I/41vdS+Pmm7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

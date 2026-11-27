@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contient des briques de jeu, des billes, un tremplin, un entonnoir à sonnette, un entonnoir en spirale, une roue à billes et 18 dominos colorés.
 - construction variable
 - Pour les enfants à partir de 3 ans
+- Contient des briques de jeu, des billes, un tremplin, un entonnoir à sonnette, un entonnoir en spirale, une roue à billes et 18 dominos colorés.
 - Développe la coordination œil-main, la créativité et la pensée logique.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Résistant à leau jusquà 30 m: résistera aux éclaboussures dans leau
-- Boîtier de 26 mm, largeur de bracelet 14 mm, cristal minéral, mouvement de quartz avec affichage analogique à deux mains, importé
 - Bracelet en maille milanaise en acier inoxydable en argent
+- Boîtier de 26 mm, largeur de bracelet 14 mm, cristal minéral, mouvement de quartz avec affichage analogique à deux mains, importé
+- Résistant à leau jusquà 30 m: résistera aux éclaboussures dans leau
 - Boîtier rond en acier inoxydable, avec un cadran en arGent
 
 [🛒 Achète-le!!]({{< param buyurl >}})

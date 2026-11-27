@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fabriqué avec un design compact, facile à transporter
 - Brosse à dents junior bambou - vert
-- Il peut répondre à différents besoins
 - Type de nombre dunités : millilitre
+- Il peut répondre à différents besoins
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07TYX7PMB{{</world>}}

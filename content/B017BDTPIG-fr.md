@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Ensemble de marquage de terrain de speed badminton
-- Assemblage rapide et facile
 - Oeillets métalliques dans tous les coins
 - Deux lignes rouges en forme de carré (5,5 mx 5,5 m)
+- Assemblage rapide et facile
 - 8 broches pour lancrage au sol
 
 [🛒 Achète-le!!]({{< param buyurl >}})

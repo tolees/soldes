@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Plan de travail robuste et imperméable en bambou
-- Profondeur de serrage maximale : 34 mm, largeur de serrage maximale : 85 mm
-- Établi PWB 600 permettant de fixer en toute sécurité tous types de pièces
 - Se déplie et se replie en quelques secondes grâce à son mécanisme de pliage
+- Profondeur de serrage maximale : 34 mm, largeur de serrage maximale : 85 mm
+- Plan de travail robuste et imperméable en bambou
 - Livré avec : PWB 600, 4 mâchoires, carton
+- Établi PWB 600 permettant de fixer en toute sécurité tous types de pièces
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B007R9WICU{{</world>}}

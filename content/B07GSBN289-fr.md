@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Contrôle total pour un fini impeccable.
-- fixation extra forte
-- spray de finition cheveux
 - Fournit une protection contre lhumidité, les UV et la chaleur.
 - Tenue Niveau 4.
+- fixation extra forte
+- spray de finition cheveux
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07GSBN289{{</world>}}

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Warm and sophisticated aroma.
 - Badee Al Oud Honor And Glory by Lattafa.
+- Warm and sophisticated aroma.
 - A rich oud scent with notes of amber and spice.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

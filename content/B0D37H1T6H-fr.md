@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu à 30 Heures d autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir'
-date: 2026-11-21 11:47:52
+date: 2026-11-26 12:24:19
 image: 'https://m.media-amazon.com/images/I/21Fx90Uq-ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D37H1T6H-fr Sonos Ace - Casque Bluetooth sans Fil avec Réduction...'
 sku: 'B0D37H1T6H-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 189.99 EUR
+actualPrice: 174.99 EUR
 currency: EUR
-price: 189.99
+price: 174.99
 comparePrice: 449.0 EUR
 prodname: 'Sonos Ace - Casque Bluetooth sans Fil avec Réduction Active de Bruit - Jusqu à 30 Heures d autonomie - Audio Spatial - Suivi Dynamique des mouvements de la tête Dolby - Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0D37H1T6H/?tag=tolees0d-21'
-descuento: '57.69'
-average: '205.66000000000003'
+descuento: '61.03'
+average: '197.9925'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

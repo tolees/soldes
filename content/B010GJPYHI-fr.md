@@ -30,9 +30,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - 0–99 heures Minuterie
 - Écran LCD
+- Corps et couvercle en acier inoxydable
 - Contrôle de la température à 0,5 °C
 - Détection de faible niveau deau alarme
-- Corps et couvercle en acier inoxydable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B010GJPYHI{{</world>}}

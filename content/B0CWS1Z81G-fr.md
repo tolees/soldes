@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Regardez les chaînes gratuites de la TNT en Ultra Haute Définition (UHD) 4K.
 - Contrôle parental
 - Contrôle du direct
 - Dolby AC4 et HDR10
+- Regardez les chaînes gratuites de la TNT en Ultra Haute Définition (UHD) 4K.
 - Enregistrez la TNT en HD directement sur disque externe ou clé USB
 
 [🛒 Achète-le!!]({{< param buyurl >}})

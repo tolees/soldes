@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Un appareil photo de qualité professionnelle, pour des photos et des vidéos de la plus haute qualité.
 - La puce Pixel la plus performante à ce jour, pour des performances révolutionnaires.
-- Profitez de 7 ans de mises à jour et de fonctionnalités avec les Pixel Drops.
 - LIA la plus avancée sur Google Pixel.
+- Profitez de 7 ans de mises à jour et de fonctionnalités avec les Pixel Drops.
 - Conçue avec précision, disponible en deux tailles.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle : 80 % TPU - 20 % TPU recyclé
 - Couleur : marron moyen
 - Extérieur : 98 % cuir de vache 2 % textile (84 % polyester recyclé - 16 % latex)
+- Semelle : 80 % TPU - 20 % TPU recyclé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08DVCRYBT{{</world>}}

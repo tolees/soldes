@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Ref - 1296-40061
-- Contenu - 30 ml
 - Marque - Nasomatto
+- Contenu - 30 ml
+- Ref - 1296-40061
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B003WGIDM6{{</world>}}

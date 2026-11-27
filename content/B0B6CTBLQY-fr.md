@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coupe slim
 - Construction à 5 poches classique
 - Fermeture par bouton et zip
-- Coupe slim
 - Coutures renforcées pour plus de durabilité
 - Détails de branding subtils
 

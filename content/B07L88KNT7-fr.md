@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Les rollers sont réglables en taille et sadaptent parfaitement aux pieds de votre enfant.
 - Le patin à roulettes confortable assure beaucoup de plaisir lors du patinage.
 - Les rollers sont livrés dans les couleurs tendance bleu et noir.
 - Contenu de la livraison : 1 paire de rollers Street Rider
-- Les rollers sont réglables en taille et sadaptent parfaitement aux pieds de votre enfant.
 - Matériaux : aluminium, plastique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

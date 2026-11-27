@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Veste
 - matelassé
+- Veste
 - Capuche
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Flexibilité
 - Durability
+- Flexibilité
 - Poids léger
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

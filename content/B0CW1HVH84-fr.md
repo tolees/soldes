@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - - Couleur de la Boîte: Argent
-- - Forme de la Boîtier: Rond
 - - Matérial de la Boîtier: Acier inoxydable
+- - Forme de la Boîtier: Rond
 - Boîtier
 - - Verre: Verre Minéral
 

@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire à amorti.
 - Fermeture à lacets.
-- Tige en mesh.
+- Semelle intermédiaire à amorti.
 - Semelle extérieure en caoutchouc adhérent.
-- Doublure textile.
 - Achetez 1 taille plus grande
+- Tige en mesh.
+- Doublure textile.
 - Construction en T classique à lavant-pied.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petit carnet à reliure spirale, contient 1500 autocollants à lintérieur, tous au format transparent.
 - Il est certifié FSC, ce qui garantit quil a été fabriqué avec du papier issu de forêts gérées de manière responsable.
+- Petit carnet à reliure spirale, contient 1500 autocollants à lintérieur, tous au format transparent.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0F7GWXFQW{{</world>}}

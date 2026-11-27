@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Puissance : four micro-ondes de 1 100 W, grill de 950 W, convection maximale de 1 850 W, niveaux de puissance 5.
-- Fonctions supplémentaires : horloge, verrouillage de sécurité enfant, démarrage rapide, boutons plus/moins.
 - Système i-Wave.
 - Capacité de 39 l.
+- Puissance : four micro-ondes de 1 100 W, grill de 950 W, convection maximale de 1 850 W, niveaux de puissance 5.
+- Fonctions supplémentaires : horloge, verrouillage de sécurité enfant, démarrage rapide, boutons plus/moins.
 - Cuisine, réchauffe et décongèle de manière uniforme.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

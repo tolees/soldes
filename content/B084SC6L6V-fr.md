@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Idéale pour atteindre et couper facilement les branches hautes sans échelle
-- Outil télescopique performant pour les travaux d’élagage fréquents ou ponctuels
-- Système de tension automatique pour maintenir une chaîne toujours bien ajustée
-- Tête interchangeable pour transformer l’outil en taille-haies sur perche (wa0308 vendue séparément)
 - Batterie PowerShare 20V compatible avec tous les outils WORX de la gamme 20V, 40V et 80V MAX.
-- Angle de coupe réglable et poignée arrière pivotante pour une coupe confortable en toute position
-- Design léger et ergonomique pour un maniement facile même à bout de bras
+- Tête interchangeable pour transformer l’outil en taille-haies sur perche (wa0308 vendue séparément)
 - Élagueuse 2-en-1 avec guide de 20 cm pour des coupes en hauteur jusqu’à 3,6 m
 - Garantie 3 ans (2 + 1 offert) sous réserve d’enregistrement sous 30 jours sur worx-europe.com
+- Design léger et ergonomique pour un maniement facile même à bout de bras
+- Outil télescopique performant pour les travaux d’élagage fréquents ou ponctuels
+- Angle de coupe réglable et poignée arrière pivotante pour une coupe confortable en toute position
+- Système de tension automatique pour maintenir une chaîne toujours bien ajustée
+- Idéale pour atteindre et couper facilement les branches hautes sans échelle
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B084SC6L6V{{</world>}}

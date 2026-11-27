@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- À offrir ou à s’offrir sans hésiter !
-- Matériaux de qualité et touche Mr. Wonderful
-- Calendrier de bureau 2026 avec support -CAT-lendar au design unique et plein de charme
 - Pensé pour illuminer ta journée.
+- Calendrier de bureau 2026 avec support -CAT-lendar au design unique et plein de charme
+- Matériaux de qualité et touche Mr. Wonderful
+- À offrir ou à s’offrir sans hésiter !
 - Format pratique à emporter partout
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Embelli avec logo BOSS Jewelry gravé sur le fermoir
-- Collier en chaîne gourmette pour homme de BOSS Jewelry
-- Longueur du collier : 61 cm
 - Matériel: Acier inoxydable avec placage ionique (IP) or jaune clair
+- Collier en chaîne gourmette pour homme de BOSS Jewelry
+- Embelli avec logo BOSS Jewelry gravé sur le fermoir
+- Longueur du collier : 61 cm
 - Fermoir : Aimanté
 
 [🛒 Achète-le!!]({{< param buyurl >}})

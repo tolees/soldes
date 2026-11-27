@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire en eva
+- Manche et languette rembourrés
 - Logo imprimé sur la languette
 - Logo sur le talon et fenêtre de la marque
+- Semelle intermédiaire en eva
 - Semelle intérieure luxcomfort
-- Manche et languette rembourrés
 - Embout perforé et embout renforcé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

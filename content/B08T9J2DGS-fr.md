@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de col: Col une pièce
 - Regular Fit
 - Coton
-- Manche 3/4
 - Hand Wash Only
 - Fermeture: Enfiler
-- Type de col: Col une pièce
+- Manche 3/4
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08T9J2DGS{{</world>}}

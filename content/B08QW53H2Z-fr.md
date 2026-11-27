@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Doublure: synthétique
 - Largeur de la chaussure: moyen
 - Matériau de semelle: caoutchouc
-- Doublure: synthétique
 - Type de talons: plat
 - Dessus: cuir
 

@@ -31,8 +31,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 - FONDÉE SUR LA SCIENCE DERMATOLOGIQUE : Marque créée par des dermatologues, notre engagement pour la sécurité est au cœur de notre approche scientifique. Nous collaborons avec les meilleurs experts pour formuler des soins et du maquillage adaptés à tous.
 - EXPERTISE CLINIQUE : Soumis à des tests dallergie. 100 % sans parfum. Soumis à des tests dermatologiques. Soumis à des tests ophtalmologiques. Convient aux yeux sensibles et aux porteurs de lentilles de contact.
 - TEXTURE RICHE ET HYDRATANTE : Une crème yeux crémeuse et hydratante qui apaise et nourrit la peau délicate du contour de lœil.
-- CRÈME RAFRAÎCHISSANTE CONTOUR DES YEUX : Deux formules All About Eyes qui hydratent et réduisent lapparence des poches sous les yeux.
 - TEXTURE GEL-CRÈME LÉGÈRE : Un gel-crème à la vitamine C léger et illuminateur qui hydrate et réduit lapparence des poches sous les yeux.
+- CRÈME RAFRAÎCHISSANTE CONTOUR DES YEUX : Deux formules All About Eyes qui hydratent et réduisent lapparence des poches sous les yeux.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000OUTR32{{</world>}}

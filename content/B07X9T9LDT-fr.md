@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Col polo avec patte à deux boutons
 - Logo PUMA Cat sur le côté droit de la poitrine
-- En achetant des produits en coton chez PUMA, vous soutenez une culture du coton plus durable. En savoir plus sur PUMA.COM/FOREVERBETTER
 - Coton et élasthanne
+- En achetant des produits en coton chez PUMA, vous soutenez une culture du coton plus durable. En savoir plus sur PUMA.COM/FOREVERBETTER
+- Col polo avec patte à deux boutons
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07X9T9LDT{{</world>}}

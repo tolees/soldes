@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Bretelles amovibles, avec des poignées de transport qui peuvent être utilisées sur lépaule
 - Large compartiment principal avec une poche intérieure zippée pour lespace
 - Voyagez organisé avec la boucle de transport rembourrée et la poche frontale zippée
 - Fabriqué en polyester résistant
+- Bretelles amovibles, avec des poignées de transport qui peuvent être utilisées sur lépaule
 - Hauteur : 30 cm, largeur : 62 cm, profondeur : 29 cm
 
 [🛒 Achète-le!!]({{< param buyurl >}})

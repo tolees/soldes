@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Débit de filtration requis : Min 3 m³/h - Max 12 m³/h
+- Concentration de sel 3gr/l, Production de chlore 12gr/h
 - Pour piscine jusquà 56,8m³
 - Diamètre tuyau : 38 mm
-- Concentration de sel 3gr/l, Production de chlore 12gr/h
+- Débit de filtration requis : Min 3 m³/h - Max 12 m³/h
 - Cellule electrolityque autonettoyante : Inversion de polarité programmable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

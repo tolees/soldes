@@ -30,9 +30,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Permet dutiliser un bouchon optique dune taille supérieure au filtre
 - Echelle de densité de 1,5 à 9 diaphs
-- Idéal pour des vidéos au loook cinéma
 - Vis spéciale pour des réglages de densité fluides et précis
 - Bague exclusive compatible grand-angle
+- Idéal pour des vidéos au loook cinéma
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B097R8YL9J{{</world>}}

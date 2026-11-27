@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Lentille asphérique en verre (ASP)
 - Lentille à dispersion extra faible (ED)
-- Nano Coating System (NCS) réduit les reflets et offre un contraste plus élevé
 - Ouverture ciraire avec 7 lames
+- Nano Coating System (NCS) réduit les reflets et offre un contraste plus élevé
 - Bague dengrenage large et soft focus
 
 [🛒 Achète-le!!]({{< param buyurl >}})

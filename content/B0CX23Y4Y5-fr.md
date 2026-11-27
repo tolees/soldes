@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Smart TV WebOS - Wi-Fi - Bluetooth
-- Son 2 x 5 Watts
 - Moniteur TV - LED - IPS - Full HD - 27 pouces
+- Smart TV WebOS - Wi-Fi - Bluetooth
 - Grand angle de vision
+- Son 2 x 5 Watts
 - Game Optimizer
 
 [🛒 Achète-le!!]({{< param buyurl >}})

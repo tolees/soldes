@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Minecraft Le Jardin pâle 21586 | Jouet pour enfant dès 7 ans minifigurine de grinceur figurines mobs d’homme-papillon Creeper cadeau gaming 243 pièces'
-date: 2026-11-25 22:38:17
+date: 2026-11-27 10:44:27
 image: 'https://m.media-amazon.com/images/I/51l73NHgpEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDQ7YP/?tag=tolees0d-21'
 descuento: '35.07'
-average: '12.948333333333334'
+average: '12.952857142857145'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

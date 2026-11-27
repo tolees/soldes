@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
-- Design portable et compact avec poignée ergonomique pour un transport simple et rapide
-- Fonctionnement sans fil idéal pour accéder aux zones éloignées des points d’alimentation
-- Débit élevé jusqu’à 1 300 L/h pour un transfert d’eau rapide et efficace
-- Utilisation polyvalente en intérieur comme en extérieur : arrosage, piscine, eau stagnante, camping-car, aquarium, sous-sol, chauffe-eau, etc.
 - Batterie PowerShare compatible avec tous les outils Worx 20V, 40V et 80V MAX (non incluse)
+- Débit élevé jusqu’à 1 300 L/h pour un transfert d’eau rapide et efficace
+- Fonctionnement sans fil idéal pour accéder aux zones éloignées des points d’alimentation
+- Coque de protection transparente permettant un contrôle visuel immédiat de l’état de la turbine pour un entretien facilité
 - Pompe de transfert sans fil facile à utiliser ne nécessitant aucun amorçage : insérez la batterie et démarrez immédiatement
+- Utilisation polyvalente en intérieur comme en extérieur : arrosage, piscine, eau stagnante, camping-car, aquarium, sous-sol, chauffe-eau, etc.
 - Compatible avec différents types d’eaux du quotidien pour une utilisation pratique dans de nombreux scénarios
 - Conception légère facilitant la manipulation même lors de longues sessions
-- Coque de protection transparente permettant un contrôle visuel immédiat de l’état de la turbine pour un entretien facilité
+- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
+- Design portable et compact avec poignée ergonomique pour un transport simple et rapide
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GVKX1KPP{{</world>}}

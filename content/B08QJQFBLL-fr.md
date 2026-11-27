@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Talon de 28 cm
-- Baskets de marche confortables à enfiler
 - Dessus en maille douce chinée
+- Baskets de marche confortables à enfiler
 - Semelle extérieure en caoutchouc souple avec design Burst Grip
+- Talon de 28 cm
 - Lavable en machine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

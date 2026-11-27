@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
 - Écran immersif 6,72’’ FHD+ 120Hz pour une fluidité et une expérience visuelle exceptionnelle
 - Design résistant et étanche : conçu pour durer, même dans des conditions extrêmes
-- Contenu de la boite: smartphone, Coque de protection, Câble USB type-A vers USB type-C
 - Double capteur photo 50MP pour des clichés nets et détaillés en toute situation
 - Batterie longue durée avec charge rapide : restez connecté toute la journée sans attendre
 

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- FORMULE LÉGÈRE : Elle se transforme sous vos yeux en un voile lumineux, avec une teinte universelle qui sadapte à presque toutes les carnations.
 - TEINT ÉCLATANT : Confère à la peau un nouvel éclat frais et homogène.
+- FORMULE LÉGÈRE : Elle se transforme sous vos yeux en un voile lumineux, avec une teinte universelle qui sadapte à presque toutes les carnations.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005CL39PA{{</world>}}

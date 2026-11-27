@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Dessus : Cuir
 - Matériau de semelle: Caoutchouc, caoutchouc recyclé
+- Type de talons: Appartement
 - Largeur de la chaussure: Moyen
 - Fermeture : À enfiler
-- Dessus : Cuir
-- Type de talons: Appartement
 - Hauteur de la tige : Ankle
 
 [🛒 Achète-le!!]({{< param buyurl >}})

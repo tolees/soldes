@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Détails : buste hauteur entre env. 130 à 167 cm - Hauteur du torse env. 65 cm - LxP : env. 41x34 cm
-- Décoratif : déposez une touche classique authentique dans votre intérieur ou présentez vos vêtements
 - Adaptable : poupée à hauteur réglable, idéale pour personnaliser votre atelier
 - Design : mannequin avec pied blanc et motifs Paris sur le torse - Bordure ornementée
 - Créativité : créez votre propre mode grâce à ce mannequin de couture idéal pour prendre les mesures
+- Décoratif : déposez une touche classique authentique dans votre intérieur ou présentez vos vêtements
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0C47JWGJC{{</world>}}

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L Noir'
-date: 2026-09-21 19:03:34
+title: 'Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L Noir | Multicuiseur Repas pour 4-en-15 min Vapeur Gril Cuire au four Rôtir Saisir Mijoter et plus - ON500EU'
+date: 2026-11-26 10:48:44
 image: 'https://m.media-amazon.com/images/I/31ev4YHsqqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FLYNKQKH-fr Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L Noir'
+slug: 'B0FLYNKQKH-fr Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L...'
 sku: 'B0FLYNKQKH-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 159.0 EUR
+actualPrice: 169.0 EUR
 currency: EUR
-price: 159.0
+price: 169.0
 comparePrice: 229.99 EUR
-prodname: 'Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L Noir'
+prodname: 'Ninja Speedi 10-en-1 Autocuiseur rapide Air Fryer 5 7L Noir | Multicuiseur Repas pour 4-en-15 min Vapeur Gril Cuire au four Rôtir Saisir Mijoter et plus - ON500EU'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FLYNKQKH/?tag=tolees0d-21'
-descuento: '30.87'
-average: '159.495'
+descuento: '26.52'
+average: '162.66333333333336'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

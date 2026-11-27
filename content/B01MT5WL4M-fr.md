@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech MK850 Combo Clavier et Souris sans Fil Multidispositifs 2 4 GHz/Bluetooth Structure Courbée Souris sans FIl 12 Boutons Programables Batterie Longue Durée 3 Ans PC/Mac AZERTY Français Standard'
-date: 2026-02-27 10:20:25
+title: 'Logitech MK850 Combo Clavier Souris sans Fil FRA AZERTY - Noir | Multidispositifs sans fil 2 4 GHz/Bluetooth structure courbée 12 boutons batterie 3 ans PC/Mac'
+date: 2026-11-27 11:18:03
 image: 'https://m.media-amazon.com/images/I/413iIFJNUsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MT5WL4M-fr Logitech MK850 Combo Clavier et Souris sans Fil...'
+slug: 'B01MT5WL4M-fr Logitech MK850 Combo Clavier Souris sans Fil FRA AZERTY -...'
 sku: 'B01MT5WL4M-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 65.32 EUR
+actualPrice: 66.49 EUR
 currency: EUR
-price: 65.32
-comparePrice: 129.99 EUR
-prodname: 'Logitech MK850 Combo Clavier et Souris sans Fil Multidispositifs 2 4 GHz/Bluetooth Structure Courbée Souris sans FIl 12 Boutons Programables Batterie Longue Durée 3 Ans PC/Mac AZERTY Français Standard'
+price: 66.49
+comparePrice: 109.99 EUR
+prodname: 'Logitech MK850 Combo Clavier Souris sans Fil FRA AZERTY - Noir | Multidispositifs sans fil 2 4 GHz/Bluetooth structure courbée 12 boutons batterie 3 ans PC/Mac'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MT5WL4M/?tag=tolees0d-21'
-descuento: '49.75'
-average: '69.1405555555556'
+descuento: '39.55'
+average: '68.875500000000031'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,12 +28,6 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Le logiciel Logitech DuoLink lie la souris et le clavier pour des fonctionnalités personnalisées et une navigation plus intelligente. Télécharger Logitech Options pour activer cette fonction.
-- Grâce à Easy-Switch pour clavier et souris, vous pouvez commencer à saisir un texte sur votre ordinateur, puis passer sur votre téléphone, votre tablette ou votre deuxième ordinateur.
-- Double connectivité: technologie Logitech Unifying ou Bluetooth Smart: choisissez le meilleur moyen de connecter votre dispositif actuel et ceux que vous posséderez à lavenir.
-- Cette souris profilée pour droitiers dotée dune roulette de défilement ultra-rapide vous permet de parcourir les documents et les pages Web à une vitesse incroyable.
-- Travaillez silencieusement et confortablement pendant des heures à votre bureau grâce à ce clavier doté dun repose-poignets matelassé et de touches ergonomiques de qualité supérieure.
-- Résolution du capteur: 1000 ppp
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01MT5WL4M{{</world>}}

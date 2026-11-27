@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en bois
 - Épaisseur de la mine 3,6
+- Forme hexagonale
 - protégé contre la casse grâce à un collage spécial
 - Dureté OH
-- Forme hexagonale
+- Tige en bois
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01FDKQG2W{{</world>}}

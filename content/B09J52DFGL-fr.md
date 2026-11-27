@@ -28,16 +28,16 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Embout précision.
-- Composition simplifiée.
-- Huile de coco.
-- Teint unifié et lumineux.
 - Crème teintée
-- Hydratation 24H en profondeur.
-- Vitamines C et E.
-- Texture fluide.
 - Amélioration de la qualité de la peau.
+- Composition simplifiée.
+- Texture fluide.
+- Huile de coco.
+- Embout précision.
+- Teint unifié et lumineux.
 - Embellisseur.
+- Vitamines C et E.
+- Hydratation 24H en profondeur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09J52DFGL{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Baskets tendance à lacets classiques
+- Tige perforée synthétique lisse « Durabuck »
 - Hauteur du talon : 3,8 cm
 - Semelle extérieure flexible
-- Tige perforée synthétique lisse « Durabuck »
-- Baskets tendance à lacets classiques
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B08653DGGZ{{</world>}}

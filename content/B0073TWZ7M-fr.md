@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dimension : 8 cm
-- Couleur : Noir
-- Garantie : Mécanisme Peugeot garanti à vie, Moulin garanti 5 ans
 - Réglage Mouture Manuel
+- Couleur : Noir
+- Dimension : 8 cm
 - Entretien: Nettoyage avec un chiffon sec et doux / Ne pas le mettre en contact de leau ou au lave-vaisselle / Aucun produit ou détergent ne doit être utilisé
+- Garantie : Mécanisme Peugeot garanti à vie, Moulin garanti 5 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0073TWZ7M{{</world>}}

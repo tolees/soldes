@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [auto-decharge] faible auto-décharge
 - [maintenance] aucune maintenance
-- [installation] installation toutes positions
-- [technologie] technologie agm pour recombinaison éfficace des gaz (vrla)
+- [auto-decharge] faible auto-décharge
 - Courant de court-circuit: 630 A
+- [technologie] technologie agm pour recombinaison éfficace des gaz (vrla)
+- [installation] installation toutes positions
 - [duree de vie] longue durée de vie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

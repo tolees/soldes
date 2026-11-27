@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Sac à outils en polyester résistant, avec fermeture adhésive et clip ceinture
 - Dimensions (l x H x P) : 75 x 180 x 55 mm
+- Sac à outils en polyester résistant, avec fermeture adhésive et clip ceinture
 - Knipex Jeu de mini-pinces en pochette de ceinture à outils à 2 pièces (carte LS/blister) 00 20 72 V01
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

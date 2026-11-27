@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEGO Icons Ferrari F2004 et Michael Schumacher 11375'
-date: 2026-10-14 13:28:40
-image: 'https://m.media-amazon.com/images/I/513zpZKuvIL._SL500_._SL400_.jpg'
+title: 'LEGO Icons Ferrari F2004 et Michael Schumacher 11375 | Set pour adulte moteur V10 et minifigurine collector de pilote décoration maquette de voiture F1 idée cadeau 735 pièces'
+date: 2026-11-26 14:25:40
+image: 'https://m.media-amazon.com/images/I/41Wg0bAL7fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0FPXDC8V2-fr LEGO Icons Ferrari F2004 et Michael Schumacher 11375'
+slug: 'B0FPXDC8V2-fr LEGO Icons Ferrari F2004 et Michael Schumacher 11375 | Set...'
 sku: 'B0FPXDC8V2-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 53.99 EUR
+actualPrice: 59.99 EUR
 currency: EUR
-price: 53.99
+price: 59.99
 comparePrice: 89.99 EUR
-prodname: 'LEGO Icons Ferrari F2004 et Michael Schumacher 11375'
+prodname: 'LEGO Icons Ferrari F2004 et Michael Schumacher 11375 | Set pour adulte moteur V10 et minifigurine collector de pilote décoration maquette de voiture F1 idée cadeau 735 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDC8V2/?tag=tolees0d-21'
-descuento: '40.00'
-average: '59.8688888888889'
+descuento: '33.34'
+average: '59.881000000000007'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Petite poche avant zippée
 - Construction légère
+- Petite poche avant zippée
 - 0
 - Grande poche principale avec fermeture éclair
 - Compatible système d’hydratation

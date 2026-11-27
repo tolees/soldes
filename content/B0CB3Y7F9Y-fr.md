@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Style décontracté
 - Non étanche
+- Style décontracté
 - Bout fermé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

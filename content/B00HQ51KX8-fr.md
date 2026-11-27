@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Longueur du câble: 3 m
 - 4.00712E+12
 - Prises: 10
-- Longueur du câble: 3 m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00HQ51KX8{{</world>}}

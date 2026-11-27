@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture éclair
+- Nettoyage à sec seulement
 - Cuir
 - CUIR DAGNEAU
-- Nettoyage à sec seulement
+- Fermeture éclair
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BTYLHQJ5{{</world>}}

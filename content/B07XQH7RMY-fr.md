@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- poids: 1.93 kilograms
-- Structure Fiber-Tech : plus solide, plus léger, plus confortable
-- Très compact, facile à transporter et à ranger
 - Couchage floqué pour un confort optimal
+- Très compact, facile à transporter et à ranger
+- Structure Fiber-Tech : plus solide, plus léger, plus confortable
+- poids: 1.93 kilograms
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XQH7RMY{{</world>}}

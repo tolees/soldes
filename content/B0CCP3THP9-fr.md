@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- - Verre: Verre Minéral
-- Boîtier
-- - Forme de la Boîtier: Rond
 - - Couleur de la Boîte: Argent
 - - Matérial de la Boîtier: Acier inoxydable
+- - Verre: Verre Minéral
+- - Forme de la Boîtier: Rond
+- Boîtier
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CCP3THP9{{</world>}}

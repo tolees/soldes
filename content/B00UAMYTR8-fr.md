@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Normes TCO Displays 6.0
 - Temps de réponse 5 ms
+- Normes TCO Displays 6.0
 - Résolution 2560 x 1440
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en cuir.
-- Doublure textile.
 - Fermeture à lacets.
+- Doublure textile.
+- Tige en cuir.
 - Semelle extérieure en caoutchouc.
 - Chaussant standard.
 

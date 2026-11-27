@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dyson V8 Origin Aspirateur Balai sans Fil Puissant Aspirateur à Main 2026 | Aspirateur sans sac léger et sans fil. Aspiration 130 AW¹ jusqu à 40 min d autonomie² brosse anti-enchevêtrement'
-date: 2026-11-21 09:32:41
+date: 2026-11-26 09:44:51
 image: 'https://m.media-amazon.com/images/I/21wfr9eVFOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0GVP7XY36/?tag=tolees0d-21'
 descuento: '39.58'
-average: '271.50000000000006'
+average: '263.00000000000006'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

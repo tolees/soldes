@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Bon maintien
 - Toucher doux
 - Flexible.
 - Ingrédients extra durables
-- Bon maintien
 - Facile à installer.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

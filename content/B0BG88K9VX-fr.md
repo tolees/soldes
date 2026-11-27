@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compact, léger et et ergonomique, le chargeur flexible pour toutes les utilisations
-- Contenu de la livraison : Batterie 18V PBA 18V 2,5 Ah, chargeur AL 18V-20
-- Endurant – Réalisez presque tous les projets de bricolage avec une seule charge de batterie
 - Le set de démarrage de batterie 18V - Utilisez de manière flexible tous les outils verts du système 18 volts
+- Endurant – Réalisez presque tous les projets de bricolage avec une seule charge de batterie
+- Contenu de la livraison : Batterie 18V PBA 18V 2,5 Ah, chargeur AL 18V-20
 - POWER FOR ALL ALLIANCE: 1 BATTERIE, ​10+ MARQUES, ​150+ OUTILS
 
 [🛒 Achète-le!!]({{< param buyurl >}})

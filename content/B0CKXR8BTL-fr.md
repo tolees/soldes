@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile.
-- Chaussant standard.
-- Semelle intermédiaire en EVA.
 - Tige textile avec bout renforcé.
 - Semelle extérieure Traxion.
+- Semelle intermédiaire en EVA.
+- Chaussant standard.
+- Doublure textile.
 - Fermeture à lacets.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

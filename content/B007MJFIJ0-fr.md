@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité 454 litres
-- Verrouillable
 - Etanche
 - Traité anti UV
+- Verrouillable
 - Sans entretien
+- Capacité 454 litres
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B007MJFIJ0{{</world>}}

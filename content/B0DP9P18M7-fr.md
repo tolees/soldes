@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets élastiques
 - Fermeture simple riptape
+- Fermeture à lacets élastiques
 - Facile et rapide à mettre en place
 
 [🛒 Achète-le!!]({{< param buyurl >}})

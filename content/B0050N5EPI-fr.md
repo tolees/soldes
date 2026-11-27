@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Confortable
 - Cuir responsable
-- Cuir souple
 - Poids léger
+- Cuir souple
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0050N5EPI{{</world>}}

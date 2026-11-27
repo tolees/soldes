@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Contenu : 1 toboggan, 2 planches de surf, 1 rustine de réparation
-- PVC durable
 - Pulvérisateur deau intégré pour un arrosage régulier
+- PVC durable
+- Contenu : 1 toboggan, 2 planches de surf, 1 rustine de réparation
 - Longueur : 488 cm
 - piscine datterrissage
 

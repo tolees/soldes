@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grande résistance chimique
-- Sans action corrosive sur les caoutchoucs et les métaux
 - Enduit détanchéité pour joints de moteur et carters
+- Sans action corrosive sur les caoutchoucs et les métaux
+- Grande résistance chimique
 - Résistance aux températures et pressions élevées
 - Etanchéité parfaite
 

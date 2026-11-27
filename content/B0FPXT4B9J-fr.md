@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Smart Play : Le Landspeeder de Luke 75420 | SMART Brique non incluse set Compatible 1 Tag 1 Minifigurine idée cadeau pour garçon ou fille dès 6 ans 215 pièces'
-date: 2026-11-25 22:32:38
+date: 2026-11-27 10:38:07
 image: 'https://m.media-amazon.com/images/I/51080iuDywL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXT4B9J-fr LEGO Star Wars Smart Play : Le Landspeeder de Luke 75420 |...'
 sku: 'B0FPXT4B9J-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 23.99 EUR
+actualPrice: 26.99 EUR
 currency: EUR
-price: 23.99
+price: 26.99
 comparePrice: 39.99 EUR
 prodname: 'LEGO Star Wars Smart Play : Le Landspeeder de Luke 75420 | SMART Brique non incluse set Compatible 1 Tag 1 Minifigurine idée cadeau pour garçon ou fille dès 6 ans 215 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXT4B9J/?tag=tolees0d-21'
-descuento: '40.01'
-average: '25.858444444444476'
+descuento: '32.51'
+average: '25.870879120879152'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

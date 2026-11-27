@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Dessus synthétique
-- Semelle intérieure Memory Tech OrthoLite
-- Empeigne synthétique
 - Semelle intérieure Tech OrthoLite
+- Dessus synthétique
+- Empeigne synthétique
+- Semelle intérieure Memory Tech OrthoLite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B1N2WMHP{{</world>}}

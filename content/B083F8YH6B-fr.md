@@ -29,10 +29,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo sur le quartier en TPR moulé
-- __Empeigne :__ empeigne à plusieurs panneaux
 - Rembourrage en mousse au niveau de la languette et du col pour plus de confort et de maintien
-- __Empeigne :__ empeigne en cuir, nubuck ou mesh (en fonction du coloris)
+- __Empeigne :__ empeigne à plusieurs panneaux
 - Doublure en mesh pour plus de confort
+- __Empeigne :__ empeigne en cuir, nubuck ou mesh (en fonction du coloris)
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B083F8YH6B{{</world>}}

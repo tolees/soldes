@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Tige en mesh ouvert avec empiècements synthétiques.
-- Chaussant standard.
 - Fermeture à lacets.
-- Semelle extérieure Traxion.
 - Semelle intermédiaire légère en EVA.
 - Doublure textile.
+- Semelle extérieure Traxion.
+- Chaussant standard.
+- Tige en mesh ouvert avec empiècements synthétiques.
 - La tige contient 50 % minimum de matières recyclées.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

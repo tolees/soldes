@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Blanc
 - Type de fermeture : Lacet
-- Délais de livraison : 48h à 72H
+- Blanc
 - Réf : M7650_36
 - Matière(s) : - Type de baskets : Montantes
+- Délais de livraison : 48h à 72H
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000B2KPH0{{</world>}}

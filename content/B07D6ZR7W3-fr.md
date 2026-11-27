@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matière interne : Cuir
-- Semelle externe : Caoutchouc
-- Semelle interne : Cuir
 - Type de fermeture : Lacets
+- Semelle externe : Caoutchouc
+- Matière interne : Cuir
 - Matière externe : Cuir
+- Semelle interne : Cuir
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07D6ZR7W3{{</world>}}

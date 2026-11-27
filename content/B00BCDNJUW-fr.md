@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - matière: bois
 - la peinture, le déco patch, les serviettes, le masking tape, la mosaïque peuvent être utilisés comme le ruban, les boutons, la touche
-- décorer, agrémenter cette boîte à mouchoirs afin quelle soit en harmonie avec votre décoration
 - chouette idée dactivités avec des enfants
+- décorer, agrémenter cette boîte à mouchoirs afin quelle soit en harmonie avec votre décoration
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BCDNJUW{{</world>}}

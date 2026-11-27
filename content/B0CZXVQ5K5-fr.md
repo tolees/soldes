@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Poches avant.
+- 100 % polyester (recyclé).
+- Coupe standard.
 - Taille élastique à cordon de serrage.
 - Taille mi-haute.
-- Coupe standard.
-- 100 % polyester (recyclé).
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CZXVQ5K5{{</world>}}

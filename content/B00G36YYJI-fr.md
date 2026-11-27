@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- doublure de la mentonnière et nuque en Tricot brossé
-- Logo Imprimé par transfert thermique
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - Manchettes élastiquées
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Deux poches principales zippées à rabat
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- finition déperlante DWR
 - doublure de la mentonnière et nuque en Tricot brossé
-- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
-- doublure du corps en maillefilet
-- Cordon de serrage élastique à la capuche et à lourlet
-- Logo Imprimé par transfert thermique
-- Deux poches principales zippées à rabat
-- Cordon de serrage élastique à la capuche et à lourlet
-- finition déperlante DWR
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- doublure de la mentonnière et nuque en Tricot brossé
 - doublure du corps en maillefilet
 - Capuche fixe avec Cordon de serrage unidirectionnel
+- doublure du corps en maillefilet
+- finition déperlante DWR
+- Cordon de serrage élastique à la capuche et à lourlet
+- Deux poches principales zippées à rabat
+- finition déperlante DWR
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Logo Imprimé par transfert thermique
+- Cordon de serrage élastique à la capuche et à lourlet
+- Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - Manchettes élastiquées
+- Logo Imprimé par transfert thermique
+- Deux poches principales zippées à rabat
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00G36YYJI{{</world>}}

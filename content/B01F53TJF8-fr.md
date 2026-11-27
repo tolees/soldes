@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : synthétique
+- Forme du talon : plat
 - Matériau intérieur : textile
 - Fermeture : caoutchouc
-- Forme du talon : plat
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01F53TJF8{{</world>}}

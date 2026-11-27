@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : marron foncé
-- Matériau extérieur : cuir (cuir de vache)
 - Semelle intérieure : semelle EVA amovible avec système damortissement
+- Matériau extérieur : cuir (cuir de vache)
+- Couleur : marron foncé
 - Doublure :
 - Semelle extérieure : semelle extérieure en EVA pour un poids léger
 

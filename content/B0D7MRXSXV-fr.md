@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - L’iPad Pro 12,9 pouces (1ʳᵉ et 2ᵉ générations) et l’iPad Pro 10,5 pouces transfèrent les données aux débits USB 3, tandis que l’iPad Pro 9,7 pouces exploite la norme USB 2.
-- L’Adaptateur pour appareil photo Lightning vers USB 3 prend en charge les formats photo standard, notamment JPEG et RAW, ainsi que les formats vidéo SD et HD, notamment H.264 et MPEG-4.
 - Augmentez les capacités et la polyvalence de l’iPad Pro en branchant l’Adaptateur pour appareil photo Lightning vers USB 3 à un adaptateur secteur USB. Vous pourrez ainsi recharger votre iPad et brancher un périphérique USB (hub, adaptateur Ethernet, interface audio/MIDI ou encore lecteur de cartes SD, microSD, CompactFlash, etc.).
+- L’Adaptateur pour appareil photo Lightning vers USB 3 prend en charge les formats photo standard, notamment JPEG et RAW, ainsi que les formats vidéo SD et HD, notamment H.264 et MPEG-4.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D7MRXSXV{{</world>}}

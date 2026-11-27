@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Grille Pain [Fente longue 2 Toasts/ 1 Tranche baguette] Adventure Acier Inox Fente large 6 Niveaux de Brunissage rapide réglables Surélévation Décongèle & Réchauffe 21396-56'
-date: 2026-11-23 19:19:44
+date: 2026-11-26 09:44:32
 image: 'https://m.media-amazon.com/images/I/41mge1dcC4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon Pikachu et Poké Ball 72152 | Set pour adulte maquette de figurine anime articulée présentoir dynamique déco de chambre idée cadeau gaming 2050 pièces'
-date: 2026-11-25 22:41:02
+date: 2026-11-27 10:36:34
 image: 'https://m.media-amazon.com/images/I/41cGbRLMgaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXGC6YG/?tag=tolees0d-21'
 descuento: '35.00'
-average: '126.97040000000001'
+average: '127.02960784313726'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

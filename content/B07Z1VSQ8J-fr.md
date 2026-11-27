@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coques amovibles : Protections latérales contre les rayonnements lumineux.
 - Total Cover : Protection optimale contre les rayonnements du soleil en conditions extrêmes.
+- Coques amovibles : Protections latérales contre les rayonnements lumineux.
 - Branches galbées : Profil ergonomique pour une bonne tenue des lunettes sur le visage et la tête.
 - Attache cordon : Permet daccrocher un cordon.
 

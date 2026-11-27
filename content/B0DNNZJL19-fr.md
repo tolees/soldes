@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- BOTTES CHELSEA IMPERMÉABLES : Bottes pour hommes avec tige en daim imperméable, semelle cuvette en caoutchouc moulé et design inspiré de l’héritage pour toutes les aventures
 - MATÉRIAUX DURABLES ET ENTRETIEN : Semelle en caoutchouc moulé, détail de trépointe en caoutchouc, isolation renforcée ; Essuyer, sécher à l’air libre
 - COMMENT PORTER EN TOUTE CONFIANCE : Comment : À porter pour la randonnée, les sorties en ville ou les aventures hivernales - look intemporel et adaptabilité polyvalente
+- BOTTES CHELSEA IMPERMÉABLES : Bottes pour hommes avec tige en daim imperméable, semelle cuvette en caoutchouc moulé et design inspiré de l’héritage pour toutes les aventures
 - CONFORT ET AJUSTEMENT TOUT AU LONG DE LA JOURNÉE : Assise plantaire amovible en mousse TPU avec couche supérieure en textile, semelle intérieure rembourrée, support de cheville et panneaux gore faciles à enfiler
 - CONTENU : 1 Bottes Chelsea WP de Sorel Cyprus – imperméables, durables, de style traditionnel, pour hommes, Taille : 43.5 EU, Couleur : Velvet Tan, Gum 10 (Brun)
 

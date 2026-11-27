@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau intérieur : 100% Nylon
 - Type de manche : Sans manche
-- Instructions dentretien : Lavage en machine
 - Composition de matériau : 100% Polyamides
+- Instructions dentretien : Lavage en machine
+- Matériau intérieur : 100% Nylon
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B08WHDNHJF{{</world>}}

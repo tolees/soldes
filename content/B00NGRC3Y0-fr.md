@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Peut être tamponné avec lencre pour tissus
-- 15mm x 5m
 - Peut être découpé avec des ciseaux ou des matrices pour machine de découpe
+- 15mm x 5m
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00NGRC3Y0{{</world>}}

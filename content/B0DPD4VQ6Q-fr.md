@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Coupe classique
 - Ce style a été produit de manière durable
 - Il assure un ajustement optimal
-- Coupe classique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DPD4VQ6Q{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- GROHE Longlife cartouche en céramique 46 mm - GROHE StarLight Chrome éclatant et durable
-- Raccords en S - Rosaces métalliques
 - Bec avec mousseur - Clapet anti-retour intégré
+- Raccords en S - Rosaces métalliques
 - Montage mural apparent - Levier de commande métallique
+- GROHE Longlife cartouche en céramique 46 mm - GROHE StarLight Chrome éclatant et durable
 - Limiteur de débit ajustable - Inverseur automatique pour 2 sorties
 
 [🛒 Achète-le!!]({{< param buyurl >}})

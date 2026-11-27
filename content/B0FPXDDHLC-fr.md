@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Friends La clinique vétérinaire 42696 | Jouet pour enfant 4 ans jeu éducatif 2 mini-poupées chien lapin chats & accessoires cadeau d’anniversaire 141 pièces'
-date: 2026-11-25 22:38:10
+date: 2026-11-27 10:44:21
 image: 'https://m.media-amazon.com/images/I/51-1JWxb8ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXDDHLC/?tag=tolees0d-21'
 descuento: '36.41'
-average: '19.280000000000037'
+average: '19.273000000000035'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

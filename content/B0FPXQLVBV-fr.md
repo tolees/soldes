@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars SMART Play : Faucon Millenium 75426 | SMART Brique non incluse set Compatible 4 Tags 4 Minifigurines idée cadeau pour garçon ou fille dès 9 ans 885 pièces'
-date: 2026-11-25 22:32:02
+date: 2026-11-27 10:37:44
 image: 'https://m.media-amazon.com/images/I/51l6f6u3utL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXQLVBV/?tag=tolees0d-21'
 descuento: '37.00'
-average: '63.923076923076891'
+average: '63.888518518518488'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

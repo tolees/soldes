@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Accessoire de chauffage/pièce de rechange
 - Heimeier
+- Accessoire de chauffage/pièce de rechange
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B006DUJ6LU{{</world>}}

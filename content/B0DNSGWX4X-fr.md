@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tige en mesh renforcé
-- Plaque de carbone pleine longueur
 - Amorti FF BLAST TURBO
+- Plaque de carbone pleine longueur
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DNSGWX4X{{</world>}}

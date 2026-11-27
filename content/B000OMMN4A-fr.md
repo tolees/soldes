@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- 24 couleurs différentes
 - Application douce et soyeuse avec une grande luminosité et une couleur éclatante
 - Entièrement effaçable avec les doigts, une gomme à papier ou un pinceau à pastel
-- 24 couleurs différentes
 - Dans un étui en carton
 - Idéal pour dessiner les moindres détails
 

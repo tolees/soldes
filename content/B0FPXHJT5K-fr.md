@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 Sac fashion avec rangement 31391 | Jeu de construction pour enfant dès 8 ans maquette transformable en valise ou boîte de rangement idée cadeau 272 pièces'
-date: 2026-11-25 22:41:51
+date: 2026-11-27 10:37:27
 image: 'https://m.media-amazon.com/images/I/511++BKBEaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHJT5K/?tag=tolees0d-21'
 descuento: '34.04'
-average: '19.792448979591924'
+average: '19.792200000000086'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

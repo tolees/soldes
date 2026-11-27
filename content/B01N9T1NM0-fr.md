@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pour ouvrir des cartons, rainurer du carton épais et retirer les couvercles de boîtes.
-- avec verrouillage automatique de la lame (coulisse)
 - Poignée en élastomère avec une fonction unique de tournevis.
+- avec verrouillage automatique de la lame (coulisse)
+- Pour ouvrir des cartons, rainurer du carton épais et retirer les couvercles de boîtes.
 - DRIVER Cutter avec curseur et aileron
 - Guide de lame trempé
 

@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau inerte pour éviter les résonances
-- Audio Tuning
 - Dent pour létiquette mise en œuvre.
+- Audio Tuning
 - Évaluation optique.
 - Convient pour les platines Debut et 1Xpression.
 

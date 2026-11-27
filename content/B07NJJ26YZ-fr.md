@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Antirouille et résistant à la corrosion
 - Compatible avec tous les véhicules ayant la bonne taille en pouces
+- Antirouille et résistant à la corrosion
 - Matériau : ABS
 - Installation facile par pression avec une prise maximale par le cerclage métallique
 - Disponible en dimensions : 13, 14, 15, 16

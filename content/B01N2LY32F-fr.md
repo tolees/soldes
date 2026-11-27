@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Logo darchivage et boîte à fenêtre
-- Coupe basse
 - Semelle intérieure moulée confortable
+- Coupe basse
 - Dessus en cuir souple
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

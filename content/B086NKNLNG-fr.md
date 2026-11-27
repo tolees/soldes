@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Verre incurvé en cristal minéral
-- Bracelet en cuir rouge foncé avec fermeture à boucle
 - Non étanche
+- Bracelet en cuir rouge foncé avec fermeture à boucle
 - Cadran champagne clair avec aiguilles et marqueurs dorés
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

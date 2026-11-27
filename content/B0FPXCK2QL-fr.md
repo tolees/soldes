@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter Le château de Poudlard : l’infirmerie 76463 | Jouet pour fille ou garçon dès 9 ans 7 minifigurines dont Hermione maquette miniature DIY Ron idée cadeau 907 pièces'
-date: 2026-11-25 22:36:55
+date: 2026-11-27 10:40:28
 image: 'https://m.media-amazon.com/images/I/51jtks9ml2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCK2QL/?tag=tolees0d-21'
 descuento: '35.09'
-average: '66.292727272727177'
+average: '66.267857142857039'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

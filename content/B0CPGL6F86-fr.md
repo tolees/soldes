@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Poignets réglables
 - Se range dans la poche.
-- Poches zippées sur la poitrine et les mains
 - Ourlet réglable avec cordon de serrage
 - Capuche fixe réglable
+- Poches zippées sur la poitrine et les mains
+- Poignets réglables
 - Capuche réglable avec cordon de serrage
 - Omni-Tech imperméable et respirant avec coutures scellées
 

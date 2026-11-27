@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Patins antiglisse
 - Léger et pratique
-- 2 parties croisées
 - Stable et facile à installer
+- Patins antiglisse
+- 2 parties croisées
 - Se range à plat
 
 [🛒 Achète-le!!]({{< param buyurl >}})

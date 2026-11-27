@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Chaussant standard
 - Fermeture à lacets
-- Semelle cupsole en caoutchouc
+- Chaussant standard
 - Doublure synthétique
+- Semelle cupsole en caoutchouc
 - Tige en matière synthétique
 
 [🛒 Achète-le!!]({{< param buyurl >}})

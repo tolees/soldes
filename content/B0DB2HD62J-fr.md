@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sirona G i-Size Plus/Moon Black-black PU1
-- Sirona G i-Size Plus/Moon noir-noir PU1
 - Elément de protection
+- Sirona G i-Size Plus/Moon noir-noir PU1
 - Siège auto pour bébé
 - Sécurité et confort pour les plus petits
 

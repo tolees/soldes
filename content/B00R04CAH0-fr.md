@@ -28,15 +28,15 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Set petit-déjeuner assorti
-- <b> Garantie </b>: 2 an(s)
+- 1000 W
+- Poids du produit :2.13 kilogrammes
+- Réservoir de 1,2 L
 - Système anti-gouttes
 - <b> Dimensions </b>: 26,8 x 23,8 x 35,8 cm
 - Aroma Swirl
-- 1000 W
-- Réservoir de 1,2 L
+- Set petit-déjeuner assorti
 - Couleur : Noir
-- Poids du produit :2.13 kilogrammes
+- <b> Garantie </b>: 2 an(s)
 - Arrêt automatique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

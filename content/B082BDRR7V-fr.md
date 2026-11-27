@@ -28,15 +28,15 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confort : en cas de déclenchement, pas besoin descabeau, vous pouvez également arrêter la sirène via lapplication
+- Livré avec 2 piles alcaline, vis et chevilles
+- Installation facile : vous êtes guidé pas à pas avec lapplication Somfy Protect
+- Sirène de 85 dB avec une portée de 3m
+- Non compatible avec les alarmes Protexiom, Myfox Home Control, Evology, Domotag et la box domotique TaHoma
 - Rappels mensuels pour effectuer vos tests de maintenance et alertes sur piles faibles
+- Confort : en cas de déclenchement, pas besoin descabeau, vous pouvez également arrêter la sirène via lapplication
 - Avec sa sirène de 85dB, il vous avertit par un signal sonore en cas de détection de fumée
 - Type de détection : détecteur de fumée optique
-- Livré avec 2 piles alcaline, vis et chevilles
-- Non compatible avec les alarmes Protexiom, Myfox Home Control, Evology, Domotag et la box domotique TaHoma
 - Connecté à votre système de sécurité Somfy Home Alarm, Myfox Home Alarm ou Somfy One(+) (non fournis), il vous alerte sur votre smartphone par une notification en cas de détection de fumée
-- Sirène de 85 dB avec une portée de 3m
-- Installation facile : vous êtes guidé pas à pas avec lapplication Somfy Protect
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B082BDRR7V{{</world>}}

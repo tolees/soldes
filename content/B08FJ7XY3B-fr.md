@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Gchettes arrière assignables, fonctionnalité turbo, et plus
 - Poignée, boutons, gchettes, sticks analogiques et d-pad (croix directionnelle) plus larges
-- Sous licence officielle Nintendo
+- Gchettes arrière assignables, fonctionnalité turbo, et plus
 - Expérience dune manette grandeur nature en mode portable
+- Sous licence officielle Nintendo
 - Design couleur noir unie
 
 [🛒 Achète-le!!]({{< param buyurl >}})

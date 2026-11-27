@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : Clair
 - Durable
 - Un champ de vision exceptionnel à 180°
+- Couleur : Clair
 - Bollé
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

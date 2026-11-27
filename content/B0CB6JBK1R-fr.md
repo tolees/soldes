@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Une excellente idée de cadeau pour les fans de super-héros et les enfants à partir de 3 ans.
-- La cabine avant se détache : les enfants peuvent jouer avec elle séparément. Relevez le casque pour découvrir une figurine Tony Stark non amovible dans le siège conducteur.
-- Il peut contenir jusqu’à 10 véhicules Hot Wheels RacerVerse ou voitures Hot Wheels à l’échelle 1/64. (Autres véhicules vendus séparément.)
 - Les enfants et les fans d’Iron Man apprécieront les graphismes Tony Stark.
+- Il peut contenir jusqu’à 10 véhicules Hot Wheels RacerVerse ou voitures Hot Wheels à l’échelle 1/64. (Autres véhicules vendus séparément.)
 - Rangez et transportez les véhicules Hot Wheels RacerVerse dans le Camion Hulkbuster Marvel !
+- La cabine avant se détache : les enfants peuvent jouer avec elle séparément. Relevez le casque pour découvrir une figurine Tony Stark non amovible dans le siège conducteur.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB6JBK1R{{</world>}}

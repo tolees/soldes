@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Logo de la marque
 - Bout rond
+- Logo de la marque
 - Fermeture à lacets
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

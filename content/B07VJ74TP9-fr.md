@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Légères
 - Système damortissement
 - Durabilité :
-- Légères
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07VJ74TP9{{</world>}}

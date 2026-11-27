@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maquillage : Fond de Teint.
-- Texture : Fluide.
 - Genre : Femme.
+- Texture : Fluide.
+- Maquillage : Fond de Teint.
 - Contenance : 30 ml.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

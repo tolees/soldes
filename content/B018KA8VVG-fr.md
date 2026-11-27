@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Tasse en acier inoxydable de marque allemande pour lextérieur Tatonka avec une capacité de 0,6 l
-- Facile dentretien : la tasse de camping passe au lave-vaisselle et est particulièrement facile à nettoyer à la main
 - Nettoyage : avec échelle de volume dans la tasse
+- Facile dentretien : la tasse de camping passe au lave-vaisselle et est particulièrement facile à nettoyer à la main
 - Sûr : de qualité alimentaire, résistant aux acides de fruits et sans substances nocives
 - Pratique : avec poignée pour plier et sortir
 

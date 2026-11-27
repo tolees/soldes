@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Pokémon SMART Play : Le concert de Rondoudou 72159 | SMART Brique non incluse set Compatible 1 Tag 1 Figurine de Pokémon cadeau pour garçon ou fille dès 7 ans 88 pièces'
-date: 2026-11-25 22:33:50
+date: 2026-11-27 10:38:56
 image: 'https://m.media-amazon.com/images/I/51s9LRLSS+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

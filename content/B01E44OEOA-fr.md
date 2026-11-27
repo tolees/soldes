@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Elimine les traces de doigts.
-- Nettoie, dépoussière et protège les écrans tactiles.
-- included_components: 1 spray 200ml
 - Spray 200ml
+- included_components: 1 spray 200ml
+- Nettoie, dépoussière et protège les écrans tactiles.
+- Elimine les traces de doigts.
 - Efficacité garantie, à utiliser avec une lingette microfibre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

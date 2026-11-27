@@ -28,12 +28,12 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Double protection : l’ABSORPTION INSTANTANÉE et les MATIÈRES ULTRA-DOUCES protègent la peau
 - Avec une découpe spéciale cordon ombilical
-- Testée et certifiée Standard 100 par OEKO-TEX
-- Poche Stop & Protect unique aide à capturer les fuites à l’arrière de la couche
 - À utiliser avec les lingettes pour bébé Pampers
+- Double protection : l’ABSORPTION INSTANTANÉE et les MATIÈRES ULTRA-DOUCES protègent la peau
 - Approuvée par les dermatologues de la Skin Health Alliance
+- Poche Stop & Protect unique aide à capturer les fuites à l’arrière de la couche
+- Testée et certifiée Standard 100 par OEKO-TEX
 - La couche Pampers N°1 pour la peau sensible des bébés
 - Une peau protégée : Les couches Pampers les plus douces et confortables avec des MILLIONS DE MICRO-ALVÉOLES pour éloigner les selles molles de la peau
 

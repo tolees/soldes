@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- LINING MATERIAL: 100% polyester
 - INSOCK MATERIAL: 100% polyester
 - EVA strobble board
 - UPPER MATERIAL: 100% leather
-- LINING MATERIAL: 100% polyester
 - OUTSOLE MATERIAL: 100% rubber
 
 [🛒 Achète-le!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Conception ergonomique et compacte
 - Haute réactivité et contrôle précis de la souris
+- Conception ergonomique et compacte
 - Connectez-vous rapidement et facilement grâce au pop-up Easy Pairing
 
 [🛒 Achète-le!!]({{< param buyurl >}})

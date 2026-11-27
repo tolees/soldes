@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Le van LEGO 60500 | Camion jouet pour enfant dès 6 ans maquette avec 2 minifigurines accessoires chariot cadeau d’anniversaire 276 pièces'
-date: 2026-11-25 22:41:37
+date: 2026-11-27 10:37:15
 image: 'https://m.media-amazon.com/images/I/51BX+nY2E9L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXHJ3C2/?tag=tolees0d-21'
 descuento: '49.98'
-average: '19.158437500000101'
+average: '19.094461538461641'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

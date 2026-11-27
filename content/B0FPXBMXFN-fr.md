@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le croiseur d’assaut de classe Venator 75441 | Set collector pour adulte maquette du vaisseau de la République décoration pour chambre ou salon idée cadeau 643 pièces'
-date: 2026-11-25 22:34:15
+date: 2026-11-27 10:40:20
 image: 'https://m.media-amazon.com/images/I/41k0sIDeezL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXBMXFN/?tag=tolees0d-21'
 descuento: '35.65'
-average: '51.365140845070478'
+average: '51.366597222222275'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

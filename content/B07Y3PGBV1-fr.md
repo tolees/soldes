@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Sport
 - Department: Homme
 - Matériel: Coton
 - Haute qualité
-- Sport
 - Training
 
 [🛒 Achète-le!!]({{< param buyurl >}})

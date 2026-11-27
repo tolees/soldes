@@ -28,26 +28,26 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- finition déperlante DWR
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
+- Deux poches principales zippées à rabat
+- doublure du corps en maillefilet
+- Capuche fixe avec Cordon de serrage unidirectionnel
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - doublure de la mentonnière et nuque en Tricot brossé
+- finition déperlante DWR
+- finition déperlante DWR
+- Logo Imprimé par transfert thermique
 - Deux poches principales zippées à rabat
 - Logo Imprimé par transfert thermique
-- finition déperlante DWR
-- Logo Imprimé par transfert thermique
+- Capuche fixe avec Cordon de serrage unidirectionnel
 - doublure du corps en maillefilet
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
-- Capuche fixe avec Cordon de serrage unidirectionnel
+- Cordon de serrage élastique à la capuche et à lourlet
 - Manchettes élastiquées
-- Deux poches principales zippées à rabat
-- Capuche fixe avec Cordon de serrage unidirectionnel
-- Manchettes élastiquées
-- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
 - Fermeture zippée sur lavant avec glissière inversée et finition résistante à leau
 - Cordon de serrage élastique à la capuche et à lourlet
-- Cordon de serrage élastique à la capuche et à lourlet
 - doublure de la mentonnière et nuque en Tricot brossé
-- doublure du corps en maillefilet
+- Tissu DryVent2 épaisseurs imperméable, respirant et à coutures scellées
+- Manchettes élastiquées
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00RUYP28O{{</world>}}

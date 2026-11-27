@@ -29,9 +29,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Jean slim fit
+- Braguette à
 - Taille basse
 - Composition : 98 % coton, 2 % élasthanne
-- Braguette à
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B094RD5XK8{{</world>}}

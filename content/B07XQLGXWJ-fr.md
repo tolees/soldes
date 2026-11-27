@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- avec bouchon à vis confortable
 - profondeur dinstallation minimum 10 mm
-- trappe transparente, silencieuse
-- en plastique
+- avec bouchon à vis confortable
 - avec joint (TPR) 360° et fermeture magnétique
+- en plastique
+- trappe transparente, silencieuse
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07XQLGXWJ{{</world>}}

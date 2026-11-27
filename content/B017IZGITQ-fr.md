@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- varioInduktion Plus passt die Kochzonen an Kochgeschirr bis zu 30 cm Durchmesser an ? für mehr Flexibilität
-- powerMove Plus: intuitive Kontrolle dank drei Wärmezonen mit verschiedenen Temperaturen ? bei Kontakt aktiviert
 - Mit dem dual lightSlider lässt sich die Kochstelle einfach und intuitiv bedienen
+- powerMove Plus: intuitive Kontrolle dank drei Wärmezonen mit verschiedenen Temperaturen ? bei Kontakt aktiviert
+- varioInduktion Plus passt die Kochzonen an Kochgeschirr bis zu 30 cm Durchmesser an ? für mehr Flexibilität
 - bratSensor: hält die gewünschte Temperatur der Pfanne nach dem Erhitzen automatisch konstant damit nichts anbrennt
 - Induktionskochfeld mit innovativen Features für mehr Flexibilität beim Kochen
 

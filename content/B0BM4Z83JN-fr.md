@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau intérieur : N/A
-- Fermeture : fermeture éclair
-- Matériau extérieur : cuir
-- Semelle : polyuréthane thermoplastique
 - Forme du talon : pas de talon
+- Matériau extérieur : cuir
+- Fermeture : fermeture éclair
+- Semelle : polyuréthane thermoplastique
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0BM4Z83JN{{</world>}}

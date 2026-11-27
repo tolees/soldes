@@ -28,12 +28,12 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- CLIMAPROOF.
-- Coupe standard.
-- Partie extérieure : 100 % polyester (recyclé). Partie intérieure : 100 % polyester (recyclé).
-- Base à cordon de serrage élastique ajustable.
-- Zip sur toute la longueur, col montant et capuche.
 - Poches zippées pour les mains.
+- Coupe standard.
+- CLIMAPROOF.
+- Zip sur toute la longueur, col montant et capuche.
+- Base à cordon de serrage élastique ajustable.
+- Partie extérieure : 100 % polyester (recyclé). Partie intérieure : 100 % polyester (recyclé).
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0D17QD4ZS{{</world>}}

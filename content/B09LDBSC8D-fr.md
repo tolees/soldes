@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- TradeByteNameZalSS: Mercury IV MID LTH
-- Semelle Vibram
 - Désignation: Herren Mercury IV Mid LTH Trekking- & Wanderschuhe
-- Montage collé
 - CountryIdOrigin: VN
+- TradeByteNameZalSS: Mercury IV MID LTH
+- Montage collé
+- Semelle Vibram
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B09LDBSC8D{{</world>}}

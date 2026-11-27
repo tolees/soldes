@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - __Empeigne :__ empeigne en cuir, nubuck ou mesh (en fonction du coloris)
-- Doublure en mesh pour plus de confort
-- __Empeigne :__ empeigne à plusieurs panneaux
 - Logo sur le quartier en TPR moulé
 - Rembourrage en mousse au niveau de la languette et du col pour plus de confort et de maintien
+- __Empeigne :__ empeigne à plusieurs panneaux
+- Doublure en mesh pour plus de confort
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07SSSLZBM{{</world>}}

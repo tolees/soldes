@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 5
+- Textile homme Blouson - veste textile homme
 - 10
 - Schott
-- Textile homme Blouson - veste textile homme
 - Schott Veste Schott Cyclone2 ref_jaj37957-noir - XL
+- 5
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B005CTTEKQ{{</world>}}

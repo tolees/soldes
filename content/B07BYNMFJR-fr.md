@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Sérums et fluides yeux
-- Marque loreal
 - Produits de beauté
+- Marque loreal
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07BYNMFJR{{</world>}}

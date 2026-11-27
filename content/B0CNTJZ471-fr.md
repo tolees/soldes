@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Choix idéal avec un jean et un blazer
-- Contre-talon marron contrasté
 - Avec des lignes simples
+- Contre-talon marron contrasté
+- Choix idéal avec un jean et un blazer
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CNTJZ471{{</world>}}

@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Type : bateau
 - Référence fabricant : 73488-00
 - Couleur : noir
 - Matériau : synthétique
+- Type : bateau
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07Q3GDH3W{{</world>}}

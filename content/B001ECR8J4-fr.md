@@ -28,47 +28,47 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 x TORQ-SET 6 – 8 – 10 mm
-- 3 x 6 PANS percé 4,0 - 5,0 - 6,0 mm
-- 17 x Embouts 6,35 mm - 75 mm
-- T8 – T10 – T15 – T20 – T25
-- 9 x Fente
-- T8 – T10 – T15 – T20 – T25
-- 3 x Papillon – 2 – 3
-- 9 x TORX
-- 5,5 – 6,0 – 8,0 mm
-- 3 x TORX percé T15 - T20 - T30
-- 3 x TORQ-SET 6 - 8 - 10 mm
-- 1 x Douille adaptateur 6,35
-- 1/4”
 - 4 x ROBERTSON 0 - 1 - 2 - 3
-- 4 x SPANNER 4 - 6 - 8 -10
-- T27 – T30 – T35 – T40
-- 4 x TRI-WING 1 - 2 - 3 - 4
-- 5 x PHILLIPS
-- 1 x Porte-embouts
-- 6,35 magnétique
-- 5 x POZIDRIV
-- 12 x 6 pans percé
-- 9 x TORX percé
-- 2,0 – 2,5 – 3,0 – 4,0 – 5,0 – 6,0 mm
-- 6,5 – 7,0 – 8,0 mm
-- 6,35
-- PH0 – PH1 – PH2 – PH2 – PH3
-- 4 x TRI-WING 1 – 2 – 3 – 4
-- 4 x SPANNER 4 – 6 – 8 – 10
-- 9 x 6 pans
-- 9/64’’ – 5/32’’
-- 1,5 – 2,0 – 2,5 – 3,0 – 4,0 – 5,0 –
-- 6,35 mm – 25 mm
-- PZ0 – PZ1 – PZ2 – PZ2 – PZ3
-- 3,0 – 4,0 – 4,5 – 5,0 – 5,5 – 6,0
-- 79 x Embouts
 - 5/64’’ – 3/31’’ – 7/64’’ – 1/8’’
-- 1 x Porte-douilles
-- T27 – T30 – T35 – T40
-- 3 x XZN M5 – M6 – M8
+- 3 x TORX percé T15 - T20 - T30
+- 6,35 mm – 25 mm
+- 1 x Douille adaptateur 6,35
+- 1 x Porte-embouts
 - 1/4”
+- 3 x XZN M5 – M6 – M8
+- 3 x TORQ-SET 6 - 8 - 10 mm
+- T27 – T30 – T35 – T40
+- 79 x Embouts
+- 9 x TORX
+- 6,35 magnétique
+- 1/4”
+- PH0 – PH1 – PH2 – PH2 – PH3
+- 6,35
+- 9/64’’ – 5/32’’
+- T8 – T10 – T15 – T20 – T25
+- 17 x Embouts 6,35 mm - 75 mm
+- 4 x SPANNER 4 - 6 - 8 -10
+- 3 x TORQ-SET 6 – 8 – 10 mm
+- 6,5 – 7,0 – 8,0 mm
+- 12 x 6 pans percé
+- T27 – T30 – T35 – T40
+- 3,0 – 4,0 – 4,5 – 5,0 – 5,5 – 6,0
+- 3 x 6 PANS percé 4,0 - 5,0 - 6,0 mm
+- 5 x POZIDRIV
+- 9 x Fente
+- 9 x TORX percé
+- 1,5 – 2,0 – 2,5 – 3,0 – 4,0 – 5,0 –
+- 5,5 – 6,0 – 8,0 mm
+- 9 x 6 pans
+- T8 – T10 – T15 – T20 – T25
+- PZ0 – PZ1 – PZ2 – PZ2 – PZ3
+- 4 x SPANNER 4 – 6 – 8 – 10
+- 2,0 – 2,5 – 3,0 – 4,0 – 5,0 – 6,0 mm
+- 1 x Porte-douilles
+- 5 x PHILLIPS
+- 4 x TRI-WING 1 – 2 – 3 – 4
+- 4 x TRI-WING 1 - 2 - 3 - 4
+- 3 x Papillon – 2 – 3
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001ECR8J4{{</world>}}

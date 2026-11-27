@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Descriptif produit: Très bel agneau beige et gris de 20 cm en position allongée dans une matière peluche toute douce. Existe en 3 couleurs
 - Age minimum : 0 mois
 - Dimensions : 20x11x17 cm
-- Descriptif produit: Très bel agneau beige et gris de 20 cm en position allongée dans une matière peluche toute douce. Existe en 3 couleurs
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B00J8M7J3W{{</world>}}

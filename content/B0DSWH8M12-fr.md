@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Col de chemise
 - Poche poitrine, fermeture à boutons
 - Poignets réglables, fermeture à boutons
 - Fermeture à boutons
 - Empiècement dépaule avec passant
-- Col de chemise
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0DSWH8M12{{</world>}}

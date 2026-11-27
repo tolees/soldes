@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Type de talon : Sans talon
 - Matériau unique : Éthylène-acétate de vinyle
 - Matériau intérieur : Synthétique
 - Type de fermeture : Pas de fermeture
 - Matériau extérieur : Textile
-- Type de talon : Sans talon
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CB1S79RC{{</world>}}

@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Longeur : 145 centimètres
+- Caractéristiques spéciales : Compatible avec cuisinière à gaz
 - Poids : 144 kilograms
-- Compatible avec induction
 - Taille : 10 tasses
+- Longeur : 145 centimètres
 - Passe au lave-vaisselle
 - Hauteur : 225 centimètres
-- Caractéristiques spéciales : Compatible avec cuisinière à gaz
+- Compatible avec induction
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00CWZK7B8{{</world>}}

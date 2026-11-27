@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- [ i ] Housse pour matelas dune épaisseur de 25 cm maximum - Certifié Oeko-Tex – Anti-acariens – Maintien parfait – Rénove matelas
 - [ ANTI PUNAISE DE LIT ] Grâce à sa conception, cette housse forme une barrière naturelle contre les punaises de lit et les acariens
 - [ SANS TRAITEMENT ] Cette housse nutilise aucun traitement chimique, ni substances nocives
 - [ ENTRETIEN FACILE ] Après un lavage en machine à 90°C la housse devient souple et sèche rapidement
+- [ i ] Housse pour matelas dune épaisseur de 25 cm maximum - Certifié Oeko-Tex – Anti-acariens – Maintien parfait – Rénove matelas
 - [ HOUSSE COMPLÈTE IMPERMEABLE ] Enveloppe et protège lintégralité de votre matelas grâce à sa fermeture à glissière sur les côtés
 
 [🛒 Achète-le!!]({{< param buyurl >}})

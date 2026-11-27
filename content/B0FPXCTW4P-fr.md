@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Le speeder de Cobb Vanth 75437 | Jouet pour enfant dès 7 ans minifigurines de Cobb Vanth et Cad Bane pistolets blasters et jetpack idée cadeau 207 pièces'
-date: 2026-11-25 22:37:08
+date: 2026-11-27 10:40:40
 image: 'https://m.media-amazon.com/images/I/51vVUKFp0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXCTW4P/?tag=tolees0d-21'
 descuento: '33.64'
-average: '19.791666666666728'
+average: '19.794186046511687'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

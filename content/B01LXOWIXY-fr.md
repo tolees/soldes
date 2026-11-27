@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe :standart
 - Entretien: machine 30°
-- 100% coton twill
+- Coupe :standart
 - Short army, multipoches, avec ceinture SCHOTT NYC
+- 100% coton twill
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01LXOWIXY{{</world>}}

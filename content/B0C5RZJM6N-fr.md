@@ -28,13 +28,13 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe slim.
-- Zip sur toute la longueur.
-- Poches à boutons-pression le long des coutures latérales.
-- Matelassage : 80 % duvet de canard, 20 % plumes.
 - Matière externe : toile 100 % polyester recyclé.
-- Enduction déperlante sans PFC.
+- Matelassage : 80 % duvet de canard, 20 % plumes.
 - Achetez une taille plus petite
+- Coupe slim.
+- Enduction déperlante sans PFC.
+- Poches à boutons-pression le long des coutures latérales.
+- Zip sur toute la longueur.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0C5RZJM6N{{</world>}}

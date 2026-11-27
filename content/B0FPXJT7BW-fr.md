@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Creator 3-en-1 Animaux sauvages : le colibri coloré 31384 | Jouet oiseau pour enfant dès 8 ans se transforme en figurine de papillon ou poisson décoration idée cadeau 312 pièces'
-date: 2026-11-25 22:31:56
+date: 2026-11-27 10:37:39
 image: 'https://m.media-amazon.com/images/I/51AefjtNEwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXJT7BW/?tag=tolees0d-21'
 descuento: '33.64'
-average: '20.027179487179403'
+average: '20.023999999999916'
 ---
 
 C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:

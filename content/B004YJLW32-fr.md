@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Compatible devices: products:Brother
 - Ruban titreuse laminé
 - Couleur du produit:
+- Compatible devices: products:Brother
 - Couleur noir sur jaune
 - Type de bande : TZe
 

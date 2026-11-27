@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Revêtement en inox
-- Bouton onoff avec voyant lumineux
-- Résistance cachée sur fond plat inox pour une plus grande facilité dentretien et une meilleure résistance au tartre
-- Clapet de protection du bec verseur qui protège de la poussière
 - Bouilloire ultra-compacte avec une capacité de 0,8L
+- Bouton onoff avec voyant lumineux
+- Clapet de protection du bec verseur qui protège de la poussière
+- Résistance cachée sur fond plat inox pour une plus grande facilité dentretien et une meilleure résistance au tartre
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B000J5OUSE{{</world>}}

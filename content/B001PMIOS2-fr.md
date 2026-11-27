@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Bosch Professional perceuse à percussion GSB 16 RE avec mandrin automatique 13 mm butée de profondeur 210 mm poignée auxiliaire coffret de transport'
-date: 2026-03-10 10:54:48
-image: 'https://m.media-amazon.com/images/I/41cQFi+EELL._SL500_._SL400_.jpg'
+title: 'Bosch PRO Perceuse à percussion GSB 16 RE | La plus rapide de sa catégorie GSB 16 RE Perceuse à per. 750W cof.'
+date: 2026-11-26 18:38:07
+image: 'https://m.media-amazon.com/images/I/41TAxDospQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B001PMIOS2-fr Bosch Professional perceuse à percussion GSB 16 RE avec...'
+slug: 'B001PMIOS2-fr Bosch PRO Perceuse à percussion GSB 16 RE | La plus rapide...'
 sku: 'B001PMIOS2-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 111.99 EUR
+actualPrice: 100.2 EUR
 currency: EUR
-price: 111.99
-comparePrice: 148.72 EUR
-prodname: 'Bosch Professional perceuse à percussion GSB 16 RE avec mandrin automatique 13 mm butée de profondeur 210 mm poignée auxiliaire coffret de transport'
+price: 100.2
+comparePrice: 149.44 EUR
+prodname: 'Bosch PRO Perceuse à percussion GSB 16 RE | La plus rapide de sa catégorie GSB 16 RE Perceuse à per. 750W cof.'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001PMIOS2/?tag=tolees0d-21'
-descuento: '24.70'
-average: '111.99'
+descuento: '32.95'
+average: '106.095'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
@@ -28,11 +28,6 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Carter en métal robuste pour une grande longévité
-- La plus rapide de sa catégorie
-- Livré avec : GSB 16 RE, poignée auxiliaire, butée de profondeur 210 mm, mandrin automatique 13 mm, coffret de transport
-- Puissance de 750 W pour une progression de travail rapide
-- Conception compacte pour une maniabilité parfaite
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B001PMIOS2{{</world>}}

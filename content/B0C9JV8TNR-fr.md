@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Boîtier
 - - Verre: Acrylique
 - - Couleur de la Boîte: Or
-- Boîtier
 - - Matérial de la Boîtier: Acier inoxydable
 - - Forme de la Boîtier: Rectangulaire
 

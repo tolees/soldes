@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- PRIME FANLESS PX-500
-- Durable
 - Seasonic
+- Durable
 - Alimentation
+- PRIME FANLESS PX-500
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0869RSK7X{{</world>}}

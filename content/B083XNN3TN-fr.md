@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Pieds en bois massif
 - Dimensions : L40 x P33 x H49cm
-- décor blanc et chêne avec motifs
+- Pieds en bois massif
 - 1 tiroir de rangement
+- décor blanc et chêne avec motifs
 - Composition du lot : 1 table de chevet
 
 [🛒 Achète-le!!]({{< param buyurl >}})

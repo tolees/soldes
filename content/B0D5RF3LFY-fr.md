@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Véganes Certifiées OEKO-TEX STANDARD 100, sans ingrédient dorigine animale et non testées sur les animaux (véganes)
-- Pack familial de 10 paquets de lingettes.
-- Douces pour la peau sensible des bébés et pour lenvironnement
 - Tissu 100% neutre en plastique
+- Douces pour la peau sensible des bébés et pour lenvironnement
+- Pack familial de 10 paquets de lingettes.
 - 0% parfum et parabène
 
 [🛒 Achète-le!!]({{< param buyurl >}})

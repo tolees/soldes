@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Matériau principal : nappa, matériau de doublure : fourrure naturelle/fourrure réelle Matériau de la semelle intérieure : caoutchouc naturel Semelle amovible Insert : oui
-- Panama Jack Bottes de motard pour homme, Castaño / Chestnut
-- Hauteur du talon : 3,00 cm
 - Fabriqué en Espagne
+- Hauteur du talon : 3,00 cm
+- Panama Jack Bottes de motard pour homme, Castaño / Chestnut
+- Matériau principal : nappa, matériau de doublure : fourrure naturelle/fourrure réelle Matériau de la semelle intérieure : caoutchouc naturel Semelle amovible Insert : oui
 - Résistant à leau
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

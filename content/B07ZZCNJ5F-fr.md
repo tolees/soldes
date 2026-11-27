@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Capacité de rangement de 39 l
-- Utilisation en voiture ou à l’intérieur grâce à son système à double tension (12/230 V)
 - Technologie de refroidissement thermoélectrique efficace
-- Élégant caisson extérieur en aluminium
+- Capacité de rangement de 39 l
 - Accueille des bouteilles de 1,5 l en position verticale
-- Compartiment pour câbles dans le couvercle
+- Élégant caisson extérieur en aluminium
 - Poignées latérales rabattables pour un transport facile
+- Compartiment pour câbles dans le couvercle
+- Utilisation en voiture ou à l’intérieur grâce à son système à double tension (12/230 V)
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07ZZCNJ5F{{</world>}}

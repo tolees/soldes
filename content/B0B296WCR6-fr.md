@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Poids du colis de larticle: 0.195 kg
 - Longueur du colis de larticle: 300 mm
-- Hauteur du colis de larticle: 110 mm
 - Largeur du colis de larticle: 205 mm
+- Hauteur du colis de larticle: 110 mm
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0B296WCR6{{</world>}}

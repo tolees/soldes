@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Fermeture: en forme de coeur
 - Longueur: 21cm
-- Matériel : Argent Sterling 925
 - Fermeture: fermeture à billes
+- Matériel : Argent Sterling 925
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0757YK4CF{{</world>}}

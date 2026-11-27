@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets
 - Semelle en caoutchouc avec unité Dynamic Air
+- Fermeture à lacets
 - Tige en matière synthétique recyclée
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

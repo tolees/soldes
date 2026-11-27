@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Deux attaches à fermeture rapide pour un ajustement parfait
 - Le PU souple et réactif assure un excellent retour d’énergie
 - Assise plantaire de forme anatomique revêtue de daim doux
-- Deux attaches à fermeture rapide pour un ajustement parfait
 - Confectionnée en cuir ECCO haut de gamme produit dans nos propres tanneries
 - Sandale monobloc réalisée avec la technologie ECCO FLUIDFORM Direct Comfort, qui offre souplesse et flexibilité
 

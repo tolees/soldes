@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Verre trempé résistant
-- Monture en aluminium ultrafine et usinée avec précision
-- Filtre haute-résolution
 - Etui souple de rangement inclus
+- Filtre haute-résolution
+- Monture en aluminium ultrafine et usinée avec précision
+- Verre trempé résistant
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B07L55RXKT{{</world>}}

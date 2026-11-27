@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- BIO-DRI
 - Mousse à mémoire de forme
 - Lavable en machine
-- BIO-DRI
 - MF refroidi par air
 
 [🛒 Achète-le!!]({{< param buyurl >}})

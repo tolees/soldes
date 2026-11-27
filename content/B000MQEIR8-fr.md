@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Maped - 291010
 - Maped coffret compas Precision System, longueur: 165 mm</li><li>de 3 pièces, avec vis et molette, diamètre maximal du cercle</li><li>300 mm, contenu: compas géométrie, adaptateur universel et</li><li>boîte à mines, livré assorti dans les couleurs bleu, vert et</li><li>lilas - un choix spécial de couleur nest pas possible!</li><li>(291010 3)
+- Maped - 291010
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B000MQEIR8{{</world>}}

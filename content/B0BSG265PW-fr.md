@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 3 agrès : 2 balançoires + 1 face à face
-- Chaînes en plastisol : plus de confort
 - Plus produit : Fabriqué à partir des tubes en métal de nos piscines tubulaires
+- Chaînes en plastisol : plus de confort
 - Âge : 3-10 ans
+- 3 agrès : 2 balançoires + 1 face à face
 - Poids max balançoires : 50 kg
 
 [🛒 Achète-le!!]({{< param buyurl >}})

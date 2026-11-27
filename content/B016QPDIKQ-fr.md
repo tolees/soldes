@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Tente intérieure devant la fenêtre
 - Fait de polyester qui respire et tapis de sol étanche en PE
 - Inclut une maille de ventilation
-- Tente intérieure devant la fenêtre
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B016QPDIKQ{{</world>}}

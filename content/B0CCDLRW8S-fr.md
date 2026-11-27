@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Paxanpax Référence : PLD1747
 - Compatible avec Ariston ALE, AS, ASL ; Hotpoint VTD ; Indesit IS, ISL
-- Pièce compatible avec votre sèche-linge
 - Kit de roulement rivetés pour tambour de sèche-linge
+- Pièce compatible avec votre sèche-linge
+- Paxanpax Référence : PLD1747
 - Référence commerciale équivalente : C00307120
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

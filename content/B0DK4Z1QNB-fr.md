@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Doublure textile
 - Contient au moins 20 % de matériaux recyclés.
-- Semelle Cupsole en caoutchouc
 - Doublure textile
+- Doublure textile
+- Semelle Cupsole en caoutchouc
 - Fermeture à lacets
 - Tige en suède
 - Chaussant standard

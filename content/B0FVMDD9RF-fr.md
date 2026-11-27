@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Coupe décontractée
-- Poches pratiques multiples
-- Coutures renforcées pour plus de durabilité
 - Fermeture par bouton et zip
+- Coupe décontractée
+- Coutures renforcées pour plus de durabilité
 - Taille basse
+- Poches pratiques multiples
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0FVMDD9RF{{</world>}}

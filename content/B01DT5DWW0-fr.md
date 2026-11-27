@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Séchage rapide
 - Résistant aux conditions extérieures
 - Type dajustement: Coupe universelle
-- Séchage rapide
 - Excellent pouvoir couvrant
 - Résistant aux chocs et éraflures
 - Brillance longue durée

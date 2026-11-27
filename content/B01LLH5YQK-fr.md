@@ -29,8 +29,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compra 100% segura
-- 30 Días de devolución
 - Resistente y perdurable
+- 30 Días de devolución
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B01LLH5YQK{{</world>}}

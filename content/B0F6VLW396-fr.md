@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Soft washed canvas upper
-- WHITECAP GRAY
 - Protective rubber toecap
+- WHITECAP GRAY
 - Magnified Diamand shape midsole
+- Soft washed canvas upper
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0F6VLW396{{</world>}}

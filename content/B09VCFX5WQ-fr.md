@@ -28,16 +28,16 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
-- Nettoyage simplifié avec adaptateur tuyau d’arrosage et éléments entièrement démontables
-- Compact et léger pour un confort de prise en main optimal sans effort prolongé
+- Idéal pour projets petits à moyens grâce au viscosimètre fourni et guide de sélection des buses
 - Compatible avec toutes les batteries worx powershare 20v, 40v et 80v max (non incluse)
 - 3 modes de pulvérisation (horizontal, vertical, circulaire) pour s’adapter à chaque projet
 - Parfait pour les bricoleurs exigeants souhaitant un rendu homogène et rapide
-- Moteur brushless puissant pour une meilleure autonomie et une durée de vie 10x supérieure
-- Réglage précis du débit pour peindre meubles, plafonds, clôtures ou portes avec précision
 - 4 buses incluses (1,5 / 1,8 / 2,2 / 2,6 mm) pour peintures variées sauf lasures
-- Idéal pour projets petits à moyens grâce au viscosimètre fourni et guide de sélection des buses
+- Moteur brushless puissant pour une meilleure autonomie et une durée de vie 10x supérieure
+- Garantie 5 ans (2 + 3 offerts) sous réserve d’enregistrement sous 30 jours sur eu.worx.com
+- Nettoyage simplifié avec adaptateur tuyau d’arrosage et éléments entièrement démontables
+- Réglage précis du débit pour peindre meubles, plafonds, clôtures ou portes avec précision
+- Compact et léger pour un confort de prise en main optimal sans effort prolongé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B09VCFX5WQ{{</world>}}

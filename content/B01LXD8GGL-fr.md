@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 100% Coton
-- Fermeture éclair
 - Régulier
 - Lavage en machine
+- Fermeture éclair
+- 100% Coton
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01LXD8GGL{{</world>}}

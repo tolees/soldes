@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Fermeture à lacets.
-- Doublure textile.
-- Tige textile avec bout renforcé.
 - Semelle intermédiaire en EVA.
 - Chaussant standard.
+- Fermeture à lacets.
+- Tige textile avec bout renforcé.
+- Doublure textile.
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0DHW1BFTF{{</world>}}

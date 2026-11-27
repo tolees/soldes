@@ -28,10 +28,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- 2 ans de garantie Invicta.
 - LInvicta 26970 a un boîtier en acier inoxydable de 40 millimètres avec un cadran noir.
 - Résistance à leau de 20 bars.
 - Mouvement électronique à quartz précis.
+- 2 ans de garantie Invicta.
 - Modèle issu de la collection Invicta Pro Diver.
 
 [🛒 Achète-le!!]({{< param buyurl >}})

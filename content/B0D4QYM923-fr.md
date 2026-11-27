@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Coupe unisexe O/s
 - Pochette dhydratation interne avec deux orifices de sortie par-dessus les épaules
-- Design à chargement par panneau
 - La poche de compression extensible sur le devant permet de ranger rapidement des articles supplémentaires
+- Design à chargement par panneau
 - La poche zippée sur le panneau avant avec porte-clés permet de ranger les petits objets à portée de main
 
 [🛒 Achète-le!!]({{< param buyurl >}})

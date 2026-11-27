@@ -28,13 +28,13 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Garantie : 2 ans
-- Kayak gonflable
-- Largeur : 93 cm / 36"
-- Charge Maximale : 180 kg
-- Technologie : PVC Laminé et Dropstitch
 - Longueur : 399 cm / 13"
 - Capacité : 2 personnes
+- Charge Maximale : 180 kg
+- Technologie : PVC Laminé et Dropstitch
+- Kayak gonflable
+- Largeur : 93 cm / 36"
+- Garantie : 2 ans
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0GVP7MFTF{{</world>}}

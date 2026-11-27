@@ -30,8 +30,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Corps acier peint
 - Base tripode composite
-- Accessoires Adaptateur valves Dunlop aiguille pour gonfler les ballons crochet de maintien du flexible
 - Tête compatible valves Presta/Schrader
+- Accessoires Adaptateur valves Dunlop aiguille pour gonfler les ballons crochet de maintien du flexible
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00GPSYIDG{{</world>}}

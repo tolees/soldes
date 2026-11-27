@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Cet objectif est uniquement compatible avec les modèles « EOS R » tels que EOS R100, R50, R10, R6, R7, R8
 - Produit de la marque CANON garantie 2 ans (sauf achat marketplace)
 - Mise au point silencieuse, stabilisateur dimage à 4 vitesses, design compact
+- Cet objectif est uniquement compatible avec les modèles « EOS R » tels que EOS R100, R50, R10, R6, R7, R8
 - Voyages, portraits, vlogs, quotidien, nourriture
 - Voir ci-dessous pour specs & informations complémentaires
 

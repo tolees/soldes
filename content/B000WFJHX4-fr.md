@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur: noir
 - Dimensions de lemballage de larticle: 16.8 x 12.8 x 4.2 Cm
 - Quantité darticles: 1
+- Couleur: noir
 - Fabriqué en Chine
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

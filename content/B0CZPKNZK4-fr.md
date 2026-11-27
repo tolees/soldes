@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Taille haute.
 - 90 % coton, 10 % élasthanne.
+- Taille haute.
 - Coupe près du corps.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

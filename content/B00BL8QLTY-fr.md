@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Grille pain 2 tranches
 - Contrôle électronique
-- Pieds antidérapants
-- Position extra haute
 - Thermostat 6 positions
+- Position extra haute
+- Pieds antidérapants
+- Grille pain 2 tranches
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B00BL8QLTY{{</world>}}

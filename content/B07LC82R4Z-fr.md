@@ -29,8 +29,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Argile minérale au fini mat.
-- Pour de la tenue et une texture longue durée.
 - Frotter dans la paume des mains, travailler sur les cheveux secs pour donner du mouvement, séparer et sculpter.
+- Pour de la tenue et une texture longue durée.
 - Avec un parfum stimulant de bergamote et poivre rose pour une fraîcheur intense.
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

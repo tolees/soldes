@@ -28,11 +28,11 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Semelle intermédiaire EVA pour le confort
 - Semelle en caoutchouc non marquante pour ladhérence
-- Chaussure basse
-- Logo PUMA sur la languette
 - Tige en textile à base de maille
+- Logo PUMA sur la languette
+- Chaussure basse
+- Semelle intermédiaire EVA pour le confort
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B07S6PFJV4{{</world>}}

@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Haute performance
 - Qualité supérieure
+- Haute performance
 - Facile à utiliser
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Couleur : marron foncé
 - Matériau extérieur : 100 % cuir de vache
 - Semelle : 100 % EVA
+- Couleur : marron foncé
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B003LBSEOY{{</world>}}

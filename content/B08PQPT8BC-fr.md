@@ -28,9 +28,9 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Lot de 3
 - Belle matière
 - Confortable
+- Lot de 3
 - Ceinture élastique
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})

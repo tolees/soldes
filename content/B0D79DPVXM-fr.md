@@ -29,9 +29,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Matériau extérieur : 100 % tissu (100 % coton recyclé)
-- Couleur : gris moyen
-- Semelle extérieure : 100 % caoutchouc vulcanisé
 - Doublure : 60 % textile (45 % PET recyclé - 35 % coton recyclé - 20 % viscose), 40 % PET recyclé
+- Semelle extérieure : 100 % caoutchouc vulcanisé
+- Couleur : gris moyen
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0D79DPVXM{{</world>}}

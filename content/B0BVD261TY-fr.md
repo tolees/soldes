@@ -28,9 +28,9 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Centre de gravité bas
 - Spécialement conçu pour le transport de charges et les charges encombrantes
 - Léger et compact pliable
-- Centre de gravité bas
 - Le connecteur Flex permet de retirer le vélo accouplé
 
 [🛒 Achète-le!!]({{< param buyurl >}})

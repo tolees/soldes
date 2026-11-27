@@ -28,8 +28,8 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Nintendo Paire de volants Joy-Con
 - Volants
+- Nintendo Paire de volants Joy-Con
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B01N7RIIR2{{</world>}}

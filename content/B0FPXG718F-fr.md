@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Disney Pixar Le Ranch de Blaze 43304 | Jeu de construction pour garçon ou fille dès 4 ans Woody et Jessie figurines de chevaux & cochon idée cadeau 209 pièces'
-date: 2026-11-02 14:07:33
+date: 2026-11-27 10:35:58
 image: 'https://m.media-amazon.com/images/I/51y757oTDpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FPXG718F-fr LEGO Disney Pixar Le Ranch de Blaze 43304 | Jeu de...'
 sku: 'B0FPXG718F-fr'
 tags: [ '🇫🇷', ]
-actualPrice: 33.48 EUR
+actualPrice: 25.19 EUR
 currency: EUR
-price: 33.48
+price: 25.19
 comparePrice: 49.99 EUR
 prodname: 'LEGO Disney Pixar Le Ranch de Blaze 43304 | Jeu de construction pour garçon ou fille dès 4 ans Woody et Jessie figurines de chevaux & cochon idée cadeau 209 pièces'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0FPXG718F/?tag=tolees0d-21'
-descuento: '33.03'
-average: '33.1247619047617'
+descuento: '49.61'
+average: '33.000781249999797'
 ---
 
 Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:

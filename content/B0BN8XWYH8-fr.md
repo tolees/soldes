@@ -28,10 +28,10 @@ Vous avez [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Confortable
-- Cuir responsable
 - Cuir souple
+- Cuir responsable
 - Poids léger
+- Confortable
 
 [🛒 Achetez-le maintenant!!]({{< param buyurl >}})
 {{<world>}}B0BN8XWYH8{{</world>}}

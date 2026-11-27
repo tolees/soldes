@@ -28,11 +28,11 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
+- Ajustement parfait
 - La doublure textile offre de la souplesse
+- Disponible en cuir haut de gamme ou en nubuck brossé, produits dans nos propres tanneries
 - Semelle intérieure amovible pour une possibilité d’ajustement plus large et davantage d’espace pour les orteils
 - Semelle innovante et souple ECCO FLUIDFORM amortissant les chocs
-- Disponible en cuir haut de gamme ou en nubuck brossé, produits dans nos propres tanneries
-- Ajustement parfait
 - Semelle intérieure en cuir perforé pour une respirabilité accrue
 
 [🛒 Achète-le!!]({{< param buyurl >}})

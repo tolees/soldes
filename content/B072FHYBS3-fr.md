@@ -29,10 +29,10 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 ℹ️:
 
 - Compatible CD/CD-R/CD-RW
-- Enregistre depuis un CD ou la radio
-- Radio stéréo CD / analogique FM
 - Entrée auxiliaire (3.5mm)
+- Enregistre depuis un CD ou la radio
 - Lecteur et enregistreur de cassette
+- Radio stéréo CD / analogique FM
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B072FHYBS3{{</world>}}

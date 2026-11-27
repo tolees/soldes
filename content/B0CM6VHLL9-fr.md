@@ -30,8 +30,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 - Label OEKO-TEX standard 100
 - DOUCEUR : Sans étiquette, ce boxer ne gratte pas et ne gène pas. La poche avant est sans coutures et possède une petite côte horizontale pour s’adapter au volume de chacun.
-- Style sobre et moderne
 - BOXERS CONFORT : 100% confort, ces boxers en microfibre respirante 720° stretch sont ultra extensibles. Une technique unique de tricotage leur confère une extensibilité en tous sens. Ils s’adaptent à toutes morphologie grâce une zone sans coutures à la cuisse,
+- Style sobre et moderne
 
 [🛒 Achète-le!!]({{< param buyurl >}})
 {{<world>}}B0CM6VHLL9{{</world>}}

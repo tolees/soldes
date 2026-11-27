@@ -28,8 +28,8 @@ C'est en vente [{{< param title >}}]({{< param buyurl >}}) ici:
 
 ℹ️:
 
-- Non résistant à leau
 - À la cheville
+- Non résistant à leau
 - Col bas
 
 [🛒 Achète-le!!]({{< param buyurl >}})
